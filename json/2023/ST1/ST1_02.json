@@ -1,0 +1,27 @@
+{
+    "serial": "ST1-002",
+    "img": "images/2023/ST1/ST1_02.png",
+    "type": "cookie",
+    "level": 2,
+    "color": "red",
+    "name": "닌자맛 쿠키",
+    "hp": 2,
+    "hasSkill": true,
+    "skill": {
+        "condition": "appear",
+        "cost": {
+            "red": 1
+        },
+        "effect": {
+            "damage": 1
+        }
+    },
+    "cost": {
+        "red": 2
+    },
+    "damage": 2,
+    "hasFlip": false,
+    "flip": {
+    },
+    "rarity": "C"
+}

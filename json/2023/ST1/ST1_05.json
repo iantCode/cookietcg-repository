@@ -1,0 +1,20 @@
+{
+    "serial": "ST1-005",
+    "img": "images/2023/ST1/ST1_05.png",
+    "type": "cookie",
+    "level": 1,
+    "color": "red",
+    "name": "대파맛 쿠키",
+    "hp": 3,
+    "hasSkill": false,
+    "skill": {
+    },
+    "cost": {
+        "mix": 1
+    },
+    "damage": 1,
+    "hasFlip": false,
+    "flip": {
+    },
+    "rarity": "U"
+}

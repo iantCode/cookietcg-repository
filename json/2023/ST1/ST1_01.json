@@ -1,0 +1,25 @@
+{
+    "serial": "ST1-001",
+    "img": "images/2023/ST1/ST1_01.png",
+    "type": "cookie",
+    "level": 2,
+    "color": "red",
+    "name": "공주맛 쿠키",
+    "hp": 2,
+    "hasSkill": false,
+    "skill": {},
+    "cost": {
+        "red": 2
+    },
+    "damage": 2,
+    "hasFlip": true,
+    "flip": {
+        "condition": {
+            "handTrash": 1
+        },
+        "effect": {
+            "heal": 1
+        }
+    },
+    "rarity": "C"
+}
