@@ -1,28 +1,35 @@
 {
-    "serial": "ST1-002",
-    "img": "images/2023/ST1/ST1_02.png",
-    "type": "cookie",
-    "level": 2,
-    "color": "red",
-    "name": "닌자맛 쿠키",
-    "hp": 2,
-    "hasSkill": true,
-    "skill": {
-        "condition": "appear",
-        "cost": {
-            "red": 1
-        },
-        "effect": {
-            "damage": 1
-        }
-    },
+  "serial": "ST1-002",
+  "img": "images/2023/ST1/ST1_02.png",
+  "type": "cookie",
+  "level": 2,
+  "color": "red",
+  "name": "닌자맛 쿠키",
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "appear"
+    ],
     "cost": {
+      "red": 1
+    },
+    "text": "자신의 브레이크 에리어가 LV.6 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+    "effect": {
+      "damage": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
         "red": 2
-    },
-    "damage": 2,
-    "hasFlip": false,
-    "flip": {
-    },
-    "rarity": "C",
-    "from": "스타터 덱 [썬키스드]"
+      },
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "스타터 덱 [썬키스드]"
 }

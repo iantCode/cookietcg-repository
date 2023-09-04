@@ -9,30 +9,36 @@
 ### Cookie 카드 구조
 ```json
 {
-    "serial": "ST1-001",
-    "img": "images/2023/ST1/ST1_01.png",
-    "type": "cookie",
-    "level": 2,
-    "color": "red",
-    "name": "공주맛 쿠키",
-    "hp": 2,
-    "hasSkill": false,
-    "skill": {},
-    "cost": {
+  "serial": "ST1-001",
+  "img": "images/2023/ST1/ST1_01.png",
+  "type": "cookie",
+  "level": 2,
+  "color": "red",
+  "name": "공주맛 쿠키",
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
         "red": 2
+      },
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+      "handTrash": 1
     },
-    "damage": 2,
-    "hasFlip": true,
-    "flip": {
-        "condition": {
-            "handTrash": 1
-        },
-        "effect": {
-            "heal": 1
-        }
-    },
-    "rarity": "C",
-    "from": "스타터 덱 [썬키스드]"
+    "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "C",
+  "from": "스타터 덱 [썬키스드]"
 }
 ```
 json은 다음과 같이 이루어져 있습니다. 위에서부터 소개하겠습니다.
@@ -46,13 +52,17 @@ json은 다음과 같이 이루어져 있습니다. 위에서부터 소개하겠
 - hp: 이 카드가 cookie인 경우 hp를 나타내고 있습니다.
 - hasSkill: 이 카드가 스킬을 가지고 있는 경우 hasSkill이 true를 가지며 없다면 false를 가집니다.
 - skill: skill이 없다면 빈 객체{}를 가집니다. 그러나, skill이 존재한다면, 안에 몇몇 값들을 추가로 가집니다.
-  - condition: 이 스킬이 발동될 조건을 나타냅니다. 현재 존재 가능한 값은 appear(등장), onceTurn(한 턴에 1번)입니다.
+  - condition: 이 스킬이 발동될 조건을 리스트로 나타냅니다. 현재 존재 가능한 값은 appear(등장), manual(기동), onceTurn(턴1회)입니다.
   - cost: 이 스킬을 사용하는데 필요한 코스트를 나타냅니다. 이때, 각각 색마다 작성합니다. 믹스 색상이 필요한 경우 mix를 작성합니다.
+  - text: 스킬의 텍스트입니다.
   - effect: 이 스킬로 이루어지는 부가효과를 작성합니다. 데미지를 주는 경우, damage: 1로 작성할 수 있습니다.
-- cost: 공격을 하는 데 필요한 코스트입니다. 이때 skill과 마찬가지로 각각 색마다 몇 개가 필요한 지 작성합니다.
-- damage: 공격으로 주는 데미지를 표기합니다.
+- attack: 내부에 공격 데이터를 리스트로 가집니다. (추후에 공격이 2종류 이상 나올 것을 대비했습니다.)
+  - cost: 이 스킬을 사용하는데 필요한 코스트를 나타냅니다. 이때, 각각 색마다 작성합니다. 믹스 색상이 필요한 경우 mix를 작성합니다.
+  - text: 현재 공격의 텍스트입니다.
+  - effect: 이 스킬로 이루어지는 부가효과를 작성합니다. 데미지를 주는 경우, damage: 1로 작성할 수 있습니다.
 - hasFlip: flip 효과가 있는 경우 이 값을 true로 작성합니다.
 - flip: flip이 없다면 빈 객체{}를 가집니다. 만약 flip 효과가 있다면 안에 몇몇 값들을 추가로 가집니다.
   - condition: 이 스킬이 발동될 조건을 나타냅니다. 현재 가질 수 있는 값은 패를 트래시하는 수인 handTrash입니다.
+  - text: flip 효과의 텍스트입니다.
   - effect: 이 스킬로 이루어지는 부가효과를 작성합니다. 회복을 하는 경우 heal: 1으로 작성할 수 있습니다.
 - from: 이 카드가 등장하는 장소를 간단하게 작성한 곳입니다. 덱 빌더를 위해 사용하는 텍스트입니다.
