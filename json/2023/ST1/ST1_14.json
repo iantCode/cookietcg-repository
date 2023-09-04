@@ -1,0 +1,26 @@
+{
+  "serial": "ST1-014",
+  "img": "images/2023/ST1/ST1_14.png",
+  "type": "cookie",
+  "level": 3,
+  "color": "red",
+  "name": "페퍼론치노맛 쿠키",
+  "hp": 6,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 3
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "SR",
+  "from": "스타터 덱 [썬키스드]"
+}

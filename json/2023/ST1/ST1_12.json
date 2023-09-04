@@ -1,0 +1,25 @@
+{
+  "serial": "ST1-012",
+  "img": "images/2023/ST1/ST1_12.png",
+  "type": "cookie",
+  "level": 1,
+  "color": "red",
+  "name": "좀비맛 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 2
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "스타터 덱 [썬키스드]"
+}
