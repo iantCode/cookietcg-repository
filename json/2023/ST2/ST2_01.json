@@ -1,0 +1,34 @@
+{
+  "serial": "ST2-001",
+  "img": "images/2023/ST2/ST2_01.png",
+  "type": "cookie",
+  "level": 3,
+  "color": "yellow",
+  "name": "괴도맛 쿠키",
+  "hp": 6,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "yellow": 1
+    },
+    "text": "상대는 자신의 패를 1장 트래시에 놓는다.",
+    "effect": {
+      "handTrash": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3,
+        "mix": 1
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "스타터 덱 [스파키오]"
+}

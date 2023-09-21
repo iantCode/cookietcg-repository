@@ -1,0 +1,33 @@
+{
+  "serial": "ST2-008",
+  "img": "images/2023/ST2/ST2_08.png",
+  "type": "cookie",
+  "level": 3,
+  "color": "yellow",
+  "name": "에클레어맛 쿠키",
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "yellow": 2
+    },
+    "text": "자신의 브레이크 에리어에 있는 LV.1의 카드를 1장까지 선택한다. 그 카드를 트래시에 놓는다.",
+    "effect": {
+      "toTrash": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 4
+      },
+      "text": "4대미지를 준다.",
+      "damage": 4
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "스타터 덱 [스파키오]"
+}

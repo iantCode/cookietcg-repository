@@ -1,0 +1,32 @@
+{
+  "serial": "ST2-005",
+  "img": "images/2023/ST2/ST2_05.png",
+  "type": "cookie",
+  "level": 2,
+  "color": "yellow",
+  "name": "머스타드맛 쿠키",
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+      "handTrash": 1
+    },
+    "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "C",
+  "from": "스타터 덱 [스파키오]"
+}

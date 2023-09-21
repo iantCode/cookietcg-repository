@@ -1,0 +1,33 @@
+{
+  "serial": "ST2-022",
+  "img": "images/2023/ST2/ST2_22.png",
+  "type": "stage",
+  "level": 0,
+  "color": "yellow",
+  "name": "시간 효율 관리부",
+  "hp": 0,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual"],
+    "cost": {
+      "yellow": 1
+    },
+    "text": "《이 카드를 레스트한다》 《자신의 브레이크 에리어에 있는 Yellow LV.1의 카드를 1장 패로 되돌린다.》 자신의 배틀 에리어에 있는 쿠키를 1장 브레이크 에리어에 놓는다.",
+    "effect": {
+      "breakAreaEdit": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": "스테이지 에리어에 내려놓는다.",
+      "damage": 0
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [스파키오]"
+}

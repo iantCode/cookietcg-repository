@@ -1,0 +1,24 @@
+{
+  "serial": "ST2-002",
+  "img": "images/2023/ST2/ST2_02.png",
+  "type": "cookie",
+  "level": 1,
+  "color": "yellow",
+  "name": "딸기맛 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "mix": 2
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "스타터 덱 [스파키오]"
+}

@@ -1,0 +1,25 @@
+{
+  "serial": "ST2-003",
+  "img": "images/2023/ST2/ST2_03.png",
+  "type": "cookie",
+  "level": 3,
+  "color": "yellow",
+  "name": "마법사맛 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2,
+        "mix": 1
+      },
+      "text": "3대미지를 준다. 그리고 자신의 브레이크 에리어에 있는 LV.1의 카드를 1장까지 선택한다. 그 카드를 트래시에 놓는다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "스타터 덱 [스파키오]"
+}

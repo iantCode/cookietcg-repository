@@ -1,0 +1,24 @@
+{
+  "serial": "ST2-017",
+  "img": "images/2023/ST2/ST2_17.png",
+  "type": "item",
+  "level": 0,
+  "color": "yellow",
+  "name": "리버스 타이머",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": "이 턴 중 상대의 쿠키가 기절했다면 자신의 브레이크 에리어에 있는 LV.1의 카드를 1장까지 선택한다. 그 카드를 트래시에 놓는다.",
+      "damage": 0
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [스파키오]"
+}
