@@ -7,8 +7,7 @@
   "name": "좀비맛 쿠키",
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {

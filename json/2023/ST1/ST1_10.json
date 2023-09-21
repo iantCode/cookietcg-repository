@@ -8,9 +8,7 @@
   "hp": 1,
   "hasSkill": true,
   "skill": {
-    "condition": [
-      "manual"
-    ],
+    "condition": ["manual"],
     "cost": {
       "red": 3
     },

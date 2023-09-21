@@ -8,9 +8,7 @@
   "hp": 2,
   "hasSkill": true,
   "skill": {
-    "condition": [
-      "appear"
-    ],
+    "condition": ["appear"],
     "cost": {
       "red": 1
     },

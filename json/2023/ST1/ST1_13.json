@@ -7,8 +7,7 @@
   "name": "탐험가맛 쿠키",
   "hp": 1,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -20,8 +19,7 @@
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": "덱에서 1장 뽑을 수 있다.",
     "effect": {
       "draw": 1

@@ -1,0 +1,26 @@
+{
+  "serial": "ST1-016",
+  "img": "images/2023/ST1/ST1_16.png",
+  "type": "item",
+  "level": 0,
+  "color": "red",
+  "name": "끈끈이 젤리",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "U",
+  "from": "스타터 덱 [썬키스드]"
+}

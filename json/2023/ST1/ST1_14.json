@@ -7,8 +7,7 @@
   "name": "페퍼론치노맛 쿠키",
   "hp": 6,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -19,8 +18,7 @@
     }
   ],
   "hasFlip": false,
-  "flip": {
-  },
+  "flip": {},
   "rarity": "SR",
   "from": "스타터 덱 [썬키스드]"
 }

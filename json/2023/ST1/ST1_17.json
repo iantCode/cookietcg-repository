@@ -1,0 +1,24 @@
+{
+  "serial": "ST1-017",
+  "img": "images/2023/ST1/ST1_17.png",
+  "type": "item",
+  "level": 0,
+  "color": "red",
+  "name": "비장의 케이크 나이프",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": "자신의 LV.2 이상이고 남은 HP가 1인 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +2한다.",
+      "damageIncrease": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [썬키스드]"
+}

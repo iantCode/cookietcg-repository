@@ -7,8 +7,7 @@
   "name": "용감한 쿠키",
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
