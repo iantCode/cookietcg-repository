@@ -1,0 +1,25 @@
+{
+  "serial": "ST3-021",
+  "img": "images/2023/ST3/ST3_21.png",
+  "type": "trap",
+  "level": 0,
+  "color": "green",
+  "name": "풀피리의 부름",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 1
+      },
+      "text": "이 배틀 중 자신의 Green 쿠키가 기절한다면 자시느이 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다.",
+      "damage": 0
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [테라바움]",
+  "releaseDate": "2023-09-01"
+}

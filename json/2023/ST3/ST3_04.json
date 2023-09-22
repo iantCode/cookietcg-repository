@@ -1,0 +1,37 @@
+{
+  "serial": "ST3-004",
+  "img": "images/2023/ST3/ST3_04.png",
+  "type": "cookie",
+  "level": 3,
+  "color": "green",
+  "name": "뱀파이어맛 쿠키",
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "green": 3,
+      "mix": 1
+    },
+    "text": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 이 쿠키의 HP를 +1한다.",
+    "effect": {
+      "damage": 2,
+      "heal": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2,
+        "mix": 1
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [테라바움]",
+  "releaseDate": "2023-09-01"
+}

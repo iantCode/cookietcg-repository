@@ -1,0 +1,25 @@
+{
+  "serial": "ST3-006",
+  "img": "images/2023/ST3/ST3_06.png",
+  "type": "cookie",
+  "level": 2,
+  "color": "green",
+  "name": "비트맛 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "mix": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [테라바움]",
+  "releaseDate": "2023-09-01"
+}

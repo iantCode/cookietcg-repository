@@ -1,0 +1,32 @@
+{
+  "serial": "ST3-002",
+  "img": "images/2023/ST3/ST3_02.png",
+  "type": "cookie",
+  "level": 3,
+  "color": "green",
+  "name": "딸기크레페맛 쿠키",
+  "hp": 6,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual", "onceTurn"],
+    "cost": {},
+    "text": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키들에게 1대미지를 준다.",
+    "effect": {
+      "damage": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 4
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "스타터 덱 [테라바움]",
+  "releaseDate": "2023-09-01"
+}

@@ -1,0 +1,35 @@
+{
+  "serial": "ST3-001",
+  "img": "images/2023/ST3/ST3_01.png",
+  "type": "cookie",
+  "level": 2,
+  "color": "green",
+  "name": "근육맛 쿠키",
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual", "onceTurn"],
+    "cost": {
+      "green": 2
+    },
+    "text": "이 쿠키의 HP를 +1한다.",
+    "effect": {
+      "heal": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1,
+        "mix": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "스타터 덱 [테라바움]",
+  "releaseDate": "2023-09-01"
+}

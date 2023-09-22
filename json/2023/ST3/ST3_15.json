@@ -1,0 +1,32 @@
+{
+  "serial": "ST3-015",
+  "img": "images/2023/ST3/ST3_15.png",
+  "type": "cookie",
+  "level": 3,
+  "color": "green",
+  "name": "칠리맛 쿠키",
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual", "onceTurn"],
+    "cost": {},
+    "text": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 이 턴 중 이 쿠키의 공격 대미지를 +1한다.",
+    "effect": {
+      "damageIncrease": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [테라바움]",
+  "releaseDate": "2023-09-01"
+}

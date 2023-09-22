@@ -1,0 +1,25 @@
+{
+  "serial": "ST3-017",
+  "img": "images/2023/ST3/ST3_17.png",
+  "type": "item",
+  "level": 0,
+  "color": "green",
+  "name": "머랭 가시 덩쿨",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": "상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다. 그리고 자신의 서포트 에리어에서 1장 트래시에 놓는다.",
+      "damage": 0
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [테라바움]",
+  "releaseDate": "2023-09-01"
+}
