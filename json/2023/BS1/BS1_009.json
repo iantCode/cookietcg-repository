@@ -1,0 +1,35 @@
+{
+  "serial": "BS1-009",
+  "img": "images/2023/BS1/BS1_009.png",
+  "type": "cookie",
+  "level": 1,
+  "color": "red",
+  "name": "아포가토맛 쿠키",
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["blocker"],
+    "cost": {
+      "red": 1
+    },
+    "text": "상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.",
+    "effect": {
+      "redirection": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1,
+        "mix": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}
