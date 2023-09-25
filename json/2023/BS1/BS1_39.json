@@ -1,0 +1,25 @@
+{
+  "serial": "BS1-037",
+  "img": "images/2023/BS1/BS1_39.png",
+  "type": "cookie",
+  "level": 2,
+  "color": "yellow",
+  "name": "아몬드맛 쿠키",
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": "1대미지를 준다. 그리고 상대의 쿠키를 2장까지 선택한다. 상대의 다음 턴 중 그 쿠키들의 공격 대미지를 -1한다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}
