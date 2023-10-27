@@ -10,3 +10,4 @@ scraper.py
 tsconfig.json
 src
 db
+Pipfile
