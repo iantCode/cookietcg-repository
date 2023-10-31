@@ -3,7 +3,7 @@
   "img": "images/2023/ST1/ST1_18.png",
   "type": "item",
   "level": 0,
-  "color": "red",
+  "color": ["red"],
   "name": "슈거범벅 달팽이 캔디",
   "hp": 0,
   "hasSkill": false,

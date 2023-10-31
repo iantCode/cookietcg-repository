@@ -3,7 +3,7 @@
   "img": "images/2023/ST1/ST1_16.png",
   "type": "item",
   "level": 0,
-  "color": "red",
+  "color": ["red"],
   "name": "끈끈이 젤리",
   "hp": 0,
   "hasSkill": false,

@@ -3,7 +3,7 @@
   "img": "images/2023/ST1/ST1_09.png",
   "type": "cookie",
   "level": 3,
-  "color": "red",
+  "color": ["red"],
   "name": "에스프레소맛 쿠키",
   "hp": 5,
   "hasSkill": true,

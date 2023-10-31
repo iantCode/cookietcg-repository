@@ -3,7 +3,7 @@
   "img": "images/2023/ST1/ST1_12.png",
   "type": "cookie",
   "level": 1,
-  "color": "red",
+  "color": ["red"],
   "name": "좀비맛 쿠키",
   "hp": 3,
   "hasSkill": false,

@@ -3,7 +3,7 @@
   "img": "images/2023/ST1/ST1_22.png",
   "type": "stage",
   "level": 0,
-  "color": "red",
+  "color": ["red"],
   "name": "이글이글 젤리 화산",
   "hp": 0,
   "hasSkill": true,

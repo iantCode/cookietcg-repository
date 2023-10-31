@@ -3,7 +3,7 @@
   "img": "images/2023/ST1/ST1_19.png",
   "type": "item",
   "level": 0,
-  "color": "red",
+  "color": ["red"],
   "name": "화끈한 젤리 덩어리",
   "hp": 0,
   "hasSkill": false,

@@ -3,7 +3,7 @@
   "img": "images/2023/ST1/ST1_14.png",
   "type": "cookie",
   "level": 3,
-  "color": "red",
+  "color": ["red"],
   "name": "페퍼론치노맛 쿠키",
   "hp": 6,
   "hasSkill": false,
