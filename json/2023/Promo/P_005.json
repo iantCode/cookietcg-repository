@@ -1,0 +1,34 @@
+{
+  "serial": "P-005",
+  "img": "images/2023/Promo/P_005.png",
+  "type": "cookie",
+  "level": 3,
+  "color": ["yellow"],
+  "name": "딸기맛 쿠키",
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "yellow": 1
+    },
+    "text": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 HP에 있는 FLIP을 발동할 수 없다.",
+    "effect": {
+      "noFlip": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드",
+  "releaseDate": "2023-09-01"
+}

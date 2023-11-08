@@ -1,24 +1,24 @@
 {
-  "serial": "P-001",
-  "img": "images/2023/Promo/P_001.png",
+  "serial": "P-007",
+  "img": "images/2023/Promo/P_007.png",
   "type": "cookie",
-  "level": 1,
+  "level": 2,
   "color": ["red"],
-  "name": "명랑한 쿠키",
-  "hp": 3,
+  "name": "밤톨맛 쿠키",
+  "hp": 1,
   "hasSkill": true,
   "skill": {
-    "condition": ["myTurn"],
+    "condition": ["appear"],
     "cost": {},
-    "text": "자신의 패가 3장 이하라면 이 쿠키의 공격 대미지를 +1한다",
+    "text": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
     "effect": {
-      "damageIncrease": 1
+      "damage": 1
     }
   },
   "attack": [
     {
       "cost": {
-        "red": 2
+        "red": 1
       },
       "text": "1대미지를 준다.",
       "damage": 1

@@ -1,0 +1,26 @@
+{
+  "serial": "P-008",
+  "img": "images/2023/Promo/P_008.png",
+  "type": "item",
+  "level": 0,
+  "color": ["red"],
+  "name": "마카롱 해머",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": "상대의 HP4 이상의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드",
+  "releaseDate": "2023-09-01"
+}

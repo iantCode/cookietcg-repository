@@ -1,0 +1,26 @@
+{
+  "serial": "P-012",
+  "img": "images/2023/Promo/P_012.png",
+  "type": "item",
+  "level": 0,
+  "color": ["green"],
+  "name": "장난꾸러기 무당벌레",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 카드를 자신의 서포트 에리어에 레스트로 놓는다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드",
+  "releaseDate": "2023-09-01"
+}

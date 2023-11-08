@@ -3,7 +3,7 @@
   "img": "images/2023/Promo/P_003.png",
   "type": "cookie",
   "level": 1,
-  "color": "green",
+  "color": ["green"],
   "name": "명랑한 쿠키",
   "hp": 3,
   "hasSkill": true,
