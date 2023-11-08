@@ -1,0 +1,33 @@
+{
+  "serial": "BS1-054",
+  "img": "images/2023/BS1/BS1_54.png",
+  "type": "cookie",
+  "level": 3,
+  "color": ["green"],
+  "name": "난초맛 쿠키",
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["myTurn", "appear"],
+    "cost": {
+    },
+    "text": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키 모두에게 1대미지를 준다.",
+    "effect": {
+      "damage": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 4
+      },
+      "text": "4대미지를 준다.",
+      "damage": 4
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

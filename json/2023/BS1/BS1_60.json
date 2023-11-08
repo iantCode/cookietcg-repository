@@ -1,0 +1,27 @@
+{
+  "serial": "BS1-060",
+  "img": "images/2023/BS1/BS1_60.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["green"],
+  "name": "버터베어맛 쿠키",
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 3
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

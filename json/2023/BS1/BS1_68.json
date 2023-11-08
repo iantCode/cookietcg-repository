@@ -1,0 +1,34 @@
+{
+  "serial": "BS1-068",
+  "img": "images/2023/BS1/BS1_68.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["green"],
+  "name": "콜리플라워맛 쿠키",
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+    },
+    "text": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 덱에서 1장 뽑는다.",
+    "effect": {
+      "draw": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1,
+        "mix": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

@@ -1,0 +1,25 @@
+{
+  "serial": "BS1-076",
+  "img": "images/2023/BS1/BS1_76.png",
+  "type": "trap",
+  "level": 0,
+  "color": ["green"],
+  "name": "깜짝 쐐기풀",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 1
+      },
+      "text": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 자신의 서포트 에리어에서 1장 트래시에 놓는다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

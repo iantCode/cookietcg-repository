@@ -1,0 +1,34 @@
+{
+  "serial": "BS1-063",
+  "img": "images/2023/BS1/BS1_63.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["green"],
+  "name": "예언자맛 쿠키",
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+    },
+    "text": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 자신의 덱 위에서부터 1장 서포트 에리어에 액티브로 놓는다.",
+    "effect": {
+      "addSupport": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1,
+        "mix": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

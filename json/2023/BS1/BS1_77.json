@@ -1,0 +1,25 @@
+{
+  "serial": "BS1-077",
+  "img": "images/2023/BS1/BS1_77.png",
+  "type": "trap",
+  "level": 0,
+  "color": ["green"],
+  "name": "잼파이 구급상자",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -3한다. 그리고 자신의 서포트 에리어의 카드를 1장까지 액티브로 한다.",
+      "damageDecrease": -3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

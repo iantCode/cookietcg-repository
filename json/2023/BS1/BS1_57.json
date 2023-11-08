@@ -1,0 +1,27 @@
+{
+  "serial": "BS1-057",
+  "img": "images/2023/BS1/BS1_57.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["green"],
+  "name": "더덕꽃맛 쿠키",
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 3
+      },
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

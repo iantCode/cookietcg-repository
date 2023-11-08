@@ -1,0 +1,25 @@
+{
+  "serial": "BS1-074",
+  "img": "images/2023/BS1/BS1_74.png",
+  "type": "item",
+  "level": 0,
+  "color": ["green"],
+  "name": "고대 숲의 행운석",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 1
+      },
+      "text": "《자신의 서포트 에리어에서 카드를 1장 패로 가져온다》 덱에서 1장 뽑을 수 있다.",
+      "draw": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

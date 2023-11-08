@@ -1,0 +1,33 @@
+{
+  "serial": "BS1-073",
+  "img": "images/2023/BS1/BS1_73.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["green"],
+  "name": "허브맛 쿠키",
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+    },
+    "text": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 자신의 서포트 에리어의 카드를 1장 액티브로 한다.",
+    "effect": {
+      "addSupport": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}
