@@ -1,27 +1,26 @@
 {
-  "serial": "BS1-031",
-  "img": "images/2023/BS1/BS1_31.png",
+  "serial": "BS1-034",
+  "img": "images/2023/BS1/BS1_34.png",
   "type": "cookie",
   "level": 1,
   "color": ["yellow"],
-  "name": "마시멜로맛 쿠키",
-  "hp": 3,
+  "name": "샌드위치맛 쿠키",
+  "hp": 1,
   "hasSkill": true,
   "skill": {
-    "condition": ["blocker"],
+    "condition": ["appear"],
     "cost": {
       "yellow": 1
     },
-    "text": "상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.",
+    "text": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다.",
     "effect": {
-      "redirection": 1
+      "heal": 1
     }
   },
   "attack": [
     {
       "cost": {
-        "yellow": 1,
-        "mix": 1
+        "yellow": 1
       },
       "text": "1대미지를 준다.",
       "damage": 1
@@ -29,7 +28,7 @@
   ],
   "hasFlip": false,
   "flip": {},
-  "rarity": "R",
+  "rarity": "C",
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13"
 }

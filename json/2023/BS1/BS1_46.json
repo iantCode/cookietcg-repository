@@ -1,24 +1,26 @@
 {
-  "serial": "BS1-032",
-  "img": "images/2023/BS1/BS1_32.png",
+  "serial": "BS1-046",
+  "img": "images/2023/BS1/BS1_46.png",
   "type": "cookie",
-  "level": 1,
+  "level": 3,
   "color": ["yellow"],
-  "name": "바나나맛 쿠키",
-  "hp": 4,
+  "name": "치즈케이크맛 쿠키",
+  "hp": 1,
   "hasSkill": false,
-  "skill": {},
+  "skill": {
+  },
   "attack": [
     {
       "cost": {
-        "mix": 3
+        "mix": 1
       },
       "text": "2대미지를 준다.",
       "damage": 2
     }
   ],
   "hasFlip": false,
-  "flip": {},
+  "flip": {
+  },
   "rarity": "C",
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13"

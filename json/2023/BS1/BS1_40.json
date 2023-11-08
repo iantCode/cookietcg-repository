@@ -3,7 +3,7 @@
   "img": "images/2023/BS1/BS1_40.png",
   "type": "cookie",
   "level": 3,
-  "color": "yellow",
+  "color": ["yellow"],
   "name": "얼그레이맛 쿠키",
   "hp": 3,
   "hasSkill": false,

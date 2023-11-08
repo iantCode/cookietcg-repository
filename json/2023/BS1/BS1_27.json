@@ -3,7 +3,7 @@
   "img": "images/2023/BS1/BS1_27.png",
   "type": "cookie",
   "level": 2,
-  "color": "yellow",
+  "color": ["yellow"],
   "name": "구슬아이스맛 쿠키",
   "hp": 4,
   "hasSkill": false,

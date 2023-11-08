@@ -1,17 +1,17 @@
 {
-  "serial": "BS1-069",
-  "img": "images/2023/BS1/BS1_69.png",
+  "serial": "BS1-041",
+  "img": "images/2023/BS1/BS1_41.png",
   "type": "cookie",
   "level": 1,
-  "color": ["green"],
-  "name": "쿠키멀즈",
+  "color": ["yellow"],
+  "name": "오렌지맛 쿠키",
   "hp": 1,
   "hasSkill": false,
   "skill": {},
   "attack": [
     {
       "cost": {
-        "green": 1
+        "yellow": 1
       },
       "text": "1대미지를 준다.",
       "damage": 1
@@ -19,13 +19,15 @@
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {},
-    "text": "덱에서 1장 뽑을 수 있다.",
+    "condition": {
+      "handTrash": 1
+    },
+    "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에 HP를 +1한다.",
     "effect": {
-      "draw": 1
+      "heal": 1
     }
   },
-  "rarity": "U",
+  "rarity": "C",
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13"
 }

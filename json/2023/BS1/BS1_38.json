@@ -1,0 +1,34 @@
+{
+  "serial": "BS1-038",
+  "img": "images/2023/BS1/BS1_38.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["yellow"],
+  "name": "시나몬맛 쿠키",
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual"],
+    "cost": {
+      "yellow": 2
+    },
+    "text": "《이 카드를 브레이크 에리어에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+    "effect": {
+      "damage": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

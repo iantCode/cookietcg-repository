@@ -1,0 +1,35 @@
+{
+  "serial": "BS1-044",
+  "img": "images/2023/BS1/BS1_44.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["yellow"],
+  "name": "파프리카맛 쿠키",
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual", "onceTurn"],
+    "cost": {
+      "yellow": 1
+    },
+    "text": "《패를 1장 버린다》 이 쿠키의 HP가 3 이하라면 이 쿠키의 HP를 +1한다.",
+    "effect": {
+      "damageDecrease": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": "2대미지를 준다. 그리고 《<yellow><yellow>로 사용할 수 있다》 3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "SR",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

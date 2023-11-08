@@ -1,24 +1,26 @@
 {
-  "serial": "BS1-072",
-  "img": "images/2023/BS1/BS1_72.png",
+  "serial": "BS1-045",
+  "img": "images/2023/BS1/BS1_45.png",
   "type": "cookie",
   "level": 3,
-  "color": ["green"],
-  "name": "푸딩맛 쿠키",
+  "color": ["yellow"],
+  "name": "폭죽맛 쿠키",
   "hp": 4,
   "hasSkill": false,
-  "skill": {},
+  "skill": {
+  },
   "attack": [
     {
       "cost": {
-        "mix": 3
+        "mix": 2
       },
-      "text": "4대미지를 준다.",
-      "damage": 4
+      "text": "2대미지를 준다.",
+      "damage": 2
     }
   ],
   "hasFlip": false,
-  "flip": {},
+  "flip": {
+  },
   "rarity": "C",
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13"

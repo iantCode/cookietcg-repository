@@ -3,7 +3,7 @@
   "img": "images/2023/BS1/BS1_39.png",
   "type": "cookie",
   "level": 2,
-  "color": "yellow",
+  "color": ["yellow"],
   "name": "아몬드맛 쿠키",
   "hp": 3,
   "hasSkill": false,

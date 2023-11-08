@@ -3,7 +3,7 @@
   "img": "images/2023/BS1/BS1_62.png",
   "type": "cookie",
   "level": 1,
-  "color": "green",
+  "color": ["green"],
   "name": "실론나이트 쿠키",
   "hp": 3,
   "hasSkill": true,

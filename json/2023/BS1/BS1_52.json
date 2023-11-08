@@ -1,25 +1,26 @@
 {
-  "serial": "BS1-026",
-  "img": "images/2023/BS1/BS1_26.png",
+  "serial": "BS1-052",
+  "img": "images/2023/BS1/BS1_52.png",
   "type": "stage",
   "level": 0,
-  "color": ["red"],
-  "name": "사막 속 오아시스",
+  "color": ["yellow"],
+  "name": "별사탕 오솔길",
   "hp": 0,
   "hasSkill": true,
   "skill": {
     "condition": ["manual"],
     "cost": {
+      "yellow": 2
     },
-    "text": "《이 카드를 레스트한다》 《자신의 쿠키 1장의 HP에서 1장 트래시에 놓는다》 자신의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다.",
+    "text": "《이 카드를 레스트한다》 자신의 쿠키 1장의 HP를 +1한다.",
     "effect": {
-      "damageIncrease": 1
+      "heal": 1
     }
   },
   "attack": [
     {
       "cost": {
-        "red": 2
+        "yellow": 1
       },
       "text": "스테이지 에리어에 내려놓는다.",
       "damage": 0

@@ -1,0 +1,34 @@
+{
+  "serial": "BS1-042",
+  "img": "images/2023/BS1/BS1_42.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["yellow"],
+  "name": "자몽맛 쿠키",
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "condition": [],
+    "cost": {
+    },
+    "text": "상대의 쿠키가 공격했을 때 《<yellow>로 사용할 수 있다.》 사용할 수 있다. 이 배틀 중 이 쿠키가 받는 공격 대미지를 -1한다.",
+    "effect": {
+      "damageDecrease": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

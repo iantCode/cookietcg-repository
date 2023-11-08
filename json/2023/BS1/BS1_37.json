@@ -3,7 +3,7 @@
   "img": "images/2023/BS1/BS1_37.png",
   "type": "cookie",
   "level": 3,
-  "color": "yellow",
+  "color": ["yellow"],
   "name": "시간지기 쿠키",
   "hp": 5,
   "hasSkill": true,
@@ -22,7 +22,7 @@
       "cost": {
         "yellow": 3
       },
-      "text": "3대미지를 준다. 그리고 《Yellow로 사용할 수 있다》 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다.",
+      "text": "3대미지를 준다. 그리고 《<yellow>로 사용할 수 있다》 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다.",
       "damage": 3
     }
   ],

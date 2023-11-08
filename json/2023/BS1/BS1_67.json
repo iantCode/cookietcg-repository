@@ -3,7 +3,7 @@
   "img": "images/2023/BS1/BS1_67.png",
   "type": "cookie",
   "level": 3,
-  "color": "green",
+  "color": ["green"],
   "name": "츄러스맛 쿠키",
   "hp": 3,
   "hasSkill": false,

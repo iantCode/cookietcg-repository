@@ -1,20 +1,21 @@
 {
-  "serial": "BS1-069",
-  "img": "images/2023/BS1/BS1_69.png",
+  "serial": "BS1-030",
+  "img": "images/2023/BS1/BS1_30.png",
   "type": "cookie",
-  "level": 1,
-  "color": ["green"],
-  "name": "쿠키멀즈",
-  "hp": 1,
+  "level": 2,
+  "color": ["yellow"],
+  "name": "락스타맛 쿠키",
+  "hp": 2,
   "hasSkill": false,
-  "skill": {},
+  "skill": {
+  },
   "attack": [
     {
       "cost": {
-        "green": 1
+        "yellow": 2
       },
-      "text": "1대미지를 준다.",
-      "damage": 1
+      "text": "2대미지를 준다.",
+      "damage": 2
     }
   ],
   "hasFlip": true,
@@ -25,7 +26,7 @@
       "draw": 1
     }
   },
-  "rarity": "U",
+  "rarity": "C",
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13"
 }
