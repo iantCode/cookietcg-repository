@@ -2,10 +2,10 @@
   "serial": "BS1-003",
   "img": "images/2023/BS1/BS1_03.png",
   "type": "cookie",
-  "level": 4,
+  "level": 2,
   "color": ["red"],
   "name": "다크초코 쿠키",
-  "hp": 2,
+  "hp": 4,
   "hasSkill": true,
   "skill": {
     "condition": ["manual", "onceTurn"],
