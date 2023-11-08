@@ -1,10 +1,10 @@
 {
-  "serial": "BS1-021",
-  "img": "images/2023/BS1/BS1_21.png",
+  "serial": "BS1-019",
+  "img": "images/2023/BS1/BS1_19.png",
   "type": "cookie",
-  "level": 2,
+  "level": 3,
   "color": ["red"],
-  "name": "휘핑크림맛 쿠키",
+  "name": "호두맛 쿠키",
   "hp": 4,
   "hasSkill": false,
   "skill": {},
@@ -13,12 +13,13 @@
       "cost": {
         "mix": 3
       },
-      "text": "3대미지를 준다.",
-      "damage": 3
+      "text": "4대미지를 준다.",
+      "damage": 4
     }
   ],
   "hasFlip": false,
-  "flip": {},
+  "flip": {
+  },
   "rarity": "C",
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13"

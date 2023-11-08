@@ -1,20 +1,21 @@
 {
-  "serial": "BS1-021",
-  "img": "images/2023/BS1/BS1_21.png",
+  "serial": "BS1-011",
+  "img": "images/2023/BS1/BS1_11.png",
   "type": "cookie",
-  "level": 2,
+  "level": 1,
   "color": ["red"],
-  "name": "휘핑크림맛 쿠키",
-  "hp": 4,
+  "name": "앵두맛 쿠키",
+  "hp": 2,
   "hasSkill": false,
-  "skill": {},
+  "skill": {
+  },
   "attack": [
     {
       "cost": {
-        "mix": 3
+        "mix": 2
       },
-      "text": "3대미지를 준다.",
-      "damage": 3
+      "text": "2대미지를 준다.",
+      "damage": 2
     }
   ],
   "hasFlip": false,

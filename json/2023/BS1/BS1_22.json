@@ -1,0 +1,25 @@
+{
+  "serial": "BS1-022",
+  "img": "images/2023/BS1/BS1_22.png",
+  "type": "item",
+  "level": 0,
+  "color": ["red"],
+  "name": "거대한 체리 폭탄",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": "《패를 1장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

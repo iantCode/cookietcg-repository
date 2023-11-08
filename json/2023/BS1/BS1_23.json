@@ -1,0 +1,25 @@
+{
+  "serial": "BS1-023",
+  "img": "images/2023/BS1/BS1_23.png",
+  "type": "item",
+  "level": 0,
+  "color": ["red"],
+  "name": "스파이시 파워 주스",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": "《자신의 쿠키 1장의 HP가 1이 되도록 1장 이상 트래시에 놓는다》 자신의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +2한다.",
+      "damageIncrease": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

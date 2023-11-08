@@ -1,0 +1,32 @@
+{
+  "serial": "BS1-008",
+  "img": "images/2023/BS1/BS1_08.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["red"],
+  "name": "석류맛 쿠키",
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual", "onceTurn"],
+    "cost": {},
+    "text": "자신의 다른 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다.",
+    "effect": {
+      "damageIncrease": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

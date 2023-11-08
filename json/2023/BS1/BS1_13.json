@@ -1,0 +1,26 @@
+{
+  "serial": "BS1-013",
+  "img": "images/2023/BS1/BS1_13.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["red"],
+  "name": "용감한 쿠키",
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": "2대미지를 준다. 그리고 패를 1장 버린다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13"
+}

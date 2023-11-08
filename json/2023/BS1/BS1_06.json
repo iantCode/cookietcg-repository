@@ -3,7 +3,7 @@
   "img": "images/2023/BS1/BS1_06.png",
   "type": "cookie",
   "level": 2,
-  "color": "red",
+  "color": ["red"],
   "name": "마라맛 쿠키",
   "hp": 2,
   "hasSkill": true,
