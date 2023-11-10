@@ -3,7 +3,9 @@
   "img": "images/2023/ST1/ST1_13.png",
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "탐험가맛 쿠키",
   "hp": 1,
   "hasSkill": false,
@@ -27,5 +29,6 @@
   },
   "rarity": "C",
   "from": "스타터 덱 [썬키스드]",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

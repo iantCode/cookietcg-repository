@@ -3,12 +3,16 @@
   "img": "images/2023/ST1/ST1_02.png",
   "type": "cookie",
   "level": 2,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "닌자맛 쿠키",
   "hp": 2,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
+    "condition": [
+      "appear"
+    ],
     "cost": {
       "red": 1
     },
@@ -30,5 +34,6 @@
   "flip": {},
   "rarity": "C",
   "from": "스타터 덱 [썬키스드]",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

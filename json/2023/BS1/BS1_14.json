@@ -3,12 +3,17 @@
   "img": "images/2023/BS1/BS1_14.png",
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "용감한 쿠키",
   "hp": 2,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual", "onceTurn"],
+    "condition": [
+      "manual",
+      "onceTurn"
+    ],
     "cost": {
       "red": 2
     },
@@ -30,5 +35,6 @@
   "flip": {},
   "rarity": "UR",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

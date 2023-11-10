@@ -3,14 +3,15 @@
   "img": "images/2023/BS1/BS1_16.png",
   "type": "cookie",
   "level": 2,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "초코볼맛 쿠키",
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "condition": [],
-    "cost": {
-    },
+    "cost": {},
     "text": "이 쿠키가 기절했을 때 자신의 패가 4장 이하라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
     "effect": {
       "damage": 1
@@ -26,9 +27,9 @@
     }
   ],
   "hasFlip": false,
-  "flip": {
-  },
+  "flip": {},
   "rarity": "C",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

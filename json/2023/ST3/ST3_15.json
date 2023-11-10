@@ -8,7 +8,10 @@
   "hp": 4,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual", "onceTurn"],
+    "condition": [
+      "manual",
+      "onceTurn"
+    ],
     "cost": {},
     "text": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 이 턴 중 이 쿠키의 공격 대미지를 +1한다.",
     "effect": {
@@ -28,5 +31,6 @@
   "flip": {},
   "rarity": "U",
   "from": "스타터 덱 [테라바움]",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

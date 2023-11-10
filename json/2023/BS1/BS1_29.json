@@ -3,14 +3,17 @@
   "img": "images/2023/BS1/BS1_29.png",
   "type": "cookie",
   "level": 1,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": "라임맛 쿠키",
   "hp": 2,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
-    "cost": {
-    },
+    "condition": [
+      "appear"
+    ],
+    "cost": {},
     "text": "자신의 브레이크 에리어가 LV.3 이상이라면 덱을 1장 뽑고 패를 1장 버린다.",
     "effect": {
       "draw": 1
@@ -29,5 +32,6 @@
   "flip": {},
   "rarity": "U",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

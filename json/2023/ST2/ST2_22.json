@@ -8,7 +8,9 @@
   "hp": 0,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual"],
+    "condition": [
+      "manual"
+    ],
     "cost": {
       "yellow": 1
     },
@@ -30,5 +32,6 @@
   "flip": {},
   "rarity": "U",
   "from": "스타터 덱 [스파키오]",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

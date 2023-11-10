@@ -3,12 +3,17 @@
   "img": "images/2023/BS1/BS1_03.png",
   "type": "cookie",
   "level": 2,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "다크초코 쿠키",
   "hp": 4,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual", "onceTurn"],
+    "condition": [
+      "manual",
+      "onceTurn"
+    ],
     "cost": {
       "red": 1
     },
@@ -27,9 +32,9 @@
     }
   ],
   "hasFlip": false,
-  "flip": {
-  },
+  "flip": {},
   "rarity": "SR",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

@@ -3,14 +3,17 @@
   "img": "images/2023/BS1/BS1_78.png",
   "type": "stage",
   "level": 0,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": "되살아나는 고대 숲",
   "hp": 0,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual"],
-    "cost": {
-    },
+    "condition": [
+      "manual"
+    ],
+    "cost": {},
     "text": "《이 카드를 레스트한다》 이 턴 중 자신의 서포트 에리어의 카드의 장수가 줄었다면 자신의 서포트 에리어의 카드를 1장 액티브로 한다.",
     "effect": {
       "heal": 1
@@ -29,5 +32,6 @@
   "flip": {},
   "rarity": "U",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

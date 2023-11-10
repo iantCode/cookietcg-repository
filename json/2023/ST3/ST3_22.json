@@ -8,7 +8,9 @@
   "hp": 0,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual"],
+    "condition": [
+      "manual"
+    ],
     "cost": {},
     "text": "《이 카드를 레스트한다》 자신의 서프트 에리어에서 1장 패로 가져온다. 가져왔다면 자신의 덱에서 1장 뽑을 수 있다.",
     "effect": {
@@ -28,5 +30,6 @@
   "flip": {},
   "rarity": "U",
   "from": "스타터 덱 [테라바움]",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

@@ -3,12 +3,16 @@
   "img": "images/2023/BS1/BS1_36.png",
   "type": "cookie",
   "level": 2,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": "스네이크후르츠맛 쿠키",
   "hp": 4,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
+    "condition": [
+      "appear"
+    ],
     "cost": {
       "yellow": 2
     },
@@ -30,5 +34,6 @@
   "flip": {},
   "rarity": "SR",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

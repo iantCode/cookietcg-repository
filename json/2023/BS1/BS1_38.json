@@ -3,12 +3,16 @@
   "img": "images/2023/BS1/BS1_38.png",
   "type": "cookie",
   "level": 1,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": "시나몬맛 쿠키",
   "hp": 1,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual"],
+    "condition": [
+      "manual"
+    ],
     "cost": {
       "yellow": 2
     },
@@ -30,5 +34,6 @@
   "flip": {},
   "rarity": "U",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

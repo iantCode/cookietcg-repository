@@ -8,7 +8,9 @@
   "hp": 3,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
+    "condition": [
+      "appear"
+    ],
     "cost": {
       "green": 2
     },
@@ -30,5 +32,6 @@
   "flip": {},
   "rarity": "SR",
   "from": "스타터 덱 [테라바움]",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

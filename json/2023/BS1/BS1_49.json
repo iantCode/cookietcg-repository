@@ -3,7 +3,9 @@
   "img": "images/2023/BS1/BS1_49.png",
   "type": "item",
   "level": 0,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": "트로피컬 슬러시",
   "hp": 0,
   "hasSkill": false,
@@ -21,5 +23,6 @@
   "flip": {},
   "rarity": "R",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

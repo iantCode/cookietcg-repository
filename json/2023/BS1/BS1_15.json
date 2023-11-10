@@ -3,12 +3,13 @@
   "img": "images/2023/BS1/BS1_15.png",
   "type": "cookie",
   "level": 3,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "장미맛 쿠키",
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -20,8 +21,7 @@
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": "덱에서 1장 뽑을 수 있다.",
     "effect": {
       "draw": 1
@@ -29,5 +29,6 @@
   },
   "rarity": "UR",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

@@ -3,14 +3,15 @@
   "img": "images/2023/BS1/BS1_58.png",
   "type": "cookie",
   "level": 2,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": "독버섯맛 쿠키",
   "hp": 2,
   "hasSkill": false,
   "skill": {
     "condition": [],
-    "cost": {
-    },
+    "cost": {},
     "text": "이 쿠키가 기절했을 때 《자신의 서포트 에리어에서 1장 트래시에 놓는다》 모든 쿠키들에게 1대미지를 준다.",
     "effect": {
       "addCookie": 1
@@ -26,9 +27,9 @@
     }
   ],
   "hasFlip": false,
-  "flip": {
-  },
+  "flip": {},
   "rarity": "C",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

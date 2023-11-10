@@ -3,12 +3,16 @@
   "img": "images/2023/BS1/BS1_09.png",
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "아포가토맛 쿠키",
   "hp": 3,
   "hasSkill": true,
   "skill": {
-    "condition": ["blocker"],
+    "condition": [
+      "blocker"
+    ],
     "cost": {
       "red": 1
     },
@@ -31,5 +35,6 @@
   "flip": {},
   "rarity": "R",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

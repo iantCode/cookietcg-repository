@@ -3,12 +3,13 @@
   "img": "images/2023/Promo/P_004.png",
   "type": "cookie",
   "level": 2,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "용감한 쿠키&무무씨",
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -22,5 +23,6 @@
   "flip": {},
   "rarity": "P",
   "from": "프로모 카드",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

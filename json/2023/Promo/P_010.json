@@ -3,12 +3,16 @@
   "img": "images/2023/Promo/P_010.png",
   "type": "cookie",
   "level": 2,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": "탐험가맛 쿠키",
   "hp": 4,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
+    "condition": [
+      "appear"
+    ],
     "cost": {},
     "text": "상대의 LV.1의 쿠키를 1장까지 선택한다. 그 쿠키는 자신의 다음 턴 시작 시까지 공격할 수 없다.",
     "effect": {
@@ -28,5 +32,6 @@
   "flip": {},
   "rarity": "P",
   "from": "프로모 카드",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

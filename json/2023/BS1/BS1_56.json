@@ -3,12 +3,16 @@
   "img": "images/2023/BS1/BS1_56.png",
   "type": "cookie",
   "level": 2,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": "달토끼맛 쿠키",
   "hp": 3,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
+    "condition": [
+      "appear"
+    ],
     "cost": {
       "green": 2
     },
@@ -27,9 +31,9 @@
     }
   ],
   "hasFlip": false,
-  "flip": {
-  },
+  "flip": {},
   "rarity": "SR",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

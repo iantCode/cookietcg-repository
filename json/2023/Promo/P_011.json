@@ -3,7 +3,9 @@
   "img": "images/2023/Promo/P_011.png",
   "type": "cookie",
   "level": 2,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": "딸기맛 쿠키",
   "hp": 2,
   "hasSkill": true,
@@ -28,5 +30,6 @@
   "flip": {},
   "rarity": "P",
   "from": "프로모 카드",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

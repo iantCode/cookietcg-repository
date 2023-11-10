@@ -3,12 +3,17 @@
   "img": "images/2023/ST1/ST1_08.png",
   "type": "cookie",
   "level": 3,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "벚꽃맛 쿠키",
   "hp": 1,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual", "onceTurn"],
+    "condition": [
+      "manual",
+      "onceTurn"
+    ],
     "cost": {
       "red": 2
     },
@@ -30,5 +35,6 @@
   "flip": {},
   "rarity": "U",
   "from": "스타터 덱 [썬키스드]",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

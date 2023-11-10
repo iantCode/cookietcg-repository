@@ -3,12 +3,17 @@
   "img": "images/2023/BS1/BS1_44.png",
   "type": "cookie",
   "level": 2,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": "파프리카맛 쿠키",
   "hp": 3,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual", "onceTurn"],
+    "condition": [
+      "manual",
+      "onceTurn"
+    ],
     "cost": {
       "yellow": 1
     },
@@ -27,9 +32,9 @@
     }
   ],
   "hasFlip": false,
-  "flip": {
-  },
+  "flip": {},
   "rarity": "SR",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

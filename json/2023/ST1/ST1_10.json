@@ -3,12 +3,16 @@
   "img": "images/2023/ST1/ST1_10.png",
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "연금술사맛 쿠키",
   "hp": 1,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual"],
+    "condition": [
+      "manual"
+    ],
     "cost": {
       "red": 3
     },
@@ -31,5 +35,6 @@
   "flip": {},
   "rarity": "C",
   "from": "스타터 덱 [썬키스드]",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

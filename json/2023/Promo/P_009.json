@@ -3,12 +3,13 @@
   "img": "images/2023/Promo/P_009.png",
   "type": "cookie",
   "level": 3,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": "스타더스트 쿠키",
   "hp": 6,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -22,5 +23,6 @@
   "flip": {},
   "rarity": "P",
   "from": "프로모 카드",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

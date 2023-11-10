@@ -3,7 +3,9 @@
   "img": "images/2023/ST1/ST1_21.png",
   "type": "trap",
   "level": 0,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "잘못 밟은 별사탕",
   "hp": 0,
   "hasSkill": false,
@@ -21,5 +23,6 @@
   "flip": {},
   "rarity": "U",
   "from": "스타터 덱 [썬키스드]",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }

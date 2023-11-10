@@ -3,12 +3,13 @@
   "img": "images/2023/BS1/BS1_11.png",
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": "앵두맛 쿠키",
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -22,5 +23,6 @@
   "flip": {},
   "rarity": "C",
   "from": "퍼스트 브레이브",
-  "releaseDate": "2023-10-13"
+  "releaseDate": "2023-10-13",
+  "regulation": "A"
 }

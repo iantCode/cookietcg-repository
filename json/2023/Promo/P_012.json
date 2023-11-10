@@ -3,12 +3,13 @@
   "img": "images/2023/Promo/P_012.png",
   "type": "item",
   "level": 0,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": "장난꾸러기 무당벌레",
   "hp": 0,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -22,5 +23,6 @@
   "flip": {},
   "rarity": "P",
   "from": "프로모 카드",
-  "releaseDate": "2023-09-01"
+  "releaseDate": "2023-09-01",
+  "regulation": "A"
 }
