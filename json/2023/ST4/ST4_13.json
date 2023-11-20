@@ -1,0 +1,36 @@
+{
+    "serial": "ST4-013",
+    "img": "images/2023/ST4/ST4_13.png",
+    "type": "cookie",
+    "level": 2,
+    "color": [
+      "blue"
+    ],
+    "name": "캡틴캐비어맛 쿠키",
+    "hp": 3,
+    "hasSkill": true,
+    "skill": {
+        "condition": ["appear"],
+        "cost": {},
+        "text": "덱의 위에서부터 3장을 보고 그 중 1장 패로 가져올 수 있다. 그리고 남은 카드를 원하는 순서로 덱의 아래에 놓는다.",
+        "effect": {
+            "draw": 1
+        }
+    },
+    "attack": [
+      {
+        "cost": {
+          "blue": 1
+        },
+        "text": "1대미지를 준다. 그리고 《패를 2장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+        "damage": 1
+      }
+    ],
+    "hasFlip": false,
+    "flip": {
+    },
+    "rarity": "SR",
+    "from": "스타터 덱 [하슬리아]",
+    "releaseDate": "2023-12-08",
+    "regulation": "A"
+  }
