@@ -20,7 +20,7 @@
         "damage": 1
       }
     ],
-    "hasFlip": false,
+    "hasFlip": true,
     "flip": {
       "condition": {
         "handTrash": 1
