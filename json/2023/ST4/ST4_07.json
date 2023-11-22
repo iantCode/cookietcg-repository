@@ -1,0 +1,38 @@
+{
+    "serial": "ST4-007",
+    "img": "images/2023/ST4/ST4_07.png",
+    "type": "cookie",
+    "level": 1,
+    "color": [
+      "blue"
+    ],
+    "name": "사워벨트맛 쿠키",
+    "hp": 3,
+    "hasSkill": true,
+    "skill": {
+        "condition": ["manual", "onceTurn"],
+        "cost": {
+          "blue": 1
+        },
+        "text": "자신의 패가 6장 이하라면 덱에서 1장 뽑을 수 있다.",
+        "effect": {
+            "draw": 1
+        }
+    },
+    "attack": [
+      {
+        "cost": {
+          "blue": 2
+        },
+        "text": "1대미지를 준다.",
+        "damage": 1
+      }
+    ],
+    "hasFlip": false,
+    "flip": {
+    },
+    "rarity": "C",
+    "from": "스타터 덱 [하슬리아]",
+    "releaseDate": "2023-12-08",
+    "regulation": "A"
+  }

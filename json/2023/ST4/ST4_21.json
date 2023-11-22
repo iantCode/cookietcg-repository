@@ -1,0 +1,30 @@
+{
+    "serial": "ST4-021",
+    "img": "images/2023/ST4/ST4_21.png",
+    "type": "trap",
+    "level": 0,
+    "color": [
+      "blue"
+    ],
+    "name": "조각난 얼음 동상",
+    "hp": 0,
+    "hasSkill": false,
+    "skill": {
+    },
+    "attack": [
+      {
+        "cost": {
+          "blue": 2
+        },
+        "text": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -2한다. 그리고 덱에서 1장 뽑을 수 있다.",
+        "damage": 0
+      }
+    ],
+    "hasFlip": false,
+    "flip": {
+    },
+    "rarity": "U",
+    "from": "스타터 덱 [하슬리아]",
+    "releaseDate": "2023-12-08",
+    "regulation": "A"
+  }
