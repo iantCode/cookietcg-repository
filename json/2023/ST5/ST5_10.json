@@ -10,7 +10,7 @@
     "hp": 4,
     "hasSkill": true,
     "skill": {
-        "condition": ["appeaer"],
+        "condition": ["appear"],
         "cost": {
           "purple": 1
         },
