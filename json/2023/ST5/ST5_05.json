@@ -8,7 +8,7 @@
     ],
     "name": "슈크림맛 쿠키",
     "hp": 3,
-    "hasSkill": true,
+    "hasSkill": false,
     "skill": {
     },
     "attack": [
