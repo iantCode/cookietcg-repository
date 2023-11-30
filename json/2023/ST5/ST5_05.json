@@ -1,0 +1,30 @@
+{
+    "serial": "ST5-005",
+    "img": "images/2023/ST5/ST5_05.png",
+    "type": "cookie",
+    "level": 1,
+    "color": [
+      "purple"
+    ],
+    "name": "슈크림맛 쿠키",
+    "hp": 3,
+    "hasSkill": true,
+    "skill": {
+    },
+    "attack": [
+      {
+        "cost": {
+          "purple": 1
+        },
+        "text": "1대미지를 준다.",
+        "damage": 1
+      }
+    ],
+    "hasFlip": false,
+    "flip": {
+    },
+    "rarity": "C",
+    "from": "스타터 덱 [미르몬도]",
+    "releaseDate": "2023-12-08",
+    "regulation": "A"
+  }

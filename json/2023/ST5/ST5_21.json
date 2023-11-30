@@ -1,0 +1,30 @@
+{
+    "serial": "ST5-021",
+    "img": "images/2023/ST5/ST5_21.png",
+    "type": "trap",
+    "level": 0,
+    "color": [
+      "purple"
+    ],
+    "name": "숨겨진 워프 장치",
+    "hp": 0,
+    "hasSkill": false,
+    "skill": {
+    },
+    "attack": [
+      {
+        "cost": {
+          "purple": 2
+        },
+        "text": "상대의 남은 HP가 2 이하인 쿠키를 1장 트래시에 놓는다.",
+        "damage": 0
+      }
+    ],
+    "hasFlip": false,
+    "flip": {
+    },
+    "rarity": "U",
+    "from": "스타터 덱 [미르몬도]",
+    "releaseDate": "2023-12-08",
+    "regulation": "A"
+  }

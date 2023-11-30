@@ -1,0 +1,37 @@
+{
+    "serial": "ST5-012",
+    "img": "images/2023/ST5/ST5_12.png",
+    "type": "cookie",
+    "level": 2,
+    "color": [
+      "purple"
+    ],
+    "name": "클로버맛 쿠키",
+    "hp": 2,
+    "hasSkill": false,
+    "skill": {
+    },
+    "attack": [
+      {
+        "cost": {
+          "purple": 2
+        },
+        "text": "2대미지를 준다.",
+        "damage": 2
+      }
+    ],
+    "hasFlip": true,
+    "flip": {
+      "condition": {
+        "handTrash": 1
+      },
+      "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+      "effect": {
+        "heal": 1
+      }
+    },
+    "rarity": "C",
+    "from": "스타터 덱 [미르몬도]",
+    "releaseDate": "2023-12-08",
+    "regulation": "A"
+  }
