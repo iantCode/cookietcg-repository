@@ -1,30 +1,29 @@
 {
-    "serial": "ST5-011",
-    "img": "images/2023/ST5/ST5_11.png",
-    "type": "cookie",
-    "level": 2,
-    "color": [
-      "purple"
-    ],
-    "name": "정글전사 쿠키",
-    "hp": 3,
-    "hasSkill": false,
-    "skill": {
-    },
-    "attack": [
-      {
-        "cost": {
-          "mix": 1
-        },
-        "text": "1대미지를 준다.",
-        "damage": 1
-      }
-    ],
-    "hasFlip": false,
-    "flip": {
-    },
-    "rarity": "U",
-    "from": "스타터 덱 [미르몬도]",
-    "releaseDate": "2023-12-08",
-    "regulation": "A"
-  }
+  "serial": "ST5-011",
+  "img": "images/2023/ST5/ST5_11.png",
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": "정글전사 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "mix": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [미르몬도]",
+  "releaseDate": "2023-12-08",
+  "regulation": "A",
+  "limit": 4
+}

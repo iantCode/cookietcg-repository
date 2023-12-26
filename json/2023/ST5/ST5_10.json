@@ -1,38 +1,40 @@
 {
-    "serial": "ST5-010",
-    "img": "images/2023/ST5/ST5_10.png",
-    "type": "cookie",
-    "level": 2,
-    "color": [
-      "purple"
+  "serial": "ST5-010",
+  "img": "images/2023/ST5/ST5_10.png",
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": "음유시인맛 쿠키",
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "appear"
     ],
-    "name": "음유시인맛 쿠키",
-    "hp": 4,
-    "hasSkill": true,
-    "skill": {
-        "condition": ["appear"],
-        "cost": {
-          "purple": 1
-        },
-        "text": "상대의 남은 HP가 2 이하인 쿠키를 1장 트래시에 놓는다.",
-        "effect": {
-            "kill": 1
-        }
+    "cost": {
+      "purple": 1
     },
-    "attack": [
-      {
-        "cost": {
-          "purple": 2
-        },
-        "text": "1대미지를 준다.",
-        "damage": 1
-      }
-    ],
-    "hasFlip": false,
-    "flip": {
-    },
-    "rarity": "U",
-    "from": "스타터 덱 [미르몬도]",
-    "releaseDate": "2023-12-08",
-    "regulation": "A"
-  }
+    "text": "상대의 남은 HP가 2 이하인 쿠키를 1장 트래시에 놓는다.",
+    "effect": {
+      "kill": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [미르몬도]",
+  "releaseDate": "2023-12-08",
+  "regulation": "A",
+  "limit": 4
+}

@@ -1,30 +1,29 @@
 {
-    "serial": "ST4-002",
-    "img": "images/2023/ST4/ST4_02.png",
-    "type": "cookie",
-    "level": 1,
-    "color": [
-      "blue"
-    ],
-    "name": "눈설탕맛 쿠키",
-    "hp": 3,
-    "hasSkill": false,
-    "skill": {
-    },
-    "attack": [
-      {
-        "cost": {
-          "mix": 2
-        },
-        "text": "1대미지를 준다.",
-        "damage": 1
-      }
-    ],
-    "hasFlip": false,
-    "flip": {
-    },
-    "rarity": "C",
-    "from": "스타터 덱 [하슬리아]",
-    "releaseDate": "2023-12-08",
-    "regulation": "A"
-  }
+  "serial": "ST4-002",
+  "img": "images/2023/ST4/ST4_02.png",
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": "눈설탕맛 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "mix": 2
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "스타터 덱 [하슬리아]",
+  "releaseDate": "2023-12-08",
+  "regulation": "A",
+  "limit": 4
+}

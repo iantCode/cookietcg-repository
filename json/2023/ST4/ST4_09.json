@@ -1,37 +1,37 @@
 {
-    "serial": "ST4-009",
-    "img": "images/2023/ST4/ST4_09.png",
-    "type": "cookie",
-    "level": 2,
-    "color": [
-      "blue"
-    ],
-    "name": "아이스캔디맛 쿠키",
-    "hp": 2,
-    "hasSkill": false,
-    "skill": {
-    },
-    "attack": [
-      {
-        "cost": {
-          "blue": 2
-        },
-        "text": "2대미지를 준다.",
-        "damage": 2
-      }
-    ],
-    "hasFlip": true,
-    "flip": {
-      "condition": {
-        "handTrash": 1
+  "serial": "ST4-009",
+  "img": "images/2023/ST4/ST4_09.png",
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": "아이스캔디맛 쿠키",
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
       },
-      "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
-      "effect": {
-        "heal": 1
-      }
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+      "handTrash": 1
     },
-    "rarity": "C",
-    "from": "스타터 덱 [하슬리아]",
-    "releaseDate": "2023-12-08",
-    "regulation": "A"
-  }
+    "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "C",
+  "from": "스타터 덱 [하슬리아]",
+  "releaseDate": "2023-12-08",
+  "regulation": "A",
+  "limit": 4
+}

@@ -1,30 +1,29 @@
 {
-    "serial": "ST4-020",
-    "img": "images/2023/ST4/ST4_20.png",
-    "type": "trap",
-    "level": 0,
-    "color": [
-      "blue"
-    ],
-    "name": "문어 먹물 스프레이",
-    "hp": 0,
-    "hasSkill": false,
-    "skill": {
-    },
-    "attack": [
-      {
-        "cost": {
-          "blue": 1
-        },
-        "text": "《패를 2장 버린다》 상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -3한다.",
-        "damage": 0
-      }
-    ],
-    "hasFlip": false,
-    "flip": {
-    },
-    "rarity": "U",
-    "from": "스타터 덱 [하슬리아]",
-    "releaseDate": "2023-12-08",
-    "regulation": "A"
-  }
+  "serial": "ST4-020",
+  "img": "images/2023/ST4/ST4_20.png",
+  "type": "trap",
+  "level": 0,
+  "color": [
+    "blue"
+  ],
+  "name": "문어 먹물 스프레이",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": "《패를 2장 버린다》 상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -3한다.",
+      "damage": 0
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "스타터 덱 [하슬리아]",
+  "releaseDate": "2023-12-08",
+  "regulation": "A",
+  "limit": 4
+}

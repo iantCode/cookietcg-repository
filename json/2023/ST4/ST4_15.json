@@ -1,30 +1,29 @@
 {
-    "serial": "ST4-015",
-    "img": "images/2023/ST4/ST4_15.png",
-    "type": "cookie",
-    "level": 2,
-    "color": [
-      "blue"
-    ],
-    "name": "해적맛 쿠키",
-    "hp": 2,
-    "hasSkill": false,
-    "skill": {
-    },
-    "attack": [
-      {
-        "cost": {
-          "blue": 2
-        },
-        "text": "2대미지를 준다. 그리고 덱에서 1장 뽑을 수 있다.",
-        "damage": 2
-      }
-    ],
-    "hasFlip": false,
-    "flip": {
-    },
-    "rarity": "C",
-    "from": "스타터 덱 [하슬리아]",
-    "releaseDate": "2023-12-08",
-    "regulation": "A"
-  }
+  "serial": "ST4-015",
+  "img": "images/2023/ST4/ST4_15.png",
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": "해적맛 쿠키",
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": "2대미지를 준다. 그리고 덱에서 1장 뽑을 수 있다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "스타터 덱 [하슬리아]",
+  "releaseDate": "2023-12-08",
+  "regulation": "A",
+  "limit": 4
+}

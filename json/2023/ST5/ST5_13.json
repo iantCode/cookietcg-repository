@@ -1,38 +1,41 @@
 {
-    "serial": "ST5-013",
-    "img": "images/2023/ST5/ST5_13.png",
-    "type": "cookie",
-    "level": 2,
-    "color": [
-      "purple"
+  "serial": "ST5-013",
+  "img": "images/2023/ST5/ST5_13.png",
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": "파일럿맛 쿠키",
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "manual",
+      "onceTurn"
     ],
-    "name": "파일럿맛 쿠키",
-    "hp": 2,
-    "hasSkill": true,
-    "skill": {
-        "condition": ["manual", "onceTurn"],
-        "cost": {
-          "purple": 1
-        },
-        "text": "《자신의 배틀 에리어에 있는 <purple> LV.1의 쿠키를 1장 트래시에 놓는다》 이 턴 중 이 쿠키의 공격 대미지를 +1한다.",
-        "effect": {
-            "damageIncrease": 1
-        }
+    "cost": {
+      "purple": 1
     },
-    "attack": [
-      {
-        "cost": {
-          "purple": 3
-        },
-        "text": "3대미지를 준다.",
-        "damage": 3
-      }
-    ],
-    "hasFlip": false,
-    "flip": {
-    },
-    "rarity": "C",
-    "from": "스타터 덱 [미르몬도]",
-    "releaseDate": "2023-12-08",
-    "regulation": "A"
-  }
+    "text": "《자신의 배틀 에리어에 있는 <purple> LV.1의 쿠키를 1장 트래시에 놓는다》 이 턴 중 이 쿠키의 공격 대미지를 +1한다.",
+    "effect": {
+      "damageIncrease": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "스타터 덱 [미르몬도]",
+  "releaseDate": "2023-12-08",
+  "regulation": "A",
+  "limit": 4
+}
