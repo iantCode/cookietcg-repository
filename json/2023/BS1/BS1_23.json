@@ -3,9 +3,7 @@
   "img": "images/2023/BS1/BS1_23.png",
   "type": "item",
   "level": 0,
-  "color": [
-    "red"
-  ],
+  "color": ["red"],
   "name": "스파이시 파워 주스",
   "hp": 0,
   "hasSkill": false,
@@ -25,5 +23,11 @@
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13",
   "regulation": "A",
-  "limit": 4
+  "limit": 4,
+  "qna": [
+    {
+      "question": "[BS1-026 사막 속 오아시스], [BS1-023 스파이시 파워 주스]와 같이 코스트로 HP를 트래시에 놓을 때 [FLIP] 효과의 카드가 나왔다면 효과를 발동할 수 있나요?",
+      "answer": "아니요. 코스트로 사용된 카드의 [FLIP] 효과는 발동되지 않습니다."
+    }
+  ]
 }

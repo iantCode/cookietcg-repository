@@ -3,17 +3,12 @@
   "img": "images/2023/ST4/ST4_04.png",
   "type": "cookie",
   "level": 3,
-  "color": [
-    "blue"
-  ],
+  "color": ["blue"],
   "name": "랍스터맛 쿠키",
   "hp": 5,
   "hasSkill": true,
   "skill": {
-    "condition": [
-      "manual",
-      "onceTurn"
-    ],
+    "condition": ["manual", "onceTurn"],
     "cost": {},
     "text": "《패를 3장 버린다》 이 쿠키와 자신의 서포트 에리어에 있는 카드를 1장 액티브로 한다.",
     "effect": {
@@ -35,5 +30,11 @@
   "from": "스타터 덱 [하슬리아]",
   "releaseDate": "2023-12-08",
   "regulation": "A",
-  "limit": 4
+  "limit": 4,
+  "qna": [
+    {
+      "question": "[ST4-004 랍스터맛 쿠키]로 공격할 때 상대가 [BS1-077 잼파이 구급상자]를 사용하였다면 [ST4-004 랍스터맛 쿠키]가 스킬을 사용하여 한 번 더 공격하는 것에도 -3 대미지가 되나요?",
+      "answer": "네. [BS1-077 잼파이 구급상자]는 사용한 턴 동안 유지되는 효과이기 때문에 -3 대미지가 유지됩니다."
+    }
+  ]
 }

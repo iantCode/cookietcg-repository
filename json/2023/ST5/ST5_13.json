@@ -3,17 +3,12 @@
   "img": "images/2023/ST5/ST5_13.png",
   "type": "cookie",
   "level": 2,
-  "color": [
-    "purple"
-  ],
+  "color": ["purple"],
   "name": "파일럿맛 쿠키",
   "hp": 2,
   "hasSkill": true,
   "skill": {
-    "condition": [
-      "manual",
-      "onceTurn"
-    ],
+    "condition": ["manual", "onceTurn"],
     "cost": {
       "purple": 1
     },
@@ -37,5 +32,11 @@
   "from": "스타터 덱 [미르몬도]",
   "releaseDate": "2023-12-08",
   "regulation": "A",
-  "limit": 4
+  "limit": 4,
+  "qna": [
+    {
+      "question": "상대의 [ST5-013 파일럿맛 쿠키]가 스킬의 코스트로 LV.1 쿠키를 트래시로 보냈다면 자신의 필드에 있는 [ST5-022 바람의 계곡]의 효과가 발동되나요?",
+      "answer": "네. 발동됩니다."
+    }
+  ]
 }

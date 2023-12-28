@@ -3,9 +3,7 @@
   "img": "images/2023/ST4/ST4_21.png",
   "type": "trap",
   "level": 0,
-  "color": [
-    "blue"
-  ],
+  "color": ["blue"],
   "name": "조각난 얼음 동상",
   "hp": 0,
   "hasSkill": false,
@@ -25,5 +23,11 @@
   "from": "스타터 덱 [하슬리아]",
   "releaseDate": "2023-12-08",
   "regulation": "A",
-  "limit": 4
+  "limit": 4,
+  "qna": [
+    {
+      "question": "[ST4-021 조각난 얼음 동상]의 효과 처리 중 대미지 처리를 먼저 하나요? 덱을 뽑는 효과를 먼저 처리 하나요?",
+      "answer": "덱을 뽑는 효과까지 처리한 후 대미지 처리를 합니다."
+    }
+  ]
 }

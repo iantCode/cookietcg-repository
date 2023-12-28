@@ -3,16 +3,12 @@
   "img": "images/2023/ST4/ST4_13.png",
   "type": "cookie",
   "level": 2,
-  "color": [
-    "blue"
-  ],
+  "color": ["blue"],
   "name": "캡틴캐비어맛 쿠키",
   "hp": 3,
   "hasSkill": true,
   "skill": {
-    "condition": [
-      "appear"
-    ],
+    "condition": ["appear"],
     "cost": {},
     "text": "덱의 위에서부터 3장을 보고 그 중 1장 패로 가져올 수 있다. 그리고 남은 카드를 원하는 순서로 덱의 아래에 놓는다.",
     "effect": {
@@ -34,5 +30,11 @@
   "from": "스타터 덱 [하슬리아]",
   "releaseDate": "2023-12-08",
   "regulation": "A",
-  "limit": 4
+  "limit": 4,
+  "qna": [
+    {
+      "question": "[ST4-014 캡틴캐비어맛 쿠키]의 스킬을 사용하였을 때 덱에 남아 있는 카드가 2장 이하라도 사용 가능한가요?",
+      "answer": "네. 남아있는 수만큼 스킬의 효과를 적용합니다."
+    }
+  ]
 }

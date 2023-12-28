@@ -3,9 +3,7 @@
   "img": "images/2023/Promo/P_008.png",
   "type": "item",
   "level": 0,
-  "color": [
-    "red"
-  ],
+  "color": ["red"],
   "name": "마카롱 해머",
   "hp": 0,
   "hasSkill": false,
@@ -25,5 +23,11 @@
   "from": "프로모 카드",
   "releaseDate": "2023-09-01",
   "regulation": "A",
-  "limit": 4
+  "limit": 4,
+  "qna": [
+    {
+      "question": "[P-008 마카롱 해머]로 대미지를 줄 수 있는 쿠키는 표기된 HP가 4인 쿠키인가요? 아니면 남은 HP가 4인 이상인 쿠키인가요?",
+      "answer": "남은 HP가 4 이상인 쿠키입니다."
+    }
+  ]
 }

@@ -3,16 +3,12 @@
   "img": "images/2023/BS1/BS1_37.png",
   "type": "cookie",
   "level": 3,
-  "color": [
-    "yellow"
-  ],
+  "color": ["yellow"],
   "name": "시간지기 쿠키",
   "hp": 5,
   "hasSkill": true,
   "skill": {
-    "condition": [
-      "appear"
-    ],
+    "condition": ["appear"],
     "cost": {
       "yellow": 2
     },
@@ -36,5 +32,15 @@
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13",
   "regulation": "A",
-  "limit": 4
+  "limit": 4,
+  "qna": [
+    {
+      "question": "[BS1-037 시간지기 쿠키]의 공격의 효과로 브레이크 에리어에 LV.1 쿠키가 보내졌다면 새로운 쿠키를 등장시킬 수 있나요?",
+      "answer": "네. 새로운 쿠키를 등장시킬 수 있습니다."
+    },
+    {
+      "question": "[BS1-037 시간지기 쿠키]의 공격의 효과로 브레이크 에리어에 상대의 쿠키를 보내게 되면 기절 처리인가요?",
+      "answer": "아니요. 효과로 브레이크 에리어로 보내진 쿠키는 기절로 처리하지 않습니다."
+    }
+  ]
 }

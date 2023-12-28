@@ -3,9 +3,7 @@
   "img": "images/2023/BS1/BS1_35.png",
   "type": "cookie",
   "level": 2,
-  "color": [
-    "yellow"
-  ],
+  "color": ["yellow"],
   "name": "솜사탕맛 쿠키",
   "hp": 2,
   "hasSkill": true,
@@ -32,5 +30,11 @@
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13",
   "regulation": "A",
-  "limit": 4
+  "limit": 4,
+  "qna": [
+    {
+      "question": "브레이크 에리어가 LV.8인 상황에서 [BS1-035 솜사탕맛 쿠키]가 기절했다면 [BS1-035 솜사탕맛 쿠키]의 스킬을 사용하여 브레이크 에리어를 LV.9로 만들 수 있나요?",
+      "answer": "아니요. [BS1-035 솜사탕맛 쿠키]가 브레이크 에리어로 놓인 순간 브레이크 에리어는 LV.10이 되어 승패가 결정됩니다."
+    }
+  ]
 }
