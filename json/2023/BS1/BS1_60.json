@@ -13,7 +13,7 @@
   "attack": [
     {
       "cost": {
-        "mix": 3
+        "mix": 2
       },
       "text": "3대미지를 준다.",
       "damage": 3
