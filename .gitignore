@@ -11,3 +11,4 @@ tsconfig.json
 src
 db
 Pipfile
+shopLocation.json
