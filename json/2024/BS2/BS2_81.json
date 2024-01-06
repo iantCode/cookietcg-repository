@@ -10,7 +10,7 @@
   "hp": 0,
   "hasSkill": true,
   "skill": {
-    "condition": [],
+    "condition": ["manual"],
     "cost": {
       "purple": 1
     },
