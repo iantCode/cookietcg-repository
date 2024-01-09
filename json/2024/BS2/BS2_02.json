@@ -1,0 +1,35 @@
+{
+  "serial": "BS2-002",
+  "img": "images/2024/BS2/BS2_02.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["red"],
+  "name": "마카롱맛 쿠키",
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": { "red": 1 },
+    "text": "상대의 스테이지를 1장까지 트래시에 놓는다",
+    "effect": {
+      "stageTrash": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
