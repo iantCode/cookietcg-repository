@@ -1,0 +1,29 @@
+{
+  "serial": "BS2-053",
+  "img": "images/2024/BS2/BS2_53.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["purple"],
+  "name": "닌자맛 쿠키",
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 3
+      },
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

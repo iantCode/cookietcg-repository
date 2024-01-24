@@ -1,0 +1,28 @@
+{
+  "serial": "BS2-070",
+  "img": "images/2024/BS2/BS2_70.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["purple"],
+  "name": "키위맛 쿠키",
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "mix": 2
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

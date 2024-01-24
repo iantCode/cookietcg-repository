@@ -1,0 +1,36 @@
+{
+  "serial": "BS2-068",
+  "img": "images/2024/BS2/BS2_68.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["purple"],
+  "name": "크림 유니콘 쿠키",
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {},
+    "text": "《패를 1장 버린다》 자신의 트래시에서 <purple> 카드를 1장까지 패로 가져온다.",
+    "effect": {
+      "draw": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2,
+        "mix": 1
+      },
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

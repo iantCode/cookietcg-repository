@@ -1,0 +1,28 @@
+{
+  "serial": "BS2-050",
+  "img": "images/2024/BS2/BS2_50.png",
+  "type": "trap",
+  "level": 0,
+  "color": ["blue"],
+  "name": "소라빵게의 새집",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": "《패를 1장 버린다》 상대의 남은 HP가 3 이하인 쿠키를 1장까지 선택해서 덱의 아래로 되돌린다.",
+      "damage": 0
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

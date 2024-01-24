@@ -1,0 +1,35 @@
+{
+  "serial": "BS2-042",
+  "img": "images/2024/BS2/BS2_42.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["blue"],
+  "name": "우유맛 쿠키",
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "C",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

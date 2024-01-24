@@ -1,0 +1,29 @@
+{
+  "serial": "BS2-075",
+  "img": "images/2024/BS2/BS2_75.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["purple"],
+  "name": "화이트초코 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": "1대미지를 준다. 그리고 《<purple>로 사용할 수 있다》 상대의 쿠키가 LV.1이라면 3대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

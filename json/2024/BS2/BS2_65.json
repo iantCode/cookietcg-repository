@@ -1,0 +1,35 @@
+{
+  "serial": "BS2-065",
+  "img": "images/2024/BS2/BS2_65.png",
+  "type": "cookie",
+  "level": 3,
+  "color": ["purple"],
+  "name": "자색고구마맛 쿠키",
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {"purple": 1},
+    "text": "상대의 스테이지를 1장까지 트래시에 놓는다.",
+    "effect": {
+      "stageTrash": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 4
+      },
+      "text": "4대미지를 준다.",
+      "damage": 4
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

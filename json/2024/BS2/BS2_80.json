@@ -1,0 +1,28 @@
+{
+  "serial": "BS2-080",
+  "img": "images/2024/BS2/BS2_80.png",
+  "type": "trap",
+  "level": 0,
+  "color": ["purple"],
+  "name": "주인 잃은 구름 둥지",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": "자신의 트래시에 있는 카드가 15장 이상이라면 상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -3한다.",
+      "damage": 0
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,36 @@
+{
+  "serial": "BS2-067",
+  "img": "images/2024/BS2/BS2_67.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["purple"],
+  "name": "천사맛 쿠키",
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["blocker"],
+    "cost": {},
+    "text": "(상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.)",
+    "effect": {
+      "blocker": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1,
+        "mix": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

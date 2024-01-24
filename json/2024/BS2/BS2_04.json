@@ -1,0 +1,29 @@
+{
+  "serial": "BS2-004",
+  "img": "images/2024/BS2/BS2_04.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["red"],
+  "name": "체리맛 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": "1대미지를 준다. 그리고 《<red>로 사용할 수 있다》 상대의 쿠키가 LV.1이라면 3대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

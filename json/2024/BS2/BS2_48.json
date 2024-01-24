@@ -1,0 +1,28 @@
+{
+  "serial": "BS2-048",
+  "img": "images/2024/BS2/BS2_48.png",
+  "type": "item",
+  "level": 0,
+  "color": ["blue"],
+  "name": "젤리해파리 물약",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": "이 턴 중 기절한 상대의 쿠키 1장당 덱에서 1장까지 뽑는다.",
+      "damage": 0
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,28 @@
+{
+  "serial": "BS2-006",
+  "img": "images/2024/BS2/BS2_06.png",
+  "type": "item",
+  "level": 0,
+  "color": ["red"],
+  "name": "뾰족뾰족 선인장 글러브",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 자신의 쿠키 1장의 HP에서 2장 트래시에 놓는다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

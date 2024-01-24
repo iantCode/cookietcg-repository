@@ -1,0 +1,35 @@
+{
+  "serial": "BS2-037",
+  "img": "images/2024/BS2/BS2_37.png",
+  "type": "cookie",
+  "level": 3,
+  "color": ["blue"],
+  "name": "쇼콜라봉봉맛 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": "덱에서 1장 뽑을 수 있다.",
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "U",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

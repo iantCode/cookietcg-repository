@@ -1,0 +1,28 @@
+{
+  "serial": "BS2-078",
+  "img": "images/2024/BS2/BS2_78.png",
+  "type": "item",
+  "level": 0,
+  "color": ["purple"],
+  "name": "용의 숨결",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": "배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 트래시에 놓는다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,35 @@
+{
+  "serial": "BS2-074",
+  "img": "images/2024/BS2/BS2_74.png",
+  "type": "cookie",
+  "level": 2,
+  "color": ["purple"],
+  "name": "핑크초코 쿠키",
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": [],
+    "cost": {},
+    "text": "이 쿠키가 기절했을 때 상대의 배틀 에리어에 있는 LV.1의 쿠키를 1장까지 트래시에 놓는다.",
+    "effect": {
+      "kill": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

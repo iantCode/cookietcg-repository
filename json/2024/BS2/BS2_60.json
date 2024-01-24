@@ -1,0 +1,35 @@
+{
+  "serial": "BS2-060",
+  "img": "images/2024/BS2/BS2_60.png",
+  "type": "cookie",
+  "level": 1,
+  "color": ["purple"],
+  "name": "비트맛 쿠키",
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": [],
+    "cost": {},
+    "text": "이 쿠키가 기절했을 때 상대의 트래시에 있는 카드가 20장 이상이라면 덱에서 1장 뽑을 수 있다.",
+    "effect": {
+      "draw": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

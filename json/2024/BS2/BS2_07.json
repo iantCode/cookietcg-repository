@@ -1,0 +1,28 @@
+{
+  "serial": "BS2-007",
+  "img": "images/2024/BS2/BS2_07.png",
+  "type": "trap",
+  "level": 0,
+  "color": ["red"],
+  "name": "뾰족뾰족 선인장 방망이",
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": "《패에서 <red> 카드를 1장 버린다》 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
