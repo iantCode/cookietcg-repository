@@ -1,0 +1,40 @@
+{
+  "serial": "P-017",
+  "img": "images/2024/Promo/P_017.png",
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": "자색고구마맛 쿠키",
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "myTurn", "onceTurn"
+    ],
+    "cost": {
+    },
+    "text": "자신의 서포트 에리어에 있는 카드가 트래시에 놓였을 때 《<green>로 사용할 수 있다》 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다.",
+    "effect": {
+      "addSupport": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": "1대미지를 준다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.2",
+  "releaseDate": "2024-02-10",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

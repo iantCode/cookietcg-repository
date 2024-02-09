@@ -1,0 +1,40 @@
+{
+  "serial": "P-018",
+  "img": "images/2024/Promo/P_018.png",
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": "머스터드맛 쿠키",
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "myTurn", "appear"
+    ],
+    "cost": {
+    },
+    "text": "《패를 1장 버린다》 이 쿠키 이외의 모든 쿠키들에게 1대미지를 준다.",
+    "effect": {
+      "damage": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": "2대미지를 준다.",
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.2",
+  "releaseDate": "2024-02-10",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,31 @@
+{
+  "serial": "P-019",
+  "img": "images/2024/Promo/P_019.png",
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": "히어로맛 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": "1대미지를 준다. 그리고 자신의 트래시에 있는 FLIP을 가지지 않은 쿠키를 3장까지 선택하고 덱으로 되돌리고 섞는다.",
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.2",
+  "releaseDate": "2024-02-10",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
