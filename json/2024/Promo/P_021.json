@@ -1,0 +1,34 @@
+{
+  "serial": "P-021",
+  "img": "images/2024/Promo/P_021.png",
+  "type": "cookie",
+  "level": 3,
+  "color": ["purple"],
+  "name": "두리안 쿠키",
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": "3대미지를 준다.",
+      "damage": 3
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": { "handTrash": 1 },
+    "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "P",
+  "from": "프로모 카드 - 오리지널 스토리북 2권",
+  "releaseDate": "2024-02-08",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
