@@ -1,12 +1,16 @@
 {
   "serial": "ST4-016",
-  "img": "images/2023/ST4/ST4_16.png",
+  "img": {
+    "ko": "images/ko/2023/ST4/ST4_16.png"
+  },
   "type": "item",
   "level": 0,
   "color": [
     "blue"
   ],
-  "name": "곰젤리 아이스크림",
+  "name": {
+    "ko": "곰젤리 아이스크림"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "blue": 2
       },
-      "text": "자신의 남은 HP가 3 이상인 <blue> 쿠키를 1장 패로 되돌린다.",
+      "text": {
+        "ko": "자신의 남은 HP가 3 이상인 <blue> 쿠키를 1장 패로 되돌린다."
+      },
       "damage": 0
     }
   ],

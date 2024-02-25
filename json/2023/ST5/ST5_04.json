@@ -1,18 +1,24 @@
 {
   "serial": "ST5-004",
-  "img": "images/2023/ST5/ST5_04.png",
+  "img": {
+    "ko": "images/ko/2023/ST5/ST5_04.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "purple"
   ],
-  "name": "보더맛 쿠키",
+  "name": {
+    "ko": "보더맛 쿠키"
+  },
   "hp": 1,
   "hasSkill": true,
   "skill": {
     "condition": [],
     "cost": {},
-    "text": "이 쿠키가 기절했을 때 상대는 자신의 패를 1장 트래시에 놓는다.",
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 상대는 자신의 패를 1장 트래시에 놓는다."
+    },
     "effect": {
       "handTrash": 1
     }
@@ -22,7 +28,9 @@
       "cost": {
         "purple": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

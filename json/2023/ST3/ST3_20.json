@@ -1,10 +1,14 @@
 {
   "serial": "ST3-020",
-  "img": "images/2023/ST3/ST3_20.png",
+  "img": {
+    "ko": "images/ko/2023/ST3/ST3_20.png"
+  },
   "type": "trap",
   "level": 0,
   "color": "green",
-  "name": "신성한 빛의 결계",
+  "name": {
+    "ko": "신성한 빛의 결계"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +17,9 @@
       "cost": {
         "green": 2
       },
-      "text": "자신의 쿠키를 1장까지 선택한다. 이 배틀 중 그 쿠키의 HP는 0이 되지 않는다.",
+      "text": {
+        "ko": "자신의 쿠키를 1장까지 선택한다. 이 배틀 중 그 쿠키의 HP는 0이 되지 않는다."
+      },
       "damage": 0
     }
   ],

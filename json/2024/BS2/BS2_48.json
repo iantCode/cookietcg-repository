@@ -1,10 +1,16 @@
 {
   "serial": "BS2-048",
-  "img": "images/2024/BS2/BS2_48.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_48.png"
+  },
   "type": "item",
   "level": 0,
-  "color": ["blue"],
-  "name": "젤리해파리 물약",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "젤리해파리 물약"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +19,9 @@
       "cost": {
         "blue": 1
       },
-      "text": "이 턴 중 기절한 상대의 쿠키 1장당 덱에서 1장까지 뽑는다.",
+      "text": {
+        "ko": "이 턴 중 기절한 상대의 쿠키 1장당 덱에서 1장까지 뽑는다."
+      },
       "damage": 0
     }
   ],

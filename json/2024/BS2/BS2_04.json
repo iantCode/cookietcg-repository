@@ -1,20 +1,27 @@
 {
   "serial": "BS2-004",
-  "img": "images/2024/BS2/BS2_04.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_04.png"
+  },
   "type": "cookie",
   "level": 2,
-  "color": ["red"],
-  "name": "체리맛 쿠키",
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "체리맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "red": 1
       },
-      "text": "1대미지를 준다. 그리고 《<red>로 사용할 수 있다》 상대의 쿠키가 LV.1이라면 3대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다. 그리고 《<red>로 사용할 수 있다》 상대의 쿠키가 LV.1이라면 3대미지를 준다."
+      },
       "damage": 1
     }
   ],

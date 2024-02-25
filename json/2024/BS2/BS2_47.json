@@ -1,10 +1,16 @@
 {
   "serial": "BS2-047",
-  "img": "images/2024/BS2/BS2_47.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_47.png"
+  },
   "type": "item",
   "level": 0,
-  "color": ["blue"],
-  "name": "다이빙 고글",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "다이빙 고글"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +19,9 @@
       "cost": {
         "blue": 3
       },
-      "text": "《패를 3장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 2대미지를 준다.",
+      "text": {
+        "ko": "《패를 3장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 2대미지를 준다."
+      },
       "damage": 2
     }
   ],

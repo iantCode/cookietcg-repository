@@ -1,16 +1,26 @@
 {
   "serial": "BS2-022",
-  "img": "images/2024/BS2/BS2_22.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_22.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["blue"],
-  "name": "감초맛 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "감초맛 쿠키"
+  },
   "hp": 4,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
+    "condition": [
+      "appear"
+    ],
     "cost": {},
-    "text": "이 쿠키는 자신의 다음 턴 시작 시까지 효과에 의한 데미지를 받지 않는다.",
+    "text": {
+      "ko": "이 쿠키는 자신의 다음 턴 시작 시까지 효과에 의한 데미지를 받지 않는다."
+    },
     "effect": {
       "preventDamage": 1
     }
@@ -20,7 +30,9 @@
       "cost": {
         "blue": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],

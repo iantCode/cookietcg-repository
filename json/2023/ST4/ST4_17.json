@@ -1,12 +1,16 @@
 {
   "serial": "ST4-017",
-  "img": "images/2023/ST4/ST4_17.png",
+  "img": {
+    "ko": "images/ko/2023/ST4/ST4_17.png"
+  },
   "type": "item",
   "level": 0,
   "color": [
     "blue"
   ],
-  "name": "긴급 구조 튜브 도넛",
+  "name": {
+    "ko": "긴급 구조 튜브 도넛"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "blue": 1
       },
-      "text": "자신의 배틀 에리어에 있는 LV.1의 쿠키를 1장 패로 되돌린다.",
+      "text": {
+        "ko": "자신의 배틀 에리어에 있는 LV.1의 쿠키를 1장 패로 되돌린다."
+      },
       "damage": 0
     }
   ],

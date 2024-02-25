@@ -1,18 +1,24 @@
 {
   "serial": "ST4-010",
-  "img": "images/2023/ST4/ST4_10.png",
+  "img": {
+    "ko": "images/ko/2023/ST4/ST4_10.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "blue"
   ],
-  "name": "오징어먹물맛 쿠키",
+  "name": {
+    "ko": "오징어먹물맛 쿠키"
+  },
   "hp": 1,
   "hasSkill": true,
   "skill": {
     "condition": [],
     "cost": {},
-    "text": "이 쿠키가 기절했을 때 덱에서 1장 뽑을 수 있다.",
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 덱에서 1장 뽑을 수 있다."
+    },
     "effect": {
       "draw": 1
     }
@@ -22,7 +28,9 @@
       "cost": {
         "blue": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

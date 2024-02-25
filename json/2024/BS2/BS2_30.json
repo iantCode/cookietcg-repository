@@ -1,20 +1,27 @@
 {
   "serial": "BS2-030",
-  "img": "images/2024/BS2/BS2_30.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_30.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["blue"],
-  "name": "버블껌맛 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "버블껌맛 쿠키"
+  },
   "hp": 4,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "mix": 3
       },
-      "text": "4대미지를 준다.",
+      "text": {
+        "ko": "4대미지를 준다."
+      },
       "damage": 4
     }
   ],

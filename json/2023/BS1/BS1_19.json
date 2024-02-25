@@ -1,12 +1,16 @@
 {
   "serial": "BS1-019",
-  "img": "images/2023/BS1/BS1_19.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_19.png"
+  },
   "type": "cookie",
   "level": 3,
   "color": [
     "red"
   ],
-  "name": "호두맛 쿠키",
+  "name": {
+    "ko": "호두맛 쿠키"
+  },
   "hp": 4,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "mix": 3
       },
-      "text": "4대미지를 준다.",
+      "text": {
+        "ko": "4대미지를 준다."
+      },
       "damage": 4
     }
   ],

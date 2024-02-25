@@ -1,12 +1,16 @@
 {
   "serial": "ST1-019",
-  "img": "images/2023/ST1/ST1_19.png",
+  "img": {
+    "ko": "images/ko/2023/ST1/ST1_19.png"
+  },
   "type": "item",
   "level": 0,
   "color": [
     "red"
   ],
-  "name": "화끈한 젤리 덩어리",
+  "name": {
+    "ko": "화끈한 젤리 덩어리"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "red": 1
       },
-      "text": "자신의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다.",
+      "text": {
+        "ko": "자신의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다."
+      },
       "damageIncrease": 1
     }
   ],

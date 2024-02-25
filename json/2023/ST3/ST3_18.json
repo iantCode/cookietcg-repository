@@ -1,10 +1,14 @@
 {
   "serial": "ST3-018",
-  "img": "images/2023/ST3/ST3_18.png",
+  "img": {
+    "ko": "images/ko/2023/ST3/ST3_18.png"
+  },
   "type": "item",
   "level": 0,
   "color": "green",
-  "name": "생명력 듬뿍 담은 파슬리 차",
+  "name": {
+    "ko": "생명력 듬뿍 담은 파슬리 차"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +17,9 @@
       "cost": {
         "green": 2
       },
-      "text": "자신의 트래시에서 쿠키를 1장 등장시킨다.",
+      "text": {
+        "ko": "자신의 트래시에서 쿠키를 1장 등장시킨다."
+      },
       "damage": 0
     }
   ],

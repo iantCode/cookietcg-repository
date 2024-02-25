@@ -1,12 +1,16 @@
 {
   "serial": "BS1-058",
-  "img": "images/2023/BS1/BS1_58.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_58.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": [
     "green"
   ],
-  "name": "독버섯맛 쿠키",
+  "name": {
+    "ko": "독버섯맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": false,
   "skill": {
@@ -22,7 +26,9 @@
       "cost": {
         "green": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

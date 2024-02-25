@@ -1,16 +1,24 @@
 {
   "serial": "BS2-074",
-  "img": "images/2024/BS2/BS2_74.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_74.png"
+  },
   "type": "cookie",
   "level": 2,
-  "color": ["purple"],
-  "name": "핑크초코 쿠키",
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "핑크초코 쿠키"
+  },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "condition": [],
     "cost": {},
-    "text": "이 쿠키가 기절했을 때 상대의 배틀 에리어에 있는 LV.1의 쿠키를 1장까지 트래시에 놓는다.",
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 상대의 배틀 에리어에 있는 LV.1의 쿠키를 1장까지 트래시에 놓는다."
+    },
     "effect": {
       "kill": 1
     }
@@ -20,7 +28,9 @@
       "cost": {
         "purple": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

@@ -1,10 +1,14 @@
 {
   "serial": "ST3-021",
-  "img": "images/2023/ST3/ST3_21.png",
+  "img": {
+    "ko": "images/ko/2023/ST3/ST3_21.png"
+  },
   "type": "trap",
   "level": 0,
   "color": "green",
-  "name": "풀피리의 부름",
+  "name": {
+    "ko": "풀피리의 부름"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +17,9 @@
       "cost": {
         "green": 1
       },
-      "text": "이 배틀 중 자신의 <green> 쿠키가 기절한다면 자신의 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다.",
+      "text": {
+        "ko": "이 배틀 중 자신의 <green> 쿠키가 기절한다면 자신의 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다."
+      },
       "damage": 0
     }
   ],

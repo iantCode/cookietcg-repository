@@ -1,12 +1,16 @@
 {
   "serial": "BS1-018",
-  "img": "images/2023/BS1/BS1_18.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_18.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "red"
   ],
-  "name": "팝콘맛 쿠키",
+  "name": {
+    "ko": "팝콘맛 쿠키"
+  },
   "hp": 1,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "red": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],
@@ -24,7 +30,9 @@
     "condition": {
       "handTrash": 1
     },
-    "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+    "text": {
+      "ko": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+    },
     "effect": {
       "heal": 1
     }

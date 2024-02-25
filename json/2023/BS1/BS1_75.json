@@ -1,12 +1,16 @@
 {
   "serial": "BS1-075",
-  "img": "images/2023/BS1/BS1_75.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_75.png"
+  },
   "type": "item",
   "level": 0,
   "color": [
     "green"
   ],
-  "name": "방랑자의 사과파이",
+  "name": {
+    "ko": "방랑자의 사과파이"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "green": 2
       },
-      "text": "이 카드를 자신의 서포트 에리어에 레스트로 놓는다.",
+      "text": {
+        "ko": "이 카드를 자신의 서포트 에리어에 레스트로 놓는다."
+      },
       "addSupport": 1
     }
   ],

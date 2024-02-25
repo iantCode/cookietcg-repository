@@ -1,10 +1,14 @@
 {
   "serial": "ST2-019",
-  "img": "images/2023/ST2/ST2_19.png",
+  "img": {
+    "ko": "images/ko/2023/ST2/ST2_19.png"
+  },
   "type": "item",
   "level": 0,
   "color": "yellow",
-  "name": "영양 가득 꿀 폭탄",
+  "name": {
+    "ko": "영양 가득 꿀 폭탄"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +17,9 @@
       "cost": {
         "yellow": 2
       },
-      "text": "자신의 브레이크 에리어가 LV.6 이상이라면 자신의 쿠키를 모두 선택한다. 이 턴 중 그 쿠키들의 공격 대미지를 +1한다.",
+      "text": {
+        "ko": "자신의 브레이크 에리어가 LV.6 이상이라면 자신의 쿠키를 모두 선택한다. 이 턴 중 그 쿠키들의 공격 대미지를 +1한다."
+      },
       "damage": 0
     }
   ],

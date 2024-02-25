@@ -1,12 +1,16 @@
 {
   "serial": "BS1-048",
-  "img": "images/2023/BS1/BS1_48.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_48.png"
+  },
   "type": "item",
   "level": 0,
   "color": [
     "yellow"
   ],
-  "name": "테이프 젤리 폼폼",
+  "name": {
+    "ko": "테이프 젤리 폼폼"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "yellow": 3
       },
-      "text": "자신의 쿠키를 1장까지 선택한다. 그 쿠키는 이 턴 중 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키 2장당 공격 대미지를 +1한다.",
+      "text": {
+        "ko": "자신의 쿠키를 1장까지 선택한다. 그 쿠키는 이 턴 중 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키 2장당 공격 대미지를 +1한다."
+      },
       "damageIncrease": 1
     }
   ],

@@ -1,10 +1,14 @@
 {
   "serial": "ST3-005",
-  "img": "images/2023/ST3/ST3_05.png",
+  "img": {
+    "ko": "images/ko/2023/ST3/ST3_05.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": "green",
-  "name": "블랙베리맛 쿠키",
+  "name": {
+    "ko": "블랙베리맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": true,
   "skill": {
@@ -13,7 +17,9 @@
       "onceTurn"
     ],
     "cost": {},
-    "text": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+    "text": {
+      "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+    },
     "effect": {
       "damage": 1
     }
@@ -23,7 +29,9 @@
       "cost": {
         "green": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

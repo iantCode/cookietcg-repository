@@ -1,20 +1,27 @@
 {
   "serial": "BS2-075",
-  "img": "images/2024/BS2/BS2_75.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_75.png"
+  },
   "type": "cookie",
   "level": 2,
-  "color": ["purple"],
-  "name": "화이트초코 쿠키",
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "화이트초코 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "purple": 1
       },
-      "text": "1대미지를 준다. 그리고 《<purple>로 사용할 수 있다》 상대의 쿠키가 LV.1이라면 3대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다. 그리고 《<purple>로 사용할 수 있다》 상대의 쿠키가 LV.1이라면 3대미지를 준다."
+      },
       "damage": 1
     }
   ],

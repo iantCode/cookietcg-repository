@@ -1,27 +1,36 @@
 {
   "serial": "BS2-063",
-  "img": "images/2024/BS2/BS2_63.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_63.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["purple"],
-  "name": "에일리언 도넛",
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "에일리언 도넛"
+  },
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "purple": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],
   "hasFlip": true,
   "flip": {
     "condition": {},
-    "text": "《패를 1장 버린다》 자신의 브레이크 에리어가 LV.3 이상이라면 상대의 배틀 에리어에 있는 LV.2 이하의 쿠키 또는 스테이지를 1장 트래시에 놓는다.",
+    "text": {
+      "ko": "《패를 1장 버린다》 자신의 브레이크 에리어가 LV.3 이상이라면 상대의 배틀 에리어에 있는 LV.2 이하의 쿠키 또는 스테이지를 1장 트래시에 놓는다."
+    },
     "effect": {
       "kill": 1
     }

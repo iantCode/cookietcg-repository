@@ -1,10 +1,16 @@
 {
   "serial": "BS2-009",
-  "img": "images/2024/BS2/BS2_09.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_09.png"
+  },
   "type": "cookie",
   "level": 2,
-  "color": ["yellow"],
-  "name": "당근맛 쿠키",
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "당근맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": false,
   "skill": {},
@@ -13,14 +19,18 @@
       "cost": {
         "yellow": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],
   "hasFlip": true,
   "flip": {
     "condition": {},
-    "text": "덱에서 1장 뽑을 수 있다.",
+    "text": {
+      "ko": "덱에서 1장 뽑을 수 있다."
+    },
     "effect": {
       "draw": 1
     }

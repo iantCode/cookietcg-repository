@@ -1,10 +1,16 @@
 {
   "serial": "BS2-020",
-  "img": "images/2024/BS2/BS2_20.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_20.png"
+  },
   "type": "item",
   "level": 0,
-  "color": ["green"],
-  "name": "따뜻한 당근 젤리 수프",
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "따뜻한 당근 젤리 수프"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +19,9 @@
       "cost": {
         "green": 2
       },
-      "text": "자신의 <green> 쿠키를 1장까지 선택한다. 선택한 쿠키의 HP에서 1장 서포트 에리어에 레스트로 놓는다.",
+      "text": {
+        "ko": "자신의 <green> 쿠키를 1장까지 선택한다. 선택한 쿠키의 HP에서 1장 서포트 에리어에 레스트로 놓는다."
+      },
       "damage": 0
     }
   ],

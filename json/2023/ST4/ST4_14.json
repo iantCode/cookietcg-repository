@@ -1,12 +1,16 @@
 {
   "serial": "ST4-014",
-  "img": "images/2023/ST4/ST4_14.png",
+  "img": {
+    "ko": "images/ko/2023/ST4/ST4_14.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "blue"
   ],
-  "name": "피겨여왕맛 쿠키",
+  "name": {
+    "ko": "피겨여왕맛 쿠키"
+  },
   "hp": 1,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "blue": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],
@@ -24,7 +30,9 @@
     "condition": {
       "handTrash": 1
     },
-    "text": "덱에서 1장 뽑을 수 있다.",
+    "text": {
+      "ko": "덱에서 1장 뽑을 수 있다."
+    },
     "effect": {
       "draw": 1
     }

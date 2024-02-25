@@ -1,16 +1,28 @@
 {
   "serial": "BS2-011",
-  "img": "images/2024/BS2/BS2_11.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_11.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["yellow"],
-  "name": "블랙베리맛 쿠키",
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "블랙베리맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
-    "cost": { "yellow": 2 },
-    "text": "자신의 브레이크 에리어에 있는 <yellow> 쿠키를 LV.의 합이 LV.3이 되도록 선택한다. 그 쿠키들을 패로 되돌리고 이 쿠키를 자신의 브레이크 에리어에 놓는다.",
+    "condition": [
+      "appear"
+    ],
+    "cost": {
+      "yellow": 2
+    },
+    "text": {
+      "ko": "자신의 브레이크 에리어에 있는 <yellow> 쿠키를 LV.의 합이 LV.3이 되도록 선택한다. 그 쿠키들을 패로 되돌리고 이 쿠키를 자신의 브레이크 에리어에 놓는다."
+    },
     "effect": {
       "exchangeBreak": 3
     }
@@ -21,7 +33,9 @@
         "yellow": 2,
         "mix": 1
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

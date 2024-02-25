@@ -1,10 +1,16 @@
 {
   "serial": "BS2-034",
-  "img": "images/2024/BS2/BS2_34.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_34.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["blue"],
-  "name": "서리여왕 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "서리여왕 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
   "skill": {},
@@ -13,14 +19,18 @@
       "cost": {
         "blue": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],
   "hasFlip": true,
   "flip": {
     "condition": {},
-    "text": "자신의 브레이크 에리어가 LV.4 이상이라면 덱에서 2장까지 뽑을 수 있다.",
+    "text": {
+      "ko": "자신의 브레이크 에리어가 LV.4 이상이라면 덱에서 2장까지 뽑을 수 있다."
+    },
     "effect": {
       "draw": 2
     }

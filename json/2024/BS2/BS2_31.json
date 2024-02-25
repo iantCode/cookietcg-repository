@@ -1,16 +1,27 @@
 {
   "serial": "BS2-031",
-  "img": "images/2024/BS2/BS2_31.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_31.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["blue"],
-  "name": "블랙레이즌맛 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "블랙레이즌맛 쿠키"
+  },
   "hp": 5,
   "hasSkill": true,
   "skill": {
-    "condition": ["myTurn", "appear"],
-    "cost": {  },
-    "text": "《패를 3장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키 중 1장에게 2대미지를 주고 다른 1장에게 1대미지를 준다.",
+    "condition": [
+      "myTurn",
+      "appear"
+    ],
+    "cost": {},
+    "text": {
+      "ko": "《패를 3장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키 중 1장에게 2대미지를 주고 다른 1장에게 1대미지를 준다."
+    },
     "effect": {
       "damage": 3
     }
@@ -20,7 +31,9 @@
       "cost": {
         "blue": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],

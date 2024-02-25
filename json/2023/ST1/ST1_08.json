@@ -1,12 +1,16 @@
 {
   "serial": "ST1-008",
-  "img": "images/2023/ST1/ST1_08.png",
+  "img": {
+    "ko": "images/ko/2023/ST1/ST1_08.png"
+  },
   "type": "cookie",
   "level": 3,
   "color": [
     "red"
   ],
-  "name": "벚꽃맛 쿠키",
+  "name": {
+    "ko": "벚꽃맛 쿠키"
+  },
   "hp": 1,
   "hasSkill": true,
   "skill": {
@@ -17,7 +21,9 @@
     "cost": {
       "red": 2
     },
-    "text": "《이 카드를 레스트한다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다.",
+    "text": {
+      "ko": "《이 카드를 레스트한다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다."
+    },
     "effect": {
       "damage": 1
     }
@@ -27,7 +33,9 @@
       "cost": {
         "red": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

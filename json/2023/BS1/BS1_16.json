@@ -1,18 +1,24 @@
 {
   "serial": "BS1-016",
-  "img": "images/2023/BS1/BS1_16.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_16.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": [
     "red"
   ],
-  "name": "초코볼맛 쿠키",
+  "name": {
+    "ko": "초코볼맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "condition": [],
     "cost": {},
-    "text": "이 쿠키가 기절했을 때 자신의 패가 4장 이하라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 자신의 패가 4장 이하라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+    },
     "effect": {
       "damage": 1
     }
@@ -22,7 +28,9 @@
       "cost": {
         "red": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

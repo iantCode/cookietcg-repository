@@ -1,12 +1,16 @@
 {
   "serial": "ST1-014",
-  "img": "images/2023/ST1/ST1_14.png",
+  "img": {
+    "ko": "images/ko/2023/ST1/ST1_14.png"
+  },
   "type": "cookie",
   "level": 3,
   "color": [
     "red"
   ],
-  "name": "페페론치노맛 쿠키",
+  "name": {
+    "ko": "페페론치노맛 쿠키"
+  },
   "hp": 6,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "mix": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],

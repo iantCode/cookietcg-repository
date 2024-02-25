@@ -1,16 +1,24 @@
 {
   "serial": "BS2-043",
-  "img": "images/2024/BS2/BS2_43.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_43.png"
+  },
   "type": "cookie",
   "level": 2,
-  "color": ["blue"],
-  "name": "캡틴 아이스 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "캡틴 아이스 쿠키"
+  },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "condition": [],
     "cost": {},
-    "text": "이 쿠키가 기절했을 때 《패를 2장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다.",
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 《패를 2장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다."
+    },
     "effect": {
       "damageIncrease": 1
     }
@@ -20,7 +28,9 @@
       "cost": {
         "blue": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

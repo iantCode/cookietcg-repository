@@ -1,20 +1,27 @@
 {
   "serial": "BS2-016",
-  "img": "images/2024/BS2/BS2_16.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_16.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["green"],
-  "name": "머스터드맛 쿠키",
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "머스터드맛 쿠키"
+  },
   "hp": 1,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "mix": 1
       },
-      "text": "2대미지를 준다",
+      "text": {
+        "ko": "2대미지를 준다"
+      },
       "damage": 2
     }
   ],

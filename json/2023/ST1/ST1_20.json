@@ -1,12 +1,16 @@
 {
   "serial": "ST1-020",
-  "img": "images/2023/ST1/ST1_20.png",
+  "img": {
+    "ko": "images/ko/2023/ST1/ST1_20.png"
+  },
   "type": "trap",
   "level": 0,
   "color": [
     "red"
   ],
-  "name": "옴짝달싹 반죽늪",
+  "name": {
+    "ko": "옴짝달싹 반죽늪"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "red": 1
       },
-      "text": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -2한다.",
+      "text": {
+        "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -2한다."
+      },
       "damageDecrease": 2
     }
   ],

@@ -1,12 +1,16 @@
 {
   "serial": "BS1-065",
-  "img": "images/2023/BS1/BS1_65.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_65.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "green"
   ],
-  "name": "자두맛 쿠키",
+  "name": {
+    "ko": "자두맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "mix": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

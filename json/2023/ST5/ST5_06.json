@@ -1,12 +1,16 @@
 {
   "serial": "ST5-006",
-  "img": "images/2023/ST5/ST5_06.png",
+  "img": {
+    "ko": "images/ko/2023/ST5/ST5_06.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": [
     "purple"
   ],
-  "name": "스트링젤리맛 쿠키",
+  "name": {
+    "ko": "스트링젤리맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": true,
   "skill": {
@@ -16,7 +20,9 @@
     "cost": {
       "purple": 2
     },
-    "text": "상대의 배틀 에리어에 있는 LV.2 이하의 쿠키 또는 스테이지를 1장 트래시에 놓는다.",
+    "text": {
+      "ko": "상대의 배틀 에리어에 있는 LV.2 이하의 쿠키 또는 스테이지를 1장 트래시에 놓는다."
+    },
     "effect": {
       "kill": 1
     }
@@ -26,7 +32,9 @@
       "cost": {
         "purple": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

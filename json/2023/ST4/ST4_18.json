@@ -1,12 +1,16 @@
 {
   "serial": "ST4-018",
-  "img": "images/2023/ST4/ST4_18.png",
+  "img": {
+    "ko": "images/ko/2023/ST4/ST4_18.png"
+  },
   "type": "item",
   "level": 0,
   "color": [
     "blue"
   ],
-  "name": "행운의 진주",
+  "name": {
+    "ko": "행운의 진주"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "blue": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 0
     }
   ],

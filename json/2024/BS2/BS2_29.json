@@ -1,16 +1,27 @@
 {
   "serial": "BS2-029",
-  "img": "images/2024/BS2/BS2_29.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_29.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["blue"],
-  "name": "바다요정 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "바다요정 쿠키"
+  },
   "hp": 5,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual", "onceTurn"],
-    "cost": {  },
-    "text": "《패를 1장 버린다》 자신의 배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 패로 되돌린다.",
+    "condition": [
+      "manual",
+      "onceTurn"
+    ],
+    "cost": {},
+    "text": {
+      "ko": "《패를 1장 버린다》 자신의 배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 패로 되돌린다."
+    },
     "effect": {
       "return": 1
     }
@@ -20,7 +31,9 @@
       "cost": {
         "blue": 4
       },
-      "text": "4대미지를 준다.",
+      "text": {
+        "ko": "4대미지를 준다."
+      },
       "damage": 4
     }
   ],

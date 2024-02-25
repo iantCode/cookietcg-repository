@@ -1,12 +1,16 @@
 {
   "serial": "BS1-050",
-  "img": "images/2023/BS1/BS1_50.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_50.png"
+  },
   "type": "trap",
   "level": 0,
   "color": [
     "yellow"
   ],
-  "name": "부서진 이정표",
+  "name": {
+    "ko": "부서진 이정표"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "yellow": 1
       },
-      "text": "상대가 공격 대상으로 선택한 쿠키를 자신의 다른 쿠키로 변경한다.",
+      "text": {
+        "ko": "상대가 공격 대상으로 선택한 쿠키를 자신의 다른 쿠키로 변경한다."
+      },
       "damage": 1
     }
   ],

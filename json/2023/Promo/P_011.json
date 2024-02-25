@@ -1,18 +1,24 @@
 {
   "serial": "P-011",
-  "img": "images/2023/Promo/P_011.png",
+  "img": {
+    "ko": "images/ko/2023/Promo/P_011.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": [
     "green"
   ],
-  "name": "딸기맛 쿠키",
+  "name": {
+    "ko": "딸기맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "condition": [],
     "cost": {},
-    "text": "이 쿠키가 기절했을 때 자신의 서포트 에리어의 카드를 1장 패로 가져온다. 그리고 자신의 패에서 1장 서포트 에리어에 레스트로 놓는다.",
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 자신의 서포트 에리어의 카드를 1장 패로 가져온다. 그리고 자신의 패에서 1장 서포트 에리어에 레스트로 놓는다."
+    },
     "effect": {
       "draw": 1
     }
@@ -22,7 +28,9 @@
       "cost": {
         "green": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

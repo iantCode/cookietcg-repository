@@ -1,12 +1,16 @@
 {
   "serial": "P-006",
-  "img": "images/2023/Promo/P_006.png",
+  "img": {
+    "ko": "images/ko/2023/Promo/P_006.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "green"
   ],
-  "name": "좀비맛 쿠키",
+  "name": {
+    "ko": "좀비맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "mix": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

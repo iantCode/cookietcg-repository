@@ -1,12 +1,16 @@
 {
   "serial": "BS1-001",
-  "img": "images/2023/BS1/BS1_01.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_01.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "red"
   ],
-  "name": "고블린맛 쿠키",
+  "name": {
+    "ko": "고블린맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": true,
   "skill": {
@@ -14,7 +18,9 @@
       "appear"
     ],
     "cost": {},
-    "text": "《패를 1장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+    "text": {
+      "ko": "《패를 1장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+    },
     "effect": {
       "damage": 1
     }
@@ -25,7 +31,9 @@
         "red": 1,
         "mix": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

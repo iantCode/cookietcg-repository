@@ -1,16 +1,28 @@
 {
   "serial": "BS2-058",
-  "img": "images/2024/BS2/BS2_58.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_58.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["purple"],
-  "name": "바람궁수 쿠키",
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "바람궁수 쿠키"
+  },
   "hp": 5,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
-    "cost": { "purple": 1 },
-    "text": "상대의 배틀 에리어에 있는 LV.3 쿠키를 1장까지 트래시에 놓는다",
+    "condition": [
+      "appear"
+    ],
+    "cost": {
+      "purple": 1
+    },
+    "text": {
+      "ko": "상대의 배틀 에리어에 있는 LV.3 쿠키를 1장까지 트래시에 놓는다"
+    },
     "effect": {
       "kill": 1
     }
@@ -20,7 +32,9 @@
       "cost": {
         "purple": 4
       },
-      "text": "4대미지를 준다. 그리고 자신의 트래시에 있는 카드가 15장 이상이라면 1대미지를 준다.",
+      "text": {
+        "ko": "4대미지를 준다. 그리고 자신의 트래시에 있는 카드가 15장 이상이라면 1대미지를 준다."
+      },
       "damage": 4
     }
   ],

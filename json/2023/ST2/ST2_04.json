@@ -1,10 +1,14 @@
 {
   "serial": "ST2-004",
-  "img": "images/2023/ST2/ST2_04.png",
+  "img": {
+    "ko": "images/ko/2023/ST2/ST2_04.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": "yellow",
-  "name": "마카롱맛 쿠키",
+  "name": {
+    "ko": "마카롱맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": true,
   "skill": {
@@ -14,7 +18,9 @@
     "cost": {
       "yellow": 1
     },
-    "text": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다.",
+    "text": {
+      "ko": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
+    },
     "effect": {
       "heal": 1
     }
@@ -24,7 +30,9 @@
       "cost": {
         "yellow": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

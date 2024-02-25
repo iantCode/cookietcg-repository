@@ -1,16 +1,28 @@
 {
   "serial": "BS2-055",
-  "img": "images/2024/BS2/BS2_55.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_55.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["purple"],
-  "name": "독버섯맛 쿠키",
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "독버섯맛 쿠키"
+  },
   "hp": 5,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
-    "cost": { "purple": 1 },
-    "text": "서로의 배틀 에리어에 있는 LV.2 이하의 쿠키를 모두 트래시에 놓는다.",
+    "condition": [
+      "appear"
+    ],
+    "cost": {
+      "purple": 1
+    },
+    "text": {
+      "ko": "서로의 배틀 에리어에 있는 LV.2 이하의 쿠키를 모두 트래시에 놓는다."
+    },
     "effect": {
       "kill": 1
     }
@@ -20,7 +32,9 @@
       "cost": {
         "purple": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],

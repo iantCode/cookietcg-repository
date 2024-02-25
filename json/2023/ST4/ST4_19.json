@@ -1,12 +1,16 @@
 {
   "serial": "ST4-019",
-  "img": "images/2023/ST4/ST4_19.png",
+  "img": {
+    "ko": "images/ko/2023/ST4/ST4_19.png"
+  },
   "type": "item",
   "level": 0,
   "color": [
     "blue"
   ],
-  "name": "호박당 램프",
+  "name": {
+    "ko": "호박당 램프"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "blue": 1
       },
-      "text": "자신의 패를 모두 덱으로 되돌리고 섞는다. 그리고 패를 되돌린 장수만큼 덱에서 뽑는다.",
+      "text": {
+        "ko": "자신의 패를 모두 덱으로 되돌리고 섞는다. 그리고 패를 되돌린 장수만큼 덱에서 뽑는다."
+      },
       "damage": 0
     }
   ],

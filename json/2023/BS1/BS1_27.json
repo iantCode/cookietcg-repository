@@ -1,12 +1,16 @@
 {
   "serial": "BS1-027",
-  "img": "images/2023/BS1/BS1_27.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_27.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": [
     "yellow"
   ],
-  "name": "구슬아이스맛 쿠키",
+  "name": {
+    "ko": "구슬아이스맛 쿠키"
+  },
   "hp": 4,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "mix": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],

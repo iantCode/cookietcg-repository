@@ -1,10 +1,14 @@
 {
   "serial": "ST2-015",
-  "img": "images/2023/ST2/ST2_15.png",
+  "img": {
+    "ko": "images/ko/2023/ST2/ST2_15.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": "yellow",
-  "name": "히어로맛 쿠키",
+  "name": {
+    "ko": "히어로맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
   "skill": {},
@@ -14,7 +18,9 @@
         "yellow": 2,
         "mix": 2
       },
-      "text": "3대미지를 준다. 그리고 상대의 LV.1 이하의 쿠키를 1장까지 선택한다. 그 쿠키는 다음 턴에 공격할 수 없다.",
+      "text": {
+        "ko": "3대미지를 준다. 그리고 상대의 LV.1 이하의 쿠키를 1장까지 선택한다. 그 쿠키는 다음 턴에 공격할 수 없다."
+      },
       "damage": 3
     }
   ],

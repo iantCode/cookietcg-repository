@@ -1,12 +1,16 @@
 {
   "serial": "ST4-008",
-  "img": "images/2023/ST4/ST4_08.png",
+  "img": {
+    "ko": "images/ko/2023/ST4/ST4_08.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": [
     "blue"
   ],
-  "name": "소다맛 쿠키",
+  "name": {
+    "ko": "소다맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": true,
   "skill": {
@@ -14,7 +18,9 @@
       "appear"
     ],
     "cost": {},
-    "text": "덱에서 1장 뽑을 수 있다.",
+    "text": {
+      "ko": "덱에서 1장 뽑을 수 있다."
+    },
     "effect": {
       "draw": 1
     }
@@ -24,7 +30,9 @@
       "cost": {
         "blue": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

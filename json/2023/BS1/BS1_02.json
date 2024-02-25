@@ -1,12 +1,16 @@
 {
   "serial": "BS1-002",
-  "img": "images/2023/BS1/BS1_02.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_02.png"
+  },
   "type": "cookie",
   "level": 3,
   "color": [
     "red"
   ],
-  "name": "구미호맛 쿠키",
+  "name": {
+    "ko": "구미호맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "red": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],
@@ -24,7 +30,9 @@
     "condition": {
       "handTrash": 1
     },
-    "text": "《패를 1장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+    "text": {
+      "ko": "《패를 1장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+    },
     "effect": {
       "damage": 1
     }

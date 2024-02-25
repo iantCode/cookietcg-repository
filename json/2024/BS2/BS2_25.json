@@ -1,16 +1,24 @@
 {
   "serial": "BS2-025",
-  "img": "images/2024/BS2/BS2_25.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_25.png"
+  },
   "type": "cookie",
   "level": 1,
-  "color": ["blue"],
-  "name": "망고맛 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "망고맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "condition": [],
     "cost": {},
-    "text": "이 쿠키가 기절했을 때 덱에서 1장 뽑을 수 있다. 뽑았다면 패를 1장 버린다.",
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 덱에서 1장 뽑을 수 있다. 뽑았다면 패를 1장 버린다."
+    },
     "effect": {
       "draw": 1
     }
@@ -20,7 +28,9 @@
       "cost": {
         "blue": 2
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

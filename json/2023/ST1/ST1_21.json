@@ -1,12 +1,16 @@
 {
   "serial": "ST1-021",
-  "img": "images/2023/ST1/ST1_21.png",
+  "img": {
+    "ko": "images/ko/2023/ST1/ST1_21.png"
+  },
   "type": "trap",
   "level": 0,
   "color": [
     "red"
   ],
-  "name": "잘못 밟은 별사탕",
+  "name": {
+    "ko": "잘못 밟은 별사탕"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "red": 2
       },
-      "text": "상대의 남은 HP가 1인 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+      "text": {
+        "ko": "상대의 남은 HP가 1인 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
       "damage": 1
     }
   ],

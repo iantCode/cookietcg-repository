@@ -1,20 +1,27 @@
 {
   "serial": "BS2-059",
-  "img": "images/2024/BS2/BS2_59.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_59.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["purple"],
-  "name": "벛꽃맛 쿠키",
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "벛꽃맛 쿠키"
+  },
   "hp": 4,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "mix": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

@@ -1,12 +1,16 @@
 {
   "serial": "ST1-018",
-  "img": "images/2023/ST1/ST1_18.png",
+  "img": {
+    "ko": "images/ko/2023/ST1/ST1_18.png"
+  },
   "type": "item",
   "level": 0,
   "color": [
     "red"
   ],
-  "name": "슈거범벅 달팽이 캔디",
+  "name": {
+    "ko": "슈거범벅 달팽이 캔디"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "red": 3
       },
-      "text": "자신의 남은 HP가 1인 쿠키를 1장까지 선택한다. 그 쿠키는 상대의 다음 턴에 받는 모든 공격 대미지를 -2한다",
+      "text": {
+        "ko": "자신의 남은 HP가 1인 쿠키를 1장까지 선택한다. 그 쿠키는 상대의 다음 턴에 받는 모든 공격 대미지를 -2한다"
+      },
       "damageDecrease": 2
     }
   ],

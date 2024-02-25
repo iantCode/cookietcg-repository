@@ -1,10 +1,14 @@
 {
   "serial": "ST2-021",
-  "img": "images/2023/ST2/ST2_21.png",
+  "img": {
+    "ko": "images/ko/2023/ST2/ST2_21.png"
+  },
   "type": "trap",
   "level": 0,
   "color": "yellow",
-  "name": "프레첼 덪",
+  "name": {
+    "ko": "프레첼 덪"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +17,9 @@
       "cost": {
         "yellow": 2
       },
-      "text": "상대의 쿠키가 4대미지 이상으로 공격했을 때 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+      "text": {
+        "ko": "상대의 쿠키가 4대미지 이상으로 공격했을 때 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
       "damage": 0
     }
   ],

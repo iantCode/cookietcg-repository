@@ -1,10 +1,14 @@
 {
   "serial": "ST2-001",
-  "img": "images/2023/ST2/ST2_01.png",
+  "img": {
+    "ko": "images/ko/2023/ST2/ST2_01.png"
+  },
   "type": "cookie",
   "level": 3,
   "color": "yellow",
-  "name": "괴도맛 쿠키",
+  "name": {
+    "ko": "괴도맛 쿠키"
+  },
   "hp": 6,
   "hasSkill": true,
   "skill": {
@@ -14,7 +18,9 @@
     "cost": {
       "yellow": 1
     },
-    "text": "상대는 자신의 패를 1장 트래시에 놓는다.",
+    "text": {
+      "ko": "상대는 자신의 패를 1장 트래시에 놓는다."
+    },
     "effect": {
       "handTrash": 1
     }
@@ -25,7 +31,9 @@
         "yellow": 3,
         "mix": 1
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],

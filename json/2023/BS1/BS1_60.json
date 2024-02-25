@@ -1,12 +1,16 @@
 {
   "serial": "BS1-060",
-  "img": "images/2023/BS1/BS1_60.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_60.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": [
     "green"
   ],
-  "name": "버터베어맛 쿠키",
+  "name": {
+    "ko": "버터베어맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "mix": 2
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],

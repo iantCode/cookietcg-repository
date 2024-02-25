@@ -1,10 +1,14 @@
 {
   "serial": "ST3-016",
-  "img": "images/2023/ST3/ST3_16.png",
+  "img": {
+    "ko": "images/ko/2023/ST3/ST3_16.png"
+  },
   "type": "item",
   "level": 0,
   "color": "green",
-  "name": "고대 치유사의 보살핌",
+  "name": {
+    "ko": "고대 치유사의 보살핌"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +17,9 @@
       "cost": {
         "green": 3
       },
-      "text": "자신의 배틀 에리어에 있는 LV.2 이하의 쿠키를 1장 서포트 에리어에 액티브로 놓는다.",
+      "text": {
+        "ko": "자신의 배틀 에리어에 있는 LV.2 이하의 쿠키를 1장 서포트 에리어에 액티브로 놓는다."
+      },
       "damage": 0
     }
   ],

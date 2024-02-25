@@ -1,12 +1,16 @@
 {
   "serial": "ST1-010",
-  "img": "images/2023/ST1/ST1_10.png",
+  "img": {
+    "ko": "images/ko/2023/ST1/ST1_10.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "red"
   ],
-  "name": "연금술사맛 쿠키",
+  "name": {
+    "ko": "연금술사맛 쿠키"
+  },
   "hp": 1,
   "hasSkill": true,
   "skill": {
@@ -16,7 +20,9 @@
     "cost": {
       "red": 3
     },
-    "text": "상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다.",
+    "text": {
+      "ko": "상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다."
+    },
     "effect": {
       "damage": 1
     }
@@ -27,7 +33,9 @@
         "red": 1,
         "mix": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

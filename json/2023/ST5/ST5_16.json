@@ -1,12 +1,16 @@
 {
   "serial": "ST5-016",
-  "img": "images/2023/ST5/ST5_16.png",
+  "img": {
+    "ko": "images/ko/2023/ST5/ST5_16.png"
+  },
   "type": "item",
   "level": 0,
   "color": [
     "purple"
   ],
-  "name": "보너스 코인",
+  "name": {
+    "ko": "보너스 코인"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "purple": 1
       },
-      "text": "상대의 트래시에 있는 카드가 30장 이상이라면 덱에서 2장까지 뽑을 수 있다.",
+      "text": {
+        "ko": "상대의 트래시에 있는 카드가 30장 이상이라면 덱에서 2장까지 뽑을 수 있다."
+      },
       "damage": 0
     }
   ],

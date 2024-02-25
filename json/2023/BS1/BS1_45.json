@@ -1,12 +1,16 @@
 {
   "serial": "BS1-045",
-  "img": "images/2023/BS1/BS1_45.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_45.png"
+  },
   "type": "cookie",
   "level": 3,
   "color": [
     "yellow"
   ],
-  "name": "폭죽맛 쿠키",
+  "name": {
+    "ko": "폭죽맛 쿠키"
+  },
   "hp": 4,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "mix": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

@@ -1,16 +1,24 @@
 {
   "serial": "BS1-035",
-  "img": "images/2023/BS1/BS1_35.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_35.png"
+  },
   "type": "cookie",
   "level": 2,
-  "color": ["yellow"],
-  "name": "솜사탕맛 쿠키",
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "솜사탕맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "condition": [],
     "cost": {},
-    "text": "이 쿠키가 기절했을 때 《<yellow>로 사용할 수 있다》 자신의 브레이크 에리어에 있는 LV.1의 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다.",
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 《<yellow>로 사용할 수 있다》 자신의 브레이크 에리어에 있는 LV.1의 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다."
+    },
     "effect": {
       "removeBreak": 1
     }
@@ -20,7 +28,9 @@
       "cost": {
         "yellow": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

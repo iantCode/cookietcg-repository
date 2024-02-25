@@ -1,12 +1,16 @@
 {
   "serial": "ST1-015",
-  "img": "images/2023/ST1/ST1_15.png",
+  "img": {
+    "ko": "images/ko/2023/ST1/ST1_15.png"
+  },
   "type": "cookie",
   "level": 3,
   "color": [
     "red"
   ],
-  "name": "피스타치오맛 쿠키",
+  "name": {
+    "ko": "피스타치오맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "red": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],
@@ -24,7 +30,9 @@
     "condition": {
       "handTrash": 1
     },
-    "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+    "text": {
+      "ko": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+    },
     "effect": {
       "heal": 1
     }

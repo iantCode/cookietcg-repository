@@ -1,20 +1,27 @@
 {
   "serial": "BS2-041",
-  "img": "images/2024/BS2/BS2_41.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_41.png"
+  },
   "type": "cookie",
   "level": 2,
-  "color": ["blue"],
-  "name": "에그노스맛 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "에그노스맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "mix": 2
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],

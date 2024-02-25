@@ -1,27 +1,36 @@
 {
   "serial": "BS2-037",
-  "img": "images/2024/BS2/BS2_37.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_37.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["blue"],
-  "name": "쇼콜라봉봉맛 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "쇼콜라봉봉맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "blue": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],
   "hasFlip": true,
   "flip": {
     "condition": {},
-    "text": "덱에서 1장 뽑을 수 있다.",
+    "text": {
+      "ko": "덱에서 1장 뽑을 수 있다."
+    },
     "effect": {
       "draw": 1
     }

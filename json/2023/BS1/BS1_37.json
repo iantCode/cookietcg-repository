@@ -1,18 +1,28 @@
 {
   "serial": "BS1-037",
-  "img": "images/2023/BS1/BS1_37.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_37.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["yellow"],
-  "name": "시간지기 쿠키",
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "시간지기 쿠키"
+  },
   "hp": 5,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
+    "condition": [
+      "appear"
+    ],
     "cost": {
       "yellow": 2
     },
-    "text": "《패를 1장 버린다》 자신의 브레이크 에리어의 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다.",
+    "text": {
+      "ko": "《패를 1장 버린다》 자신의 브레이크 에리어의 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다."
+    },
     "effect": {
       "damage": 1
     }
@@ -22,7 +32,9 @@
       "cost": {
         "yellow": 3
       },
-      "text": "3대미지를 준다. 그리고 《<yellow>로 사용할 수 있다》 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다.",
+      "text": {
+        "ko": "3대미지를 준다. 그리고 《<yellow>로 사용할 수 있다》 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다."
+      },
       "damage": 3
     }
   ],

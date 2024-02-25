@@ -1,12 +1,16 @@
 {
   "serial": "BS1-025",
-  "img": "images/2023/BS1/BS1_25.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_25.png"
+  },
   "type": "trap",
   "level": 0,
   "color": [
     "red"
   ],
-  "name": "파인애플 헬멧",
+  "name": {
+    "ko": "파인애플 헬멧"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "red": 1
       },
-      "text": "자신의 남은 HP가 1인 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+      "text": {
+        "ko": "자신의 남은 HP가 1인 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
       "damage": 1
     }
   ],

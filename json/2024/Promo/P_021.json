@@ -1,10 +1,16 @@
 {
   "serial": "P-021",
-  "img": "images/2024/Promo/P_021.png",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_021.png"
+  },
   "type": "cookie",
   "level": 3,
-  "color": ["purple"],
-  "name": "두리안 쿠키",
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "두리안 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
   "skill": {},
@@ -13,14 +19,20 @@
       "cost": {
         "purple": 3
       },
-      "text": "3대미지를 준다.",
+      "text": {
+        "ko": "3대미지를 준다."
+      },
       "damage": 3
     }
   ],
   "hasFlip": true,
   "flip": {
-    "condition": { "handTrash": 1 },
-    "text": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+    "condition": {
+      "handTrash": 1
+    },
+    "text": {
+      "ko": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+    },
     "effect": {
       "heal": 1
     }

@@ -1,10 +1,16 @@
 {
   "serial": "BS2-050",
-  "img": "images/2024/BS2/BS2_50.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_50.png"
+  },
   "type": "trap",
   "level": 0,
-  "color": ["blue"],
-  "name": "소라빵게의 새집",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "소라빵게의 새집"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +19,9 @@
       "cost": {
         "blue": 3
       },
-      "text": "《패를 1장 버린다》 상대의 남은 HP가 3 이하인 쿠키를 1장까지 선택해서 덱의 아래로 되돌린다.",
+      "text": {
+        "ko": "《패를 1장 버린다》 상대의 남은 HP가 3 이하인 쿠키를 1장까지 선택해서 덱의 아래로 되돌린다."
+      },
       "damage": 0
     }
   ],

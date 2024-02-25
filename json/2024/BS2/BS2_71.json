@@ -1,16 +1,28 @@
 {
   "serial": "BS2-071",
-  "img": "images/2024/BS2/BS2_71.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_71.png"
+  },
   "type": "cookie",
   "level": 1,
-  "color": ["purple"],
-  "name": "트위즐젤리맛 쿠키",
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "트위즐젤리맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual"],
-    "cost": {"purple": 1},
-    "text": "《이 쿠키를 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+    "condition": [
+      "manual"
+    ],
+    "cost": {
+      "purple": 1
+    },
+    "text": {
+      "ko": "《이 쿠키를 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+    },
     "effect": {
       "kill": 1
     }
@@ -20,7 +32,9 @@
       "cost": {
         "purple": 2
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

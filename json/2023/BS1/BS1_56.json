@@ -1,12 +1,16 @@
 {
   "serial": "BS1-056",
-  "img": "images/2023/BS1/BS1_56.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_56.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": [
     "green"
   ],
-  "name": "달토끼맛 쿠키",
+  "name": {
+    "ko": "달토끼맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": true,
   "skill": {
@@ -16,7 +20,9 @@
     "cost": {
       "green": 2
     },
-    "text": "자신의 배틀 에리어의 LV.2 이하의 다른 쿠키를 1장까지 선택한다. 그 쿠키를 서포트 에리어에 액티브로 놓는다.",
+    "text": {
+      "ko": "자신의 배틀 에리어의 LV.2 이하의 다른 쿠키를 1장까지 선택한다. 그 쿠키를 서포트 에리어에 액티브로 놓는다."
+    },
     "effect": {
       "addCookie": 1
     }
@@ -26,7 +32,9 @@
       "cost": {
         "green": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

@@ -1,12 +1,16 @@
 {
   "serial": "ST5-003",
-  "img": "images/2023/ST5/ST5_03.png",
+  "img": {
+    "ko": "images/ko/2023/ST5/ST5_03.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "purple"
   ],
-  "name": "무화과맛 쿠키",
+  "name": {
+    "ko": "무화과맛 쿠키"
+  },
   "hp": 1,
   "hasSkill": false,
   "skill": {},
@@ -15,14 +19,18 @@
       "cost": {
         "purple": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],
   "hasFlip": true,
   "flip": {
     "condition": {},
-    "text": "덱에서 1장 뽑을 수 있다.",
+    "text": {
+      "ko": "덱에서 1장 뽑을 수 있다."
+    },
     "effect": {
       "draw": 1
     }

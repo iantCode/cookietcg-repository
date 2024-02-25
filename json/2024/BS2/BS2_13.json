@@ -1,10 +1,16 @@
 {
   "serial": "BS2-013",
-  "img": "images/2024/BS2/BS2_13.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_13.png"
+  },
   "type": "item",
   "level": 0,
-  "color": ["yellow"],
-  "name": "태엽 장치 회중시계",
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "태엽 장치 회중시계"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +19,9 @@
       "cost": {
         "yellow": 2
       },
-      "text": "자신의 배틀 에리어에 있는 쿠키를 1장 브레이크 에리어에 놓고 자신의 브레이크 에리어에 있는 LV.1의 쿠키를 1장까지 등장시킨다.",
+      "text": {
+        "ko": "자신의 배틀 에리어에 있는 쿠키를 1장 브레이크 에리어에 놓고 자신의 브레이크 에리어에 있는 LV.1의 쿠키를 1장까지 등장시킨다."
+      },
       "damage": 0
     }
   ],

@@ -1,16 +1,27 @@
 {
   "serial": "BS2-033",
-  "img": "images/2024/BS2/BS2_33.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_33.png"
+  },
   "type": "cookie",
   "level": 2,
-  "color": ["blue"],
-  "name": "샤벳상어맛 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "샤벳상어맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": true,
   "skill": {
-    "condition": ["manual", "onceTurn"],
-    "cost": {  },
-    "text": "《패를 1장 버린다》 이 쿠키를 액티브로 한다.",
+    "condition": [
+      "manual",
+      "onceTurn"
+    ],
+    "cost": {},
+    "text": {
+      "ko": "《패를 1장 버린다》 이 쿠키를 액티브로 한다."
+    },
     "effect": {
       "makeActive": 1
     }
@@ -21,7 +32,9 @@
         "blue": 2,
         "mix": 1
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],

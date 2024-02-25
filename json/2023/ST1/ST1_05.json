@@ -1,12 +1,16 @@
 {
   "serial": "ST1-005",
-  "img": "images/2023/ST1/ST1_05.png",
+  "img": {
+    "ko": "images/ko/2023/ST1/ST1_05.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "red"
   ],
-  "name": "대파맛 쿠키",
+  "name": {
+    "ko": "대파맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "mix": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

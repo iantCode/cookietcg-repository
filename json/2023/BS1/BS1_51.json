@@ -1,12 +1,16 @@
 {
   "serial": "BS1-051",
-  "img": "images/2023/BS1/BS1_51.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_51.png"
+  },
   "type": "trap",
   "level": 0,
   "color": [
     "yellow"
   ],
-  "name": "활력 듬뿍 젤리 바",
+  "name": {
+    "ko": "활력 듬뿍 젤리 바"
+  },
   "hp": 0,
   "hasSkill": false,
   "skill": {},
@@ -15,7 +19,9 @@
       "cost": {
         "yellow": 1
       },
-      "text": "자신의 쿠키를 1장까지 선택한다 그 쿠키의 HP를 +1한다.",
+      "text": {
+        "ko": "자신의 쿠키를 1장까지 선택한다 그 쿠키의 HP를 +1한다."
+      },
       "damage": 1
     }
   ],

@@ -1,10 +1,16 @@
 {
   "serial": "BS2-045",
-  "img": "images/2024/BS2/BS2_45.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_45.png"
+  },
   "type": "cookie",
   "level": 1,
-  "color": ["blue"],
-  "name": "파르페맛 쿠키",
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "파르페맛 쿠키"
+  },
   "hp": 2,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +19,9 @@
       "cost": {
         "blue": 1
       },
-      "text": "1대미지를 준다. 그리고 자신의 패가 6장 이하라면 덱에서 1장 뽑을 수 있다.",
+      "text": {
+        "ko": "1대미지를 준다. 그리고 자신의 패가 6장 이하라면 덱에서 1장 뽑을 수 있다."
+      },
       "damage": 1
     }
   ],

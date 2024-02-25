@@ -1,12 +1,16 @@
 {
   "serial": "BS1-031",
-  "img": "images/2023/BS1/BS1_31.png",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_31.png"
+  },
   "type": "cookie",
   "level": 1,
   "color": [
     "yellow"
   ],
-  "name": "마시멜로맛 쿠키",
+  "name": {
+    "ko": "마시멜로맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": true,
   "skill": {
@@ -16,7 +20,9 @@
     "cost": {
       "yellow": 1
     },
-    "text": "상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.",
+    "text": {
+      "ko": "상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다."
+    },
     "effect": {
       "redirection": 1
     }
@@ -27,7 +33,9 @@
         "yellow": 1,
         "mix": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

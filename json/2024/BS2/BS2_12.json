@@ -1,16 +1,28 @@
 {
   "serial": "BS2-012",
-  "img": "images/2024/BS2/BS2_12.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_12.png"
+  },
   "type": "cookie",
   "level": 1,
-  "color": ["yellow"],
-  "name": "양파맛 쿠키",
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "양파맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
-    "cost": { "yellow": 1 },
-    "text": "상대의 스테이지를 1장까지 트래시에 놓는다.",
+    "condition": [
+      "appear"
+    ],
+    "cost": {
+      "yellow": 1
+    },
+    "text": {
+      "ko": "상대의 스테이지를 1장까지 트래시에 놓는다."
+    },
     "effect": {
       "trashStage": 1
     }
@@ -20,7 +32,9 @@
       "cost": {
         "yellow": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

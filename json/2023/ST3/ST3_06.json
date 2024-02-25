@@ -1,10 +1,14 @@
 {
   "serial": "ST3-006",
-  "img": "images/2023/ST3/ST3_06.png",
+  "img": {
+    "ko": "images/ko/2023/ST3/ST3_06.png"
+  },
   "type": "cookie",
   "level": 2,
   "color": "green",
-  "name": "비트맛 쿠키",
+  "name": {
+    "ko": "비트맛 쿠키"
+  },
   "hp": 3,
   "hasSkill": false,
   "skill": {},
@@ -13,7 +17,9 @@
       "cost": {
         "mix": 1
       },
-      "text": "1대미지를 준다.",
+      "text": {
+        "ko": "1대미지를 준다."
+      },
       "damage": 1
     }
   ],

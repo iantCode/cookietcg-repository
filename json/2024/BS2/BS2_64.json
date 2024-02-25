@@ -1,16 +1,26 @@
 {
   "serial": "BS2-064",
-  "img": "images/2024/BS2/BS2_64.png",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_64.png"
+  },
   "type": "cookie",
   "level": 2,
-  "color": ["purple"],
-  "name": "연금술사맛 쿠키",
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "연금술사맛 쿠키"
+  },
   "hp": 1,
   "hasSkill": true,
   "skill": {
-    "condition": ["appear"],
+    "condition": [
+      "appear"
+    ],
     "cost": {},
-    "text": "상대의 배틀 에리어에 있는 남은 HP가 2 이하인 쿠키를 1장까지 트래시에 놓는다.",
+    "text": {
+      "ko": "상대의 배틀 에리어에 있는 남은 HP가 2 이하인 쿠키를 1장까지 트래시에 놓는다."
+    },
     "effect": {
       "kill": 1
     }
@@ -20,7 +30,9 @@
       "cost": {
         "purple": 2
       },
-      "text": "2대미지를 준다.",
+      "text": {
+        "ko": "2대미지를 준다."
+      },
       "damage": 2
     }
   ],
