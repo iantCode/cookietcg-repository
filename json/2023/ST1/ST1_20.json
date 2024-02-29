@@ -1,7 +1,8 @@
 {
   "serial": "ST1-020",
   "img": {
-    "ko": "images/ko/2023/ST1/ST1_20.png"
+    "ko": "images/ko/2023/ST1/ST1_20.png",
+    "zh-TW": "images/zh-TW/2024/ST1/ST1_20.png"
   },
   "type": "trap",
   "level": 0,
@@ -9,7 +10,8 @@
     "red"
   ],
   "name": {
-    "ko": "옴짝달싹 반죽늪"
+    "ko": "옴짝달싹 반죽늪",
+    "zh-TW": "泥濘的麵團沼澤"
   },
   "hp": 0,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "red": 1
       },
       "text": {
-        "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -2한다."
+        "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -2한다.",
+        "zh-TW": "選擇最多1個對手的餅乾。在這個回合中, 它的攻擊傷害-2點。"
       },
       "damageDecrease": 2
     }
@@ -29,6 +32,7 @@
   "flip": {},
   "rarity": "U",
   "from": "스타터 덱 [썬키스드]",
+  "illust": "Steve Jang",
   "releaseDate": "2023-09-01",
   "regulation": "A",
   "limit": 4,

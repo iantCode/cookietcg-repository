@@ -1,7 +1,8 @@
 {
   "serial": "ST1-008",
   "img": {
-    "ko": "images/ko/2023/ST1/ST1_08.png"
+    "ko": "images/ko/2023/ST1/ST1_08.png",
+    "zh-TW": "images/zh-TW/2024/ST1/ST1_08.png"
   },
   "type": "cookie",
   "level": 3,
@@ -9,7 +10,8 @@
     "red"
   ],
   "name": {
-    "ko": "벚꽃맛 쿠키"
+    "ko": "벚꽃맛 쿠키",
+    "zh-TW": "櫻花餅乾"
   },
   "hp": 1,
   "hasSkill": true,
@@ -22,7 +24,8 @@
       "red": 2
     },
     "text": {
-      "ko": "《이 카드를 레스트한다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다."
+      "ko": "《이 카드를 레스트한다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다.",
+      "zh-TW": "《將這張牌改為疲勞狀態》選 擇最多2個對手的餅乾。對它們分別造成1點傷害。"
     },
     "effect": {
       "damage": 1
@@ -34,7 +37,8 @@
         "red": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1
     }
@@ -43,6 +47,7 @@
   "flip": {},
   "rarity": "U",
   "from": "스타터 덱 [썬키스드]",
+  "illust": "LEEPIX_X",
   "releaseDate": "2023-09-01",
   "regulation": "A",
   "limit": 4,
