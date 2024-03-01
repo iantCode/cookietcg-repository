@@ -1,13 +1,15 @@
 {
   "serial": "ST2-001",
   "img": {
-    "ko": "images/ko/2023/ST2/ST2_01.png"
+    "ko": "images/ko/2023/ST2/ST2_01.png",
+    "zh-TW": "images/zh-TW/2024/ST2/ST2_01.png"
   },
   "type": "cookie",
   "level": 3,
   "color": "yellow",
   "name": {
-    "ko": "괴도맛 쿠키"
+    "ko": "괴도맛 쿠키",
+    "zh-TW": "怪盜餅乾"
   },
   "hp": 6,
   "hasSkill": true,
@@ -19,7 +21,8 @@
       "yellow": 1
     },
     "text": {
-      "ko": "상대는 자신의 패를 1장 트래시에 놓는다."
+      "ko": "상대는 자신의 패를 1장 트래시에 놓는다.",
+      "zh-TW": "對手將1張手牌放置到棄牌區。"
     },
     "effect": {
       "handTrash": 1
@@ -32,7 +35,8 @@
         "mix": 1
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3
     }
@@ -40,6 +44,7 @@
   "hasFlip": false,
   "flip": {},
   "rarity": "SR",
+  "illust": "Kenji Watanabe",
   "from": "스타터 덱 [스파키오]",
   "releaseDate": "2023-09-01",
   "regulation": "A",

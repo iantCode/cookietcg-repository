@@ -1,13 +1,15 @@
 {
   "serial": "ST2-013",
   "img": {
-    "ko": "images/ko/2023/ST2/ST2_13.png"
+    "ko": "images/ko/2023/ST2/ST2_13.png",
+    "zh-TW": "images/zh-TW/2024/ST2/ST2_13.png"
   },
   "type": "cookie",
   "level": 2,
   "color": "yellow",
   "name": {
-    "ko": "치즈케이크맛 쿠키"
+    "ko": "치즈케이크맛 쿠키",
+    "zh-TW": "起司蛋糕餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -18,7 +20,8 @@
         "mix": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1
     }
@@ -26,6 +29,7 @@
   "hasFlip": false,
   "flip": {},
   "rarity": "U",
+  "illust": "Kinas",
   "from": "스타터 덱 [스파키오]",
   "releaseDate": "2023-09-01",
   "regulation": "A",

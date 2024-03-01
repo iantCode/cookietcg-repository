@@ -2,7 +2,8 @@
   "serial": "ST1-008",
   "img": {
     "ko": "images/ko/2023/ST1/ST1_08.png",
-    "zh-TW": "images/zh-TW/2024/ST1/ST1_08.png"
+    "zh-TW": "images/zh-TW/2024/ST1/ST1_08.png",
+    "en": "images/en/2024/ST1/ST1_08.png"
   },
   "type": "cookie",
   "level": 3,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "벚꽃맛 쿠키",
-    "zh-TW": "櫻花餅乾"
+    "zh-TW": "櫻花餅乾",
+    "en": "Cherry Blossom Cookie"
   },
   "hp": 1,
   "hasSkill": true,
@@ -25,7 +27,8 @@
     },
     "text": {
       "ko": "《이 카드를 레스트한다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다.",
-      "zh-TW": "《將這張牌改為疲勞狀態》選 擇最多2個對手的餅乾。對它們分別造成1點傷害。"
+      "zh-TW": "《將這張牌改為疲勞狀態》選 擇最多2個對手的餅乾。對它們分別造成1點傷害。",
+      "en": "《Rest this card》 Select up to 2 of your opponent's cookies. Deal 1 damage to those cookies."
     },
     "effect": {
       "damage": 1
@@ -38,7 +41,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deal 1 damage."
       },
       "damage": 1
     }

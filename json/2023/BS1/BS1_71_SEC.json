@@ -1,0 +1,49 @@
+{
+  "serial": "BS1-071-SEC",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_71_SEC.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "펌킨파이맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "appear"
+    ],
+    "cost": {},
+    "text": {
+      "ko": "자신의 트래시에서 쿠키를 1장 서포트 에리어에 액티브로 놓는다."
+    },
+    "effect": {
+      "addSupport": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "3대미지를 준다."
+      },
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "illust": "Miji Lee",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -2,7 +2,8 @@
   "serial": "ST1-017",
   "img": {
     "ko": "images/ko/2023/ST1/ST1_17.png",
-    "zh-TW": "images/zh-TW/2024/ST1/ST1_17.png"
+    "zh-TW": "images/zh-TW/2024/ST1/ST1_17.png",
+    "en": "images/en/2024/ST1/ST1_17.png"
   },
   "type": "item",
   "level": 0,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "비장의 케이크 나이프",
-    "zh-TW": "秘藏蛋糕刀"
+    "zh-TW": "秘藏蛋糕刀",
+    "en": "Exceptional Cake Knife"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "자신의 LV.2 이상이고 남은 HP가 1인 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +2한다.",
-        "zh-TW": "選擇最多1個自己的餅乾, 它必須為LV.2或以上且剩餘HP為1點。在這個回合中, 它的攻擊傷害+2點。"
+        "zh-TW": "選擇最多1個自己的餅乾, 它必須為LV.2或以上且剩餘HP為1點。在這個回合中, 它的攻擊傷害+2點。",
+        "en": "Select up to 1 cookie that is your LV.2 or higher and has 1 HP remaining. During this turn, that cookie gains +2 attack damage."
       },
       "damageIncrease": 2
     }

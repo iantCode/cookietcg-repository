@@ -1,0 +1,46 @@
+{
+  "serial": "BS1-066-SSR",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_66_SSR.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "지초맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": [],
+    "cost": {},
+    "text": {
+      "ko": "자신의 턴 종료 시 자신의 서포트 에리어의 카드를 1장 액티브로 한다."
+    },
+    "effect": {
+      "makeActive": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": "3대미지를 준다."
+      },
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "illust": "Miji Lee",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

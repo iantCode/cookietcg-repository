@@ -2,7 +2,8 @@
   "serial": "ST1-009",
   "img": {
     "ko": "images/ko/2023/ST1/ST1_09.png",
-    "zh-TW": "images/zh-TW/2024/ST1/ST1_09.png"
+    "zh-TW": "images/zh-TW/2024/ST1/ST1_09.png",
+    "en": "images/en/2024/ST1/ST1_09.png"
   },
   "type": "cookie",
   "level": 3,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "에스프레소맛 쿠키",
-    "zh-TW": "濃縮咖啡餅乾"
+    "zh-TW": "濃縮咖啡餅乾",
+    "en": "Espresso Cookie"
   },
   "hp": 5,
   "hasSkill": true,
@@ -22,7 +24,8 @@
     "cost": {},
     "text": {
       "ko": "자신의 브레이크 에리어가 LV.6 이상이라면 이 쿠키의 공격 대미지를 +1한다.",
-      "zh-TW": "如果自己的休息區LV總和達到6或以上, 則這個餅乾的攻擊傷害+1點。"
+      "zh-TW": "如果自己的休息區LV總和達到6或以上, 則這個餅乾的攻擊傷害+1點。",
+      "en": "If your break area is LV.6 or higher, this cookie gains +1 attack damage."
     },
     "effect": {
       "damageIncrease": 1
@@ -35,7 +38,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deal 3 damage."
       },
       "damage": 3
     }

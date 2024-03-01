@@ -2,7 +2,8 @@
   "serial": "ST1-003",
   "img": {
     "ko": "images/ko/2023/ST1/ST1_03.png",
-    "zh-TW": "images/zh-TW/2024/ST1/ST1_03.png"
+    "zh-TW": "images/zh-TW/2024/ST1/ST1_03.png",
+    "en": "images/en/2024/ST1/ST1_03.png"
   },
   "type": "cookie",
   "level": 2,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "다이노사워 쿠키",
-    "zh-TW": "恐龍餅乾"
+    "zh-TW": "恐龍餅乾",
+    "en": "Dino-Sour Cookie"
   },
   "hp": 1,
   "hasSkill": true,
@@ -26,7 +28,8 @@
     },
     "text": {
       "ko": "상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 2대미지를 준다.",
-      "zh-TW": "選擇最多2個對手的餅 乾。對它們分別造成2點傷害。"
+      "zh-TW": "選擇最多2個對手的餅 乾。對它們分別造成2點傷害。",
+      "en": "Select up to 2 of your opponent's cookies. Deal 2 damage to those cookies."
     },
     "effect": {
       "damage": 2
@@ -40,7 +43,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deal 2 damage."
       },
       "damage": 2
     }

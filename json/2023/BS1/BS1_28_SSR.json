@@ -1,0 +1,59 @@
+{
+  "serial": "BS1-028-SSR",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_28_SSR.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "라떼맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "appear"
+    ],
+    "cost": {
+      "yellow": 1
+    },
+    "text": {
+      "ko": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
+    },
+    "effect": {
+      "heal": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": "2대미지를 준다. 그리고 자신의 브레이크 에리어가 LV.5 이상이라면 상대의 쿠키 모두에게 1대미지를 준다."
+      },
+      "damage": 2
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SSR",
+  "illust": "Andy_na",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13",
+  "regulation": "A",
+  "limit": 4,
+  "qna": [
+    {
+      "question": "복수의 쿠키에게 대미지를 주는 효과를 사용했다면 어떤 쿠키부터 대미지를 주나요?",
+      "answer": "해당 효과를 사용한 플레이어가 순서를 선택합니다."
+    },
+    {
+      "question": "[BS2-047 다이빙 고글]로 '기절했을 때' 효과를 가진 쿠키를 2장 기절 시켰다면 먼저 기절한 쿠키의 효과부터 발동되나요?",
+      "answer": "아니오. 기절한 쿠키 카드의 플레이어가 원하는 순서로 발동할 수 있습니다."
+    }
+  ]
+}

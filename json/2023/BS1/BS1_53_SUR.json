@@ -1,0 +1,56 @@
+{
+  "serial": "BS1-053-SUR",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_53_SUR.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "괴도맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "manual",
+      "onceTurn"
+    ],
+    "cost": {
+      "green": 1
+    },
+    "text": {
+      "ko": "자신의 패가 6장 이하라면 자신의 서포트 에리어의 카드를 1장 패로 되돌린다. 그리고 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1
+      },
+      "text": {
+        "ko": "1대미지를 준다."
+      },
+      "damage": 1
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "illust": "Taekseo",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13",
+  "regulation": "A",
+  "limit": 4,
+  "qna": [
+    {
+      "question": "[BS1-053 괴도맛 쿠키]의 스킬의 효과로 스킬을 발동하기 위해 코스트로 사용한 카드를 지정할 수 있나요?",
+      "answer": "네. 지정할 수 있습니다."
+    }
+  ]
+}

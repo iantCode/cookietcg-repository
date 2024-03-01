@@ -1,13 +1,15 @@
 {
   "serial": "ST2-005",
   "img": {
-    "ko": "images/ko/2023/ST2/ST2_05.png"
+    "ko": "images/ko/2023/ST2/ST2_05.png",
+    "zh-TW": "images/zh-TW/2024/ST2/ST2_05.png"
   },
   "type": "cookie",
   "level": 2,
   "color": "yellow",
   "name": {
-    "ko": "머스타드맛 쿠키"
+    "ko": "머스타드맛 쿠키",
+    "zh-TW": "黃芥末餅乾"
   },
   "hp": 1,
   "hasSkill": false,
@@ -18,7 +20,8 @@
         "yellow": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1
     }
@@ -29,13 +32,15 @@
       "handTrash": 1
     },
     "text": {
-      "ko": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+      "ko": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+      "zh-TW": "《棄1張手牌》以這張牌為HP卡的餅乾獲得HP+1點。"
     },
     "effect": {
       "heal": 1
     }
   },
   "rarity": "C",
+  "illust": "surisuri",
   "from": "스타터 덱 [스파키오]",
   "releaseDate": "2023-09-01",
   "regulation": "A",

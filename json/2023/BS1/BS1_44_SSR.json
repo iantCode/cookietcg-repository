@@ -1,0 +1,51 @@
+{
+  "serial": "BS1-044-SSR",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_44_SSR.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "파프리카맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "manual",
+      "onceTurn"
+    ],
+    "cost": {
+      "yellow": 1
+    },
+    "text": {
+      "ko": "《패를 1장 버린다》 이 쿠키의 HP가 3 이하라면 이 쿠키의 HP를 +1한다."
+    },
+    "effect": {
+      "damageDecrease": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": "2대미지를 준다. 그리고 《<yellow><yellow>로 사용할 수 있다》 3대미지를 준다."
+      },
+      "damage": 3
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SSR",
+  "illust": "InHyuk Lee",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

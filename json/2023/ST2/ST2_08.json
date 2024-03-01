@@ -1,13 +1,15 @@
 {
   "serial": "ST2-008",
   "img": {
-    "ko": "images/ko/2023/ST2/ST2_08.png"
+    "ko": "images/ko/2023/ST2/ST2_08.png",
+    "zh-TW": "images/zh-TW/2024/ST2/ST2_08.png"
   },
   "type": "cookie",
   "level": 3,
   "color": "yellow",
   "name": {
-    "ko": "에클레어맛 쿠키"
+    "ko": "에클레어맛 쿠키",
+    "zh-TW": "閃電泡芙餅乾"
   },
   "hp": 5,
   "hasSkill": true,
@@ -19,7 +21,8 @@
       "yellow": 2
     },
     "text": {
-      "ko": "자신의 브레이크 에리어에 있는 LV.1의 카드를 1장까지 선택한다. 그 카드를 트래시에 놓는다."
+      "ko": "자신의 브레이크 에리어에 있는 LV.1의 카드를 1장까지 선택한다. 그 카드를 트래시에 놓는다.",
+      "zh-TW": "從自己的休息區選擇最多1個LV.1的餅乾。將它放置到棄牌區。"
     },
     "effect": {
       "toTrash": 1
@@ -31,7 +34,8 @@
         "yellow": 4
       },
       "text": {
-        "ko": "4대미지를 준다."
+        "ko": "4대미지를 준다.",
+        "zh-TW": "造成4點傷害。"
       },
       "damage": 4
     }
@@ -39,6 +43,7 @@
   "hasFlip": false,
   "flip": {},
   "rarity": "SR",
+  "illust": "Kenji Watanabe",
   "from": "스타터 덱 [스파키오]",
   "releaseDate": "2023-09-01",
   "regulation": "A",

@@ -1,0 +1,58 @@
+{
+  "serial": "BS1-054-SSR",
+  "img": {
+    "ko": "images/ko/2023/BS1/BS1_54_SSR.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "난초맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "myTurn",
+      "appear"
+    ],
+    "cost": {},
+    "text": {
+      "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키 모두에게 1대미지를 준다."
+    },
+    "effect": {
+      "damage": 1
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 4
+      },
+      "text": {
+        "ko": "4대미지를 준다."
+      },
+      "damage": 4
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "illust": "Miji Lee",
+  "from": "퍼스트 브레이브",
+  "releaseDate": "2023-10-13",
+  "regulation": "A",
+  "limit": 4,
+  "qna": [
+    {
+      "question": "복수의 쿠키에게 대미지를 주는 효과를 사용했다면 어떤 쿠키부터 대미지를 주나요?",
+      "answer": "해당 효과를 사용한 플레이어가 순서를 선택합니다."
+    },
+    {
+      "question": "[BS2-047 다이빙 고글]로 '기절했을 때' 효과를 가진 쿠키를 2장 기절 시켰다면 먼저 기절한 쿠키의 효과부터 발동되나요?",
+      "answer": "아니오. 기절한 쿠키 카드의 플레이어가 원하는 순서로 발동할 수 있습니다."
+    }
+  ]
+}

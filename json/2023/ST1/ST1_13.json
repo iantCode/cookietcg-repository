@@ -2,7 +2,8 @@
   "serial": "ST1-013",
   "img": {
     "ko": "images/ko/2023/ST1/ST1_13.png",
-    "zh-TW": "images/zh-TW/2024/ST1/ST1_13.png"
+    "zh-TW": "images/zh-TW/2024/ST1/ST1_13.png",
+    "en": "images/en/2024/ST1/ST1_13.png"
   },
   "type": "cookie",
   "level": 1,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "탐험가맛 쿠키",
-    "zh-TW": "探險家餅乾"
+    "zh-TW": "探險家餅乾",
+    "en": "Adventurer Cookie"
   },
   "hp": 1,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deal 1 damage."
       },
       "damage": 1
     }
@@ -33,7 +36,8 @@
     "condition": {},
     "text": {
       "ko": "덱에서 1장 뽑을 수 있다.",
-      "zh-TW": "你可以從牌庫抽1張牌。"
+      "zh-TW": "你可以從牌庫抽1張牌。",
+      "en": "You can draw 1 card from the deck."
     },
     "effect": {
       "draw": 1
