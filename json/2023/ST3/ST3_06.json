@@ -1,13 +1,15 @@
 {
   "serial": "ST3-006",
   "img": {
-    "ko": "images/ko/2023/ST3/ST3_06.png"
+    "ko": "images/ko/2023/ST3/ST3_06.png",
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_06.png"
   },
   "type": "cookie",
   "level": 2,
   "color": "green",
   "name": {
-    "ko": "비트맛 쿠키"
+    "ko": "비트맛 쿠키",
+    "zh-TW": "甜菜餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -18,7 +20,8 @@
         "mix": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1
     }
@@ -26,6 +29,7 @@
   "hasFlip": false,
   "flip": {},
   "rarity": "U",
+  "illust": "Kenji Watanabe",
   "from": "스타터 덱 [테라바움]",
   "releaseDate": "2023-09-01",
   "regulation": "A",

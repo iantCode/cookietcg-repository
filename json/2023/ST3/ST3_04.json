@@ -1,13 +1,15 @@
 {
   "serial": "ST3-004",
   "img": {
-    "ko": "images/ko/2023/ST3/ST3_04.png"
+    "ko": "images/ko/2023/ST3/ST3_04.png",
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_04.png"
   },
   "type": "cookie",
   "level": 3,
   "color": "green",
   "name": {
-    "ko": "뱀파이어맛 쿠키"
+    "ko": "뱀파이어맛 쿠키",
+    "zh-TW": "吸血鬼餅乾"
   },
   "hp": 3,
   "hasSkill": true,
@@ -20,7 +22,8 @@
       "mix": 1
     },
     "text": {
-      "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 이 쿠키의 HP를 +1한다."
+      "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 이 쿠키의 HP를 +1한다.",
+      "zh-TW": "選擇最多1個對手的餅乾。對它造成2點傷害。然後,這個餅乾獲得HP+1點。"
     },
     "effect": {
       "damage": 2,
@@ -34,7 +37,8 @@
         "mix": 1
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3
     }
@@ -42,6 +46,7 @@
   "hasFlip": false,
   "flip": {},
   "rarity": "U",
+  "illust": "Miji Lee",
   "from": "스타터 덱 [테라바움]",
   "releaseDate": "2023-09-01",
   "regulation": "A",

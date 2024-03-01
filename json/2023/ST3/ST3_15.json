@@ -1,13 +1,15 @@
 {
   "serial": "ST3-015",
   "img": {
-    "ko": "images/ko/2023/ST3/ST3_15.png"
+    "ko": "images/ko/2023/ST3/ST3_15.png",
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_15.png"
   },
   "type": "cookie",
   "level": 3,
   "color": "green",
   "name": {
-    "ko": "칠리맛 쿠키"
+    "ko": "칠리맛 쿠키",
+    "zh-TW": "甜辣醬餅乾"
   },
   "hp": 4,
   "hasSkill": true,
@@ -18,7 +20,8 @@
     ],
     "cost": {},
     "text": {
-      "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 이 턴 중 이 쿠키의 공격 대미지를 +1한다."
+      "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 이 턴 중 이 쿠키의 공격 대미지를 +1한다.",
+      "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》 在這個回合中, 這個餅乾的攻擊傷害+1點。"
     },
     "effect": {
       "damageIncrease": 1
@@ -30,7 +33,8 @@
         "green": 3
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3
     }
@@ -38,6 +42,7 @@
   "hasFlip": false,
   "flip": {},
   "rarity": "U",
+  "illust": "Kenji Watanabe",
   "from": "스타터 덱 [테라바움]",
   "releaseDate": "2023-09-01",
   "regulation": "A",

@@ -1,13 +1,15 @@
 {
   "serial": "ST3-005",
   "img": {
-    "ko": "images/ko/2023/ST3/ST3_05.png"
+    "ko": "images/ko/2023/ST3/ST3_05.png",
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_05.png"
   },
   "type": "cookie",
   "level": 2,
   "color": "green",
   "name": {
-    "ko": "블랙베리맛 쿠키"
+    "ko": "블랙베리맛 쿠키",
+    "zh-TW": "黑莓餅乾"
   },
   "hp": 2,
   "hasSkill": true,
@@ -18,7 +20,8 @@
     ],
     "cost": {},
     "text": {
-      "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+      "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》 選擇最多1個對手的餅乾。對它造成1點傷害。"
     },
     "effect": {
       "damage": 1
@@ -30,7 +33,8 @@
         "green": 2
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2
     }
@@ -38,6 +42,7 @@
   "hasFlip": false,
   "flip": {},
   "rarity": "C",
+  "illust": "LEEPIX_X",
   "from": "스타터 덱 [테라바움]",
   "releaseDate": "2023-09-01",
   "regulation": "A",
