@@ -1,0 +1,46 @@
+{
+  "serial": "P-022",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_022.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "밀키웨이맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": "3대미지를 준다."
+      },
+      "damage": 3
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+      "handTrash": 1
+    },
+    "text": {
+      "ko": "덱에서 1장 뽑을 수 있다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "P",
+  "from": "프로모 카드 - 언박싱런",
+  "releaseDate": "2024-03-15",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
