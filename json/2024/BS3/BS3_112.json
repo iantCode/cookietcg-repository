@@ -13,7 +13,9 @@
   "hasSkill": true,
   "skill": {
     "condition": ["appear"],
-    "cost": {},
+    "cost": {
+      "purple": 1
+    },
     "text": {
       "ko": "<자신의 트래시에 잇는 쿠키 이외의 카드를 2장 원하는 순서로 덱의 아래에 놓는다> 자신의 트래시에서 <purple> 쿠키를 1장까지 패로 가져온다."
     },
