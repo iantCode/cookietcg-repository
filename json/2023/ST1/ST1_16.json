@@ -28,7 +28,10 @@
         "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。",
         "en": "Select up to 1 of the opponent's cookie. Deal 1 damage to that cookie."
       },
-      "damage": 1
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

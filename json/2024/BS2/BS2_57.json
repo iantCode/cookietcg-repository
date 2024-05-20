@@ -25,6 +25,9 @@
     },
     "effect": {
       "stageTrash": 1
+    },
+    "name": {
+      "ko": ""
     }
   },
   "attack": [
@@ -35,7 +38,10 @@
       "text": {
         "ko": "1대미지를 준다."
       },
-      "damage": 1
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

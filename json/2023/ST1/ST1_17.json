@@ -28,7 +28,10 @@
         "zh-TW": "選擇最多1個自己的餅乾, 它必須為LV.2或以上且剩餘HP為1點。在這個回合中, 它的攻擊傷害+2點。",
         "en": "Select up to 1 cookie that is your LV.2 or higher and has 1 HP remaining. During this turn, that cookie gains +2 attack damage."
       },
-      "damageIncrease": 2
+      "damageIncrease": 2,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

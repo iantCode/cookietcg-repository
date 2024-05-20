@@ -22,7 +22,10 @@
       "text": {
         "ko": "이 턴 중 기절한 상대의 쿠키 1장당 덱에서 1장까지 뽑는다."
       },
-      "damage": 0
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

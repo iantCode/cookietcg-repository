@@ -28,7 +28,10 @@
         "zh-TW": "造成1點傷害。",
         "en": "Deal 1 damage."
       },
-      "damage": 1
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

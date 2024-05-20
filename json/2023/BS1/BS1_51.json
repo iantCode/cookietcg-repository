@@ -22,7 +22,10 @@
       "text": {
         "ko": "자신의 쿠키를 1장까지 선택한다 그 쿠키의 HP를 +1한다."
       },
-      "damage": 1
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

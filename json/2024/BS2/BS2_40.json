@@ -21,6 +21,9 @@
     },
     "effect": {
       "search": 1
+    },
+    "name": {
+      "ko": ""
     }
   },
   "attack": [
@@ -31,7 +34,10 @@
       "text": {
         "ko": "2대미지를 준다."
       },
-      "damage": 2
+      "damage": 2,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

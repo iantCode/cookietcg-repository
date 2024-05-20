@@ -31,6 +31,9 @@
     },
     "effect": {
       "damageIncrease": 1
+    },
+    "name": {
+      "ko": ""
     }
   },
   "attack": [
@@ -43,7 +46,10 @@
         "zh-TW": "將這張牌放置到場景區。",
         "en": "Place it on the stage area."
       },
-      "damage": 0
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

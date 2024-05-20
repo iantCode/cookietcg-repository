@@ -22,7 +22,10 @@
       "text": {
         "ko": "자신의 남은 HP가 3 이상인 <blue> 쿠키를 1장 패로 되돌린다."
       },
-      "damage": 0
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

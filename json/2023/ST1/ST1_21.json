@@ -28,7 +28,10 @@
         "zh-TW": "選擇最多1個剩餘HP為1點對手的餅乾。 對它造成1點傷害。",
         "en": "Select up to 1 opponent's cookie with remaining HP of 1. Deal 1 damage to that cookie."
       },
-      "damage": 1
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

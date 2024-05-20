@@ -28,7 +28,10 @@
         "zh-TW": "選擇最多1個自己的餅乾。在這個回合中, 它的攻擊傷害+1點。",
         "en": "Select up to 1 cookie. During this turn, the cookie gains +1 attack damage."
       },
-      "damageIncrease": 1
+      "damageIncrease": 1,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

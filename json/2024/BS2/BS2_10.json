@@ -22,7 +22,10 @@
       "text": {
         "ko": "1대미지를 준다. 그리고 《<yellow>로 사용할 수 있다》 상대의 쿠키가 LV.1이라면 3대미지를 준다."
       },
-      "damage": 1
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

@@ -1,0 +1,38 @@
+{
+  "serial": "BS3-020",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_020.png"
+  },
+  "type": "item",
+  "level": 0,
+  "color": ["red"],
+  "name": {
+    "ko": "용머리 카누 미니어쳐"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": "자신의 <red> 쿠키를 1장 선택한다. 그 쿠키의 HP의 위에서부터 3장까지 패로 가져온다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -28,7 +28,10 @@
         "zh-TW": "選擇最多1個剩餘HP為1點自己的餅乾。 在下個對手的回合中, 它受到的所有攻擊傷害分別-2點。",
         "en": "Select up to 1 cookie with 1 remaining HP. Reduce all attack damage this cookie receives during opponent's next turn by -2."
       },
-      "damageDecrease": 2
+      "damageDecrease": 2,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

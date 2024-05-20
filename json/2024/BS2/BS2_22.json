@@ -23,6 +23,9 @@
     },
     "effect": {
       "preventDamage": 1
+    },
+    "name": {
+      "ko": ""
     }
   },
   "attack": [
@@ -33,7 +36,10 @@
       "text": {
         "ko": "3대미지를 준다."
       },
-      "damage": 3
+      "damage": 3,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

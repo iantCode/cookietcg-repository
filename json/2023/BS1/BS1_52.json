@@ -25,6 +25,9 @@
     },
     "effect": {
       "heal": 1
+    },
+    "name": {
+      "ko": ""
     }
   },
   "attack": [
@@ -35,7 +38,10 @@
       "text": {
         "ko": "스테이지 에리어에 내려놓는다."
       },
-      "damage": 0
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

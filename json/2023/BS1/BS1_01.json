@@ -1,7 +1,8 @@
 {
   "serial": "BS1-001",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_01.png"
+    "ko": "images/ko/2023/BS1/BS1_01.png",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_01.png"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "red"
   ],
   "name": {
-    "ko": "고블린맛 쿠키"
+    "ko": "고블린맛 쿠키",
+    "zh-TW": "哥布林餅乾"
   },
   "hp": 2,
   "hasSkill": true,
@@ -19,10 +21,14 @@
     ],
     "cost": {},
     "text": {
-      "ko": "《패를 1장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      "ko": "《패를 1장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+      "zh-TW": "《棄1張手牌》選擇最多1個對手的餅乾。對它造成1點傷害。"
     },
     "effect": {
       "damage": 1
+    },
+    "name": {
+      "ko": ""
     }
   },
   "attack": [
@@ -32,14 +38,19 @@
         "mix": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
-      "damage": 1
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "C",
+  "illust": "InHyuk Lee",
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13",
   "regulation": "A",

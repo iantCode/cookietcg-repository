@@ -28,7 +28,10 @@
         "zh-TW": "造成3點傷害。",
         "en": "Deal 3 damage."
       },
-      "damage": 3
+      "damage": 3,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

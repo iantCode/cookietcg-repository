@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-030",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_030.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["yellow"],
+  "name": {
+    "ko": "블랙레이즌맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {},
+    "text": {
+      "ko": "자신의 패를 1장까지 이 쿠키의 HP 위에 추가한다."
+    },
+    "effect": {
+      "heal": 1
+    },
+    "name": {
+      "ko": "사막의 축복"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "날카로운 모래폭풍"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -22,7 +22,10 @@
       "text": {
         "ko": "이 카드를 자신의 서포트 에리어에 레스트로 놓는다."
       },
-      "addSupport": 1
+      "addSupport": 1,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

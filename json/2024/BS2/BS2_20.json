@@ -22,7 +22,10 @@
       "text": {
         "ko": "자신의 <green> 쿠키를 1장까지 선택한다. 선택한 쿠키의 HP에서 1장 서포트 에리어에 레스트로 놓는다."
       },
-      "damage": 0
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

@@ -22,7 +22,10 @@
       "text": {
         "ko": "덱에서 2장까지 뽑을 수 있다."
       },
-      "damage": 0
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

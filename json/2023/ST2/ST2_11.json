@@ -22,6 +22,9 @@
     },
     "effect": {
       "damage": 1
+    },
+    "name": {
+      "ko": ""
     }
   },
   "attack": [
@@ -34,7 +37,10 @@
         "ko": "2대미지를 준다.",
         "zh-TW": "造成2點傷害。"
       },
-      "damage": 2
+      "damage": 2,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": false,

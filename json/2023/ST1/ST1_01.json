@@ -28,7 +28,10 @@
         "zh-TW": "造成2點傷害。",
         "en": "Deal 2 damage."
       },
-      "damage": 2
+      "damage": 2,
+      "name": {
+        "ko": ""
+      }
     }
   ],
   "hasFlip": true,
