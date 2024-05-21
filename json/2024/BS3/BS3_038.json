@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-038",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_038.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["yellow"],
+  "name": {
+    "ko": "코코아맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {},
+    "text": {
+      "ko": "<자신의 패에서 LV.2 이상의 쿠키를 1장 사진의 브레이크 에리어에 놓는다> 자신의 브레이크 에리어에 있는 <yellow> LV.2 이하의 쿠키를 1장까지 패로 가져온다."
+    },
+    "effect": {
+      "removeBreak": 1
+    },
+    "name": {
+      "ko": "코코아 한 잔 더!"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "코코아 너무 좋아!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

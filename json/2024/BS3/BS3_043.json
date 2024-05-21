@@ -1,0 +1,37 @@
+{
+  "serial": "BS3-043",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_043.png"
+  },
+  "type": "item",
+  "level": 0,
+  "color": ["yellow"],
+  "name": {
+    "ko": "소울 잼: 풍요의 빛"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": "상대의 모든 쿠키에게 1대미지를 준다. 그리고 이 카드를 자신의 [골드치즈 쿠키]에게 <장착>할 수 있다. 그 쿠키의 HP를 +2한다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
