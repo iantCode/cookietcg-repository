@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-089",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_089.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["blue"],
+  "name": {
+    "ko": "휘낭시에맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "blue": 2
+    },
+    "text": {
+      "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키의 HP의 위에서부터 1장 자신의 다른 쿠키의 HP 위에 추가한다."
+    },
+    "effect": {
+      "damage": 1
+    },
+    "name": {
+      "ko": "신성한 호위"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "빛의 심판"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

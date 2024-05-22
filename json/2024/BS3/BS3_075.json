@@ -1,0 +1,50 @@
+{
+  "serial": "BS3-075",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_075.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["blue"],
+  "name": {
+    "ko": "딸기맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual"],
+    "cost": {},
+    "text": {
+      "ko": "<패를 1장 버린다> 이 쿠키를 자신의 덱의 위에 놓는다."
+    },
+    "effect": {
+      "returnDeck": 1
+    },
+    "name": {
+      "ko": "쿠키생은 혼자야..."
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "롤리팝 휘두르기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
