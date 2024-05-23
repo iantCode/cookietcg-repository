@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-013",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_013.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["red"],
+  "name": {
+    "ko": "정글전사 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {},
+    "text": {
+      "ko": "이 턴 중 이 쿠키의 공격 대미지를 +1한다."
+    },
+    "effect": {
+      "damageIncrease": 1
+    },
+    "name": {
+      "ko": "타이거라이더"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": {
+        "ko": "그리고 상대의 턴 종료 시까지 이 쿠키가 받는 2 이상의 공격 대미지는 1이 된다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "야생의 창"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
