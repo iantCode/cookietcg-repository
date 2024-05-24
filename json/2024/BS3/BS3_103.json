@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-103",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_103.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["purple"],
+  "name": {
+    "ko": "벨벳케이크맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": [],
+    "cost": {},
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 자신의 트래시에 있는 카드가 10장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+    },
+    "effect": {
+      "damage": 1
+    },
+    "name": {
+      "ko": "끈질긴 손아귀"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "케이크 커팅"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

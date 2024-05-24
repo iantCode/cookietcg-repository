@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-105",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_105.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["purple"],
+  "name": {
+    "ko": "아포가토맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual"],
+    "cost": {
+      "purple": 1
+    },
+    "text": {
+      "ko": "<이 쿠키를 트래시에 놓는다> 서로의 덱의 위에서부터 2장 트래시에 놓는다."
+    },
+    "effect": {
+      "deckTrash": 2
+    },
+    "name": {
+      "ko": "달콤한 모략"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": "그리고 상대의 덱의 위에서부터 1장까지 트래시에 놓는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "수상한 탕약"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
