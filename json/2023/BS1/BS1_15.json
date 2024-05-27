@@ -6,11 +6,10 @@
   },
   "type": "cookie",
   "level": 3,
-  "color": [
-    "red"
-  ],
+  "color": ["red"],
   "name": {
-    "ko": "장미맛 쿠키"
+    "ko": "장미맛 쿠키",
+    "zh-TW": "玫瑰餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -21,7 +20,8 @@
         "red": 3
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3,
       "name": {
@@ -33,7 +33,8 @@
   "flip": {
     "condition": {},
     "text": {
-      "ko": "덱에서 1장 뽑을 수 있다."
+      "ko": "덱에서 1장 뽑을 수 있다.",
+      "zh-TW": "你可以從牌庫抽1張牌。"
     },
     "effect": {
       "draw": 1

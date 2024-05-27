@@ -1,15 +1,15 @@
 {
   "serial": "BS1-020",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_20.png"
+    "ko": "images/ko/2023/BS1/BS1_20.png",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_20.png"
   },
   "type": "cookie",
   "level": 3,
-  "color": [
-    "red"
-  ],
+  "color": ["red"],
   "name": {
-    "ko": "홍고추맛 쿠키"
+    "ko": "홍고추맛 쿠키",
+    "zh-TW": "紅辣椒餅乾"
   },
   "hp": 4,
   "hasSkill": false,
@@ -20,7 +20,8 @@
         "mix": 2
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2,
       "name": {

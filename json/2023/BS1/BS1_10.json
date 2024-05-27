@@ -6,11 +6,10 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": [
-    "red"
-  ],
+  "color": ["red"],
   "name": {
-    "ko": "악마맛 쿠키"
+    "ko": "악마맛 쿠키",
+    "zh-TW": "惡魔餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -21,7 +20,8 @@
         "mix": 2
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3,
       "name": {

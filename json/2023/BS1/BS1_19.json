@@ -1,15 +1,15 @@
 {
   "serial": "BS1-019",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_19.png"
+    "ko": "images/ko/2023/BS1/BS1_19.png",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_19.png"
   },
   "type": "cookie",
   "level": 3,
-  "color": [
-    "red"
-  ],
+  "color": ["red"],
   "name": {
-    "ko": "호두맛 쿠키"
+    "ko": "호두맛 쿠키",
+    "zh-TW": "核桃餅乾"
   },
   "hp": 4,
   "hasSkill": false,
@@ -20,7 +20,8 @@
         "mix": 3
       },
       "text": {
-        "ko": "4대미지를 준다."
+        "ko": "4대미지를 준다.",
+        "zh-TW": "造成4點傷害。"
       },
       "damage": 4,
       "name": {

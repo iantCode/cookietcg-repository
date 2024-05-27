@@ -6,11 +6,10 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": [
-    "red"
-  ],
+  "color": ["red"],
   "name": {
-    "ko": "앵두맛 쿠키"
+    "ko": "앵두맛 쿠키",
+    "zh-TW": "山櫻桃餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -21,7 +20,8 @@
         "mix": 2
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2,
       "name": {
