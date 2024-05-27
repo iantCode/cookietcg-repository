@@ -1,0 +1,37 @@
+{
+  "serial": "BS3-037",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_037.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["yellow"],
+  "name": {
+    "ko": "천사맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "그리고 이 쿠키의 공격으로 상대의 쿠키가 기절했을 때 <<yellow>로 사용할 수 있다> 이 쿠키의 HP를 +1한다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "망자의 인도"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

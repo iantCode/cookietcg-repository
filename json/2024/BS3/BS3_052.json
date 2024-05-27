@@ -1,13 +1,13 @@
 {
-  "serial": "BS3-038",
+  "serial": "BS3-052",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_038.png"
+    "ko": "images/ko/2024/BS3/BS3_052.png"
   },
   "type": "cookie",
-  "level": 2,
-  "color": ["yellow"],
+  "level": 1,
+  "color": ["green"],
   "name": {
-    "ko": "코코아맛 쿠키"
+    "ko": "민트초코 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
@@ -15,26 +15,26 @@
     "condition": ["appear"],
     "cost": {},
     "text": {
-      "ko": "<자신의 패에서 LV.2 이상의 쿠키를 1장 자신의 브레이크 에리어에 놓는다> 자신의 브레이크 에리어에 있는 <yellow> LV.2 이하의 쿠키를 1장까지 패로 가져온다."
+      "ko": "<자신의 서포트 에리어에 있는 카드를 1장 트래시에 놓는다> 자신의 남은 HP가 2 이하인 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
     },
     "effect": {
-      "removeBreak": 1
+      "heal": 1
     },
     "name": {
-      "ko": "코코아 한 잔 더!"
+      "ko": "승리의 협주곡"
     }
   },
   "attack": [
     {
       "cost": {
-        "yellow": 2
+        "green": 2
       },
       "text": {
         "ko": ""
       },
       "damage": 2,
       "name": {
-        "ko": "코코아 너무 좋아!"
+        "ko": "혼신의 연주"
       }
     }
   ],

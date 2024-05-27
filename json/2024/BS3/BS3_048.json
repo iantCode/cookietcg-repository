@@ -1,23 +1,23 @@
 {
-  "serial": "BS3-072",
+  "serial": "BS3-048",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_072.png"
+    "ko": "images/ko/2024/BS3/BS3_048.png"
   },
   "type": "stage",
   "level": 0,
-  "color": ["green"],
+  "color": ["yellow"],
   "name": {
-    "ko": "은백색 신비의 요정왕국"
+    "ko": "황금도시의 관제실"
   },
   "hp": 0,
   "hasSkill": true,
   "skill": {
     "condition": ["manual"],
     "cost": {
-      "green": 2
+      "yellow": 2
     },
     "text": {
-      "ko": "<이 카드를 레스트한다> 상대의 서포트 에리어가 5장 이상이라면 상대의 서포트 에리어에 있는 액티브 카드를 1장까지 선택한다. 그 카드를 레스트로 한다."
+      "ko": "<이 카드를 레스트한다> 자신의 배틀 에리어에 있는 LV.2 이상의 쿠키를 1장까지 선택한다. 이 턴 중 자신의 브레이크 에리어에 있는 <yellow> LV.3 쿠키 1장당 그 쿠키의 공격 대미지를 +1한다."
     },
     "effect": {
       "damage": 0
@@ -29,7 +29,7 @@
   "attack": [
     {
       "cost": {
-        "green": 2
+        "yellow": 2
       },
       "text": {
         "ko": "자신의 스테이지 에리어에 내려놓는다."
