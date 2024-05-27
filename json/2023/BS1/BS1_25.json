@@ -1,15 +1,15 @@
 {
   "serial": "BS1-025",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_25.png"
+    "ko": "images/ko/2023/BS1/BS1_25.png",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_25.png"
   },
   "type": "trap",
   "level": 0,
-  "color": [
-    "red"
-  ],
+  "color": ["red"],
   "name": {
-    "ko": "파인애플 헬멧"
+    "ko": "파인애플 헬멧",
+    "zh-TW": "鳳梨頭盔"
   },
   "hp": 0,
   "hasSkill": false,
@@ -20,7 +20,8 @@
         "red": 1
       },
       "text": {
-        "ko": "자신의 남은 HP가 1인 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+        "ko": "자신의 남은 HP가 1인 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+        "zh-TW": "如果你有剩餘HP為1點的餅乾,則選擇最多1個對手的餅乾。對它造成1點傷害。"
       },
       "damage": 1,
       "name": {
