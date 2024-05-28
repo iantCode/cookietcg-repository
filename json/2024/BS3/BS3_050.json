@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-050",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_050.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["green"],
+  "name": {
+    "ko": "말차맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual", "onceTurn"],
+    "cost": {
+      "green": 1
+    },
+    "text": {
+      "ko": "자신의 서포트 에리어가 7장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+    },
+    "effect": {
+      "damage": 1
+    },
+    "name": {
+      "ko": "음침한 어둠"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "씨앗 구슬 발사"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
