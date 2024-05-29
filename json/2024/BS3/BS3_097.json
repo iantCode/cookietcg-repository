@@ -1,0 +1,52 @@
+{
+  "serial": "BS3-097",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_097.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["purple"],
+  "name": {
+    "ko": "감초맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "purple": 2
+    },
+    "text": {
+      "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 상대의 덱의 위에서부터 1장 트래시에 놓는다."
+    },
+    "effect": {
+      "damage": 1
+    },
+    "name": {
+      "ko": "검은 저주의 번개"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "해골군단 소환"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-098",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_098.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["purple"],
+  "name": {
+    "ko": "구미호맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "purple": 1
+    },
+    "text": {
+      "ko": "<자신의 트래시에 있는 FLIP을 가지지 않은 <purple> 카드를 5장 선택하여 덱으로 되돌리고 섞는다.> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+    },
+    "effect": {
+      "damage": 1
+    },
+    "name": {
+      "ko": "숨겨둔 꼬리"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "매혹의 여우불"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
