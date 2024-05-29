@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-100",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_100.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["purple"],
+  "name": {
+    "ko": "다크카카오 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "purple": 2
+    },
+    "text": {
+      "ko": "상대의 쿠키를 2장까지 선택한다. 그 쿠키들의 HP의 위에서부터 1장까지 트래시에 놓는다."
+    },
+    "effect": {
+      "damage": 1
+    },
+    "name": {
+      "ko": "숨겨둔 꼬리"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 4
+      },
+      "text": {
+        "ko": "그리고 상대의 쿠키를 1장까지 선택한다. 그 쿠키의 HP의 위에서부터 1장까지 트래시에 놓는다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "심판자의 검"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

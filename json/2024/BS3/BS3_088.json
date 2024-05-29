@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-088",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_088.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["blue"],
+  "name": {
+    "ko": "퓨어바닐라 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "blue": 1
+    },
+    "text": {
+      "ko": "자신의 덱에서 3장까지 뽑는다. 그리고 자신의 패에서 1장 덱의 위에 놓는다."
+    },
+    "effect": {
+      "draw": 3
+    },
+    "name": {
+      "ko": "고귀한 치유의 빛"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 4
+      },
+      "text": {
+        "ko": "그리고 <패를 1장 버린다> 자신의 배틀 에리어에 있는 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
+      },
+      "damage": 4,
+      "name": {
+        "ko": "물러설 수 없어요!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
