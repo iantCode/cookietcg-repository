@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-003",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_003.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["red"],
+  "name": {
+    "ko": "로얄마가린맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual"],
+    "cost": {
+      "red": 2
+    },
+    "text": {
+      "ko": "이 쿠키를 패로 되돌린다."
+    },
+    "effect": {
+      "return": 1
+    },
+    "name": {
+      "ko": "화려한 비행술"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "버터크림 브레스"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

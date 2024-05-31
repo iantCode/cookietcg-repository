@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-081",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_081.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["blue"],
+  "name": {
+    "ko": "오이스터맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual"],
+    "cost": {
+      "blue": 2
+    },
+    "text": {
+      "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 자신의 덱의 위에 놓는다."
+    },
+    "effect": {
+      "damage": 1
+    },
+    "name": {
+      "ko": "진주 군대의 호위"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "오이스터 가문의 권위"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

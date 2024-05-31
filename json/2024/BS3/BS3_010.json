@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-010",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_010.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["red"],
+  "name": {
+    "ko": "용과 드래곤 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["myTurn", "appear"],
+    "cost": {},
+    "text": {
+      "ko": "상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다."
+    },
+    "effect": {
+      "kill": 1
+    },
+    "name": {
+      "ko": "용의 포효"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": {
+        "ko": "그리고 <<red>로 사용할 수 있다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "엔드 인 단트!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

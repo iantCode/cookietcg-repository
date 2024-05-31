@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-082",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_082.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["blue"],
+  "name": {
+    "ko": "용감한 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": [],
+    "cost": {},
+    "text": {
+      "ko": "자신의 패가 5장 이하라면 이 쿠키는 효과에 의한 대미지를 받지 않는다."
+    },
+    "effect": {
+      "noDamage": 1
+    },
+    "name": {
+      "ko": "용기 100%"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "용감한 돌진"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
