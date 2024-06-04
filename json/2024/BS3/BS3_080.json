@@ -1,0 +1,38 @@
+{
+  "serial": "BS3-080",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_080.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["blue"],
+  "name": {
+    "ko": "에스프레소맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": "그리고 <<blue>로 사용할 수 있다> 자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 덱에서 2장까지 뽑는다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "에스프레소 추출"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
