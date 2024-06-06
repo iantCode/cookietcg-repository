@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-029",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_029.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["yellow"],
+  "name": {
+    "ko": "바스크치즈맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": [],
+    "cost": {},
+    "text": {
+      "ko": "이 쿠키가 기절했을 때 <<yellow>로 사용할 수 있다> 자신의 패에서 <yellow> 쿠키를 1장까지 등장시킨다. 그리고 그 쿠키의 HP를 +1한다."
+    },
+    "effect": {
+      "heal": 1
+    },
+    "name": {
+      "ko": "황금도시의 수호자"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "자칼 군단 출격"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
