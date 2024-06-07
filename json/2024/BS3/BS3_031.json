@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-031",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_031.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["yellow"],
+  "name": {
+    "ko": "팬케이크맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {},
+    "text": {
+      "ko": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP의 위에서부터 1장 이 쿠키의 HP 위에 추가한다."
+    },
+    "effect": {
+      "heal": 1
+    },
+    "name": {
+      "ko": "도토리젤리~!"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "날아볼까? 슝~!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

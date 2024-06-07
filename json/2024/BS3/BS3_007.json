@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-007",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_007.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["red"],
+  "name": {
+    "ko": "실론나이트 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": [],
+    "cost": {
+    },
+    "text": {
+      "ko": "자신의 브레이크 에리어가 LV.7 이상이라면 이 쿠키의 공격 대미지를 +2한다."
+    },
+    "effect": {
+      "damageIncrease": 2
+    },
+    "name": {
+      "ko": "기사단장의 분노"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "할버드 어택"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

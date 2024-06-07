@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-109",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_109.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["purple"],
+  "name": {
+    "ko": "웨어울프맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "purple": 1
+    },
+    "text": {
+      "ko": "이 쿠키의 HP를 +1한다."
+    },
+    "effect": {
+      "heal": 1
+    },
+    "name": {
+      "ko": "늑대 변신"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": "그리고 이 쿠키의 HP에서 1장 트래시에 놓는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "거친 몸부림"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

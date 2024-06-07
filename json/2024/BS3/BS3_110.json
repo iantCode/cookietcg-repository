@@ -1,0 +1,39 @@
+{
+  "serial": "BS3-110",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_110.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["purple"],
+  "name": {
+    "ko": "자색고구마맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2,
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 4,
+      "name": {
+        "ko": "고구마 돌풍!!!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

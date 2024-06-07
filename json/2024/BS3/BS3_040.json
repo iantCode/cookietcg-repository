@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-040",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_040.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["yellow"],
+  "name": {
+    "ko": "탐험가맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+      "yellow": 2
+    },
+    "text": {
+      "ko": "서로의 배틀 에리어에 있는 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 소유자의 브레이크 에리어에 놓는다."
+    },
+    "effect": {
+      "kill": 1
+    },
+    "name": {
+      "ko": "바움쿠헨 밧줄의 속박"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "로프 액션"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

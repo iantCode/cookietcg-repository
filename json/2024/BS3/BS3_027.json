@@ -1,0 +1,45 @@
+{
+  "serial": "BS3-027",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_027.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["yellow"],
+  "name": {
+    "ko": "마지팬맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "제어 시스템, 가동!"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": {
+      "ko": "자신의 덱에서 1장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

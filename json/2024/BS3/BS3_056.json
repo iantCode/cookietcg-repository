@@ -1,0 +1,47 @@
+{
+  "serial": "BS3-056",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_056.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["green"],
+  "name": {
+    "ko": "솔방울맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "방울방울 폭탄"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+      "handTrash": 1
+    },
+    "text": {
+      "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+    },
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

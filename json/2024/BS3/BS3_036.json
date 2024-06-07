@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-036",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_036.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["yellow"],
+  "name": {
+    "ko": "올리브맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {},
+    "text": {
+      "ko": "자신의 배틀 에리어에 있는 다른 <yellow> 쿠키를 1장 선택한다. 그 쿠키를 자신의 브레이크 에리어에 놓는다. 그리고 자신의 덱에서 2장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 2
+    },
+    "name": {
+      "ko": "유적지 탐사"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "숙련된 발굴"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

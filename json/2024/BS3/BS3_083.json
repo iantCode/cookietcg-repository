@@ -1,0 +1,49 @@
+{
+  "serial": "BS3-083",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_083.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["blue"],
+  "name": {
+    "ko": "캡틴캐비어맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {},
+    "text": {
+      "ko": "자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다."
+    },
+    "effect": {
+      "reorder": 1
+    },
+    "name": {
+      "ko": "노련한 캡틴의 지휘"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 4
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "블랙 샤크 어뢰포"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

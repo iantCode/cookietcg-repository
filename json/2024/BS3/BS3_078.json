@@ -1,0 +1,50 @@
+{
+  "serial": "BS3-078",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_078.png"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["blue"],
+  "name": {
+    "ko": "마법사맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["appear"],
+    "cost": {
+    },
+    "text": {
+      "ko": "<패를 2장 버린다> 자신의 덱에서 2장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 2
+    },
+    "name": {
+      "ko": "신비한 마법 연구"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "번개구름 소환"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

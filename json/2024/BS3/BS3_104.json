@@ -1,0 +1,51 @@
+{
+  "serial": "BS3-104",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_104.png"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": ["purple"],
+  "name": {
+    "ko": "석류맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual", "onceTurn"],
+    "cost": {
+      "purple": 2
+    },
+    "text": {
+      "ko": "상대의 패를 2장까지 랜덤으로 트래시에 놓는다. 그리고 상대는 덱을 2장 뽑는다."
+    },
+    "effect": {
+      "handTrash": 2
+    },
+    "name": {
+      "ko": "석류빛 정신 지배"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "새빨간 저주"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
