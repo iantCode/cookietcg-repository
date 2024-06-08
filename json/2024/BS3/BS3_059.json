@@ -1,0 +1,39 @@
+{
+  "serial": "BS3-059",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_059.png"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["green"],
+  "name": {
+    "ko": "양파맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 2,
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 4,
+      "name": {
+        "ko": "눈물 폭풍"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
