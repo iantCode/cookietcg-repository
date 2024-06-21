@@ -1,13 +1,13 @@
 {
-  "serial": "P-028",
+  "serial": "P-032",
   "img": {
-    "ko": "images/ko/2024/Promo/P_028.webp"
+    "ko": "images/ko/2024/Promo/P_032.webp"
   },
   "type": "stage",
   "level": 0,
   "color": [],
   "name": {
-    "ko": "골드치즈 광산 저장고"
+    "ko": "찬란한 영웅들의 신전"
   },
   "hp": 0,
   "hasSkill": true,
