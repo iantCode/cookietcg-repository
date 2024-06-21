@@ -1,0 +1,55 @@
+{
+  "serial": "P-030",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_030.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "소르베맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "myTurn",
+      "appear"
+    ],
+    "cost": {},
+    "text": {
+      "ko": "<패를 2장 버린다> 상대의 모든 쿠키에게 1대미지를 준다."
+    },
+    "effect": {
+      "damage": 1
+    },
+    "name": {
+      "ko": ""
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 <패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "제어 시스템, 가동!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.3",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

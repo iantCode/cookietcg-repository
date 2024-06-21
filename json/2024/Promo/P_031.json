@@ -1,0 +1,37 @@
+{
+  "serial": "P-031",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_031.webp"
+  },
+  "type": "trap",
+  "level": 0,
+  "color": ["purple"],
+  "name": {
+    "ko": "후계자의 배신"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": "자신의 트래시에 있는 카드가 15장 이상이라면 상대의 LV.3 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -1한다. 그리고 그 쿠키의 HP의 위에서부터 1장까지 트래시에 놓는다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.3",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

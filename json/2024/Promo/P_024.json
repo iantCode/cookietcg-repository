@@ -1,0 +1,49 @@
+{
+  "serial": "P-024",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_024.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "생토노레맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "지원 나왔습니다~!"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+      "handTrash": 1
+    },
+    "text": {
+      "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+    },
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.3",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

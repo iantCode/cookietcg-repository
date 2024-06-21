@@ -1,0 +1,59 @@
+{
+  "serial": "P-025",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_025.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "마지팬맛 쿠키 2"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "condition": [],
+    "cost": {},
+    "text": {
+      "ko": "자신의 배틀 에리어에 [마지팬맛 쿠키]를 이름에 포함하는 카드 2종과 자신의 서포트 에리어에 [마지팬맛 쿠키]를 이름에 포함하는 카드 4종이 있다면 이 쿠키의 공격 대미지는 2배가 된다."
+    },
+    "effect": {
+      "increaseDamage": 3
+    },
+    "name": {
+      "ko": ""
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "제어 시스템, 가동!"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": {
+      "ko": "자신의 덱에서 1장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.3",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

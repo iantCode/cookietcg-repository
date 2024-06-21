@@ -1,0 +1,51 @@
+{
+  "serial": "P-028",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_028.webp"
+  },
+  "type": "stage",
+  "level": 0,
+  "color": ["yellow"],
+  "name": {
+    "ko": "골드치즈 광산 저장고"
+  },
+  "hp": 0,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual"],
+    "cost": {
+      "yellow": 1
+    },
+    "text": {
+      "ko": "<이 카드를 레스트한다> <자신의 패에서 <yellow> LV.2 이상의 쿠키를 1장 자신의 브레이크 에리어에 놓는다> 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 1장까지 패로 가져온다."
+    },
+    "effect": {
+      "damage": 0
+    },
+    "name": {
+      "ko": ""
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": "자신의 스테이지 에리어에 내려놓는다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.3",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -31,7 +31,6 @@
   "hasFlip": true,
   "flip": {
     "condition": {
-      "handTrash": 1
     },
     "text": {
       "ko": "덱에서 1장 뽑을 수 있다."

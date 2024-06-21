@@ -1,0 +1,37 @@
+{
+  "serial": "P-029",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_029.webp"
+  },
+  "type": "trap",
+  "level": 0,
+  "color": ["green"],
+  "name": {
+    "ko": "계승된 수호자의 힘"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "이 배틀 중 자신의 쿠키가 기절하면 자신의 트래시에서 <green> 쿠키를 1장 등장시킨다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.3",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
