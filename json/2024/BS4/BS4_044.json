@@ -1,0 +1,51 @@
+{
+  "serial": "BS4-044",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_044.png"
+  },
+  "type": "stage",
+  "level": 0,
+  "color": ["yellow"],
+  "name": {
+    "ko": "천년나무 사원"
+  },
+  "hp": 0,
+  "hasSkill": true,
+  "skill": {
+    "condition": ["manual"],
+    "cost": {
+      "yellow": 2
+    },
+    "text": {
+      "ko": "<이 카드를 레스트한다> <패를 1장 버린다> 자신의 쿠키를 1장까지 선택한다. 자신의 패에서 1장까지 그 쿠키의 HP 위에 추가한다.."
+    },
+    "effect": {
+      "damage": 0
+    },
+    "name": {
+      "ko": ""
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": "자신의 스테이지 에리어에 내려놓는다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

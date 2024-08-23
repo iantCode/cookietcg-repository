@@ -1,0 +1,38 @@
+{
+  "serial": "BS4-039",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_039.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": ["yellow"],
+  "name": {
+    "ko": "츄러스맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": "그리고 이 쿠키의 남은 HP가 2 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "츄러스 소환"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

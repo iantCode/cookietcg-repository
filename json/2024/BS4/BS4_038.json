@@ -1,0 +1,52 @@
+{
+  "serial": "BS4-038",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_038.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": ["yellow"],
+  "name": {
+    "ko": "천년나무 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "condition": [
+      "appear"
+    ],
+    "cost": {
+      "yellow": 1
+    },
+    "text": {
+      "ko": "자신의 브레이크 에리어에 있는 <yellow> LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다."
+    },
+    "effect": {
+    },
+    "name": {
+      "ko": "대지와 시간의 마법"
+    }
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": "그리고 자신의 배틀 에리어에 있는 다른 <yellow> 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "신성한 뿌리"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
