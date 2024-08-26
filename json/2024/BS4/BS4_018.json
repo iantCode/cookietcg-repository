@@ -1,0 +1,39 @@
+{
+  "serial": "BS4-018",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_018.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "마그마 펜듈럼"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": "자신의 배틀 에리어에 <red> LV.2 이상의 쿠키가 2장 있다면 자신의 쿠키를 2장까지 선택한다. 이 턴 중 그 쿠키들의 공격 대미지를 +1한다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
