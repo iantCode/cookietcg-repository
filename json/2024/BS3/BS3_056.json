@@ -5,7 +5,9 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "솔방울맛 쿠키"
   },

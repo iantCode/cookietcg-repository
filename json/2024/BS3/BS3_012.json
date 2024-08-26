@@ -5,7 +5,9 @@
   },
   "type": "cookie",
   "level": 3,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "정글베리맛 쿠키"
   },

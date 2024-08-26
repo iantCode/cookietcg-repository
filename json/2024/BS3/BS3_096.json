@@ -5,26 +5,31 @@
   },
   "type": "stage",
   "level": 0,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "평화와 화합의 바닐라 왕국"
   },
   "hp": 0,
   "hasSkill": true,
-  "skill": {
-    "condition": ["manual"],
-    "cost": {
-    },
-    "text": {
-      "ko": "<이 카드를 레스트한다> 자신의 패가 2장 이하라면 자신의 덱에서 2장 뽑는다."
-    },
-    "effect": {
-      "damage": 0
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "manual"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "<이 카드를 레스트한다> 자신의 패가 2장 이하라면 자신의 덱에서 2장 뽑는다."
+      },
+      "effect": {
+        "damage": 0
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

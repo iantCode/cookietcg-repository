@@ -5,25 +5,29 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "비트맛 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": [],
-    "cost": {},
-    "text": {
-      "ko": "자신의 턴 종료 시 자신의 서포트 에리어에 있는 엑티브 카드가 2장 이상이라면 자신의 덱에서 1장까지 뽑는다."
-    },
-    "effect": {
-      "draw": 1
-    },
-    "name": {
-      "ko": "야생의 근성"
+  "skill": [
+    {
+      "condition": [],
+      "cost": {},
+      "text": {
+        "ko": "자신의 턴 종료 시 자신의 서포트 에리어에 있는 엑티브 카드가 2장 이상이라면 자신의 덱에서 1장까지 뽑는다."
+      },
+      "effect": {
+        "draw": 1
+      },
+      "name": {
+        "ko": "야생의 근성"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

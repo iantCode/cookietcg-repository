@@ -5,27 +5,34 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "말차맛 쿠키"
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": {
-    "condition": ["manual", "onceTurn"],
-    "cost": {
-      "green": 1
-    },
-    "text": {
-      "ko": "자신의 서포트 에리어가 7장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
-    },
-    "effect": {
-      "damage": 1
-    },
-    "name": {
-      "ko": "음침한 어둠"
+  "skill": [
+    {
+      "condition": [
+        "manual",
+        "onceTurn"
+      ],
+      "cost": {
+        "green": 1
+      },
+      "text": {
+        "ko": "자신의 서포트 에리어가 7장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "effect": {
+        "damage": 1
+      },
+      "name": {
+        "ko": "음침한 어둠"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

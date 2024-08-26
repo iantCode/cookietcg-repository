@@ -5,27 +5,33 @@
   },
   "type": "cookie",
   "level": 3,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "흑당맛 쿠키"
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {
-      "purple": 1
-    },
-    "text": {
-      "ko": "자신의 트래시에 있는 <purple> 카드가 15장 이상이라면 자신의 트래시에 있는 카드를 모두 덱으로 되돌리고 섞는다. 그리고 상대의 모든 쿠키에게 2대미지를 준다."
-    },
-    "effect": {
-      "damage": 2
-    },
-    "name": {
-      "ko": "충직한 결의"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": "자신의 트래시에 있는 <purple> 카드가 15장 이상이라면 자신의 트래시에 있는 카드를 모두 덱으로 되돌리고 섞는다. 그리고 상대의 모든 쿠키에게 2대미지를 준다."
+      },
+      "effect": {
+        "damage": 2
+      },
+      "name": {
+        "ko": "충직한 결의"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

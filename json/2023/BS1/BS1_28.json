@@ -13,23 +13,25 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {
-      "yellow": 1
-    },
-    "text": {
-      "ko": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
-    },
-    "effect": {
-      "heal": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
+      },
+      "effect": {
+        "heal": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

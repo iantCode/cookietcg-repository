@@ -5,27 +5,33 @@
   },
   "type": "stage",
   "level": 0,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "영광의 빛, 크렘 공화국"
   },
   "hp": 0,
   "hasSkill": true,
-  "skill": {
-    "condition": ["manual"],
-    "cost": {
-      "blue": 1
-    },
-    "text": {
-      "ko": "<이 카드를 레스트한다> 아래에서 하나를 선택한다.<br />• 자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다.<br />• 자신의 덱에서 1장을 뽑고 이 카드를 덱의 아래에 놓는다."
-    },
-    "effect": {
-      "damage": 0
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "manual"
+      ],
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": "<이 카드를 레스트한다> 아래에서 하나를 선택한다.<br />• 자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다.<br />• 자신의 덱에서 1장을 뽑고 이 카드를 덱의 아래에 놓는다."
+      },
+      "effect": {
+        "damage": 0
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

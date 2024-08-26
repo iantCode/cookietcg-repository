@@ -5,7 +5,9 @@
   },
   "type": "cookie",
   "level": 3,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "스모크치즈맛 쿠키"
   },

@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "소울 잼: 진리의 빛"
   },

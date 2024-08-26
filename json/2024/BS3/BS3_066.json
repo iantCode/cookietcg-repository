@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "소울 잼: 자유의 빛"
   },

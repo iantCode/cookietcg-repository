@@ -5,14 +5,15 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "에스프레소맛 쿠키"
   },
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {

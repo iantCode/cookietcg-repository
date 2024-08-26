@@ -13,19 +13,21 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": [],
-    "cost": {},
-    "text": {
-      "ko": "이 쿠키가 기절했을 때 덱에서 1장 뽑을 수 있다. 뽑았다면 패를 1장 버린다."
-    },
-    "effect": {
-      "draw": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [],
+      "cost": {},
+      "text": {
+        "ko": "이 쿠키가 기절했을 때 덱에서 1장 뽑을 수 있다. 뽑았다면 패를 1장 버린다."
+      },
+      "effect": {
+        "draw": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

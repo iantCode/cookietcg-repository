@@ -13,23 +13,25 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {
-      "yellow": 1
-    },
-    "text": {
-      "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 HP에 있는 FLIP을 발동할 수 없다."
-    },
-    "effect": {
-      "noFlip": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 HP에 있는 FLIP을 발동할 수 없다."
+      },
+      "effect": {
+        "noFlip": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

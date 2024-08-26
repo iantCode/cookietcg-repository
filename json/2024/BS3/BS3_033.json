@@ -5,7 +5,9 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "스타더스트 쿠키"
   },

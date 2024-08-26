@@ -5,14 +5,15 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "츄러스맛 쿠키"
   },
   "hp": 5,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {

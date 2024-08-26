@@ -13,19 +13,21 @@
   },
   "hp": 1,
   "hasSkill": true,
-  "skill": {
-    "condition": [],
-    "cost": {},
-    "text": {
-      "ko": "이 쿠키가 기절했을 때 상대는 자신의 패를 1장 트래시에 놓는다."
-    },
-    "effect": {
-      "handTrash": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [],
+      "cost": {},
+      "text": {
+        "ko": "이 쿠키가 기절했을 때 상대는 자신의 패를 1장 트래시에 놓는다."
+      },
+      "effect": {
+        "handTrash": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

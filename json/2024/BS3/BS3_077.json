@@ -5,27 +5,34 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "마들렌맛 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": ["manual", "onceTurn"],
-    "cost": {
-      "blue": 1
-    },
-    "text": {
-      "ko": "<패를 2장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 액티브로 한다."
-    },
-    "effect": {
-      "damage": 1
-    },
-    "name": {
-      "ko": "빛의 가호!"
+  "skill": [
+    {
+      "condition": [
+        "manual",
+        "onceTurn"
+      ],
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": "<패를 2장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 액티브로 한다."
+      },
+      "effect": {
+        "damage": 1
+      },
+      "name": {
+        "ko": "빛의 가호!"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

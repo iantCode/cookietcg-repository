@@ -6,7 +6,9 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "팝콘맛 쿠키",
     "zh-TW": "爆米花餅乾"

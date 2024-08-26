@@ -13,22 +13,24 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "myTurn",
-      "appear"
-    ],
-    "cost": {},
-    "text": {
-      "ko": "<패를 2장 버린다> 상대의 모든 쿠키에게 1대미지를 준다."
-    },
-    "effect": {
-      "damage": 1
-    },
-    "name": {
-      "ko": "얼음 결정, 발사!"
+  "skill": [
+    {
+      "condition": [
+        "myTurn",
+        "appear"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "<패를 2장 버린다> 상대의 모든 쿠키에게 1대미지를 준다."
+      },
+      "effect": {
+        "damage": 1
+      },
+      "name": {
+        "ko": "얼음 결정, 발사!"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

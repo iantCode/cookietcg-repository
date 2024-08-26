@@ -5,27 +5,33 @@
   },
   "type": "stage",
   "level": 0,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "은백색 신비의 요정왕국"
   },
   "hp": 0,
   "hasSkill": true,
-  "skill": {
-    "condition": ["manual"],
-    "cost": {
-      "green": 2
-    },
-    "text": {
-      "ko": "<이 카드를 레스트한다> 상대의 서포트 에리어가 5장 이상이라면 상대의 서포트 에리어에 있는 액티브 카드를 1장까지 선택한다. 그 카드를 레스트로 한다."
-    },
-    "effect": {
-      "damage": 0
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "manual"
+      ],
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "<이 카드를 레스트한다> 상대의 서포트 에리어가 5장 이상이라면 상대의 서포트 에리어에 있는 액티브 카드를 1장까지 선택한다. 그 카드를 레스트로 한다."
+      },
+      "effect": {
+        "damage": 0
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

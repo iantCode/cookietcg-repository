@@ -13,24 +13,26 @@
   },
   "hp": 6,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {
-      "yellow": 1
-    },
-    "text": {
-      "ko": "상대는 자신의 패를 1장 트래시에 놓는다.",
-      "zh-TW": "對手將1張手牌放置到棄牌區。"
-    },
-    "effect": {
-      "handTrash": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "상대는 자신의 패를 1장 트래시에 놓는다.",
+        "zh-TW": "對手將1張手牌放置到棄牌區。"
+      },
+      "effect": {
+        "handTrash": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

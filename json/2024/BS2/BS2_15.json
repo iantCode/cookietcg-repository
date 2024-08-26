@@ -13,23 +13,25 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "manual"
-    ],
-    "cost": {
-      "green": 4
-    },
-    "text": {
-      "ko": "《이 쿠키를 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다."
-    },
-    "effect": {
-      "trashStage": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "manual"
+      ],
+      "cost": {
+        "green": 4
+      },
+      "text": {
+        "ko": "《이 쿠키를 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다."
+      },
+      "effect": {
+        "trashStage": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

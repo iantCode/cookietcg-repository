@@ -13,23 +13,25 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {
-      "purple": 1
-    },
-    "text": {
-      "ko": "상대의 남은 HP가 2 이하인 쿠키를 1장 트래시에 놓는다."
-    },
-    "effect": {
-      "kill": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": "상대의 남은 HP가 2 이하인 쿠키를 1장 트래시에 놓는다."
+      },
+      "effect": {
+        "kill": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

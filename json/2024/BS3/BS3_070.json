@@ -5,7 +5,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "혼돈의 인형극"
   },

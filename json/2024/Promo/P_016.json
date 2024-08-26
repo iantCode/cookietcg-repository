@@ -13,23 +13,25 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {
-      "yellow": 1
-    },
-    "text": {
-      "ko": "자신의 트래시에 있는 <yellow> LV.2 쿠키를 1장 브레이크 에리어에 놓을 수 있다. 놓았다면 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 2장까지 트래시에 놓는다."
-    },
-    "effect": {
-      "exchangeBreak": 2
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "자신의 트래시에 있는 <yellow> LV.2 쿠키를 1장 브레이크 에리어에 놓을 수 있다. 놓았다면 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 2장까지 트래시에 놓는다."
+      },
+      "effect": {
+        "exchangeBreak": 2
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

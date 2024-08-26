@@ -13,21 +13,23 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {},
-    "text": {
-      "ko": "《패를 1장 버린다》 자신의 트래시에서 <purple> 카드를 1장까지 패로 가져온다."
-    },
-    "effect": {
-      "draw": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "《패를 1장 버린다》 자신의 트래시에서 <purple> 카드를 1장까지 패로 가져온다."
+      },
+      "effect": {
+        "draw": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

@@ -6,7 +6,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "거대한 체리 폭탄",
     "zh-TW": "巨型櫻桃炸彈"

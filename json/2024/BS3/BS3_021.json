@@ -5,7 +5,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "방패에 건 맹세"
   },

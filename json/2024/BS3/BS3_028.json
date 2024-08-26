@@ -5,25 +5,31 @@
   },
   "type": "cookie",
   "level": 3,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "모짜렐라맛 쿠키"
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {
-      "yellow": 1
-    },
-    "text": {
-      "ko": "<패를 1장 버린다> 상대의 브레이크 에리어가 LV.6 이하라면 상대의 트래시에 있는 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다."
-    },
-    "effect": {},
-    "name": {
-      "ko": "관제실의 통제"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "<패를 1장 버린다> 상대의 브레이크 에리어가 LV.6 이하라면 상대의 트래시에 있는 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다."
+      },
+      "effect": {},
+      "name": {
+        "ko": "관제실의 통제"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

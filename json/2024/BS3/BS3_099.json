@@ -5,7 +5,9 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "다크초코 쿠키"
   },

@@ -5,27 +5,33 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "아포가토맛 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": ["manual"],
-    "cost": {
-      "purple": 1
-    },
-    "text": {
-      "ko": "<이 쿠키를 트래시에 놓는다> 서로의 덱의 위에서부터 2장 트래시에 놓는다."
-    },
-    "effect": {
-      "deckTrash": 2
-    },
-    "name": {
-      "ko": "달콤한 모략"
+  "skill": [
+    {
+      "condition": [
+        "manual"
+      ],
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": "<이 쿠키를 트래시에 놓는다> 서로의 덱의 위에서부터 2장 트래시에 놓는다."
+      },
+      "effect": {
+        "deckTrash": 2
+      },
+      "name": {
+        "ko": "달콤한 모략"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

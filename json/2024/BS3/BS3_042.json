@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "골드치즈 가디언 골렘"
   },

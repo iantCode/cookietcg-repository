@@ -5,7 +5,9 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "페투치니맛 쿠키"
   },

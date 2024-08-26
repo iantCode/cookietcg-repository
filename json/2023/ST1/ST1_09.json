@@ -17,23 +17,25 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "myTurn"
-    ],
-    "cost": {},
-    "text": {
-      "ko": "자신의 브레이크 에리어가 LV.6 이상이라면 이 쿠키의 공격 대미지를 +1한다.",
-      "zh-TW": "如果自己的休息區LV總和達到6或以上, 則這個餅乾的攻擊傷害+1點。",
-      "en": "If your break area is LV.6 or higher, this cookie gains +1 attack damage."
-    },
-    "effect": {
-      "damageIncrease": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "myTurn"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "자신의 브레이크 에리어가 LV.6 이상이라면 이 쿠키의 공격 대미지를 +1한다.",
+        "zh-TW": "如果自己的休息區LV總和達到6或以上, 則這個餅乾的攻擊傷害+1點。",
+        "en": "If your break area is LV.6 or higher, this cookie gains +1 attack damage."
+      },
+      "effect": {
+        "damageIncrease": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

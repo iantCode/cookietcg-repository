@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "요정왕의 검"
   },

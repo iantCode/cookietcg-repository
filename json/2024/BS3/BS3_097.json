@@ -5,27 +5,33 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "감초맛 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {
-      "purple": 2
-    },
-    "text": {
-      "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 상대의 덱의 위에서부터 1장 트래시에 놓는다."
-    },
-    "effect": {
-      "damage": 1
-    },
-    "name": {
-      "ko": "검은 저주의 번개"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 상대의 덱의 위에서부터 1장 트래시에 놓는다."
+      },
+      "effect": {
+        "damage": 1
+      },
+      "name": {
+        "ko": "검은 저주의 번개"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

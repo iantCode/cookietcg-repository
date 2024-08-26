@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "소울 잼: 풍요의 빛"
   },

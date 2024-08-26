@@ -5,7 +5,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "계승된 수호자의 힘"
   },

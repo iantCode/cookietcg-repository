@@ -13,23 +13,25 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {
-      "red": 2
-    },
-    "text": {
-      "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
-    },
-    "effect": {
-      "damage": 2
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+      },
+      "effect": {
+        "damage": 2
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

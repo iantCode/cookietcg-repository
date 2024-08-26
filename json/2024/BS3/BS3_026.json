@@ -5,25 +5,31 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "린저 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {
-      "yellow": 1
-    },
-    "text": {
-      "ko": "자신의 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 모두 보고 원하는 순서로 놓는다."
-    },
-    "effect": {},
-    "name": {
-      "ko": "허를 찌르는 트릭"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "자신의 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 모두 보고 원하는 순서로 놓는다."
+      },
+      "effect": {},
+      "name": {
+        "ko": "허를 찌르는 트릭"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

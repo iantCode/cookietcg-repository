@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "빛의 가호를 받은 검"
   },

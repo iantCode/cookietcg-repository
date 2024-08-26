@@ -5,25 +5,31 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "블랙레이즌맛 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {},
-    "text": {
-      "ko": "자신의 패를 1장까지 이 쿠키의 HP 위에 추가한다."
-    },
-    "effect": {
-      "heal": 1
-    },
-    "name": {
-      "ko": "사막의 축복"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "자신의 패를 1장까지 이 쿠키의 HP 위에 추가한다."
+      },
+      "effect": {
+        "heal": 1
+      },
+      "name": {
+        "ko": "사막의 축복"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

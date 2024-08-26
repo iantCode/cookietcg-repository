@@ -5,26 +5,31 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "마법사맛 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {
-    },
-    "text": {
-      "ko": "<패를 2장 버린다> 자신의 덱에서 2장까지 뽑는다."
-    },
-    "effect": {
-      "draw": 2
-    },
-    "name": {
-      "ko": "신비한 마법 연구"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "<패를 2장 버린다> 자신의 덱에서 2장까지 뽑는다."
+      },
+      "effect": {
+        "draw": 2
+      },
+      "name": {
+        "ko": "신비한 마법 연구"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

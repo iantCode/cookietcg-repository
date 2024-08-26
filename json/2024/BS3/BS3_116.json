@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "충직한 전사의 신궁검"
   },

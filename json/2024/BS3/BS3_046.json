@@ -5,7 +5,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "황금 낙원의 콜로세움"
   },

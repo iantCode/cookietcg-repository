@@ -6,7 +6,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "스파이시 파워 주스",
     "zh-TW": "辣味能量果汁"

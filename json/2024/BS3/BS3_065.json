@@ -5,27 +5,33 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "허브맛 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {
-      "green": 2
-    },
-    "text": {
-      "ko": "자신의 패를 1장까지 서포트 에리어에 레스트로 놓는다. 그리고 자신의 서포트 에리어가 8장 이상이라면 자신의 덱에서 1장까지 뽑는다."
-    },
-    "effect": {
-      "addSupport": 1
-    },
-    "name": {
-      "ko": "무럭무럭 자라라!"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "자신의 패를 1장까지 서포트 에리어에 레스트로 놓는다. 그리고 자신의 서포트 에리어가 8장 이상이라면 자신의 덱에서 1장까지 뽑는다."
+      },
+      "effect": {
+        "addSupport": 1
+      },
+      "name": {
+        "ko": "무럭무럭 자라라!"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

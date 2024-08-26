@@ -5,27 +5,33 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "웨어울프맛 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {
-      "purple": 1
-    },
-    "text": {
-      "ko": "이 쿠키의 HP를 +1한다."
-    },
-    "effect": {
-      "heal": 1
-    },
-    "name": {
-      "ko": "늑대 변신"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": "이 쿠키의 HP를 +1한다."
+      },
+      "effect": {
+        "heal": 1
+      },
+      "name": {
+        "ko": "늑대 변신"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

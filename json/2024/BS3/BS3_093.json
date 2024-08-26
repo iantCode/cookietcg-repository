@@ -5,7 +5,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "원로회의 선택"
   },

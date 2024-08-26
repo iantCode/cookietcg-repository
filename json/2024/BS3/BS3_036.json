@@ -5,25 +5,31 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "올리브맛 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {},
-    "text": {
-      "ko": "자신의 배틀 에리어에 있는 다른 <yellow> 쿠키를 1장 선택한다. 그 쿠키를 자신의 브레이크 에리어에 놓는다. 그리고 자신의 덱에서 2장까지 뽑는다."
-    },
-    "effect": {
-      "draw": 2
-    },
-    "name": {
-      "ko": "유적지 탐사"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "자신의 배틀 에리어에 있는 다른 <yellow> 쿠키를 1장 선택한다. 그 쿠키를 자신의 브레이크 에리어에 놓는다. 그리고 자신의 덱에서 2장까지 뽑는다."
+      },
+      "effect": {
+        "draw": 2
+      },
+      "name": {
+        "ko": "유적지 탐사"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

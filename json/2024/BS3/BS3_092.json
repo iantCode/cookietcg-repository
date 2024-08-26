@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "앤티크 바닐라꽃 펜던트"
   },

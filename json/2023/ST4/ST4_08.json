@@ -13,21 +13,23 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {},
-    "text": {
-      "ko": "덱에서 1장 뽑을 수 있다."
-    },
-    "effect": {
-      "draw": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "덱에서 1장 뽑을 수 있다."
+      },
+      "effect": {
+        "draw": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

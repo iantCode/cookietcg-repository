@@ -13,23 +13,25 @@
   },
   "hp": 0,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "manual"
-    ],
-    "cost": {
-      "yellow": 2
-    },
-    "text": {
-      "ko": "《이 카드를 레스트한다》 자신의 쿠키 1장의 HP를 +1한다."
-    },
-    "effect": {
-      "heal": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "manual"
+      ],
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": "《이 카드를 레스트한다》 자신의 쿠키 1장의 HP를 +1한다."
+      },
+      "effect": {
+        "heal": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

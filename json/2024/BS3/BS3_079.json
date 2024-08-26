@@ -5,14 +5,15 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "설탕노움"
   },
   "hp": 5,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {

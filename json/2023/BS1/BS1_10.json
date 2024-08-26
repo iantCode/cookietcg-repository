@@ -6,7 +6,9 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "악마맛 쿠키",
     "zh-TW": "惡魔餅乾"

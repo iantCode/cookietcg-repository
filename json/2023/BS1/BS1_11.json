@@ -6,7 +6,9 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "앵두맛 쿠키",
     "zh-TW": "山櫻桃餅乾"

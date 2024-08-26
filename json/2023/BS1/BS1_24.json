@@ -6,7 +6,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "파스타 스프링 슈즈",
     "zh-TW": "義大利麵彈簧鞋"

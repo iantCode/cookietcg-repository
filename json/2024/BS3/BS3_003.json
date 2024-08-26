@@ -5,27 +5,33 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "로얄마가린맛 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": ["manual"],
-    "cost": {
-      "red": 2
-    },
-    "text": {
-      "ko": "이 쿠키를 패로 되돌린다."
-    },
-    "effect": {
-      "return": 1
-    },
-    "name": {
-      "ko": "화려한 비행술"
+  "skill": [
+    {
+      "condition": [
+        "manual"
+      ],
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": "이 쿠키를 패로 되돌린다."
+      },
+      "effect": {
+        "return": 1
+      },
+      "name": {
+        "ko": "화려한 비행술"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

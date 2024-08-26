@@ -5,27 +5,33 @@
   },
   "type": "cookie",
   "level": 3,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "세인트릴리 쿠키"
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {
-      "green": 1
-    },
-    "text": {
-      "ko": "자신의 서포트 에리어에 있는 <green> 카드를 1장까지 이 쿠키의 HP 위에 추가한다."
-    },
-    "effect": {
-      "heal": 1
-    },
-    "name": {
-      "ko": "백합의 치유"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "green": 1
+      },
+      "text": {
+        "ko": "자신의 서포트 에리어에 있는 <green> 카드를 1장까지 이 쿠키의 HP 위에 추가한다."
+      },
+      "effect": {
+        "heal": 1
+      },
+      "name": {
+        "ko": "백합의 치유"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

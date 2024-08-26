@@ -6,7 +6,9 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "용감한 쿠키",
     "zh-TW": "勇敢餅乾"

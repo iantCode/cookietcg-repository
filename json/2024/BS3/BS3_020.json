@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "용머리 카누 미니어쳐"
   },

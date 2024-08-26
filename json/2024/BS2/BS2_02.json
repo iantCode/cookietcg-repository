@@ -13,23 +13,25 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {
-      "red": 1
-    },
-    "text": {
-      "ko": "상대의 스테이지를 1장까지 트래시에 놓는다"
-    },
-    "effect": {
-      "stageTrash": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "red": 1
+      },
+      "text": {
+        "ko": "상대의 스테이지를 1장까지 트래시에 놓는다"
+      },
+      "effect": {
+        "stageTrash": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

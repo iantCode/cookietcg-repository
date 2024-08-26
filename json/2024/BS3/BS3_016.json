@@ -5,25 +5,32 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "타르트타탕맛 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": ["manual", "onceTurn"],
-    "cost": {},
-    "text": {
-      "ko": "이 턴 중 이 쿠키의 공격으로 상대의 쿠키가 기절하면 이 쿠키를 액티브로 한다."
-    },
-    "effect": {
-      "makeActive": 1
-    },
-    "name": {
-      "ko": "노련한 사냥꾼"
+  "skill": [
+    {
+      "condition": [
+        "manual",
+        "onceTurn"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "이 턴 중 이 쿠키의 공격으로 상대의 쿠키가 기절하면 이 쿠키를 액티브로 한다."
+      },
+      "effect": {
+        "makeActive": 1
+      },
+      "name": {
+        "ko": "노련한 사냥꾼"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

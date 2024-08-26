@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "버섯포자 후르츠펀치"
   },

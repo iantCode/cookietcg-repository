@@ -5,7 +5,9 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "예언자맛 쿠키"
   },
@@ -28,8 +30,7 @@
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": {
       "ko": "자신의 덱에서 1장까지 뽑는다."
     },

@@ -5,24 +5,29 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "매작과맛 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {},
-    "text": {
-      "ko": "자신의 브레이크 에리어가 LV.5 이상이라면 자신의 덱에서 1장까지 뽑는다. 그리고 자신의 패를 1장 버린다."
-    },
-    "effect": {
-    },
-    "name": {
-      "ko": "얼씨구나~좋다!"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "자신의 브레이크 에리어가 LV.5 이상이라면 자신의 덱에서 1장까지 뽑는다. 그리고 자신의 패를 1장 버린다."
+      },
+      "effect": {},
+      "name": {
+        "ko": "얼씨구나~좋다!"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

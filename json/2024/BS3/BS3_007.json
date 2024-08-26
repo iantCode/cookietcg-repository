@@ -5,26 +5,29 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "실론나이트 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": [],
-    "cost": {
-    },
-    "text": {
-      "ko": "자신의 브레이크 에리어가 LV.7 이상이라면 이 쿠키의 공격 대미지를 +2한다."
-    },
-    "effect": {
-      "damageIncrease": 2
-    },
-    "name": {
-      "ko": "기사단장의 분노"
+  "skill": [
+    {
+      "condition": [],
+      "cost": {},
+      "text": {
+        "ko": "자신의 브레이크 에리어가 LV.7 이상이라면 이 쿠키의 공격 대미지를 +2한다."
+      },
+      "effect": {
+        "damageIncrease": 2
+      },
+      "name": {
+        "ko": "기사단장의 분노"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

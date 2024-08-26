@@ -6,7 +6,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["red"],
+  "color": [
+    "red"
+  ],
   "name": {
     "ko": "파인애플 헬멧",
     "zh-TW": "鳳梨頭盔"

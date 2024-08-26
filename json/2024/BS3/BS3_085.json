@@ -5,7 +5,9 @@
   },
   "type": "cookie",
   "level": 2,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "커스터드맛 쿠키"
   },

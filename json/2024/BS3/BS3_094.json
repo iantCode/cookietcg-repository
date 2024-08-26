@@ -5,7 +5,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["blue"],
+  "color": [
+    "blue"
+  ],
   "name": {
     "ko": "영광의 대관식"
   },

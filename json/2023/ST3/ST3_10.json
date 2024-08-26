@@ -13,24 +13,26 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {
-      "green": 2
-    },
-    "text": {
-      "ko": "자신의 덱의 위에서부터 1장 서포트 에리어에 액티브로 놓는다.",
-      "zh-TW": "從自己的牌庫頂將1張牌以活躍狀態放置到支援區。"
-    },
-    "effect": {
-      "addSupport": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "자신의 덱의 위에서부터 1장 서포트 에리어에 액티브로 놓는다.",
+        "zh-TW": "從自己的牌庫頂將1張牌以活躍狀態放置到支援區。"
+      },
+      "effect": {
+        "addSupport": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

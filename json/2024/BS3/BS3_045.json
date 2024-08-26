@@ -5,7 +5,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["yellow"],
+  "color": [
+    "yellow"
+  ],
   "name": {
     "ko": "절대군주의 반격"
   },

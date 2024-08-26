@@ -13,21 +13,23 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "appear"
-    ],
-    "cost": {},
-    "text": {
-      "ko": "이 쿠키는 자신의 다음 턴 시작 시까지 효과에 의한 데미지를 받지 않는다."
-    },
-    "effect": {
-      "preventDamage": 1
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "이 쿠키는 자신의 다음 턴 시작 시까지 효과에 의한 데미지를 받지 않는다."
+      },
+      "effect": {
+        "preventDamage": 1
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

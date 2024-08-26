@@ -11,27 +11,29 @@
   },
   "hp": 0,
   "hasSkill": true,
-  "skill": {
-    "condition": [
-      "manual"
-    ],
-    "cost": {
-      "red": 1,
-      "yellow": 1,
-      "green": 1,
-      "blue": 1,
-      "purple": 1
-    },
-    "text": {
-      "ko": "<이 카드를 레스트한다> 자신의 배틀 에리어와 서포트 에리어에 [에인션트] 카드 5종과 [소울 잼] 카드 5종이 모두 있다면 이 게임에서 승리한다."
-    },
-    "effect": {
-      "damage": 0
-    },
-    "name": {
-      "ko": ""
+  "skill": [
+    {
+      "condition": [
+        "manual"
+      ],
+      "cost": {
+        "red": 1,
+        "yellow": 1,
+        "green": 1,
+        "blue": 1,
+        "purple": 1
+      },
+      "text": {
+        "ko": "<이 카드를 레스트한다> 자신의 배틀 에리어와 서포트 에리어에 [에인션트] 카드 5종과 [소울 잼] 카드 5종이 모두 있다면 이 게임에서 승리한다."
+      },
+      "effect": {
+        "damage": 0
+      },
+      "name": {
+        "ko": ""
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

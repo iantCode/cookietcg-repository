@@ -5,25 +5,31 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "민트초코 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": ["appear"],
-    "cost": {},
-    "text": {
-      "ko": "<자신의 서포트 에리어에 있는 카드를 1장 트래시에 놓는다> 자신의 남은 HP가 2 이하인 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
-    },
-    "effect": {
-      "heal": 1
-    },
-    "name": {
-      "ko": "승리의 협주곡"
+  "skill": [
+    {
+      "condition": [
+        "appear"
+      ],
+      "cost": {},
+      "text": {
+        "ko": "<자신의 서포트 에리어에 있는 카드를 1장 트래시에 놓는다> 자신의 남은 HP가 2 이하인 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
+      },
+      "effect": {
+        "heal": 1
+      },
+      "name": {
+        "ko": "승리의 협주곡"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

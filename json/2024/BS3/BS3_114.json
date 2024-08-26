@@ -5,7 +5,9 @@
   },
   "type": "item",
   "level": 0,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "달콤쌉싸름한 향로"
   },

@@ -5,25 +5,29 @@
   },
   "type": "cookie",
   "level": 1,
-  "color": ["green"],
+  "color": [
+    "green"
+  ],
   "name": {
     "ko": "클로버맛 쿠키"
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": {
-    "condition": [],
-    "cost": {},
-    "text": {
-      "ko": "이 쿠키가 기절했을 때 <자신의 서포트 에리어에 있는 카드를 1장 패로 가져온다> 자신의 덱을 1장까지 뽑는다."
-    },
-    "effect": {
-      "draw": 1
-    },
-    "name": {
-      "ko": "행운의 클로버"
+  "skill": [
+    {
+      "condition": [],
+      "cost": {},
+      "text": {
+        "ko": "이 쿠키가 기절했을 때 <자신의 서포트 에리어에 있는 카드를 1장 패로 가져온다> 자신의 덱을 1장까지 뽑는다."
+      },
+      "effect": {
+        "draw": 1
+      },
+      "name": {
+        "ko": "행운의 클로버"
+      }
     }
-  },
+  ],
   "attack": [
     {
       "cost": {

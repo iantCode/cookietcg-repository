@@ -5,7 +5,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "위령비 앞에서의 묵념"
   },

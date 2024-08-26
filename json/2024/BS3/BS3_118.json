@@ -5,7 +5,9 @@
   },
   "type": "trap",
   "level": 0,
-  "color": ["purple"],
+  "color": [
+    "purple"
+  ],
   "name": {
     "ko": "혹한의 결의"
   },
