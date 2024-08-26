@@ -13,21 +13,23 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [],
-      "cost": {},
-      "text": {
-        "ko": "이 쿠키가 기절했을 때 <<yellow>로 사용할 수 있다> 자신의 패에서 <yellow> 쿠키를 1장까지 등장시킨다. 그리고 그 쿠키의 HP를 +1한다."
-      },
-      "effect": {
-        "heal": 1
-      },
-      "name": {
-        "ko": "황금도시의 수호자"
+  "skill": {
+    "name": {
+      "ko": "황금도시의 수호자"
+    },
+    "skillList": [
+      {
+        "condition": [],
+        "cost": {},
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 <<yellow>로 사용할 수 있다> 자신의 패에서 <yellow> 쿠키를 1장까지 등장시킨다. 그리고 그 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+          "heal": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

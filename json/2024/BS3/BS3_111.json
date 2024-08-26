@@ -13,25 +13,27 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "purple": 2
-      },
-      "text": {
-        "ko": "상대의 패를 1장 랜덤으로 트래시에 놓는다."
-      },
-      "effect": {
-        "handTrash": 1
-      },
-      "name": {
-        "ko": "크림눈늑대의 돌격!"
+  "skill": {
+    "name": {
+      "ko": "크림눈늑대의 돌격!"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "purple": 2
+        },
+        "text": {
+          "ko": "상대의 패를 1장 랜덤으로 트래시에 놓는다."
+        },
+        "effect": {
+          "handTrash": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

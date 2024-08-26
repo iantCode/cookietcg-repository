@@ -13,23 +13,25 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "자신의 서포트 에리어가 5장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
-      },
-      "effect": {
-        "damage": 1
-      },
-      "name": {
-        "ko": "수은기사의 사명"
+  "skill": {
+    "name": {
+      "ko": "수은기사의 사명"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "자신의 서포트 에리어가 5장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

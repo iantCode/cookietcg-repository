@@ -13,24 +13,26 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "myTurn",
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다."
-      },
-      "effect": {
-        "kill": 1
-      },
-      "name": {
-        "ko": "용의 포효"
+  "skill": {
+    "name": {
+      "ko": "용의 포효"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "myTurn",
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다."
+        },
+        "effect": {
+          "kill": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

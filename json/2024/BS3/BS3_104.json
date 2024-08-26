@@ -13,26 +13,28 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual",
-        "onceTurn"
-      ],
-      "cost": {
-        "purple": 2
-      },
-      "text": {
-        "ko": "상대의 패를 2장까지 랜덤으로 트래시에 놓는다. 그리고 상대는 덱을 2장 뽑는다."
-      },
-      "effect": {
-        "handTrash": 2
-      },
-      "name": {
-        "ko": "석류빛 정신 지배"
+  "skill": {
+    "name": {
+      "ko": "석류빛 정신 지배"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {
+          "purple": 2
+        },
+        "text": {
+          "ko": "상대의 패를 2장까지 랜덤으로 트래시에 놓는다. 그리고 상대는 덱을 2장 뽑는다."
+        },
+        "effect": {
+          "handTrash": 2
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

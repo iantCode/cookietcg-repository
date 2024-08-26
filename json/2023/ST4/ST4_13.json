@@ -13,23 +13,25 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "덱의 위에서부터 3장을 보고 그 중 1장 패로 가져올 수 있다. 그리고 남은 카드를 원하는 순서로 덱의 아래에 놓는다."
-      },
-      "effect": {
-        "draw": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "덱의 위에서부터 3장을 보고 그 중 1장 패로 가져올 수 있다. 그리고 남은 카드를 원하는 순서로 덱의 아래에 놓는다."
+        },
+        "effect": {
+          "draw": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

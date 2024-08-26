@@ -13,23 +13,25 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 자신의 덱 위에서부터 1장 서포트 에리어에 액티브로 놓는다."
-      },
-      "effect": {
-        "addSupport": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 자신의 덱 위에서부터 1장 서포트 에리어에 액티브로 놓는다."
+        },
+        "effect": {
+          "addSupport": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

@@ -15,27 +15,29 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual",
-        "onceTurn"
-      ],
-      "cost": {
-        "red": 2
-      },
-      "text": {
-        "ko": "이 턴 중 이 쿠키의 공격 대미지를 +1한다.",
-        "zh-TW": "在這個回合中,這個餅乾的攻擊傷害+1點。"
-      },
-      "effect": {
-        "damageIncrease": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {
+          "red": 2
+        },
+        "text": {
+          "ko": "이 턴 중 이 쿠키의 공격 대미지를 +1한다.",
+          "zh-TW": "在這個回合中,這個餅乾的攻擊傷害+1點。"
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

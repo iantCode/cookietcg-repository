@@ -13,25 +13,27 @@
   },
   "hp": 0,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual"
-      ],
-      "cost": {
-        "yellow": 2
-      },
-      "text": {
-        "ko": "<이 카드를 레스트한다> 자신의 배틀 에리어에 있는 LV.2 이상의 쿠키를 1장까지 선택한다. 이 턴 중 자신의 브레이크 에리어에 있는 <yellow> LV.3 쿠키 1장당 그 쿠키의 공격 대미지를 +1한다."
-      },
-      "effect": {
-        "damage": 0
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "yellow": 2
+        },
+        "text": {
+          "ko": "<이 카드를 레스트한다> 자신의 배틀 에리어에 있는 LV.2 이상의 쿠키를 1장까지 선택한다. 이 턴 중 자신의 브레이크 에리어에 있는 <yellow> LV.3 쿠키 1장당 그 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damage": 0
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

@@ -13,19 +13,21 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [],
-      "cost": {},
-      "text": {
-        "ko": "이 쿠키가 받는 3 이상의 대미지는 2가 된다."
-      },
-      "effect": {},
-      "name": {
-        "ko": "베리-홀리 방패"
+  "skill": {
+    "name": {
+      "ko": "베리-홀리 방패"
+    },
+    "skillList": [
+      {
+        "condition": [],
+        "cost": {},
+        "text": {
+          "ko": "이 쿠키가 받는 3 이상의 대미지는 2가 된다."
+        },
+        "effect": {}
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

@@ -13,25 +13,27 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "purple": 2
-      },
-      "text": {
-        "ko": "상대의 배틀 에리어에 있는 LV.2 이하의 쿠키 또는 스테이지를 1장 트래시에 놓는다."
-      },
-      "effect": {
-        "kill": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "purple": 2
+        },
+        "text": {
+          "ko": "상대의 배틀 에리어에 있는 LV.2 이하의 쿠키 또는 스테이지를 1장 트래시에 놓는다."
+        },
+        "effect": {
+          "kill": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

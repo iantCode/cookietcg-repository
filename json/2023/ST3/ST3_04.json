@@ -13,28 +13,30 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "green": 3,
-        "mix": 1
-      },
-      "text": {
-        "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 이 쿠키의 HP를 +1한다.",
-        "zh-TW": "選擇最多1個對手的餅乾。對它造成2點傷害。然後,這個餅乾獲得HP+1點。"
-      },
-      "effect": {
-        "damage": 2,
-        "heal": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "green": 3,
+          "mix": 1
+        },
+        "text": {
+          "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 이 쿠키의 HP를 +1한다.",
+          "zh-TW": "選擇最多1個對手的餅乾。對它造成2點傷害。然後,這個餅乾獲得HP+1點。"
+        },
+        "effect": {
+          "damage": 2,
+          "heal": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

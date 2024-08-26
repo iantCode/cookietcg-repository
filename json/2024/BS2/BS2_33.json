@@ -13,24 +13,26 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual",
-        "onceTurn"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "《패를 1장 버린다》 이 쿠키를 액티브로 한다."
-      },
-      "effect": {
-        "makeActive": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "《패를 1장 버린다》 이 쿠키를 액티브로 한다."
+        },
+        "effect": {
+          "makeActive": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

@@ -13,21 +13,23 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [],
-      "cost": {},
-      "text": {
-        "ko": "자신의 패가 5장 이하라면 이 쿠키는 효과에 의한 대미지를 받지 않는다."
-      },
-      "effect": {
-        "noDamage": 1
-      },
-      "name": {
-        "ko": "용기 100%"
+  "skill": {
+    "name": {
+      "ko": "용기 100%"
+    },
+    "skillList": [
+      {
+        "condition": [],
+        "cost": {},
+        "text": {
+          "ko": "자신의 패가 5장 이하라면 이 쿠키는 효과에 의한 대미지를 받지 않는다."
+        },
+        "effect": {
+          "noDamage": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

@@ -13,24 +13,26 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual",
-        "onceTurn"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "<자신의 서포트 에리어에 있는 카드를 1장 트래시에 놓는다> 자신의 배틀 에리어에 있는 다른 <green> 쿠키를 1장까지 액티브로 한다."
-      },
-      "effect": {
-        "makeActive": 1
-      },
-      "name": {
-        "ko": "강력한 반죽 실험"
+  "skill": {
+    "name": {
+      "ko": "강력한 반죽 실험"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "<자신의 서포트 에리어에 있는 카드를 1장 트래시에 놓는다> 자신의 배틀 에리어에 있는 다른 <green> 쿠키를 1장까지 액티브로 한다."
+        },
+        "effect": {
+          "makeActive": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

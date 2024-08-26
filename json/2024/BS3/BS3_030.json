@@ -13,23 +13,25 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "자신의 패를 1장까지 이 쿠키의 HP 위에 추가한다."
-      },
-      "effect": {
-        "heal": 1
-      },
-      "name": {
-        "ko": "사막의 축복"
+  "skill": {
+    "name": {
+      "ko": "사막의 축복"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "자신의 패를 1장까지 이 쿠키의 HP 위에 추가한다."
+        },
+        "effect": {
+          "heal": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

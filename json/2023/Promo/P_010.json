@@ -13,23 +13,25 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "상대의 LV.1의 쿠키를 1장까지 선택한다. 그 쿠키는 자신의 다음 턴 시작 시까지 공격할 수 없다."
-      },
-      "effect": {
-        "noAttack": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "상대의 LV.1의 쿠키를 1장까지 선택한다. 그 쿠키는 자신의 다음 턴 시작 시까지 공격할 수 없다."
+        },
+        "effect": {
+          "noAttack": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

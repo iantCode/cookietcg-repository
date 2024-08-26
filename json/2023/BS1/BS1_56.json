@@ -13,25 +13,27 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "green": 2
-      },
-      "text": {
-        "ko": "자신의 배틀 에리어의 LV.2 이하의 다른 쿠키를 1장까지 선택한다. 그 쿠키를 서포트 에리어에 액티브로 놓는다."
-      },
-      "effect": {
-        "addCookie": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "green": 2
+        },
+        "text": {
+          "ko": "자신의 배틀 에리어의 LV.2 이하의 다른 쿠키를 1장까지 선택한다. 그 쿠키를 서포트 에리어에 액티브로 놓는다."
+        },
+        "effect": {
+          "addCookie": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

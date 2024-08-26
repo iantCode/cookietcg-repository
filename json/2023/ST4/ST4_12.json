@@ -13,24 +13,26 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual",
-        "onceTurn"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "《패를 1장 버린다》 이 턴 중 이 쿠키의 공격 대미지를 +1한다."
-      },
-      "effect": {
-        "damageIncrease": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "《패를 1장 버린다》 이 턴 중 이 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

@@ -15,27 +15,29 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual",
-        "onceTurn"
-      ],
-      "cost": {
-        "red": 1
-      },
-      "text": {
-        "ko": "《패를 1장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-        "zh-TW": "《棄1張手牌》選擇最多1個對手的餅乾。對它造成1點傷害。"
-      },
-      "effect": {
-        "damage": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {
+          "red": 1
+        },
+        "text": {
+          "ko": "《패를 1장 버린다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+          "zh-TW": "《棄1張手牌》選擇最多1個對手的餅乾。對它造成1點傷害。"
+        },
+        "effect": {
+          "damage": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

@@ -13,24 +13,26 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "myTurn",
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키 모두에게 1대미지를 준다."
-      },
-      "effect": {
-        "damage": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "myTurn",
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키 모두에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

@@ -13,25 +13,27 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "blocker"
-      ],
-      "cost": {
-        "yellow": 1
-      },
-      "text": {
-        "ko": "(상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.)"
-      },
-      "effect": {
-        "redirection": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "blocker"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "(상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.)"
+        },
+        "effect": {
+          "redirection": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

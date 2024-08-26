@@ -13,25 +13,27 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "red": 1
-      },
-      "text": {
-        "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
-      },
-      "effect": {
-        "damage": 1
-      },
-      "name": {
-        "ko": "정면돌파"
+  "skill": {
+    "name": {
+      "ko": "정면돌파"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "red": 1
+        },
+        "text": {
+          "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

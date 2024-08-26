@@ -15,26 +15,28 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual"
-      ],
-      "cost": {
-        "red": 2
-      },
-      "text": {
-        "ko": "이 쿠키를 패로 되돌린다.",
-        "zh-TW": "將這個餅乾移回手牌。"
-      },
-      "effect": {
-        "returnToHand": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "red": 2
+        },
+        "text": {
+          "ko": "이 쿠키를 패로 되돌린다.",
+          "zh-TW": "將這個餅乾移回手牌。"
+        },
+        "effect": {
+          "returnToHand": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

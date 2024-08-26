@@ -13,26 +13,28 @@
   },
   "hp": 1,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual",
-        "onceTurn"
-      ],
-      "cost": {
-        "red": 3
-      },
-      "text": {
-        "ko": "상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다."
-      },
-      "effect": {
-        "kill": 1
-      },
-      "name": {
-        "ko": "악마의 계약"
+  "skill": {
+    "name": {
+      "ko": "악마의 계약"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {
+          "red": 3
+        },
+        "text": {
+          "ko": "상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다."
+        },
+        "effect": {
+          "kill": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

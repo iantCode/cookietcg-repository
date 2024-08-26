@@ -13,26 +13,28 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "yellow": 2
-      },
-      "text": {
-        "ko": "자신의 브레이크 에리어에 있는 LV.1의 카드를 1장까지 선택한다. 그 카드를 트래시에 놓는다.",
-        "zh-TW": "從自己的休息區選擇最多1個LV.1的餅乾。將它放置到棄牌區。"
-      },
-      "effect": {
-        "toTrash": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 2
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어에 있는 LV.1의 카드를 1장까지 선택한다. 그 카드를 트래시에 놓는다.",
+          "zh-TW": "從自己的休息區選擇最多1個LV.1的餅乾。將它放置到棄牌區。"
+        },
+        "effect": {
+          "toTrash": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

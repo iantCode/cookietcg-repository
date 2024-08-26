@@ -13,23 +13,25 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "자신의 브레이크 에리어가 LV.3 이상이라면 덱을 1장 뽑고 패를 1장 버린다."
-      },
-      "effect": {
-        "draw": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "자신의 브레이크 에리어가 LV.3 이상이라면 덱을 1장 뽑고 패를 1장 버린다."
+        },
+        "effect": {
+          "draw": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

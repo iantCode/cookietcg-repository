@@ -13,24 +13,26 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "myTurn",
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "서로의 배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 소유자의 덱의 위에 놓는다."
-      },
-      "effect": {
-        "returnDeck": 1
-      },
-      "name": {
-        "ko": "성분 분석"
+  "skill": {
+    "name": {
+      "ko": "성분 분석"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "myTurn",
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "서로의 배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 소유자의 덱의 위에 놓는다."
+        },
+        "effect": {
+          "returnDeck": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

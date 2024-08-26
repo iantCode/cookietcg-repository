@@ -13,26 +13,28 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual",
-        "onceTurn"
-      ],
-      "cost": {
-        "yellow": 1
-      },
-      "text": {
-        "ko": "《패를 1장 버린다》 이 쿠키의 HP가 3 이하라면 이 쿠키의 HP를 +1한다."
-      },
-      "effect": {
-        "damageDecrease": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "《패를 1장 버린다》 이 쿠키의 HP가 3 이하라면 이 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+          "damageDecrease": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

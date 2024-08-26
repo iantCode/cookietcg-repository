@@ -13,23 +13,25 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다."
-      },
-      "effect": {
-        "reorder": 1
-      },
-      "name": {
-        "ko": "노련한 캡틴의 지휘"
+  "skill": {
+    "name": {
+      "ko": "노련한 캡틴의 지휘"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다."
+        },
+        "effect": {
+          "reorder": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

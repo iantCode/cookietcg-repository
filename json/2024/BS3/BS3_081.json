@@ -13,25 +13,27 @@
   },
   "hp": 1,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "manual"
-      ],
-      "cost": {
-        "blue": 2
-      },
-      "text": {
-        "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 자신의 덱의 위에 놓는다."
-      },
-      "effect": {
-        "damage": 1
-      },
-      "name": {
-        "ko": "진주 군대의 호위"
+  "skill": {
+    "name": {
+      "ko": "진주 군대의 호위"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "blue": 2
+        },
+        "text": {
+          "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 자신의 덱의 위에 놓는다."
+        },
+        "effect": {
+          "damage": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

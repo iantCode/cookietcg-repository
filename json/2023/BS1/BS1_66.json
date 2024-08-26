@@ -13,21 +13,23 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [],
-      "cost": {},
-      "text": {
-        "ko": "자신의 턴 종료 시 자신의 서포트 에리어의 카드를 1장 액티브로 한다."
-      },
-      "effect": {
-        "makeActive": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [],
+        "cost": {},
+        "text": {
+          "ko": "자신의 턴 종료 시 자신의 서포트 에리어의 카드를 1장 액티브로 한다."
+        },
+        "effect": {
+          "makeActive": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

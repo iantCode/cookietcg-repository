@@ -13,23 +13,25 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "《패를 2장 버린다》 자신의 쿠키를 2장까지 선택한다. 그 쿠키들의 HP를 +1한다"
-      },
-      "effect": {
-        "heal": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "《패를 2장 버린다》 자신의 쿠키를 2장까지 선택한다. 그 쿠키들의 HP를 +1한다"
+        },
+        "effect": {
+          "heal": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

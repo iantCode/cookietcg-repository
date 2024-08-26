@@ -13,24 +13,26 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "myTurn",
-        "appear"
-      ],
-      "cost": {},
-      "text": {
-        "ko": "《패를 3장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키 중 1장에게 2대미지를 주고 다른 1장에게 1대미지를 준다."
-      },
-      "effect": {
-        "damage": 3
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "myTurn",
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "《패를 3장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키 중 1장에게 2대미지를 주고 다른 1장에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 3
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

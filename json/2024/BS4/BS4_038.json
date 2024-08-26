@@ -13,23 +13,25 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "yellow": 1
-      },
-      "text": {
-        "ko": "자신의 브레이크 에리어에 있는 <yellow> LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다."
-      },
-      "effect": {},
-      "name": {
-        "ko": "대지와 시간의 마법"
+  "skill": {
+    "name": {
+      "ko": "대지와 시간의 마법"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어에 있는 <yellow> LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다."
+        },
+        "effect": {}
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

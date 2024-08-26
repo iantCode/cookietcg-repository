@@ -13,25 +13,27 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "blue": 2
-      },
-      "text": {
-        "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키의 HP의 위에서부터 1장 자신의 다른 쿠키의 HP 위에 추가한다."
-      },
-      "effect": {
-        "damage": 1
-      },
-      "name": {
-        "ko": "신성한 호위"
+  "skill": {
+    "name": {
+      "ko": "신성한 호위"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "blue": 2
+        },
+        "text": {
+          "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키의 HP의 위에서부터 1장 자신의 다른 쿠키의 HP 위에 추가한다."
+        },
+        "effect": {
+          "damage": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

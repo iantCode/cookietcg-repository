@@ -13,26 +13,28 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "yellow": 1
-      },
-      "text": {
-        "ko": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다.",
-        "zh-TW": "選擇最多1個自己的另一個餅乾。它獲得 HP+1點。"
-      },
-      "effect": {
-        "heal": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다.",
+          "zh-TW": "選擇最多1個自己的另一個餅乾。它獲得 HP+1點。"
+        },
+        "effect": {
+          "heal": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

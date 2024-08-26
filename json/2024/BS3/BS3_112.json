@@ -13,25 +13,27 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "purple": 1
-      },
-      "text": {
-        "ko": "<자신의 트래시에 잇는 쿠키 이외의 카드를 2장 원하는 순서로 덱의 아래에 놓는다> 자신의 트래시에서 <purple> 쿠키를 1장까지 패로 가져온다."
-      },
-      "effect": {
-        "draw": 1
-      },
-      "name": {
-        "ko": "마법약 제조"
+  "skill": {
+    "name": {
+      "ko": "마법약 제조"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "purple": 1
+        },
+        "text": {
+          "ko": "<자신의 트래시에 잇는 쿠키 이외의 카드를 2장 원하는 순서로 덱의 아래에 놓는다> 자신의 트래시에서 <purple> 쿠키를 1장까지 패로 가져온다."
+        },
+        "effect": {
+          "draw": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

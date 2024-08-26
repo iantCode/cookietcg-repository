@@ -13,21 +13,23 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [],
-      "cost": {},
-      "text": {
-        "ko": "상대의 쿠키가 공격했을 때 《<yellow>로 사용할 수 있다.》 사용할 수 있다. 이 배틀 중 이 쿠키가 받는 공격 대미지를 -1한다."
-      },
-      "effect": {
-        "damageDecrease": 1
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [],
+        "cost": {},
+        "text": {
+          "ko": "상대의 쿠키가 공격했을 때 《<yellow>로 사용할 수 있다.》 사용할 수 있다. 이 배틀 중 이 쿠키가 받는 공격 대미지를 -1한다."
+        },
+        "effect": {
+          "damageDecrease": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

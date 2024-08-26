@@ -13,25 +13,27 @@
   },
   "hp": 5,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "purple": 2
-      },
-      "text": {
-        "ko": "상대의 쿠키를 2장까지 선택한다. 그 쿠키들의 HP의 위에서부터 1장까지 트래시에 놓는다."
-      },
-      "effect": {
-        "damage": 1
-      },
-      "name": {
-        "ko": "숨겨둔 꼬리"
+  "skill": {
+    "name": {
+      "ko": "숨겨둔 꼬리"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "purple": 2
+        },
+        "text": {
+          "ko": "상대의 쿠키를 2장까지 선택한다. 그 쿠키들의 HP의 위에서부터 1장까지 트래시에 놓는다."
+        },
+        "effect": {
+          "damage": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

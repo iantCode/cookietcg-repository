@@ -13,25 +13,27 @@
   },
   "hp": 3,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "yellow": 2
-      },
-      "text": {
-        "ko": "자신의 브레이크 에리어에 있는 <yellow> 쿠키를 LV.의 합이 LV.3이 되도록 선택한다. 그 쿠키들을 패로 되돌리고 이 쿠키를 자신의 브레이크 에리어에 놓는다."
-      },
-      "effect": {
-        "exchangeBreak": 3
-      },
-      "name": {
-        "ko": ""
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 2
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어에 있는 <yellow> 쿠키를 LV.의 합이 LV.3이 되도록 선택한다. 그 쿠키들을 패로 되돌리고 이 쿠키를 자신의 브레이크 에리어에 놓는다."
+        },
+        "effect": {
+          "exchangeBreak": 3
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {

@@ -13,25 +13,27 @@
   },
   "hp": 2,
   "hasSkill": true,
-  "skill": [
-    {
-      "condition": [
-        "appear"
-      ],
-      "cost": {
-        "purple": 1
-      },
-      "text": {
-        "ko": "이 쿠키의 HP를 +1한다."
-      },
-      "effect": {
-        "heal": 1
-      },
-      "name": {
-        "ko": "늑대 변신"
+  "skill": {
+    "name": {
+      "ko": "늑대 변신"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "purple": 1
+        },
+        "text": {
+          "ko": "이 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+          "heal": 1
+        }
       }
-    }
-  ],
+    ]
+  },
   "attack": [
     {
       "cost": {
