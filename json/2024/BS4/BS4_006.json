@@ -29,7 +29,7 @@
       }
     }
   ],
-  "hasFlip": false,
+  "hasFlip": true,
   "flip": {
     "condition": {
     },
