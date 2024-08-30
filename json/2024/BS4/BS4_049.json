@@ -1,0 +1,55 @@
+{
+  "serial": "BS4-049",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_049.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "바람궁수 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "몰아치는 바람"
+    },
+    "skillList": [
+      {
+        "condition": ["appear"],
+        "cost": {
+        },
+        "text": {
+          "ko": "상대의 배틀 에리어에 있는 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 서포트 에리어에 레스트로 놓는다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": "그리고 <<green>으로 사용할 수 있다> 상대의 서포트 에리어가 7장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "정화의 화살"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

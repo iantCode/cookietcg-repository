@@ -1,0 +1,59 @@
+{
+  "serial": "BS4-066",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_066.webp"
+  },
+  "type": "stage",
+  "level": 0,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "디저트 파라다이스"
+  },
+  "hp": 0,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "green": 3
+        },
+        "text": {
+          "ko": "<이 카드를 레스트한다> 자신의 쿠키를 1장까지 선택한다. 자신의 서포트 에리어에 있는 <green> 카드를 1장까지 그 쿠키의 HP 위에 추가한다."
+        },
+        "effect": {
+          "damage": 0
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "자신의 스테이지 에리어에 내려놓는다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,57 @@
+{
+  "serial": "BS4-099",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_099.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "앰버슈가맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "꿀호박 방망이"
+    },
+    "skillList": [
+      {
+        "condition": ["appear"],
+        "cost": {
+          "purple": 1
+        },
+        "text": {
+          "ko": "자신 또는 상대의 덱의 위에서부터 3장까지 트래시에 놓는다."
+        },
+        "effect": {
+          "deckTrash": 3
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "붕붕"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

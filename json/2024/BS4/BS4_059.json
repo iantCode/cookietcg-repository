@@ -1,0 +1,57 @@
+{
+  "serial": "BS4-059",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_059.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "쿠키멀즈"
+  },
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "외치고! 구르고! 날고!"
+    },
+    "skillList": [
+      {
+        "condition": ["manual", "onceTurn"],
+        "cost": {
+          "green": 1
+        },
+        "text": {
+          "ko": "자신의 서포트 에리어가 3장 이하라면 자신의 덱에서 2장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "크와옹! 무섭지~!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
