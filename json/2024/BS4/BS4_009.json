@@ -1,0 +1,41 @@
+{
+  "serial": "BS4-009",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_009.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "에스프레소맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 상대의 쿠키가 LV.2 이하라면 1대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "200℃ 로스팅"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

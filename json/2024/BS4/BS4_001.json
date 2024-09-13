@@ -1,0 +1,57 @@
+{
+  "serial": "BS4-001",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_001.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "라일락맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "사막의 밤바람..."
+    },
+    "skillList": [
+      {
+        "condition": ["manual"],
+        "cost": {
+          "red": 2
+        },
+        "text": {
+          "ko": "<이 쿠키를 기절시킨다> 자신의 다른 <red> 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "보랏빛 검무"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
