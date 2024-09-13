@@ -1,0 +1,59 @@
+{
+  "serial": "BS4-033",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_033.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "생토노레맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "맛있는 디저트"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어가 LV.5 이상이라면 자신의 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+          "heal": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "야무진 민원 처리"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

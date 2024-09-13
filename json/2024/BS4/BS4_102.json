@@ -1,0 +1,49 @@
+{
+  "serial": "BS4-102",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_102.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "와일드베리맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "모조리 날려주마!"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+    },
+    "text": {
+      "ko": "자신 또는 상대의 덱의 위에서부터 3장까지 트래시에 놓는다."
+    },
+    "effect": {
+      "deckTrash": 3
+    }
+  },
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,40 @@
+{
+  "serial": "BS4-061",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_061.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "허브맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": "그리고 자신의 서포트 에리어가 7장 이상이라면 자신의 서포트 에리어에 있는 카드를 1장까지 액티브로 한다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "눈 부시게 예뻐"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

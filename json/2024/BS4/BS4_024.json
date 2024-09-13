@@ -1,0 +1,56 @@
+{
+  "serial": "BS4-024",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_024.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "구미호맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "내 매력에 빠져볼래?"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 배틀 에리어에 <yellow> LV.3 쿠키가 있다면 상대의 쿠키는 이 쿠키만 공격할 수 있다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "꼬리 흔들기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

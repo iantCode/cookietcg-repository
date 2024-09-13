@@ -1,0 +1,56 @@
+{
+  "serial": "BS4-055",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_055.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "연금술사맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "이상한 연금술"
+    },
+    "skillList": [
+      {
+        "condition": [],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 <<green>으로 사용할 수 있다> 자신의 덱의 위에서부터 1장까지 자신의 서포트 에리어에 레스트로 놓는다."
+        },
+        "effect": {
+          "addSupport": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "새로운 조합식"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
