@@ -1,35 +1,34 @@
 {
-  "serial": "BS3-081",
+  "serial": "BS3-016-SEC",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_081.webp"
+    "ko": "images/ko/2024/BS3/BS3_016_SEC.webp"
   },
   "type": "cookie",
-  "level": 2,
+  "level": 1,
   "color": [
-    "blue"
+    "red"
   ],
   "name": {
-    "ko": "오이스터맛 쿠키"
+    "ko": "타르트타탕맛 쿠키"
   },
-  "hp": 1,
+  "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "진주 군대의 호위"
+      "ko": "노련한 사냥꾼"
     },
     "skillList": [
       {
         "condition": [
-          "manual"
+          "manual",
+          "onceTurn"
         ],
-        "cost": {
-          "blue": 2
-        },
+        "cost": {},
         "text": {
-          "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 자신의 덱의 위에 놓는다."
+          "ko": "이 턴 중 이 쿠키의 공격으로 상대의 쿠키가 기절하면 이 쿠키를 액티브로 한다."
         },
         "effect": {
-          "damage": 1
+          "makeActive": 1
         }
       }
     ]
@@ -37,20 +36,20 @@
   "attack": [
     {
       "cost": {
-        "blue": 2
+        "red": 1
       },
       "text": {
         "ko": ""
       },
       "damage": 1,
       "name": {
-        "ko": "오이스터 가문의 권위"
+        "ko": "바주카 포, 발사!"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
-  "rarity": "R",
+  "rarity": "SEC",
   "from": "영웅과 왕국의 시대",
   "releaseDate": "2024-06-21",
   "regulation": "A",

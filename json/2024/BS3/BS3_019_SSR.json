@@ -1,0 +1,39 @@
+{
+  "serial": "BS3-019-SSR",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_019_SSR.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "소울 잼: 열정의 빛"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": {
+        "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 이 카드를 자신의 [홀리베리 쿠키]에게 <장착>할 수 있다. 그 쿠키의 공격 대미지를 +1한다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SSR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

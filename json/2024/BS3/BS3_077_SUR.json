@@ -1,7 +1,7 @@
 {
-  "serial": "BS3-081",
+  "serial": "BS3-077-SUR",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_081.webp"
+    "ko": "images/ko/2024/BS3/BS3_077_SUR.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,24 +9,25 @@
     "blue"
   ],
   "name": {
-    "ko": "오이스터맛 쿠키"
+    "ko": "마들렌맛 쿠키"
   },
-  "hp": 1,
+  "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "진주 군대의 호위"
+      "ko": "빛의 가호!"
     },
     "skillList": [
       {
         "condition": [
-          "manual"
+          "manual",
+          "onceTurn"
         ],
         "cost": {
-          "blue": 2
+          "blue": 1
         },
         "text": {
-          "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 자신의 덱의 위에 놓는다."
+          "ko": "<패를 2장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 액티브로 한다."
         },
         "effect": {
           "damage": 1
@@ -42,15 +43,15 @@
       "text": {
         "ko": ""
       },
-      "damage": 1,
+      "damage": 2,
       "name": {
-        "ko": "오이스터 가문의 권위"
+        "ko": "빛의 대검"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
-  "rarity": "R",
+  "rarity": "SUR",
   "from": "영웅과 왕국의 시대",
   "releaseDate": "2024-06-21",
   "regulation": "A",

@@ -1,0 +1,47 @@
+{
+  "serial": "BS2-034-SEC",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_34_SEC.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "서리여왕 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": "3대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": {
+      "ko": "자신의 브레이크 에리어가 LV.4 이상이라면 덱에서 2장까지 뽑을 수 있다."
+    },
+    "effect": {
+      "draw": 2
+    }
+  },
+  "rarity": "SEC",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

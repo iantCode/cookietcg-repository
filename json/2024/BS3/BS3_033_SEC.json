@@ -1,0 +1,39 @@
+{
+  "serial": "BS3-033-SEC",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_033_SEC.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "스타더스트 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": "그리고 <<yellow>로 사용할 수 있다> 상대의 남은 HP가 1인 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "황금 매의 분노"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

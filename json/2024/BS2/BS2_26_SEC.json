@@ -1,0 +1,60 @@
+{
+  "serial": "BS2-026-SEC",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_26_SEC.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "모카가오리맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "blocker"
+        ],
+        "cost": {
+          "blue": 1
+        },
+        "text": {
+          "ko": "(상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.)"
+        },
+        "effect": {
+          "blocker": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": "1대미지를 준다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SEC",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

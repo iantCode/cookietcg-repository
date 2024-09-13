@@ -1,0 +1,59 @@
+{
+  "serial": "BS2-015-SEC",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_15_SEC.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "레몬타임맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "green": 4
+        },
+        "text": {
+          "ko": "《이 쿠키를 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다. 그리고 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다."
+        },
+        "effect": {
+          "trashStage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "2대미지를 준다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SEC",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,39 @@
+{
+  "serial": "BS2-045-SSR",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_45_SSR.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "파르페맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": "1대미지를 준다. 그리고 자신의 패가 6장 이하라면 덱에서 1장 뽑을 수 있다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SSR",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

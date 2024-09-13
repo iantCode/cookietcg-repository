@@ -1,0 +1,60 @@
+{
+  "serial": "BS2-011-SEC",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_11_SEC.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "블랙베리맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 2
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어에 있는 <yellow> 쿠키를 LV.의 합이 LV.3이 되도록 선택한다. 그 쿠키들을 패로 되돌리고 이 쿠키를 자신의 브레이크 에리어에 놓는다."
+        },
+        "effect": {
+          "exchangeBreak": 3
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "2대미지를 준다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SEC",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,57 @@
+{
+  "serial": "BS2-022-SEC",
+  "img": {
+    "ko": "images/ko/2024/BS2/BS2_22_SEC.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "감초맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "이 쿠키는 자신의 다음 턴 시작 시까지 효과에 의한 데미지를 받지 않는다."
+        },
+        "effect": {
+          "preventDamage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": "3대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SEC",
+  "from": "넥스트 유니버스",
+  "releaseDate": "2024-01-29",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

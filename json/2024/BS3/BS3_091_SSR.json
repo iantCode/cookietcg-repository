@@ -1,0 +1,39 @@
+{
+  "serial": "BS3-091-SSR",
+  "img": {
+    "ko": "images/ko/2024/BS3/BS3_091_SSR.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "소울 잼: 진리의 빛"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": "자신의 덱의 위에서부터 3장을 본다. 그중에서 2장까지 패로 가져오고 남은 카드를 원하는 순서로 덱의 위에 놓는다. 그리고 이 카드를 자신의 [퓨어바닐라 쿠키]에게 <장착>할 수 있다. 그 쿠키가 공격할 때 자신의 덱에서 1장 뽑는다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SSR",
+  "from": "영웅과 왕국의 시대",
+  "releaseDate": "2024-06-21",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

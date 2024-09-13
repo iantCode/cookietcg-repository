@@ -1,7 +1,7 @@
 {
-  "serial": "BS3-017",
+  "serial": "BS3-017-SUR",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_017.webp"
+    "ko": "images/ko/2024/BS3/BS3_017_SUR.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -44,7 +44,7 @@
   ],
   "hasFlip": false,
   "flip": {},
-  "rarity": "UR",
+  "rarity": "SUR",
   "from": "영웅과 왕국의 시대",
   "releaseDate": "2024-06-21",
   "regulation": "A",

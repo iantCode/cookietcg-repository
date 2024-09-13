@@ -1,35 +1,34 @@
 {
-  "serial": "BS3-081",
+  "serial": "BS3-053-SEC",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_081.webp"
+    "ko": "images/ko/2024/BS3/BS3_053_SEC.webp"
   },
   "type": "cookie",
-  "level": 2,
+  "level": 1,
   "color": [
-    "blue"
+    "green"
   ],
   "name": {
-    "ko": "오이스터맛 쿠키"
+    "ko": "버터롤맛 쿠키"
   },
-  "hp": 1,
+  "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "진주 군대의 호위"
+      "ko": "강력한 반죽 실험"
     },
     "skillList": [
       {
         "condition": [
-          "manual"
+          "manual",
+          "onceTurn"
         ],
-        "cost": {
-          "blue": 2
-        },
+        "cost": {},
         "text": {
-          "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 자신의 덱의 위에 놓는다."
+          "ko": "<자신의 서포트 에리어에 있는 카드를 1장 트래시에 놓는다> 자신의 배틀 에리어에 있는 다른 <green> 쿠키를 1장까지 액티브로 한다."
         },
         "effect": {
-          "damage": 1
+          "makeActive": 1
         }
       }
     ]
@@ -37,20 +36,20 @@
   "attack": [
     {
       "cost": {
-        "blue": 2
+        "green": 2
       },
       "text": {
         "ko": ""
       },
       "damage": 1,
       "name": {
-        "ko": "오이스터 가문의 권위"
+        "ko": "과감한 베이킹"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
-  "rarity": "R",
+  "rarity": "SEC",
   "from": "영웅과 왕국의 시대",
   "releaseDate": "2024-06-21",
   "regulation": "A",
