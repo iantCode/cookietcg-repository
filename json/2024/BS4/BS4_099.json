@@ -19,7 +19,9 @@
     },
     "skillList": [
       {
-        "condition": ["appear"],
+        "condition": [
+          "appear"
+        ],
         "cost": {
           "purple": 1
         },

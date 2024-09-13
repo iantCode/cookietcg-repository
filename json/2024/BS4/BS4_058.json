@@ -19,15 +19,17 @@
     },
     "skillList": [
       {
-        "condition": ["manual", "onceTurn"],
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
         "cost": {
           "green": 2
         },
         "text": {
           "ko": "자신의 서포트 에리어에 있는 <green> 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다."
         },
-        "effect": {
-        }
+        "effect": {}
       }
     ]
   },

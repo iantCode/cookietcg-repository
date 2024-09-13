@@ -13,8 +13,7 @@
   },
   "hp": 1,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -31,8 +30,7 @@
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": {
       "ko": "자신의 브레이크 에리어가 LV.5 이상이라면 자신의 브레이크 에리어에 있는 LV.1 쿠키를 1장까지 패로 가져온다. 그리고 이 카드를 브레이크 에리어에 놓는다."
     },

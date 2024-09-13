@@ -13,8 +13,7 @@
   },
   "hp": 1,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -31,8 +30,7 @@
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": {
       "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
     },

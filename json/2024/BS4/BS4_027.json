@@ -19,7 +19,9 @@
     },
     "skillList": [
       {
-        "condition": ["blocker"],
+        "condition": [
+          "blocker"
+        ],
         "cost": {},
         "text": {
           "ko": "<이 카드를 레스트한다> (상대의 쿠키가 공격했을 때 공격의 대상을 이 쿠키로 할 수 있다.)"
@@ -29,7 +31,9 @@
         }
       },
       {
-        "condition": ["onceTurn"],
+        "condition": [
+          "onceTurn"
+        ],
         "cost": {},
         "text": {
           "ko": "이 쿠키가 받는 LV.1 쿠키로부터의 공격 대미지를 -1한다."

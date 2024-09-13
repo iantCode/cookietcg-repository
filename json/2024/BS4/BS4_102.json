@@ -13,8 +13,7 @@
   },
   "hp": 1,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -31,8 +30,7 @@
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": {
       "ko": "자신 또는 상대의 덱의 위에서부터 3장까지 트래시에 놓는다."
     },

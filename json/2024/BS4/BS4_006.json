@@ -13,8 +13,7 @@
   },
   "hp": 1,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -31,8 +30,7 @@
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": {
       "ko": "자신의 덱에서 1장까지 뽑는다."
     },

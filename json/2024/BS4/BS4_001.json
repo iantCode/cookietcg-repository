@@ -19,7 +19,9 @@
     },
     "skillList": [
       {
-        "condition": ["manual"],
+        "condition": [
+          "manual"
+        ],
         "cost": {
           "red": 2
         },

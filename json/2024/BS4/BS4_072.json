@@ -13,8 +13,7 @@
   },
   "hp": 1,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -31,8 +30,7 @@
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": {
       "ko": "자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다."
     },

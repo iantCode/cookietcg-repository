@@ -19,15 +19,12 @@
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
           "ko": "자신의 배틀 에리어에 <yellow> LV.3 쿠키가 있다면 상대의 쿠키는 이 쿠키만 공격할 수 있다."
         },
-        "effect": {
-        }
+        "effect": {}
       }
     ]
   },
