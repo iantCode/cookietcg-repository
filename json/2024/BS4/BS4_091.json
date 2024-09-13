@@ -1,0 +1,40 @@
+{
+  "serial": "BS4-091",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_091.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "마법사맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": "그리고 자신의 트래시에 있는 FLIP을 가지지 않은 카드를 3장까지 선택한다. 그 카드를 원하는 순서로 덱의 아래에 놓는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "마법진 소환"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,59 @@
+{
+  "serial": "BS4-082",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_082.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "프릴해파리맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "왕국의 청결"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "blue": 1
+        },
+        "text": {
+          "ko": "자신의 덱에서 3장까지 뽑고 자신의 패를 2장 버린다."
+        },
+        "effect": {
+          "draw": 3
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "프릴프릴 속박"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

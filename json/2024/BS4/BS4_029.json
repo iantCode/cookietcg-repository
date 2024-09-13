@@ -1,0 +1,40 @@
+{
+  "serial": "BS4-029",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_029.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "바람신령 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "그리고 <<yellow>로 사용할 수 있다> 이 쿠키를 자신의 브레이크 에리어에 놓고 자신의 브레이크 에리어에 있는 <yellow> LV.3 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "바람 도술"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

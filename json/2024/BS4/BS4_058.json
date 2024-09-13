@@ -1,0 +1,56 @@
+{
+  "serial": "BS4-058",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_058.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "지초맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "개화의 연주"
+    },
+    "skillList": [
+      {
+        "condition": ["manual", "onceTurn"],
+        "cost": {
+          "green": 2
+        },
+        "text": {
+          "ko": "자신의 서포트 에리어에 있는 <green> 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "승리의 축가"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,56 @@
+{
+  "serial": "BS4-070",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_070.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "로드 오이스터"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "깨져버린 믿음"
+    },
+    "skillList": [
+      {
+        "condition": [],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 <패를 2장 버린다> 자신의 덱에서 3장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 3
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "가문을 위해"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

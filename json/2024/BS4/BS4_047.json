@@ -1,0 +1,66 @@
+{
+  "serial": "BS4-047",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_047.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "난초맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "마을의 파수꾼"
+    },
+    "skillList": [
+      {
+        "condition": ["blocker"],
+        "cost": {},
+        "text": {
+          "ko": "<이 카드를 레스트한다> (상대의 쿠키가 공격했을 때 공격의 대상을 이 쿠키로 할 수 있다.)"
+        },
+        "effect": {
+          "blocker": 1
+        }
+      },
+      {
+        "condition": ["onceTurn"],
+        "cost": {},
+        "text": {
+          "ko": "이 쿠키가 받는 LV.1 쿠키로부터의 공격 대미지를 -1한다."
+        },
+        "effect": {
+          "damageDrcrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "두더지 퇴치"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,57 @@
+{
+  "serial": "BS4-098",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_098.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "스타더스트 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "별의 표식"
+    },
+    "skillList": [
+      {
+        "condition": ["manual", "onceTurn"],
+        "cost": {
+          "purple": 1
+        },
+        "text": {
+          "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 HP에 있는 FLIP를 발동할 수 없다. 그리고 그 쿠키에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": "그리고 <<purple>로 사용할 수 있다> 자신의 트래시에 있는 <purple> 카드가 15장 이상이라면 2대미지를 준다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "별의 분노"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

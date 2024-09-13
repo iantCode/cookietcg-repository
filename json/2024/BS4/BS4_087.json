@@ -1,0 +1,39 @@
+{
+  "serial": "BS4-087",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_087.webp"
+  },
+  "type": "trap",
+  "level": 0,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "꿈꾸는 인어의 바다"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": "<패를 2장 버린다> 상대의 쿠키를 2장까지 선택한다. 이 턴 중 그 쿠키들의 공격 대미지를 -1한다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
