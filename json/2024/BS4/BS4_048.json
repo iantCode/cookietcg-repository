@@ -1,0 +1,56 @@
+{
+  "serial": "BS4-048",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_048.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "민트초코 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "전장의 바이올리니스트"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {},
+        "text": {
+          "ko": "자신의 턴 종료 시 자신의 서포트 에리어에 있는 <green> 카드가 7장 이상이라면 자신의 서포트 에리어에 있는 카드를 1장까지 액티브로 한다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "클라이맥스입니다"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

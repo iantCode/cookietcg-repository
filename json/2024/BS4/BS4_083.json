@@ -1,0 +1,41 @@
+{
+  "serial": "BS4-083",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_083.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "해적맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 자신의 패가 5장 이상이라면 1대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "유령 폭탄"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
