@@ -1,0 +1,40 @@
+{
+  "serial": "BS4-017",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_017.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "화끈한 스코빌리아 학생"
+  },
+  "hp": 5,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 2,
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 4,
+      "name": {
+        "ko": "한번 해보자구!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

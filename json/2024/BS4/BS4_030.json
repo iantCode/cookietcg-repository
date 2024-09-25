@@ -1,0 +1,58 @@
+{
+  "serial": "BS4-030",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_030.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "복사꽃맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "무릉도원"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "자신의 배틀 에리어에 있는 다른 <yellow> 쿠키를 1장까지 선택한다. 그 쿠키의 HP의 위에서부터 1장 패로 가져온다. 그리고 자신의 패에서 1장까지 그 쿠키의 HP 위에 추가한다."
+        },
+        "effect": {}
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "복숭아 만주 던지기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
