@@ -1,0 +1,49 @@
+{
+  "serial": "BS4-105",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_105.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "휘낭시에맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "모조리 날려주마!"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+      "handTrash": 1
+    },
+    "text": {
+      "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

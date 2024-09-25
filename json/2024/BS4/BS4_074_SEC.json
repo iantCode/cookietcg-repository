@@ -1,0 +1,59 @@
+{
+  "serial": "BS4-074-SEC",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_074_SEC.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "박하사탕맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "상쾌한 고둥소리"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "blue": 1
+        },
+        "text": {
+          "ko": "<패를 모두 버린다> 자신의 덱에서 4장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 4
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "파도 소리 들어볼래?"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SEC",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

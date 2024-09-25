@@ -1,0 +1,59 @@
+{
+  "serial": "BS4-077-SSR",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_077_SSR.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "샤벳상어맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "샤크 다이빙"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "blue": 1
+        },
+        "text": {
+          "ko": "<이 쿠키를 덱의 아래에 놓는다> 자신의 패가 5장 이하이고 자신의 배틀 에리어에 <blue> 쿠키가 있다면 자신의 덱에서 2장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 4
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "0! OO!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SSR",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

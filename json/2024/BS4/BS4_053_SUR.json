@@ -1,0 +1,59 @@
+{
+  "serial": "BS4-053-SUR",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_053_SUR.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "설탕백조 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "생명의 숨결"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "green": 2
+        },
+        "text": {
+          "ko": "자신의 배틀 에리어에 있는 <green> LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 서포트 에리어에 액티브로 놓는다."
+        },
+        "effect": {
+          "addSupport": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": "그리고 <<green>으로 사용할 수 있다. 자신의 서포트 에리어가 7장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "영롱한 빛의 날개"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SUR",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

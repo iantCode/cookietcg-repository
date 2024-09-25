@@ -1,0 +1,57 @@
+{
+  "serial": "BS4-026-SUR",
+  "img": {
+    "ko": "images/ko/2024/BS4/BS4_026_SUR.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "뇌신무장 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "뇌신강림"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 2
+        },
+        "text": {
+          "ko": "상대의 브레이크 에리어가 LV.5 이하라면 상대의 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다."
+        },
+        "effect": {}
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": "그리고 <<yellow>로 사용할 수 있다> 자신의 브레이크 에리어가 LV.3 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "신의 천벌"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SUR",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
