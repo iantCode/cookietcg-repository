@@ -1,32 +1,31 @@
 {
-  "serial": "P-035",
+  "serial": "P-044",
   "img": {
-    "ko": "images/ko/2024/Promo/P_035.webp"
+    "ko": "images/ko/2024/Promo/P_044.webp"
   },
   "type": "cookie",
   "level": 2,
   "color": [
-    "yellow"
+    "green"
   ],
   "name": {
-    "ko": "크림소다맛 쿠키"
+    "ko": "아몬드맛 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "몰아치는 파도"
+      "ko": "아몬드 수갑"
     },
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "appear"
         ],
         "cost": {
-          "blue": 1
         },
         "text": {
-          "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다."
+          "ko": "상대의 배틀 에리어에 있는 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 서포트 에리어에 레스트로 놓는다."
         },
         "effect": {
         }
@@ -36,21 +35,21 @@
   "attack": [
     {
       "cost": {
-        "blue": 2
+        "green": 2
       },
       "text": {
         "ko": ""
       },
-      "damage": 1,
+      "damage": 2,
       "name": {
-        "ko": "스파클링 슬래시"
+        "ko": "당신을 체포합니다!"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "P",
-  "from": "프로모 카드 - 공인 매장 구입 특전",
+  "from": "프로모 카드 - 프로모션 팩 VOL.4",
   "releaseDate": "2024-10-01",
   "regulation": "A",
   "limit": 4,

@@ -1,32 +1,31 @@
 {
-  "serial": "P-035",
+  "serial": "P-041",
   "img": {
-    "ko": "images/ko/2024/Promo/P_035.webp"
+    "ko": "images/ko/2024/Promo/P_041.webp"
   },
   "type": "cookie",
-  "level": 2,
+  "level": 1,
   "color": [
-    "yellow"
+    "red"
   ],
   "name": {
-    "ko": "크림소다맛 쿠키"
+    "ko": "생일케이크맛 쿠키"
   },
-  "hp": 3,
+  "hp": 1,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "몰아치는 파도"
+      "ko": "파티를 시작해보자~"
     },
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "appear"
         ],
         "cost": {
-          "blue": 1
         },
         "text": {
-          "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다."
+          "ko": "자신이 오늘 생일이라면 상대에게 축하 받을 수 있다."
         },
         "effect": {
         }
@@ -36,21 +35,21 @@
   "attack": [
     {
       "cost": {
-        "blue": 2
+        "red": 2
       },
       "text": {
-        "ko": ""
+        "ko": "그리고 자신이 오늘 생일이라면 1대미지를 준다."
       },
       "damage": 1,
       "name": {
-        "ko": "스파클링 슬래시"
+        "ko": "생일 축하해!"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "P",
-  "from": "프로모 카드 - 공인 매장 구입 특전",
+  "from": "프로모 카드 - 프로모션 팩 VOL.4",
   "releaseDate": "2024-10-01",
   "regulation": "A",
   "limit": 4,

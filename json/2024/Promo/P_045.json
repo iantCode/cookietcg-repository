@@ -1,34 +1,34 @@
 {
-  "serial": "P-035",
+  "serial": "P-045",
   "img": {
-    "ko": "images/ko/2024/Promo/P_035.webp"
+    "ko": "images/ko/2024/Promo/P_045.webp"
   },
   "type": "cookie",
-  "level": 2,
+  "level": 1,
   "color": [
-    "yellow"
+    "blue"
   ],
   "name": {
-    "ko": "크림소다맛 쿠키"
+    "ko": "마카롱맛 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "몰아치는 파도"
+      "ko": "우당탕탕 행진"
     },
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "appear"
         ],
         "cost": {
-          "blue": 1
         },
         "text": {
-          "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다."
+          "ko": "<자신의 패를 1장 덱의 아래로 되돌린다> 자신의 덱에서 1장까지 뽑는다."
         },
         "effect": {
+          "draw": 1
         }
       }
     ]
@@ -43,14 +43,14 @@
       },
       "damage": 1,
       "name": {
-        "ko": "스파클링 슬래시"
+        "ko": "박자를 맞춰요~"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "P",
-  "from": "프로모 카드 - 공인 매장 구입 특전",
+  "from": "프로모 카드 - 프로모션 팩 VOL.4",
   "releaseDate": "2024-10-01",
   "regulation": "A",
   "limit": 4,

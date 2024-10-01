@@ -1,21 +1,21 @@
 {
-  "serial": "P-035",
+  "serial": "P-039",
   "img": {
-    "ko": "images/ko/2024/Promo/P_035.webp"
+    "ko": "images/ko/2024/Promo/P_039.webp"
   },
   "type": "cookie",
-  "level": 2,
+  "level": 3,
   "color": [
-    "yellow"
+    "blue"
   ],
   "name": {
-    "ko": "크림소다맛 쿠키"
+    "ko": "마들렌맛 쿠키"
   },
-  "hp": 3,
+  "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "몰아치는 파도"
+      "ko": "기사단장의 런치 세트"
     },
     "skillList": [
       {
@@ -26,9 +26,10 @@
           "blue": 1
         },
         "text": {
-          "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다."
+          "ko": "자신의 덱에서 1장 뽑는다. 그리고 자신의 패를 1장 버린다."
         },
         "effect": {
+          "draw": 1
         }
       }
     ]
@@ -36,21 +37,21 @@
   "attack": [
     {
       "cost": {
-        "blue": 2
+        "blue": 4
       },
       "text": {
         "ko": ""
       },
-      "damage": 1,
+      "damage": 4,
       "name": {
-        "ko": "스파클링 슬래시"
+        "ko": "청량한 탄산의 맛!"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "P",
-  "from": "프로모 카드 - 공인 매장 구입 특전",
+  "from": "프로모 카드 - 롯데리아 콜라보",
   "releaseDate": "2024-10-01",
   "regulation": "A",
   "limit": 4,

@@ -1,7 +1,7 @@
 {
-  "serial": "P-034",
+  "serial": "P-023",
   "img": {
-    "ko": "images/ko/2024/Promo/P_034.webp"
+    "ko": "images/ko/2024/Promo/P_023.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +9,7 @@
     "yellow"
   ],
   "name": {
-    "ko": "꽈배기맛 쿠키"
+    "ko": "용감한 쿠키"
   },
   "hp": 1,
   "hasSkill": false,
@@ -24,7 +24,7 @@
       },
       "damage": 1,
       "name": {
-        "ko": "기차를 지켜라"
+        "ko": "용감한 질주"
       }
     }
   ],
@@ -40,7 +40,7 @@
     }
   },
   "rarity": "P",
-  "from": "프로모 카드 - 공인 매장 구입 특전",
+  "from": "프로모 카드 - 쿠키런 15주년 기념",
   "releaseDate": "2024-10-01",
   "regulation": "A",
   "limit": 4,

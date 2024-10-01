@@ -1,39 +1,39 @@
 {
-  "serial": "P-033",
+  "serial": "P-038",
   "img": {
-    "ko": "images/ko/2024/Promo/P_033.webp"
+    "ko": "images/ko/2024/Promo/P_038.webp"
   },
   "type": "cookie",
-  "level": 3,
+  "level": 1,
   "color": [
-    "red"
+    "green"
   ],
   "name": {
-    "ko": "용감한 쿠키"
+    "ko": "에스프레소맛 쿠키"
   },
-  "hp": 4,
-  "hasSkill": true,
+  "hp": 2,
+  "hasSkill": false,
   "skill": {
   },
   "attack": [
     {
       "cost": {
-        "red": 1,
-        "mix": 2
+        "green": 1,
+        "mix": 1
       },
       "text": {
         "ko": ""
       },
-      "damage": 4,
+      "damage": 2,
       "name": {
-        "ko": "캔디케인 어택"
+        "ko": "커피 한잔의 여유!"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "P",
-  "from": "프로모 카드 - 공인 매장 구입 특전",
+  "from": "프로모 카드 - 롯데리아 콜라보",
   "releaseDate": "2024-10-01",
   "regulation": "A",
   "limit": 4,

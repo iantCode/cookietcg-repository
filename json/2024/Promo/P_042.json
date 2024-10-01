@@ -1,21 +1,21 @@
 {
-  "serial": "P-035",
+  "serial": "P-042",
   "img": {
-    "ko": "images/ko/2024/Promo/P_035.webp"
+    "ko": "images/ko/2024/Promo/P_042.webp"
   },
   "type": "cookie",
-  "level": 2,
+  "level": 1,
   "color": [
-    "yellow"
+    "red"
   ],
   "name": {
-    "ko": "크림소다맛 쿠키"
+    "ko": "트위즐젤리맛 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "몰아치는 파도"
+      "ko": "트위즐 레이저"
     },
     "skillList": [
       {
@@ -23,12 +23,12 @@
           "manual", "onceTurn"
         ],
         "cost": {
-          "blue": 1
         },
         "text": {
-          "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다."
+          "ko": "이 쿠키의 남은 HP가 1이라면 이 쿠키를 액티브로 한다."
         },
         "effect": {
+          "makeActive": 1
         }
       }
     ]
@@ -36,21 +36,21 @@
   "attack": [
     {
       "cost": {
-        "blue": 2
+        "red": 2
       },
       "text": {
         "ko": ""
       },
       "damage": 1,
       "name": {
-        "ko": "스파클링 슬래시"
+        "ko": "이번엔 너냐!"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "P",
-  "from": "프로모 카드 - 공인 매장 구입 특전",
+  "from": "프로모 카드 - 프로모션 팩 VOL.4",
   "releaseDate": "2024-10-01",
   "regulation": "A",
   "limit": 4,

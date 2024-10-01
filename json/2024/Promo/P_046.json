@@ -1,34 +1,35 @@
 {
-  "serial": "P-035",
+  "serial": "P-046",
   "img": {
-    "ko": "images/ko/2024/Promo/P_035.webp"
+    "ko": "images/ko/2024/Promo/P_046.webp"
   },
   "type": "cookie",
   "level": 2,
   "color": [
-    "yellow"
+    "purple"
   ],
   "name": {
-    "ko": "크림소다맛 쿠키"
+    "ko": "펌킨파이맛 쿠키"
   },
-  "hp": 3,
+  "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "몰아치는 파도"
+      "ko": "도와줘 피피!"
     },
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "appear"
         ],
         "cost": {
-          "blue": 1
+          "purple": 2
         },
         "text": {
-          "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다."
+          "ko": "상대의 모든 쿠키의 HP의 위에서부터 1장 트래시에 놓는다."
         },
         "effect": {
+          "hpTrash": 1
         }
       }
     ]
@@ -36,21 +37,21 @@
   "attack": [
     {
       "cost": {
-        "blue": 2
+        "purple": 3
       },
       "text": {
         "ko": ""
       },
-      "damage": 1,
+      "damage": 3,
       "name": {
-        "ko": "스파클링 슬래시"
+        "ko": "피피가 있는걸~"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "P",
-  "from": "프로모 카드 - 공인 매장 구입 특전",
+  "from": "프로모 카드 - 프로모션 팩 VOL.4",
   "releaseDate": "2024-10-01",
   "regulation": "A",
   "limit": 4,

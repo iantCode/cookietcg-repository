@@ -1,7 +1,7 @@
 {
-  "serial": "P-035",
+  "serial": "P-043",
   "img": {
-    "ko": "images/ko/2024/Promo/P_035.webp"
+    "ko": "images/ko/2024/Promo/P_043.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,26 +9,26 @@
     "yellow"
   ],
   "name": {
-    "ko": "크림소다맛 쿠키"
+    "ko": "목화맛 쿠키"
   },
-  "hp": 3,
+  "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "몰아치는 파도"
+      "ko": "등불 하나"
     },
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "appear"
         ],
         "cost": {
-          "blue": 1
         },
         "text": {
-          "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다."
+          "ko": "자신의 배틀 에리어에 있는 <yellow> LV.3 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
         },
         "effect": {
+          "heal": 1
         }
       }
     ]
@@ -36,21 +36,21 @@
   "attack": [
     {
       "cost": {
-        "blue": 2
+        "yellow": 2
       },
       "text": {
         "ko": ""
       },
-      "damage": 1,
+      "damage": 2,
       "name": {
-        "ko": "스파클링 슬래시"
+        "ko": "제가 안내할게요!"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "P",
-  "from": "프로모 카드 - 공인 매장 구입 특전",
+  "from": "프로모 카드 - 프로모션 팩 VOL.4",
   "releaseDate": "2024-10-01",
   "regulation": "A",
   "limit": 4,
