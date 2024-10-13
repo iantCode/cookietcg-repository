@@ -1,7 +1,8 @@
 {
   "serial": "BS1-052",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_52.webp"
+    "ko": "images/ko/2023/BS1/BS1_52.webp",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_52.png"
   },
   "type": "stage",
   "level": 0,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "별사탕 오솔길"
+    "ko": "별사탕 오솔길",
+    "zh-TW": "星星糖小徑"
   },
   "hp": 0,
   "hasSkill": true,
@@ -26,7 +28,8 @@
           "yellow": 2
         },
         "text": {
-          "ko": "《이 카드를 레스트한다》 자신의 쿠키 1장의 HP를 +1한다."
+          "ko": "《이 카드를 레스트한다》 자신의 쿠키 1장의 HP를 +1한다.",
+          "zh-TW": "《將這張牌改為疲勞狀態》選擇1個自己的餅乾,它獲得HP+1點。"
         },
         "effect": {
           "heal": 1
@@ -40,7 +43,8 @@
         "yellow": 1
       },
       "text": {
-        "ko": "스테이지 에리어에 내려놓는다."
+        "ko": "스테이지 에리어에 내려놓는다.",
+        "zh-TW": "將這張牌放置到場景區。"
       },
       "damage": 0,
       "name": {
