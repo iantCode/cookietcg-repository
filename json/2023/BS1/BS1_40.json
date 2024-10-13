@@ -1,7 +1,8 @@
 {
   "serial": "BS1-040",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_40.webp"
+    "ko": "images/ko/2023/BS1/BS1_40.webp",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_40.png"
   },
   "type": "cookie",
   "level": 3,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "얼그레이맛 쿠키"
+    "ko": "얼그레이맛 쿠키",
+    "zh-TW": "伯爵茶餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "yellow": 3
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3,
       "name": {
@@ -34,7 +37,8 @@
       "handTrash": 1
     },
     "text": {
-      "ko": "《패를 1장 버린다》 자신의 브레이크 에리어가 LV.6 이상이라면 이 카드를 HP로 사용했던 쿠키에 HP를 +2한다."
+      "ko": "《패를 1장 버린다》 자신의 브레이크 에리어가 LV.6 이상이라면 이 카드를 HP로 사용했던 쿠키에 HP를 +2한다.",
+      "zh-TW": "《棄1張手牌》如果自己的休息區LV總和達到6或以上,則以這張牌為HP卡的餅乾獲得HP+2點。"
     },
     "effect": {
       "heal": 2

@@ -1,7 +1,8 @@
 {
   "serial": "BS1-035",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_35.webp"
+    "ko": "images/ko/2023/BS1/BS1_35.webp",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_35.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "솜사탕맛 쿠키"
+    "ko": "솜사탕맛 쿠키",
+    "zh-TW": "棉花糖餅乾"
   },
   "hp": 2,
   "hasSkill": true,
@@ -22,7 +24,8 @@
         "condition": [],
         "cost": {},
         "text": {
-          "ko": "이 쿠키가 기절했을 때 《<yellow>로 사용할 수 있다》 자신의 브레이크 에리어에 있는 LV.1의 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다."
+          "ko": "이 쿠키가 기절했을 때 《<yellow>로 사용할 수 있다》 자신의 브레이크 에리어에 있는 LV.1의 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다.",
+          "zh-TW": "當這個餅乾暈倒時,《你可以支付<yellow>》從自己的休息區選擇最多1個LV.1的餅乾。將它放置到棄牌區。"
         },
         "effect": {
           "removeBreak": 1
@@ -36,7 +39,8 @@
         "yellow": 2
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2,
       "name": {

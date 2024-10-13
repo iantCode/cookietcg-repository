@@ -1,7 +1,8 @@
 {
   "serial": "BS1-032",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_32.webp"
+    "ko": "images/ko/2023/BS1/BS1_32.webp",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_32.png"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "바나나맛 쿠키"
+    "ko": "바나나맛 쿠키",
+    "zh-TW": "香蕉餅乾"
   },
   "hp": 4,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "mix": 3
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2,
       "name": {
