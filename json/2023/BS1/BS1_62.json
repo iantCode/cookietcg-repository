@@ -1,7 +1,8 @@
 {
   "serial": "BS1-062",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_62.webp"
+    "ko": "images/ko/2023/BS1/BS1_62.webp",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_62.png"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "green"
   ],
   "name": {
-    "ko": "실론나이트 쿠키"
+    "ko": "실론나이트 쿠키",
+    "zh-TW": "錫蘭騎士餅乾"
   },
   "hp": 3,
   "hasSkill": true,
@@ -26,7 +28,8 @@
           "green": 1
         },
         "text": {
-          "ko": "(상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.)"
+          "ko": "(상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.)",
+          "zh-TW": "(當對手的餅乾攻擊時,你可以改為由這個餅乾承受該攻擊。)"
         },
         "effect": {
           "redirection": 1
@@ -41,7 +44,8 @@
         "mix": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1,
       "name": {

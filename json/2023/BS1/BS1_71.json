@@ -1,7 +1,8 @@
 {
   "serial": "BS1-071",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_71.webp"
+    "ko": "images/ko/2023/BS1/BS1_71.webp",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_71.png"
   },
   "type": "cookie",
   "level": 3,
@@ -9,7 +10,8 @@
     "green"
   ],
   "name": {
-    "ko": "펌킨파이맛 쿠키"
+    "ko": "펌킨파이맛 쿠키",
+    "zh-TW": "南瓜派餅乾"
   },
   "hp": 4,
   "hasSkill": true,
@@ -24,7 +26,8 @@
         ],
         "cost": {},
         "text": {
-          "ko": "자신의 트래시에서 쿠키를 1장 서포트 에리어에 액티브로 놓는다."
+          "ko": "자신의 트래시에서 쿠키를 1장 서포트 에리어에 액티브로 놓는다.",
+          "zh-TW": "從自己的棄牌區將1個餅乾以活躍狀態放置到支援區。"
         },
         "effect": {
           "addSupport": 1
@@ -39,7 +42,8 @@
         "mix": 1
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3,
       "name": {

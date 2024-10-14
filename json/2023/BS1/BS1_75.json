@@ -1,7 +1,8 @@
 {
   "serial": "BS1-075",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_75.webp"
+    "ko": "images/ko/2023/BS1/BS1_75.webp",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_75.png"
   },
   "type": "item",
   "level": 0,
@@ -9,7 +10,8 @@
     "green"
   ],
   "name": {
-    "ko": "방랑자의 사과파이"
+    "ko": "방랑자의 사과파이",
+    "zh-TW": "流浪者的蘋果派"
   },
   "hp": 0,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "green": 2
       },
       "text": {
-        "ko": "이 카드를 자신의 서포트 에리어에 레스트로 놓는다."
+        "ko": "이 카드를 자신의 서포트 에리어에 레스트로 놓는다.",
+        "zh-TW": "將這張牌以疲勞狀態放置到自己的支援區。"
       },
       "addSupport": 1,
       "name": {

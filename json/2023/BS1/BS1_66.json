@@ -1,7 +1,8 @@
 {
   "serial": "BS1-066",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_66.webp"
+    "ko": "images/ko/2023/BS1/BS1_66.webp",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_66.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "green"
   ],
   "name": {
-    "ko": "지초맛 쿠키"
+    "ko": "지초맛 쿠키",
+    "zh-TW": "芝草餅乾"
   },
   "hp": 4,
   "hasSkill": true,
@@ -22,7 +24,8 @@
         "condition": [],
         "cost": {},
         "text": {
-          "ko": "자신의 턴 종료 시 자신의 서포트 에리어의 카드를 1장 액티브로 한다."
+          "ko": "자신의 턴 종료 시 자신의 서포트 에리어의 카드를 1장 액티브로 한다.",
+          "zh-TW": "在自己的回合結束時,將自己的支援區其中1張牌改為活躍狀態。"
         },
         "effect": {
           "makeActive": 1
@@ -36,7 +39,8 @@
         "green": 3
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3,
       "name": {

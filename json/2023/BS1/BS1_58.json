@@ -1,7 +1,8 @@
 {
   "serial": "BS1-058",
   "img": {
-    "ko": "images/ko/2023/BS1/BS1_58.webp"
+    "ko": "images/ko/2023/BS1/BS1_58.webp",
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_58.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,17 +10,32 @@
     "green"
   ],
   "name": {
-    "ko": "독버섯맛 쿠키"
+    "ko": "독버섯맛 쿠키",
+    "zh-TW": "毒蘑菇餅乾"
   },
   "hp": 2,
   "hasSkill": false,
   "skill": {
-    "condition": [],
-    "cost": {},
-    "text": "이 쿠키가 기절했을 때 《자신의 서포트 에리어에서 1장 트래시에 놓는다》 모든 쿠키들에게 1대미지를 준다.",
-    "effect": {
-      "damage": 1
-    }
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "green": 2
+        },
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 《자신의 서포트 에리어에서 1장 트래시에 놓는다》 모든 쿠키들에게 1대미지를 준다.",
+          "zh-TW": "當這個餅乾暈倒時,《從自己的支援區將1張牌放置到棄牌區》對所有餅乾分別造成1點傷害。"
+        },
+        "effect": {
+          "addCookie": 1
+        }
+      }
+    ]
   },
   "attack": [
     {
@@ -27,7 +43,8 @@
         "green": 2
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害"
       },
       "damage": 2,
       "name": {
