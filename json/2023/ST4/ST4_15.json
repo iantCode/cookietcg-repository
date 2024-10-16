@@ -1,7 +1,8 @@
 {
   "serial": "ST4-015",
   "img": {
-    "ko": "images/ko/2023/ST4/ST4_15.webp"
+    "ko": "images/ko/2023/ST4/ST4_15.webp",
+    "zh-TW": "images/zh-TW/2024/ST4/ST4_15.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "해적맛 쿠키"
+    "ko": "해적맛 쿠키",
+    "zh-TW": "海盜餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "blue": 2
       },
       "text": {
-        "ko": "2대미지를 준다. 그리고 덱에서 1장 뽑을 수 있다."
+        "ko": "2대미지를 준다. 그리고 덱에서 1장 뽑을 수 있다.",
+        "zh-TW": "造成2點傷害。然後,你可以從牌庫抽1張牌。"
       },
       "damage": 2,
       "name": {

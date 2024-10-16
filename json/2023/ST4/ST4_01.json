@@ -1,7 +1,8 @@
 {
   "serial": "ST4-001",
   "img": {
-    "ko": "images/ko/2023/ST4/ST4_01.webp"
+    "ko": "images/ko/2023/ST4/ST4_01.webp",
+    "zh-TW": "images/zh-TW/2024/ST4/ST4_01.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "검볼다이버맛 쿠키"
+    "ko": "검볼다이버맛 쿠키",
+    "zh-TW": "口香糖球潛水員餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "mix": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1,
       "name": {

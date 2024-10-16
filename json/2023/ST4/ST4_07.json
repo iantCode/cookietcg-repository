@@ -1,7 +1,8 @@
 {
   "serial": "ST4-007",
   "img": {
-    "ko": "images/ko/2023/ST4/ST4_07.webp"
+    "ko": "images/ko/2023/ST4/ST4_07.webp",
+    "zh-TW": "images/zh-TW/2024/ST4/ST4_07.png"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "사워벨트맛 쿠키"
+    "ko": "사워벨트맛 쿠키",
+    "zh-TW": "霓虹軟糖餅乾"
   },
   "hp": 3,
   "hasSkill": true,
@@ -27,7 +29,8 @@
           "blue": 1
         },
         "text": {
-          "ko": "자신의 패가 6장 이하라면 덱에서 1장 뽑을 수 있다."
+          "ko": "자신의 패가 6장 이하라면 덱에서 1장 뽑을 수 있다.",
+          "zh-TW": "如果自己的手牌為6張或更少, 則你可以從牌庫抽1張牌。"
         },
         "effect": {
           "draw": 1
@@ -41,7 +44,8 @@
         "blue": 2
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1,
       "name": {

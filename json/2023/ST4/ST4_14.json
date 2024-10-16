@@ -1,7 +1,8 @@
 {
   "serial": "ST4-014",
   "img": {
-    "ko": "images/ko/2023/ST4/ST4_14.webp"
+    "ko": "images/ko/2023/ST4/ST4_14.webp",
+    "zh-TW": "images/zh-TW/2024/ST4/ST4_14.png"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "피겨여왕맛 쿠키"
+    "ko": "피겨여왕맛 쿠키",
+    "zh-TW": "溜冰女王餅乾"
   },
   "hp": 1,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "blue": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1,
       "name": {
@@ -34,7 +37,8 @@
       "handTrash": 1
     },
     "text": {
-      "ko": "덱에서 1장 뽑을 수 있다."
+      "ko": "덱에서 1장 뽑을 수 있다.",
+      "zh-TW": "你可以從牌庫抽1張牌。"
     },
     "effect": {
       "draw": 1

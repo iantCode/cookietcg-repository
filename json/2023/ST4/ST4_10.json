@@ -1,7 +1,8 @@
 {
   "serial": "ST4-010",
   "img": {
-    "ko": "images/ko/2023/ST4/ST4_10.webp"
+    "ko": "images/ko/2023/ST4/ST4_10.webp",
+    "zh-TW": "images/zh-TW/2024/ST4/ST4_10.png"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "오징어먹물맛 쿠키"
+    "ko": "오징어먹물맛 쿠키",
+    "zh-TW": "墨魚餅乾"
   },
   "hp": 1,
   "hasSkill": true,
@@ -22,7 +24,8 @@
         "condition": [],
         "cost": {},
         "text": {
-          "ko": "이 쿠키가 기절했을 때 덱에서 1장 뽑을 수 있다."
+          "ko": "이 쿠키가 기절했을 때 덱에서 1장 뽑을 수 있다.",
+          "zh-TW": "當這個餅乾暈倒時,你可以從牌庫抽1張牌。"
         },
         "effect": {
           "draw": 1
@@ -36,7 +39,8 @@
         "blue": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1,
       "name": {
