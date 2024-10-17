@@ -1,7 +1,8 @@
 {
   "serial": "ST5-001",
   "img": {
-    "ko": "images/ko/2023/ST5/ST5_01.webp"
+    "ko": "images/ko/2023/ST5/ST5_01.webp",
+    "zh-TW": "images/zh-TW/2024/ST4/ST5_01.png"
   },
   "type": "cookie",
   "level": 3,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "마들렌맛 쿠키"
+    "ko": "마들렌맛 쿠키",
+    "zh-TW": "瑪德蓮餅乾"
   },
   "hp": 4,
   "hasSkill": true,
@@ -26,7 +28,8 @@
           "purple": 1
         },
         "text": {
-          "ko": "상대의 배틀 에리어에 있는 LV.1의 쿠키 또는 스테이지를 1장 트래시에 놓는다."
+          "ko": "상대의 배틀 에리어에 있는 LV.1의 쿠키 또는 스테이지를 1장 트래시에 놓는다.",
+          "zh-TW": "從對手的戰鬥區選擇1個LV.1的餅乾,或是1張對手的場景卡,將它放置到棄牌區。"
         },
         "effect": {
           "kill": 1
@@ -40,7 +43,8 @@
         "purple": 3
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3,
       "name": {
