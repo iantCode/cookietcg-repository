@@ -1,7 +1,8 @@
 {
   "serial": "BS2-001",
   "img": {
-    "ko": "images/ko/2024/BS2/BS2_01.webp"
+    "ko": "images/ko/2024/BS2/BS2_01.webp",
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_01.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "red"
   ],
   "name": {
-    "ko": "근육맛 쿠키"
+    "ko": "근육맛 쿠키",
+    "zh-TW": "肌肉餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "red": 2
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2,
       "name": {
@@ -32,7 +35,8 @@
   "flip": {
     "condition": {},
     "text": {
-      "ko": "덱에서 1장 뽑을 수 있다."
+      "ko": "덱에서 1장 뽑을 수 있다.",
+      "zh-TW": "你可以從牌庫抽1張牌。"
     },
     "effect": {
       "draw": 1

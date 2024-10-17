@@ -1,7 +1,8 @@
 {
   "serial": "BS2-008",
   "img": {
-    "ko": "images/ko/2024/BS2/BS2_08.webp"
+    "ko": "images/ko/2024/BS2/BS2_08.webp",
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_08.png"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "공주맛 쿠키"
+    "ko": "공주맛 쿠키",
+    "zh-TW": "公主餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "mix": 2
       },
       "text": {
-        "ko": "2대미지를 준다"
+        "ko": "2대미지를 준다",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2,
       "name": {
