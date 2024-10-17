@@ -1,7 +1,8 @@
 {
   "serial": "BS2-037",
   "img": {
-    "ko": "images/ko/2024/BS2/BS2_37.webp"
+    "ko": "images/ko/2024/BS2/BS2_37.webp",
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_37.png"
   },
   "type": "cookie",
   "level": 3,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "쇼콜라봉봉맛 쿠키"
+    "ko": "쇼콜라봉봉맛 쿠키",
+    "zh-TW": "巧克力餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "blue": 3
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3,
       "name": {
@@ -32,7 +35,8 @@
   "flip": {
     "condition": {},
     "text": {
-      "ko": "덱에서 1장 뽑을 수 있다."
+      "ko": "덱에서 1장 뽑을 수 있다.",
+      "zh-TW": "你可以從牌庫抽1張牌。"
     },
     "effect": {
       "draw": 1

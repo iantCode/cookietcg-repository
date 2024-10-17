@@ -1,7 +1,8 @@
 {
   "serial": "BS2-022-SEC",
   "img": {
-    "ko": "images/ko/2024/BS2/BS2_22_SEC.webp"
+    "ko": "images/ko/2024/BS2/BS2_22_SEC.webp",
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_22_SEC.png"
   },
   "type": "cookie",
   "level": 3,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "감초맛 쿠키"
+    "ko": "감초맛 쿠키",
+    "zh-TW": "甘草餅乾"
   },
   "hp": 4,
   "hasSkill": true,
@@ -24,7 +26,8 @@
         ],
         "cost": {},
         "text": {
-          "ko": "이 쿠키는 자신의 다음 턴 시작 시까지 효과에 의한 데미지를 받지 않는다."
+          "ko": "이 쿠키는 자신의 다음 턴 시작 시까지 효과에 의한 데미지를 받지 않는다.",
+          "zh-TW": "在下個自己的回合開始之前,這個餅乾不會受到效果造成的傷害。"
         },
         "effect": {
           "preventDamage": 1
@@ -38,7 +41,8 @@
         "blue": 3
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3,
       "name": {
