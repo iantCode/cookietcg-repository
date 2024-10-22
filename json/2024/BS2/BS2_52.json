@@ -1,7 +1,8 @@
 {
   "serial": "BS2-052",
   "img": {
-    "ko": "images/ko/2024/BS2/BS2_52.webp"
+    "ko": "images/ko/2024/BS2/BS2_52.webp",
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_52.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "구미호맛 쿠키"
+    "ko": "구미호맛 쿠키",
+    "zh-TW": "妖狐餅乾"
   },
   "hp": 4,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "mix": 3
       },
       "text": {
-        "ko": "3대미지를 준다."
+        "ko": "3대미지를 준다.",
+        "zh-TW": "造成3點傷害。"
       },
       "damage": 3,
       "name": {

@@ -1,7 +1,8 @@
 {
   "serial": "BS2-065",
   "img": {
-    "ko": "images/ko/2024/BS2/BS2_65.webp"
+    "ko": "images/ko/2024/BS2/BS2_65.webp",
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_65.png"
   },
   "type": "cookie",
   "level": 3,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "자색고구마맛 쿠키"
+    "ko": "자색고구마맛 쿠키",
+    "zh-TW": "紫心薯餅乾"
   },
   "hp": 5,
   "hasSkill": true,
@@ -26,7 +28,8 @@
           "purple": 1
         },
         "text": {
-          "ko": "상대의 스테이지를 1장까지 트래시에 놓는다."
+          "ko": "상대의 스테이지를 1장까지 트래시에 놓는다.",
+          "zh-TW": "將最多1張對手的場景卡放置到棄牌區。"
         },
         "effect": {
           "stageTrash": 1
@@ -40,7 +43,8 @@
         "purple": 4
       },
       "text": {
-        "ko": "4대미지를 준다."
+        "ko": "4대미지를 준다.",
+        "zh-TW": "造成4點傷害。"
       },
       "damage": 4,
       "name": {

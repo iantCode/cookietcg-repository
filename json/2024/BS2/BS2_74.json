@@ -1,7 +1,8 @@
 {
   "serial": "BS2-074",
   "img": {
-    "ko": "images/ko/2024/BS2/BS2_74.webp"
+    "ko": "images/ko/2024/BS2/BS2_74.webp",
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_74.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "핑크초코 쿠키"
+    "ko": "핑크초코 쿠키",
+    "zh-TW": "粉紅巧克力餅乾"
   },
   "hp": 2,
   "hasSkill": true,
@@ -22,7 +24,8 @@
         "condition": [],
         "cost": {},
         "text": {
-          "ko": "이 쿠키가 기절했을 때 상대의 배틀 에리어에 있는 LV.1의 쿠키를 1장까지 트래시에 놓는다."
+          "ko": "이 쿠키가 기절했을 때 상대의 배틀 에리어에 있는 LV.1의 쿠키를 1장까지 트래시에 놓는다.",
+          "zh-TW": "當這個餅乾暈倒時,從對手的戰鬥區將最多1個LV.1的餅乾放置到棄牌區。"
         },
         "effect": {
           "kill": 1
@@ -36,7 +39,8 @@
         "purple": 2
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2,
       "name": {

@@ -1,7 +1,8 @@
 {
   "serial": "BS2-078",
   "img": {
-    "ko": "images/ko/2024/BS2/BS2_78.webp"
+    "ko": "images/ko/2024/BS2/BS2_78.webp",
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_78.png"
   },
   "type": "item",
   "level": 0,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "용의 숨결"
+    "ko": "용의 숨결",
+    "zh-TW": "龍之氣息"
   },
   "hp": 0,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "purple": 3
       },
       "text": {
-        "ko": "배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 트래시에 놓는다."
+        "ko": "배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 트래시에 놓는다.",
+        "zh-TW": "從任一戰鬥區將最多1個LV.2或以下的餅乾放置到棄牌區。"
       },
       "damage": 2,
       "name": {

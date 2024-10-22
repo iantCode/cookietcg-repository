@@ -1,7 +1,8 @@
 {
   "serial": "BS2-068-SSR",
   "img": {
-    "ko": "images/ko/2024/BS2/BS2_68_SSR.webp"
+    "ko": "images/ko/2024/BS2/BS2_68_SSR.webp",
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_68_SSR.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "크림 유니콘 쿠키"
+    "ko": "크림 유니콘 쿠키",
+    "zh-TW": "奶油獨角獸餅乾"
   },
   "hp": 5,
   "hasSkill": true,
@@ -24,7 +26,8 @@
         ],
         "cost": {},
         "text": {
-          "ko": "《패를 1장 버린다》 자신의 트래시에서 <purple> 카드를 1장까지 패로 가져온다."
+          "ko": "《패를 1장 버린다》 자신의 트래시에서 <purple> 카드를 1장까지 패로 가져온다.",
+          "zh-TW": "《棄1張手牌》從自己的棄牌區將最多1張<purple>牌移回手牌。"
         },
         "effect": {
           "draw": 1
@@ -39,7 +42,8 @@
         "mix": 1
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2,
       "name": {
