@@ -1,7 +1,8 @@
 {
   "serial": "BS3-007",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_007.webp"
+    "ko": "images/ko/2024/BS3/BS3_007.webp",
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_007.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,20 +10,23 @@
     "red"
   ],
   "name": {
-    "ko": "실론나이트 쿠키"
+    "ko": "실론나이트 쿠키",
+    "zh-TW": "錫蘭騎士餅乾"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "기사단장의 분노"
+      "ko": "기사단장의 분노",
+      "zh-TW": "騎士團長的憤怒"
     },
     "skillList": [
       {
         "condition": [],
         "cost": {},
         "text": {
-          "ko": "자신의 브레이크 에리어가 LV.7 이상이라면 이 쿠키의 공격 대미지를 +2한다."
+          "ko": "자신의 브레이크 에리어가 LV.7 이상이라면 이 쿠키의 공격 대미지를 +2한다.",
+          "zh-TW": "如果自己的休息區LV總和達到7或以上,則這個餅乾的攻擊傷害+2點。"
         },
         "effect": {
           "damageIncrease": 2
@@ -41,7 +45,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "할버드 어택"
+        "ko": "할버드 어택",
+        "zh-TW": "長戟攻擊"
       }
     }
   ],
