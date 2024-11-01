@@ -1,7 +1,8 @@
 {
   "serial": "BS3-037",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_037.webp"
+    "ko": "images/ko/2024/BS3/BS3_037.webp",
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_037.png"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "천사맛 쿠키"
+    "ko": "천사맛 쿠키",
+    "zh-TW": "天使餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -20,11 +22,13 @@
         "yellow": 1
       },
       "text": {
-        "ko": "그리고 이 쿠키의 공격으로 상대의 쿠키가 기절했을 때 <<yellow>로 사용할 수 있다> 이 쿠키의 HP를 +1한다."
+        "ko": "그리고 이 쿠키의 공격으로 상대의 쿠키가 기절했을 때 <<yellow>로 사용할 수 있다> 이 쿠키의 HP를 +1한다.",
+        "zh-TW": "然後,如果對手的餅乾因本次攻擊而暈倒,則<你可以支<yellow>>付這個餅乾獲得HP+1點。"
       },
       "damage": 1,
       "name": {
-        "ko": "망자의 인도"
+        "ko": "망자의 인도",
+        "zh-TW": "亡者的指引"
       }
     }
   ],

@@ -1,7 +1,8 @@
 {
   "serial": "BS3-034",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_034.webp"
+    "ko": "images/ko/2024/BS3/BS3_034.webp",
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_034.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "스파클링맛 쿠키"
+    "ko": "스파클링맛 쿠키",
+    "zh-TW": "氣泡飲餅乾"
   },
   "hp": 5,
   "hasSkill": false,
@@ -25,7 +27,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "톡 쏘는 스파클링"
+        "ko": "톡 쏘는 스파클링",
+        "zh-TW": "沁涼氣泡飲"
       }
     }
   ],

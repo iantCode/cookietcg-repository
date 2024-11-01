@@ -1,7 +1,8 @@
 {
   "serial": "BS3-029",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_029.webp"
+    "ko": "images/ko/2024/BS3/BS3_029.webp",
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_029.png"
   },
   "type": "cookie",
   "level": 1,
@@ -9,20 +10,23 @@
     "yellow"
   ],
   "name": {
-    "ko": "바스크치즈맛 쿠키"
+    "ko": "바스크치즈맛 쿠키",
+    "zh-TW": "巴斯克起司餅乾"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "황금도시의 수호자"
+      "ko": "황금도시의 수호자",
+      "zh-TW": "黃金城市守護者"
     },
     "skillList": [
       {
         "condition": [],
         "cost": {},
         "text": {
-          "ko": "이 쿠키가 기절했을 때 <<yellow>로 사용할 수 있다> 자신의 패에서 <yellow> 쿠키를 1장까지 등장시킨다. 그리고 그 쿠키의 HP를 +1한다."
+          "ko": "이 쿠키가 기절했을 때 <<yellow>로 사용할 수 있다> 자신의 패에서 <yellow> 쿠키를 1장까지 등장시킨다. 그리고 그 쿠키의 HP를 +1한다.",
+          "zh-TW": "當這個餅乾暈倒時,<你可以支付<yellow>>從自己的手牌將最多1個<yellow>餅乾放置到戰鬥區。然後,它獲得HP+1點。"
         },
         "effect": {
           "heal": 1
@@ -40,7 +44,8 @@
       },
       "damage": 2,
       "name": {
-        "ko": "자칼 군단 출격"
+        "ko": "자칼 군단 출격",
+        "zh-TW": "胡狼軍團出擊"
       }
     }
   ],

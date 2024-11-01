@@ -1,7 +1,8 @@
 {
   "serial": "BS3-033-SEC",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_033_SEC.webp"
+    "ko": "images/ko/2024/BS3/BS3_033_SEC.webp",
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_033_SEC.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "스타더스트 쿠키"
+    "ko": "스타더스트 쿠키",
+    "zh-TW": "星塵餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -20,11 +22,13 @@
         "yellow": 2
       },
       "text": {
-        "ko": "그리고 <<yellow>로 사용할 수 있다> 상대의 남은 HP가 1인 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다."
+        "ko": "그리고 <<yellow>로 사용할 수 있다> 상대의 남은 HP가 1인 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다.",
+        "zh-TW": "然後,<你可以支付<yellow>>選擇最多1個剩餘HP為1點對手的餅乾。將它放置到對手的休息區。"
       },
       "damage": 2,
       "name": {
-        "ko": "황금 매의 분노"
+        "ko": "황금 매의 분노",
+        "zh-TW": "金鷹之怒"
       }
     }
   ],
