@@ -1,7 +1,8 @@
 {
   "serial": "P-007",
   "img": {
-    "ko": "images/ko/2023/Promo/P_007.webp"
+    "ko": "images/ko/2023/Promo/P_007.webp",
+    "zh-TW": "images/zh-TW/2024/Promo/P_007.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "red"
   ],
   "name": {
-    "ko": "밤톨맛 쿠키"
+    "ko": "밤톨맛 쿠키",
+    "zh-TW": "栗子餅乾"
   },
   "hp": 1,
   "hasSkill": true,
@@ -24,7 +26,8 @@
         ],
         "cost": {},
         "text": {
-          "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+          "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+          "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。"
         },
         "effect": {
           "damage": 1
@@ -38,7 +41,8 @@
         "red": 1
       },
       "text": {
-        "ko": "1대미지를 준다."
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。"
       },
       "damage": 1,
       "name": {

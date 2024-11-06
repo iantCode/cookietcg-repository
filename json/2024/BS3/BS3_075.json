@@ -1,7 +1,8 @@
 {
   "serial": "BS3-075",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_075.webp"
+    "ko": "images/ko/2024/BS3/BS3_075.webp",
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_075.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,13 +10,15 @@
     "blue"
   ],
   "name": {
-    "ko": "딸기맛 쿠키"
+    "ko": "딸기맛 쿠키",
+    "zh-TW": "草莓餅乾"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "쿠키생은 혼자야..."
+      "ko": "쿠키생은 혼자야...",
+      "zh-TW": "餅生都是孤獨的..."
     },
     "skillList": [
       {
@@ -24,7 +27,8 @@
         ],
         "cost": {},
         "text": {
-          "ko": "<패를 1장 버린다> 이 쿠키를 자신의 덱의 위에 놓는다."
+          "ko": "<패를 1장 버린다> 이 쿠키를 자신의 덱의 위에 놓는다.",
+          "zh-TW": "<棄1張手牌>將這個餅乾放置到自己的牌庫最上方。"
         },
         "effect": {
           "returnDeck": 1
@@ -43,7 +47,8 @@
       },
       "damage": 2,
       "name": {
-        "ko": "롤리팝 휘두르기"
+        "ko": "롤리팝 휘두르기",
+        "zh-TW": "棒棒糖旋轉"
       }
     }
   ],

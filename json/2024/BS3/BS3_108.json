@@ -1,7 +1,8 @@
 {
   "serial": "BS3-108",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_108.webp"
+    "ko": "images/ko/2024/BS3/BS3_108.webp",
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_108.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "우유맛 쿠키"
+    "ko": "우유맛 쿠키",
+    "zh-TW": "牛奶餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -25,7 +27,8 @@
       },
       "damage": 2,
       "name": {
-        "ko": "힘세고 건강한 돌진"
+        "ko": "힘세고 건강한 돌진",
+        "zh-TW": "健康強力衝刺"
       }
     }
   ],

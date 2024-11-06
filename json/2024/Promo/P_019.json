@@ -1,7 +1,8 @@
 {
   "serial": "P-019",
   "img": {
-    "ko": "images/ko/2024/Promo/P_019.webp"
+    "ko": "images/ko/2024/Promo/P_019.webp",
+    "zh-TW": "images/zh-TW/2024/Promo/P_019.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "히어로맛 쿠키"
+    "ko": "히어로맛 쿠키",
+    "zh-TW": "英雄餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "purple": 1
       },
       "text": {
-        "ko": "1대미지를 준다. 그리고 자신의 트래시에 있는 FLIP을 가지지 않은 쿠키를 3장까지 선택하고 덱으로 되돌리고 섞는다."
+        "ko": "1대미지를 준다. 그리고 자신의 트래시에 있는 FLIP을 가지지 않은 쿠키를 3장까지 선택하고 덱으로 되돌리고 섞는다.",
+        "zh-TW": "造成1點傷害。然後,從自己的棄牌區選擇最多3個沒有FLIP效果的餅乾,將選擇的餅乾洗回牌庫。"
       },
       "damage": 1,
       "name": {

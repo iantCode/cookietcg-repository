@@ -1,7 +1,8 @@
 {
   "serial": "BS3-082",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_082.webp"
+    "ko": "images/ko/2024/BS3/BS3_082.webp",
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_082.png"
   },
   "type": "cookie",
   "level": 3,
@@ -9,20 +10,23 @@
     "blue"
   ],
   "name": {
-    "ko": "용감한 쿠키"
+    "ko": "용감한 쿠키",
+    "zh-TW": "勇敢餅乾"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "용기 100%"
+      "ko": "용기 100%",
+      "zh-TW": "勇敢百分百"
     },
     "skillList": [
       {
         "condition": [],
         "cost": {},
         "text": {
-          "ko": "자신의 패가 5장 이하라면 이 쿠키는 효과에 의한 대미지를 받지 않는다."
+          "ko": "자신의 패가 5장 이하라면 이 쿠키는 효과에 의한 대미지를 받지 않는다.",
+          "zh-TW": "如果自己的手牌為5張或更少,則這個餅乾不會受到效果造成的傷害。"
         },
         "effect": {
           "noDamage": 1
@@ -40,7 +44,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "용감한 돌진"
+        "ko": "용감한 돌진",
+        "zh-TW": "勇敢衝撞"
       }
     }
   ],

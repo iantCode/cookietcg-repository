@@ -1,7 +1,8 @@
 {
   "serial": "P-016",
   "img": {
-    "ko": "images/ko/2024/Promo/P_016.webp"
+    "ko": "images/ko/2024/Promo/P_016.webp",
+    "zh-TW": "images/zh-TW/2024/Promo/P_016.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "버블껌맛 쿠키"
+    "ko": "버블껌맛 쿠키",
+    "zh-TW": "泡泡糖餅乾"
   },
   "hp": 2,
   "hasSkill": true,
@@ -26,7 +28,8 @@
           "yellow": 1
         },
         "text": {
-          "ko": "자신의 트래시에 있는 <yellow> LV.2 쿠키를 1장 브레이크 에리어에 놓을 수 있다. 놓았다면 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 2장까지 트래시에 놓는다."
+          "ko": "자신의 트래시에 있는 <yellow> LV.2 쿠키를 1장 브레이크 에리어에 놓을 수 있다. 놓았다면 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 2장까지 트래시에 놓는다.",
+          "zh-TW": "你可以從自己的棄牌區將1個<yellow>且為LV.2 的餅乾放置到休息區。如果你這麼做,則從自己的休息區將最多2個<yellow>且為LV.1的餅乾放置到棄牌區。"
         },
         "effect": {
           "exchangeBreak": 2
@@ -40,7 +43,8 @@
         "yellow": 2
       },
       "text": {
-        "ko": "2대미지를 준다."
+        "ko": "2대미지를 준다.",
+        "zh-TW": "造成2點傷害。"
       },
       "damage": 2,
       "name": {

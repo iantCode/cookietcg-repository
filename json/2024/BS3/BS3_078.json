@@ -1,7 +1,8 @@
 {
   "serial": "BS3-078",
   "img": {
-    "ko": "images/ko/2024/BS3/BS3_078.webp"
+    "ko": "images/ko/2024/BS3/BS3_078.webp",
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_078.png"
   },
   "type": "cookie",
   "level": 2,
@@ -9,13 +10,15 @@
     "blue"
   ],
   "name": {
-    "ko": "마법사맛 쿠키"
+    "ko": "마법사맛 쿠키",
+    "zh-TW": "魔法師餅乾"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "신비한 마법 연구"
+      "ko": "신비한 마법 연구",
+      "zh-TW": "神秘的魔法研究"
     },
     "skillList": [
       {
@@ -24,7 +27,8 @@
         ],
         "cost": {},
         "text": {
-          "ko": "<패를 2장 버린다> 자신의 덱에서 2장까지 뽑는다."
+          "ko": "<패를 2장 버린다> 자신의 덱에서 2장까지 뽑는다.",
+          "zh-TW": "<棄2張手牌>從自己的牌庫抽最多2張牌。"
         },
         "effect": {
           "draw": 2
@@ -42,7 +46,8 @@
       },
       "damage": 2,
       "name": {
-        "ko": "번개구름 소환"
+        "ko": "번개구름 소환",
+        "zh-TW": "閃電召喚"
       }
     }
   ],
