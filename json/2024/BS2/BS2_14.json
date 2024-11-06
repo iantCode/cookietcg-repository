@@ -2,7 +2,7 @@
   "serial": "BS2-014",
   "img": {
     "ko": "images/ko/2024/BS2/BS2_14.webp",
-    "zh-TW": "images/zh-TW/2024/BS2/BS2_14.png"
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_14.webp"
   },
   "type": "trap",
   "level": 0,

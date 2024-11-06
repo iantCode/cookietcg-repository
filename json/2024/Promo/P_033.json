@@ -13,8 +13,7 @@
   },
   "hp": 4,
   "hasSkill": true,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {

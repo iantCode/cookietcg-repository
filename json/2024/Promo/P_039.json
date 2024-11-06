@@ -20,7 +20,8 @@
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "manual",
+          "onceTurn"
         ],
         "cost": {
           "blue": 1

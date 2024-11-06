@@ -20,7 +20,8 @@
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "manual",
+          "onceTurn"
         ],
         "cost": {
           "blue": 1
@@ -28,8 +29,7 @@
         "text": {
           "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다."
         },
-        "effect": {
-        }
+        "effect": {}
       }
     ]
   },

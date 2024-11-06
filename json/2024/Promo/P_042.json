@@ -20,10 +20,10 @@
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "manual",
+          "onceTurn"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
           "ko": "이 쿠키의 남은 HP가 1이라면 이 쿠키를 액티브로 한다."
         },

@@ -22,8 +22,7 @@
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
           "ko": "모든 쿠키에게 1대미지를 준다."
         },

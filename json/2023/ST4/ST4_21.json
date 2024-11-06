@@ -2,7 +2,7 @@
   "serial": "ST4-021",
   "img": {
     "ko": "images/ko/2023/ST4/ST4_21.webp",
-    "zh-TW": "images/zh-TW/2024/ST4/ST4_21.png"
+    "zh-TW": "images/zh-TW/2024/ST4/ST4_21.webp"
   },
   "type": "trap",
   "level": 0,
