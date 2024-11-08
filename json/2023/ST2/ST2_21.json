@@ -2,14 +2,16 @@
   "serial": "ST2-021",
   "img": {
     "ko": "images/ko/2023/ST2/ST2_21.webp",
-    "zh-TW": "images/zh-TW/2024/ST2/ST2_21.webp"
+    "zh-TW": "images/zh-TW/2024/ST2/ST2_21.webp",
+    "en": "images/en/2024/ST2/ST2_021.webp"
   },
   "type": "trap",
   "level": 0,
   "color": "yellow",
   "name": {
     "ko": "프레첼 덪",
-    "zh-TW": "椒鹽捲餅陷阱"
+    "zh-TW": "椒鹽捲餅陷阱",
+    "en": "Pretzel Snare"
   },
   "hp": 0,
   "hasSkill": false,
@@ -21,7 +23,8 @@
       },
       "text": {
         "ko": "상대의 쿠키가 4대미지 이상으로 공격했을 때 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-        "zh-TW": "當對手的餅乾將造成4點或以上的攻擊傷害時, 選擇最多1個對手的餅乾。對它造成1點傷害。"
+        "zh-TW": "當對手的餅乾將造成4點或以上的攻擊傷害時, 選擇最多1個對手的餅乾。對它造成1點傷害。",
+        "en": "If 1 of your opponent's Cookies attacks more than 4 damage, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
       },
       "damage": 0,
       "name": {

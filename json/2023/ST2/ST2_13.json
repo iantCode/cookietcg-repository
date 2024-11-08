@@ -2,14 +2,16 @@
   "serial": "ST2-013",
   "img": {
     "ko": "images/ko/2023/ST2/ST2_13.webp",
-    "zh-TW": "images/zh-TW/2024/ST2/ST2_13.webp"
+    "zh-TW": "images/zh-TW/2024/ST2/ST2_13.webp",
+    "en": "images/en/2024/ST2/ST2_013.webp"
   },
   "type": "cookie",
   "level": 2,
   "color": "yellow",
   "name": {
     "ko": "치즈케이크맛 쿠키",
-    "zh-TW": "起司蛋糕餅乾"
+    "zh-TW": "起司蛋糕餅乾",
+    "en": "Cheesecake Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -21,7 +23,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

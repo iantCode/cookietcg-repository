@@ -2,14 +2,16 @@
   "serial": "ST2-018",
   "img": {
     "ko": "images/ko/2023/ST2/ST2_18.webp",
-    "zh-TW": "images/zh-TW/2024/ST2/ST2_18.webp"
+    "zh-TW": "images/zh-TW/2024/ST2/ST2_18.webp",
+    "en": "images/en/2024/ST2/ST2_018.webp"
   },
   "type": "item",
   "level": 0,
   "color": "yellow",
   "name": {
     "ko": "시간 여행 티켓",
-    "zh-TW": "時光旅行門票"
+    "zh-TW": "時光旅行門票",
+    "en": "Time Travel Ticket"
   },
   "hp": 0,
   "hasSkill": false,
@@ -21,7 +23,8 @@
       },
       "text": {
         "ko": "덱에서 카드를 1장 뽑는다. 그리고 자신의 쿠키를 한장까지 선택하고 그 쿠키의 HP를 모두 본다. (HP의 순서는 바꿀 수 없다.)",
-        "zh-TW": "從牌庫抽1張牌。然後, 選擇最多1個自己的餅乾, 並查看它所有的HP卡。(HP卡的順序不能改變)"
+        "zh-TW": "從牌庫抽1張牌。然後, 選擇最多1個自己的餅乾, 並查看它所有的HP卡。(HP卡的順序不能改變)",
+        "en": "Draw 1 card from your deck. Then, select up to 1 of your Cookies and view all its HP cards. (You cannot switch the order of HP cards.)"
       },
       "damage": 0,
       "name": {

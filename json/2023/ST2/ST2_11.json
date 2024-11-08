@@ -2,14 +2,16 @@
   "serial": "ST2-011",
   "img": {
     "ko": "images/ko/2023/ST2/ST2_11.webp",
-    "zh-TW": "images/zh-TW/2024/ST2/ST2_11.webp"
+    "zh-TW": "images/zh-TW/2024/ST2/ST2_11.webp",
+    "en": "images/en/2024/ST2/ST2_011.webp"
   },
   "type": "cookie",
   "level": 2,
   "color": "yellow",
   "name": {
     "ko": "체리맛 쿠키",
-    "zh-TW": "櫻桃餅乾"
+    "zh-TW": "櫻桃餅乾",
+    "en": "Cherry Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -23,7 +25,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "當這個餅乾暈倒時,選擇1個對手的餅乾。對它造成1 點傷害。"
+          "zh-TW": "當這個餅乾暈倒時,選擇1個對手的餅乾。對它造成1 點傷害。",
+          "en": "When this Cookie faints, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -39,7 +42,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

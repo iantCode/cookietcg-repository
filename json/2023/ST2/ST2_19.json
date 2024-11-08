@@ -2,14 +2,16 @@
   "serial": "ST2-019",
   "img": {
     "ko": "images/ko/2023/ST2/ST2_19.webp",
-    "zh-TW": "images/zh-TW/2024/ST2/ST2_19.webp"
+    "zh-TW": "images/zh-TW/2024/ST2/ST2_19.webp",
+    "en": "images/en/2024/ST2/ST2_019.webp"
   },
   "type": "item",
   "level": 0,
   "color": "yellow",
   "name": {
     "ko": "영양 가득 꿀 폭탄",
-    "zh-TW": "營養豐富的蜂蜜炸彈"
+    "zh-TW": "營養豐富的蜂蜜炸彈",
+    "en": "Multi-Vitamin Honey Bomb"
   },
   "hp": 0,
   "hasSkill": false,
@@ -21,7 +23,8 @@
       },
       "text": {
         "ko": "자신의 브레이크 에리어가 LV.6 이상이라면 자신의 쿠키를 모두 선택한다. 이 턴 중 그 쿠키들의 공격 대미지를 +1한다.",
-        "zh-TW": "如果自己的休息區LV總和達到6或以上, 則在這個回合中, 自己的所有餅乾攻擊傷害分別+1點。"
+        "zh-TW": "如果自己的休息區LV總和達到6或以上, 則在這個回合中, 自己的所有餅乾攻擊傷害分別+1點。",
+        "en": "If your break area is LV.6 or higher, all Cookies currently in your battle area gain +1 attack damage during this turn."
       },
       "damage": 0,
       "name": {
