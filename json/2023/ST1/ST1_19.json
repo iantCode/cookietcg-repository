@@ -3,7 +3,7 @@
   "img": {
     "ko": "images/ko/2023/ST1/ST1_19.webp",
     "zh-TW": "images/zh-TW/2024/ST1/ST1_19.webp",
-    "en": "images/en/2024/ST1/ST1_19.png"
+    "en": "images/en/2024/ST1/ST1_019.webp"
   },
   "type": "item",
   "level": 0,
@@ -26,7 +26,7 @@
       "text": {
         "ko": "자신의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다.",
         "zh-TW": "選擇最多1個自己的餅乾。在這個回合中, 它的攻擊傷害+1點。",
-        "en": "Select up to 1 cookie. During this turn, the cookie gains +1 attack damage."
+        "en": "Select up to 1 of your Cookies. During this turn, that Cookie gains +1 attack damage."
       },
       "damageIncrease": 1,
       "name": {
