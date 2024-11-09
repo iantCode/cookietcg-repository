@@ -2,7 +2,8 @@
   "serial": "BS1-006",
   "img": {
     "ko": "images/ko/2023/BS1/BS1_06.webp",
-    "zh-TW": "images/zh-TW/2024/BS1/BS1_06.webp"
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_06.webp",
+    "en": "images/en/2024/BS1/BS1_006.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "마라맛 쿠키",
-    "zh-TW": "麻辣餅乾"
+    "zh-TW": "麻辣餅乾",
+    "en": "Mala Sauce Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -25,7 +27,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 대미지를 받은 후 아직 배틀 에리어에 남아 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "如果這個餅乾在受到傷害後仍留在戰鬥區中, 則選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "如果這個餅乾在受到傷害後仍留在戰鬥區中, 則選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "If this Cookie remains in the battle area after receiving damage, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -40,7 +43,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {

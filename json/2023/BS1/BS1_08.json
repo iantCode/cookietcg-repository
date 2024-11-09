@@ -2,7 +2,8 @@
   "serial": "BS1-008",
   "img": {
     "ko": "images/ko/2023/BS1/BS1_08.webp",
-    "zh-TW": "images/zh-TW/2024/BS1/BS1_08.webp"
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_08.webp",
+    "en": "images/en/2024/BS1/BS1_008.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "석류맛 쿠키",
-    "zh-TW": "石榴餅乾"
+    "zh-TW": "石榴餅乾",
+    "en": "Pomegranate Cookie"
   },
   "hp": 5,
   "hasSkill": true,
@@ -28,7 +30,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 다른 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다.",
-          "zh-TW": "選擇最多1個自己的另一個餅乾。在這個回合中, 它的攻擊傷害+1點。"
+          "zh-TW": "選擇最多1個自己的另一個餅乾。在這個回合中, 它的攻擊傷害+1點。",
+          "en": "Select up to 1 of your other Cookies. During this turn, that Cookie gains +1 attack damage."
         },
         "effect": {
           "damageIncrease": 1
@@ -43,7 +46,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

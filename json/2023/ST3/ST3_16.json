@@ -2,14 +2,16 @@
   "serial": "ST3-016",
   "img": {
     "ko": "images/ko/2023/ST3/ST3_16.webp",
-    "zh-TW": "images/zh-TW/2024/ST3/ST3_16.webp"
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_16.webp",
+    "en": "images/en/2024/ST3/ST3_016.webp"
   },
   "type": "item",
   "level": 0,
   "color": "green",
   "name": {
     "ko": "고대 치유사의 보살핌",
-    "zh-TW": "古代治癒師的照顧"
+    "zh-TW": "古代治癒師的照顧",
+    "en": "Ancient Healer's Gaze"
   },
   "hp": 0,
   "hasSkill": false,
@@ -21,7 +23,8 @@
       },
       "text": {
         "ko": "자신의 배틀 에리어에 있는 LV.2 이하의 쿠키를 1장 서포트 에리어에 액티브로 놓는다.",
-        "zh-TW": "從自己的戰鬥區將1個LV.2或以下的餅乾以活躍狀態放置到支援區。"
+        "zh-TW": "從自己的戰鬥區將1個LV.2或以下的餅乾以活躍狀態放置到支援區。",
+        "en": "Select 1 Cookie from your battle area that is LV.2 or lower and place it in your support area as active."
       },
       "damage": 0,
       "name": {

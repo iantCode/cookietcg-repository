@@ -2,14 +2,16 @@
   "serial": "ST3-018",
   "img": {
     "ko": "images/ko/2023/ST3/ST3_18.webp",
-    "zh-TW": "images/zh-TW/2024/ST3/ST3_18.webp"
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_18.webp",
+    "en": "images/en/2024/ST3/ST3_018.webp"
   },
   "type": "item",
   "level": 0,
   "color": "green",
   "name": {
     "ko": "생명력 듬뿍 담은 파슬리 차",
-    "zh-TW": "活力香芹茶"
+    "zh-TW": "活力香芹茶",
+    "en": "Parsley Tea of Invigoration"
   },
   "hp": 0,
   "hasSkill": false,
@@ -21,7 +23,8 @@
       },
       "text": {
         "ko": "자신의 트래시에서 쿠키를 1장 등장시킨다.",
-        "zh-TW": "從自己的棄牌區將1個餅乾放置到戰鬥區。"
+        "zh-TW": "從自己的棄牌區將1個餅乾放置到戰鬥區。",
+        "en": "Play 1 Cookie from your trash."
       },
       "damage": 0,
       "name": {

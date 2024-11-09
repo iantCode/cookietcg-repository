@@ -2,7 +2,8 @@
   "serial": "BS1-009-SEC",
   "img": {
     "ko": "images/ko/2023/BS1/BS1_09_SEC.webp",
-    "zh-TW": "images/zh-TW/2024/BS1/BS1_09_SEC.webp"
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_09_SEC.webp",
+    "en": "images/en/2024/BS1/BS1_009.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -10,7 +11,9 @@
     "red"
   ],
   "name": {
-    "ko": "아포가토맛 쿠키"
+    "ko": "아포가토맛 쿠키",
+    "zh-TW": "阿美佳朵餅乾",
+    "en": "Affogato Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -28,7 +31,8 @@
         },
         "text": {
           "ko": "(상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.)",
-          "zh-TW": "(當對手的餅乾攻擊時, 你可以改為由這個餅乾承受該攻擊。)"
+          "zh-TW": "(當對手的餅乾攻擊時, 你可以改為由這個餅乾承受該攻擊。)",
+          "en": "(When one of your opponent's Cookies attacks, you can redirect the attack to this Cookie.)"
         },
         "effect": {
           "redirection": 1
@@ -44,7 +48,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

@@ -2,7 +2,8 @@
   "serial": "BS1-015",
   "img": {
     "ko": "images/ko/2023/BS1/BS1_15.webp",
-    "zh-TW": "images/zh-TW/2024/BS1/BS1_15.webp"
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_15.webp",
+    "en": "images/en/2024/BS1/BS1_015.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "장미맛 쿠키",
-    "zh-TW": "玫瑰餅乾"
+    "zh-TW": "玫瑰餅乾",
+    "en": "Rose Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {
@@ -36,7 +39,8 @@
     "condition": {},
     "text": {
       "ko": "덱에서 1장 뽑을 수 있다.",
-      "zh-TW": "你可以從牌庫抽1張牌。"
+      "zh-TW": "你可以從牌庫抽1張牌。",
+      "en": "Draw up to 1 card from your deck."
     },
     "effect": {
       "draw": 1

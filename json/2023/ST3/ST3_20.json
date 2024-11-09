@@ -2,14 +2,16 @@
   "serial": "ST3-020",
   "img": {
     "ko": "images/ko/2023/ST3/ST3_20.webp",
-    "zh-TW": "images/zh-TW/2024/ST3/ST3_20.webp"
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_20.webp",
+    "en": "images/en/2024/ST3/ST3_020.webp"
   },
   "type": "trap",
   "level": 0,
   "color": "green",
   "name": {
     "ko": "신성한 빛의 결계",
-    "zh-TW": "聖光屏障"
+    "zh-TW": "聖光屏障",
+    "en": "Divine Light Crystal"
   },
   "hp": 0,
   "hasSkill": false,
@@ -21,7 +23,8 @@
       },
       "text": {
         "ko": "자신의 쿠키를 1장까지 선택한다. 이 배틀 중 그 쿠키의 HP는 0이 되지 않는다.",
-        "zh-TW": "選擇最多1個自己的餅乾。在這次的戰鬥中, 它的HP不會變為0點。"
+        "zh-TW": "選擇最多1個自己的餅乾。在這次的戰鬥中, 它的HP不會變為0點。",
+        "en": "Select up to 1 of your Cookies. That Cookie's HP cannot reach 0 during this battle."
       },
       "damage": 0,
       "name": {

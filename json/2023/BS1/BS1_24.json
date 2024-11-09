@@ -2,7 +2,8 @@
   "serial": "BS1-024",
   "img": {
     "ko": "images/ko/2023/BS1/BS1_24.webp",
-    "zh-TW": "images/zh-TW/2024/BS1/BS1_24.webp"
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_24.webp",
+    "en": "images/en/2024/BS1/BS1_024.webp"
   },
   "type": "trap",
   "level": 0,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "파스타 스프링 슈즈",
-    "zh-TW": "義大利麵彈簧鞋"
+    "zh-TW": "義大利麵彈簧鞋",
+    "en": "Pasta Spring Shoes"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "자신의 남은 HP가 1인 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -4한다.",
-        "zh-TW": "如果你有剩餘HP為1點的餅乾,則選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-4點。"
+        "zh-TW": "如果你有剩餘HP為1點的餅乾,則選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-4點。",
+        "en": "If 1 of your Cookies has 1 HP, select up to 1 of your opponent's Cookies. During this turn, that Cookie deals -4 attack damage."
       },
       "damageDecrease": 4,
       "name": {

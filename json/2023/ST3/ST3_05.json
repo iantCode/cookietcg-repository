@@ -2,14 +2,16 @@
   "serial": "ST3-005",
   "img": {
     "ko": "images/ko/2023/ST3/ST3_05.webp",
-    "zh-TW": "images/zh-TW/2024/ST3/ST3_05.webp"
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_05.webp",
+    "en": "images/en/2024/ST3/ST3_005.webp"
   },
   "type": "cookie",
   "level": 2,
   "color": "green",
   "name": {
     "ko": "블랙베리맛 쿠키",
-    "zh-TW": "黑莓餅乾"
+    "zh-TW": "黑莓餅乾",
+    "en": "Blackberry Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -26,7 +28,8 @@
         "cost": {},
         "text": {
           "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》 選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》 選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "《Place 1 card from your support area into the trash.》 Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -41,7 +44,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

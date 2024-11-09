@@ -2,7 +2,8 @@
   "serial": "BS1-012-SSR",
   "img": {
     "ko": "images/ko/2023/BS1/BS1_12_SSR.webp",
-    "zh-TW": "images/zh-TW/2024/BS1/BS1_12_SSR.webp"
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_12_SSR.webp",
+    "en": "images/en/2024/BS1/BS1_012.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "와일드베리맛 쿠키",
-    "zh-TW": "野莓餅乾"
+    "zh-TW": "野莓餅乾",
+    "en": "Wildberry Cookie"
   },
   "hp": 6,
   "hasSkill": true,
@@ -25,7 +27,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 브레이크 에리어가 LV.9 라면 이 쿠키의 공격 대미지를 +2한다.",
-          "zh-TW": "如果自己的休息區LV總和達到9,則這個餅乾的攻擊傷害+2點。"
+          "zh-TW": "如果自己的休息區LV總和達到9,則這個餅乾的攻擊傷害+2點。",
+          "en": "If your break area is LV.9, this Cookie gains +2 attack damage."
         },
         "effect": {
           "damageIncrease": 2
@@ -40,7 +43,8 @@
       },
       "text": {
         "ko": "4대미지를 준다.",
-        "zh-TW": "造成4點傷害。"
+        "zh-TW": "造成4點傷害。",
+        "en": "Deals 4 damage."
       },
       "damage": 4,
       "name": {

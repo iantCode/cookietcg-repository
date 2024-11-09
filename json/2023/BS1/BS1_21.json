@@ -2,7 +2,8 @@
   "serial": "BS1-021",
   "img": {
     "ko": "images/ko/2023/BS1/BS1_21.webp",
-    "zh-TW": "images/zh-TW/2024/BS1/BS1_21.webp"
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_21.webp",
+    "en": "images/en/2024/BS1/BS1_021.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "휘핑크림맛 쿠키",
-    "zh-TW": "鮮奶油餅乾"
+    "zh-TW": "鮮奶油餅乾",
+    "en": "Whipped Cream Cookie"
   },
   "hp": 4,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {

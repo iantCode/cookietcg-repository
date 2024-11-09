@@ -2,14 +2,16 @@
   "serial": "ST3-019",
   "img": {
     "ko": "images/ko/2023/ST3/ST3_19.webp",
-    "zh-TW": "images/zh-TW/2024/ST3/ST3_19.webp"
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_19.webp",
+    "en": "images/en/2024/ST3/ST3_019.webp"
   },
   "type": "trap",
   "level": 0,
   "color": "green",
   "name": {
     "ko": "백만 번 휘저은 휘핑크림",
-    "zh-TW": "瘋狂攪拌過的鮮奶油"
+    "zh-TW": "瘋狂攪拌過的鮮奶油",
+    "en": "Supreme Whipped Cream"
   },
   "hp": 0,
   "hasSkill": false,
@@ -21,7 +23,8 @@
       },
       "text": {
         "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -3한다. 그리고 자신의 서포트 에리어에서 1장 트래시에 놓는다.",
-        "zh-TW": "選擇最多1個對手的餅乾。在這個回合中, 它的攻擊傷害-3點。然後, 從自己的支援區將1張牌放置到棄牌區。"
+        "zh-TW": "選擇最多1個對手的餅乾。在這個回合中, 它的攻擊傷害-3點。然後, 從自己的支援區將1張牌放置到棄牌區。",
+        "en": "Select up to 1 of your opponent's Cookies. During this turn, that Cookie deals -3 attack damage. Then, place 1 card from your support area into the trash."
       },
       "damage": 0,
       "name": {

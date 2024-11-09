@@ -2,14 +2,16 @@
   "serial": "ST3-003",
   "img": {
     "ko": "images/ko/2023/ST3/ST3_03.webp",
-    "zh-TW": "images/zh-TW/2024/ST3/ST3_03.webp"
+    "zh-TW": "images/zh-TW/2024/ST3/ST3_03.webp",
+    "en": "images/en/2024/ST3/ST3_003.webp"
   },
   "type": "cookie",
   "level": 2,
   "color": "green",
   "name": {
     "ko": "명랑한 쿠키",
-    "zh-TW": "活潑餅乾"
+    "zh-TW": "活潑餅乾",
+    "en": "GingerBright"
   },
   "hp": 4,
   "hasSkill": false,
@@ -21,7 +23,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {
