@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "라떼맛 쿠키",
-    "zh-TW": "拿鐵餅乾"
+    "zh-TW": "拿鐵餅乾",
+    "en": "Latte Cookie"
   },
   "hp": 5,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다.",
-          "zh-TW": "選擇最多1個自己的另一個餅乾。它獲得 HP+1點。"
+          "zh-TW": "選擇最多1個自己的另一個餅乾。它獲得 HP+1點。",
+          "en": "Select up to 1 of your other Cookies. That Cookie gains +1 HP."
         },
         "effect": {
           "heal": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "2대미지를 준다. 그리고 자신의 브레이크 에리어가 LV.5 이상이라면 상대의 쿠키 모두에게 1대미지를 준다.",
-        "zh-TW": "造成2點傷害。然後,如果自己的休息區LV總和達到5或以上,則對對手的所有餅乾分別造成1點傷害。"
+        "zh-TW": "造成2點傷害。然後,如果自己的休息區LV總和達到5或以上,則對對手的所有餅乾分別造成1點傷害。",
+        "en": "Deals 2 damage. Then, if your break area is LV.5 or higher, deals 1 damage to all of your opponent's Cookies."
       },
       "damage": 2,
       "name": {

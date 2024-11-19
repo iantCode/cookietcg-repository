@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "시간지기 쿠키",
-    "zh-TW": "超時空餅乾"
+    "zh-TW": "超時空餅乾",
+    "en": "Timekeeper Cookie"
   },
   "hp": 5,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "《패를 1장 버린다》 자신의 브레이크 에리어의 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다.",
-          "zh-TW": "《棄1張手牌》從自己的休息區選擇最多1個LV.2或以下的餅乾。將它放置到棄牌區。"
+          "zh-TW": "《棄1張手牌》從自己的休息區選擇最多1個LV.2或以下的餅乾。將它放置到棄牌區。",
+          "en": "《Discard 1 card.》 Select up to 1 LV.2 or lower Cookie from your break area. Place that Cookie in the trash."
         },
         "effect": {
           "damage": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "3대미지를 준다. 그리고 《<yellow>로 사용할 수 있다》 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다.",
-        "zh-TW": "造成3點傷害。然後,《你可以再支付<yellow>》選擇最多1個LV.1對手的餅乾。將它放置到對手的休息區。"
+        "zh-TW": "造成3點傷害。然後,《你可以再支付<yellow>》選擇最多1個LV.1對手的餅乾。將它放置到對手的休息區。",
+        "en": "Deals 3 damage. Then, 《can be used as <yellow>.》 Select up to 1 of your opponent's LV.1 Cookies. Place that Cookie in the break area."
       },
       "damage": 3,
       "name": {

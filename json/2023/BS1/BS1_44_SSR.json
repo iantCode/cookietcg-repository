@@ -10,7 +10,9 @@
     "yellow"
   ],
   "name": {
-    "ko": "파프리카맛 쿠키"
+    "ko": "파프리카맛 쿠키",
+    "zh-TW": "甜椒餅乾",
+    "en": "Bell Pepper Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -29,7 +31,8 @@
         },
         "text": {
           "ko": "《패를 1장 버린다》 이 쿠키의 HP가 3 이하라면 이 쿠키의 HP를 +1한다.",
-          "zh-TW": "《棄1張手牌》如果這個餅乾的HP為3或以下,則這個餅乾獲得HP+1點。"
+          "zh-TW": "《棄1張手牌》如果這個餅乾的HP為3或以下,則這個餅乾獲得HP+1點。",
+          "en": "《Discard 1 card.》 If this Cookie's HP is less than 3, gain +1 HP."
         },
         "effect": {
           "damageDecrease": 1
@@ -44,7 +47,8 @@
       },
       "text": {
         "ko": "2대미지를 준다. 그리고 《<yellow><yellow>로 사용할 수 있다》 3대미지를 준다.",
-        "zh-TW": "造成2點傷害。然後,《你可以再支付<yellow><yellow>》造成3點傷害。"
+        "zh-TW": "造成2點傷害。然後,《你可以再支付<yellow><yellow>》造成3點傷害。",
+        "en": "Deals 2 damage. Then, 《can be used as <yellow><yellow>.》 Deals 3 damage."
       },
       "damage": 3,
       "name": {

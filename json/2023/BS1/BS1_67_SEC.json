@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "츄러스맛 쿠키",
-    "zh-TW": "吉拿棒餅乾"
+    "zh-TW": "吉拿棒餅乾",
+    "en": "Churro Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {
@@ -38,7 +40,8 @@
     },
     "text": {
       "ko": "《패를 1장 버린다》 자신의 서포트 에리어가 4장 이상이라면 이 카드를 서포트 에리어에 레스트로 놓을 수 있다.",
-      "zh-TW": "《棄1張手牌》如果自己的支援區中有4張或更多的牌,則你可以將這張牌以疲勞狀態放置到支援區。"
+      "zh-TW": "《棄1張手牌》如果自己的支援區中有4張或更多的牌,則你可以將這張牌以疲勞狀態放置到支援區。",
+      "en": "《Discard 1 card.》 If your support area contains 4 or more cards, place this card in your support area as rested."
     },
     "effect": {
       "addSupport": 1

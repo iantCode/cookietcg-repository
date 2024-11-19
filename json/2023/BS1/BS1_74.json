@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "고대 숲의 행운석",
-    "zh-TW": "遠古森林的幸運石"
+    "zh-TW": "遠古森林的幸運石",
+    "en": "Ancient Forest Luckstone"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "《자신의 서포트 에리어에서 카드를 1장 패로 가져온다》 덱에서 1장 뽑을 수 있다.",
-        "zh-TW": "《從自己的支援區將1張牌移回手牌》你可以從牌庫抽1張牌。"
+        "zh-TW": "《從自己的支援區將1張牌移回手牌》你可以從牌庫抽1張牌。",
+        "en": "《Return 1 card from your support area to your hand.》 You can draw 1 card from your deck."
       },
       "draw": 1,
       "name": {

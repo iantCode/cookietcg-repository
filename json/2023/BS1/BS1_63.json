@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "예언자맛 쿠키",
-    "zh-TW": "預言家餅乾"
+    "zh-TW": "預言家餅乾",
+    "en": "Prophet Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -27,7 +28,8 @@
         "cost": {},
         "text": {
           "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 자신의 덱 위에서부터 1장 서포트 에리어에 액티브로 놓는다.",
-          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》從自己的牌庫頂將1張牌以活躍狀態放置到支援區。"
+          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》從自己的牌庫頂將1張牌以活躍狀態放置到支援區。",
+          "en": "《Place 1 card from your support area into the trash.》 Take 1 card from the top of your deck and place it in your support area as active."
         },
         "effect": {
           "addSupport": 1
@@ -43,7 +45,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

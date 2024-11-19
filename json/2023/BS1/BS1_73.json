@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "허브맛 쿠키",
-    "zh-TW": "藥草餅乾"
+    "zh-TW": "藥草餅乾",
+    "en": "Herb Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -27,7 +28,8 @@
         "cost": {},
         "text": {
           "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 자신의 서포트 에리어의 카드를 1장 액티브로 한다.",
-          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》將自己的支援區其中1張牌改為活躍狀態。"
+          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》將自己的支援區其中1張牌改為活躍狀態。",
+          "en": "《Place 1 card from your support area into the trash.》 Set 1 card from your support area as active."
         },
         "effect": {
           "addSupport": 1
@@ -42,7 +44,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

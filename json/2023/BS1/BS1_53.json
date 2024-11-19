@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "괴도맛 쿠키",
-    "zh-TW": "怪盜餅乾"
+    "zh-TW": "怪盜餅乾",
+    "en": "Roguefort Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -30,7 +31,8 @@
         },
         "text": {
           "ko": "자신의 패가 6장 이하라면 자신의 서포트 에리어의 카드를 1장 패로 되돌린다. 그리고 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다.",
-          "zh-TW": "如果自己的手牌為6張或更少,則從自己的支援區將1張牌移回手牌。然後,從牌庫頂將1張牌以疲勞狀態放置到支援區。"
+          "zh-TW": "如果自己的手牌為6張或更少,則從自己的支援區將1張牌移回手牌。然後,從牌庫頂將1張牌以疲勞狀態放置到支援區。",
+          "en": "If there are 6 cards or less in your hand, return 1 card from your support area to your hand. Then, take 1 card from the top of your deck and place it in your support area as rested."
         },
         "effect": {
           "draw": 1
@@ -45,7 +47,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

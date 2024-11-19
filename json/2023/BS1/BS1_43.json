@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "치즈케이크맛 쿠키",
-    "zh-TW": "起司蛋糕餅乾"
+    "zh-TW": "起司蛋糕餅乾",
+    "en": "Cheesecake Cookie"
   },
   "hp": 2,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {

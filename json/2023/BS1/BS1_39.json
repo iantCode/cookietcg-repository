@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "아몬드맛 쿠키",
-    "zh-TW": "杏仁果餅乾"
+    "zh-TW": "杏仁果餅乾",
+    "en": "Almond Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "1대미지를 준다. 그리고 상대의 쿠키를 2장까지 선택한다. 상대의 다음 턴 중 그 쿠키들의 공격 대미지를 -1한다.",
-        "zh-TW": "造成1點傷害。然後,選擇最多2個對手的餅乾。在下個對手的回合中,它們的攻擊傷害分別-1點。"
+        "zh-TW": "造成1點傷害。然後,選擇最多2個對手的餅乾。在下個對手的回合中,它們的攻擊傷害分別-1點。",
+        "en": "Deals 1 damage. Then, select up to 2 of your opponent's Cookies. Those Cookies deal -1 attack damage each during your opponent's next turn."
       },
       "damage": 1,
       "name": {

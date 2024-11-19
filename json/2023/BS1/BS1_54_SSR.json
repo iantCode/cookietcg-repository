@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "난초맛 쿠키",
-    "zh-TW": "蘭花餅乾"
+    "zh-TW": "蘭花餅乾",
+    "en": "Blue Lily Cookie"
   },
   "hp": 5,
   "hasSkill": true,
@@ -28,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 상대의 쿠키 모두에게 1대미지를 준다.",
-          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》對對手的所有餅乾分別造成1點傷害。"
+          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》對對手的所有餅乾分別造成1點傷害。",
+          "en": "《Place 1 card from your support area in the trash.》 Deals 1 damage to all of your opponent's Cookies."
         },
         "effect": {
           "damage": 1
@@ -43,7 +45,8 @@
       },
       "text": {
         "ko": "4대미지를 준다.",
-        "zh-TW": "造成4點傷害。"
+        "zh-TW": "造成4點傷害。",
+        "en": "Deals 4 damage."
       },
       "damage": 4,
       "name": {

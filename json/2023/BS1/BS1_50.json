@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "부서진 이정표",
-    "zh-TW": "斷掉的路牌"
+    "zh-TW": "斷掉的路牌",
+    "en": "Broken Signpost"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "상대가 공격 대상으로 선택한 쿠키를 자신의 다른 쿠키로 변경한다.",
-        "zh-TW": "將對手選擇攻擊的餅乾改為自己的另一個餅乾。"
+        "zh-TW": "將對手選擇攻擊的餅乾改為自己的另一個餅乾。",
+        "en": "Redirect your opponent's attack to a different Cookie of your own."
       },
       "damage": 1,
       "name": {

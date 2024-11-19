@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "방랑자의 사과파이",
-    "zh-TW": "流浪者的蘋果派"
+    "zh-TW": "流浪者的蘋果派",
+    "en": "Wanderer's Apple Pie"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "이 카드를 자신의 서포트 에리어에 레스트로 놓는다.",
-        "zh-TW": "將這張牌以疲勞狀態放置到自己的支援區。"
+        "zh-TW": "將這張牌以疲勞狀態放置到自己的支援區。",
+        "en": "Place this card in your support area as rested."
       },
       "addSupport": 1,
       "name": {

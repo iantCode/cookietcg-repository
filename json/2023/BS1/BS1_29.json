@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "라임맛 쿠키",
-    "zh-TW": "萊姆餅乾"
+    "zh-TW": "萊姆餅乾",
+    "en": "Lime Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -27,7 +28,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 브레이크 에리어가 LV.3 이상이라면 덱을 1장 뽑고 패를 1장 버린다.",
-          "zh-TW": "如果自己的休息區LV總和達到3或以上,則從牌庫抽1張牌,並棄1張手牌。"
+          "zh-TW": "如果自己的休息區LV總和達到3或以上,則從牌庫抽1張牌,並棄1張手牌。",
+          "en": "If your break area is LV.3 or higher, draw 1 card from your deck and discard 1 card."
         },
         "effect": {
           "draw": 1
@@ -42,7 +44,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "폭죽맛 쿠키",
-    "zh-TW": "彩花炮餅乾"
+    "zh-TW": "彩花炮餅乾",
+    "en": "Firecracker Cookie"
   },
   "hp": 4,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "별사탕 오솔길",
-    "zh-TW": "星星糖小徑"
+    "zh-TW": "星星糖小徑",
+    "en": "Star Candy Road"
   },
   "hp": 0,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "《이 카드를 레스트한다》 자신의 쿠키 1장의 HP를 +1한다.",
-          "zh-TW": "《將這張牌改為疲勞狀態》選擇1個自己的餅乾,它獲得HP+1點。"
+          "zh-TW": "《將這張牌改為疲勞狀態》選擇1個自己的餅乾,它獲得HP+1點。",
+          "en": "《Rest this card.》 Select 1 of your Cookies. That Cookie gains +1 HP."
         },
         "effect": {
           "heal": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到場景區。"
+        "zh-TW": "將這張牌放置到場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

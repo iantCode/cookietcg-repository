@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "자몽맛 쿠키",
-    "zh-TW": "葡萄柚餅乾"
+    "zh-TW": "葡萄柚餅乾",
+    "en": "Grapefruit Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -25,7 +26,8 @@
         "cost": {},
         "text": {
           "ko": "상대의 쿠키가 공격했을 때 《<yellow>로 사용할 수 있다.》 사용할 수 있다. 이 배틀 중 이 쿠키가 받는 공격 대미지를 -1한다.",
-          "zh-TW": "當對手的餅乾攻擊時,《你可以支付<yellow>》在這次的戰鬥中,這個餅乾受到的攻擊傷害-1點。"
+          "zh-TW": "當對手的餅乾攻擊時,《你可以支付<yellow>》在這次的戰鬥中,這個餅乾受到的攻擊傷害-1點。",
+          "en": "When your opponent attacks this Cookie, 《can be used as <yellow>.》 This Cookie receives -1 attack damage during this battle."
         },
         "effect": {
           "damageDecrease": 1
@@ -40,7 +42,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "테이프 젤리 폼폼",
-    "zh-TW": "捲尺糖彩球"
+    "zh-TW": "捲尺糖彩球",
+    "en": "Jelly Pom-Poms"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "자신의 쿠키를 1장까지 선택한다. 그 쿠키는 이 턴 중 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키 2장당 공격 대미지를 +1한다.",
-        "zh-TW": "選擇最多1個自己的餅乾。在這個回合中,自己的休息區中每有2個 <yellow> LV.1的餅乾,它的攻擊傷害便+1點。"
+        "zh-TW": "選擇最多1個自己的餅乾。在這個回合中,自己的休息區中每有2個 <yellow> LV.1的餅乾,它的攻擊傷害便+1點。",
+        "en": "Select up to 1 of your Cookies. During this turn, that Cookie gains +1 attack damage for every 2 <yellow> LV.1 Cookies in your break area."
       },
       "damageIncrease": 1,
       "name": {

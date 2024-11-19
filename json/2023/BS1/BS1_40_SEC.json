@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "얼그레이맛 쿠키",
-    "zh-TW": "伯爵茶餅乾"
+    "zh-TW": "伯爵茶餅乾",
+    "en": "Earl Grey Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {
@@ -38,7 +40,8 @@
     },
     "text": {
       "ko": "《패를 1장 버린다》 자신의 브레이크 에리어가 LV.6 이상이라면 이 카드를 HP로 사용했던 쿠키에 HP를 +2한다.",
-      "zh-TW": "《棄1張手牌》如果自己的休息區LV總和達到6或以上,則以這張牌為HP卡的餅乾獲得HP+2點。"
+      "zh-TW": "《棄1張手牌》如果自己的休息區LV總和達到6或以上,則以這張牌為HP卡的餅乾獲得HP+2點。",
+      "en": "《Discard 1 card.》 If your break area is LV.6 or higher, the Cookie with this card attached for HP gains +2 HP."
     },
     "effect": {
       "heal": 2

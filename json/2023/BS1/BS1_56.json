@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "달토끼맛 쿠키",
-    "zh-TW": "月兔餅乾"
+    "zh-TW": "月兔餅乾",
+    "en": "Moon Rabbit Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "자신의 배틀 에리어의 LV.2 이하의 다른 쿠키를 1장까지 선택한다. 그 쿠키를 서포트 에리어에 액티브로 놓는다.",
-          "zh-TW": "從自己的戰鬥區選擇最多1個LV.2或以下的另一個餅乾。將它以活躍狀態放置到支援區。"
+          "zh-TW": "從自己的戰鬥區選擇最多1個LV.2或以下的另一個餅乾。將它以活躍狀態放置到支援區。",
+          "en": "Select up to 1 of your other LV.2 or lower Cookies from your battle area. Place them in your support area as active."
         },
         "effect": {
           "addCookie": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "콜리플라워맛 쿠키",
-    "zh-TW": "花椰菜餅乾"
+    "zh-TW": "花椰菜餅乾",
+    "en": "Cauliflower Cookie"
   },
   "hp": 4,
   "hasSkill": true,
@@ -27,7 +28,8 @@
         "cost": {},
         "text": {
           "ko": "《자신의 서포트 에리어에서 1장 트래시에 놓는다》 덱에서 1장 뽑는다.",
-          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》從牌庫抽1張牌。"
+          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區》從牌庫抽1張牌。",
+          "en": "《Place 1 card from your support area into the trash.》 Draw 1 card from your deck."
         },
         "effect": {
           "draw": 1
@@ -43,7 +45,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

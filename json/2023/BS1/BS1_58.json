@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "독버섯맛 쿠키",
-    "zh-TW": "毒蘑菇餅乾"
+    "zh-TW": "毒蘑菇餅乾",
+    "en": "Poison Mushroom Cookie"
   },
   "hp": 2,
   "hasSkill": false,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "이 쿠키가 기절했을 때 《자신의 서포트 에리어에서 1장 트래시에 놓는다》 모든 쿠키들에게 1대미지를 준다.",
-          "zh-TW": "當這個餅乾暈倒時,《從自己的支援區將1張牌放置到棄牌區》對所有餅乾分別造成1點傷害。"
+          "zh-TW": "當這個餅乾暈倒時,《從自己的支援區將1張牌放置到棄牌區》對所有餅乾分別造成1點傷害。",
+          "en": "When this Cookie faints, 《place 1 card from your support area into the trash.》 Deals 1 damage to all Cookies."
         },
         "effect": {
           "addCookie": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害"
+        "zh-TW": "造成2點傷害",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {
