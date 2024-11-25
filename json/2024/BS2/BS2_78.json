@@ -2,7 +2,8 @@
   "serial": "BS2-078",
   "img": {
     "ko": "images/ko/2024/BS2/BS2_78.webp",
-    "zh-TW": "images/zh-TW/2024/BS2/BS2_78.webp"
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_78.webp",
+    "en": "images/en/2024/BS2/BS2_078.webp"
   },
   "type": "item",
   "level": 0,

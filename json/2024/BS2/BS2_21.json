@@ -2,7 +2,8 @@
   "serial": "BS2-021",
   "img": {
     "ko": "images/ko/2024/BS2/BS2_21.webp",
-    "zh-TW": "images/zh-TW/2024/BS2/BS2_21.webp"
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_21.webp",
+    "en": "images/en/2024/BS2/BS2_021.webp"
   },
   "type": "trap",
   "level": 0,

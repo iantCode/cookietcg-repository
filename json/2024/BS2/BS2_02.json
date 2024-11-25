@@ -2,7 +2,8 @@
   "serial": "BS2-002",
   "img": {
     "ko": "images/ko/2024/BS2/BS2_02.webp",
-    "zh-TW": "images/zh-TW/2024/BS2/BS2_02.webp"
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_02.webp",
+    "en": "images/en/2024/BS2/BS2_002.webp"
   },
   "type": "cookie",
   "level": 1,

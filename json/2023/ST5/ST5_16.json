@@ -2,7 +2,8 @@
   "serial": "ST5-016",
   "img": {
     "ko": "images/ko/2023/ST5/ST5_16.webp",
-    "zh-TW": "images/zh-TW/2024/ST5/ST5_16.webp"
+    "zh-TW": "images/zh-TW/2024/ST5/ST5_16.webp",
+    "en": "images/en/2024/ST5/ST5_016.webp"
   },
   "type": "item",
   "level": 0,

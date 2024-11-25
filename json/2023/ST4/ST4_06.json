@@ -2,7 +2,8 @@
   "serial": "ST4-006",
   "img": {
     "ko": "images/ko/2023/ST4/ST4_06.webp",
-    "zh-TW": "images/zh-TW/2024/ST4/ST4_06.webp"
+    "zh-TW": "images/zh-TW/2024/ST4/ST4_06.webp",
+    "en": "images/en/2024/ST4/ST4_006.webp"
   },
   "type": "cookie",
   "level": 1,

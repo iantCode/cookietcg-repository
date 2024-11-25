@@ -2,7 +2,8 @@
   "serial": "ST5-021",
   "img": {
     "ko": "images/ko/2023/ST5/ST5_21.webp",
-    "zh-TW": "images/zh-TW/2024/ST5/ST5_21.webp"
+    "zh-TW": "images/zh-TW/2024/ST5/ST5_21.webp",
+    "en": "images/en/2024/ST5/ST5_021.webp"
   },
   "type": "trap",
   "level": 0,

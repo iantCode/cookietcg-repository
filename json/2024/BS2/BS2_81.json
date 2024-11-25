@@ -2,7 +2,8 @@
   "serial": "BS2-081",
   "img": {
     "ko": "images/ko/2024/BS2/BS2_81.webp",
-    "zh-TW": "images/zh-TW/2024/BS2/BS2_81.webp"
+    "zh-TW": "images/zh-TW/2024/BS2/BS2_81.webp",
+    "en": "images/en/2024/BS2/BS2_081.webp"
   },
   "type": "stage",
   "level": 0,
