@@ -12,3 +12,4 @@ src
 db
 Pipfile
 shopLocation.json
+Pipfile.lock

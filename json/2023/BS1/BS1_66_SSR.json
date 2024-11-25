@@ -2,7 +2,8 @@
   "serial": "BS1-066-SSR",
   "img": {
     "ko": "images/ko/2023/BS1/BS1_66_SSR.webp",
-    "zh-TW": "images/zh-TW/2024/BS1/BS1_66_SSR.webp"
+    "zh-TW": "images/zh-TW/2024/BS1/BS1_66_SSR.webp",
+    "en": "images/en/2024/BS1/BS1_066_SSR.webp"
   },
   "type": "cookie",
   "level": 2,
