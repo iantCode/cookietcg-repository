@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "보너스 코인",
-    "zh-TW": "BONUS錢幣"
+    "zh-TW": "BONUS錢幣",
+    "en": "BONUS Coin"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "상대의 트래시에 있는 카드가 30장 이상이라면 덱에서 2장까지 뽑을 수 있다.",
-        "zh-TW": "如果對手的棄牌區有30張或更多的牌,則你可以從牌庫抽最多2張牌。"
+        "zh-TW": "如果對手的棄牌區有30張或更多的牌,則你可以從牌庫抽最多2張牌。",
+        "en": "If your opponent has 30 cards or more in their trash, you can draw up to 2 cards from your deck."
       },
       "damage": 0,
       "name": {

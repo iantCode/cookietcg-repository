@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "감초맛 쿠키",
-    "zh-TW": "甘草餅乾"
+    "zh-TW": "甘草餅乾",
+    "en": "Licorice Cookie"
   },
   "hp": 4,
   "hasSkill": true,
@@ -27,7 +28,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키는 자신의 다음 턴 시작 시까지 효과에 의한 데미지를 받지 않는다.",
-          "zh-TW": "在下個自己的回合開始之前,這個餅乾不會受到效果造成的傷害。"
+          "zh-TW": "在下個自己的回合開始之前,這個餅乾不會受到效果造成的傷害。",
+          "en": "This Cookie takes no damage from effects until the start of the player's next turn."
         },
         "effect": {
           "preventDamage": 1
@@ -42,7 +44,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {

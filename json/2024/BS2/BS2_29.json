@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "바다요정 쿠키",
-    "zh-TW": "海妖精餅乾"
+    "zh-TW": "海妖精餅乾",
+    "en": "Sea Fairy Cookie"
   },
   "hp": 5,
   "hasSkill": true,
@@ -28,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "《패를 1장 버린다》 자신의 배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 패로 되돌린다.",
-          "zh-TW": "《棄1張手牌》從自己的戰鬥區將最多1個LV.2或以下的餅乾移回手牌。"
+          "zh-TW": "《棄1張手牌》從自己的戰鬥區將最多1個LV.2或以下的餅乾移回手牌。",
+          "en": "《Discard 1 card.》 Select up to 1 Cookie that is LV.2 or lower from your battle area and return them to your hand."
         },
         "effect": {
           "return": 1
@@ -43,7 +45,8 @@
       },
       "text": {
         "ko": "4대미지를 준다.",
-        "zh-TW": "造成4點傷害。"
+        "zh-TW": "造成4點傷害。",
+        "en": "Deals 4 damage."
       },
       "damage": 4,
       "name": {

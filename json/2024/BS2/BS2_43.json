@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "캡틴 아이스 쿠키",
-    "zh-TW": "冰雪艦長餅乾"
+    "zh-TW": "冰雪艦長餅乾",
+    "en": "Captain Ice Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -25,7 +26,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 《패를 2장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 1대미지를 준다.",
-          "zh-TW": "當這個餅乾暈倒時,《棄2張手牌》選擇最多2個對手的餅乾。對它們分別造成1點傷害。"
+          "zh-TW": "當這個餅乾暈倒時,《棄2張手牌》選擇最多2個對手的餅乾。對它們分別造成1點傷害。",
+          "en": "When this Cookie faints, 《discard 2 cards.》 Select up to 2 of your opponent's Cookies. Deals 1 damage to each of those Cookies."
         },
         "effect": {
           "damageIncrease": 1
@@ -40,7 +42,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

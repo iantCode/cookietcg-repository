@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "알로에맛 쿠키",
-    "zh-TW": "蘆薈餅乾"
+    "zh-TW": "蘆薈餅乾",
+    "en": "Aloe Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -25,7 +26,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 덱의 위에서부터 3장을 보고 그 중에서 <blue> 카드를 1장까지 공개하여 패로 가져온다. 그리고 남은 카드를 원하는 순서로 덱의 아래에 놓는다.",
-          "zh-TW": "當這個餅乾暈倒時,你可以從牌庫頂查看3張牌,從其中選擇最多1張牌,將它展示後移回手牌。然後,將未選擇的牌以任意順序放回牌庫最下方。"
+          "zh-TW": "當這個餅乾暈倒時,你可以從牌庫頂查看3張牌,從其中選擇最多1張牌,將它展示後移回手牌。然後,將未選擇的牌以任意順序放回牌庫最下方。",
+          "en": "When this Cookie faints, view the top 3 cards of your deck. Out of the 3 cards, select 1 <blue> card, show it to your opponent, and place that card in your hand. Then, return the remaining cards to the bottom of your deck in any order."
         },
         "effect": {
           "search": 1
@@ -40,7 +42,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

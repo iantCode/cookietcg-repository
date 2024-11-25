@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "트위즐젤리맛 쿠키",
-    "zh-TW": "扭扭糖餅乾"
+    "zh-TW": "扭扭糖餅乾",
+    "en": "Twizzly Gummy Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "《이 쿠키를 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "《將這個餅乾放置到棄牌區》選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "《將這個餅乾放置到棄牌區》選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "《Place this Cookie in the trash.》 Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

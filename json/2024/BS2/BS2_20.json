@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "따뜻한 당근 젤리 수프",
-    "zh-TW": "熱呼呼的紅蘿蔔果凍湯"
+    "zh-TW": "熱呼呼的紅蘿蔔果凍湯",
+    "en": "Carrot Jelly Stew"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "자신의 <green> 쿠키를 1장까지 선택한다. 선택한 쿠키의 HP에서 1장 서포트 에리어에 레스트로 놓는다.",
-        "zh-TW": "選擇最多1個自己的<green>餅乾。將它的1張HP卡以疲勞狀態放置到支援區。"
+        "zh-TW": "選擇最多1個自己的<green>餅乾。將它的1張HP卡以疲勞狀態放置到支援區。",
+        "en": "Select up to 1 of your <green> Cookies. Place 1 of their attached HP cards in your support area as rested."
       },
       "damage": 0,
       "name": {

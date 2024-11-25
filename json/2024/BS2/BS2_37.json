@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "쇼콜라봉봉맛 쿠키",
-    "zh-TW": "巧克力餅乾"
+    "zh-TW": "巧克力餅乾",
+    "en": "Chocolate Bonbon Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {
@@ -36,7 +38,8 @@
     "condition": {},
     "text": {
       "ko": "덱에서 1장 뽑을 수 있다.",
-      "zh-TW": "你可以從牌庫抽1張牌。"
+      "zh-TW": "你可以從牌庫抽1張牌。",
+      "en": "Draw up to 1 card from your deck."
     },
     "effect": {
       "draw": 1

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "바람의 계곡",
-    "zh-TW": "風之溪谷"
+    "zh-TW": "風之溪谷",
+    "en": "Windswept Valley"
   },
   "hp": 0,
   "hasSkill": true,
@@ -25,7 +26,8 @@
         "cost": {},
         "text": {
           "ko": "상대의 배틀 에리어에 있는 쿠키가 효과로 인해 트래시에 놓였을 때 《이 카드를 레스트한다》 덱에서 1장 뽑을 수 있다.",
-          "zh-TW": "當對手的戰鬥區中的餅乾因效果而被放置到棄牌區時,《將這張牌改為疲勞狀態》你可以從牌庫抽1張牌。"
+          "zh-TW": "當對手的戰鬥區中的餅乾因效果而被放置到棄牌區時,《將這張牌改為疲勞狀態》你可以從牌庫抽1張牌。",
+          "en": "When your opponent places a Cookie from their battle area into the trash by effect, 《rest this card.》 You can draw 1 card from your deck."
         },
         "effect": {
           "draw": 1
@@ -40,7 +42,8 @@
       },
       "text": {
         "ko": "스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到場景區。"
+        "zh-TW": "將這張牌放置到場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

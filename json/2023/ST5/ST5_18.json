@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "잠자리 캔디 브로치",
-    "zh-TW": "蜻蜓糖果胸針"
+    "zh-TW": "蜻蜓糖果胸針",
+    "en": "Dragonfly Candy Brooch"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "상대의 남은 HP가 4 이하인 쿠키를 1장 트래시에 놓는다.",
-        "zh-TW": "從對手的戰鬥區將1個剩餘HP為4點或以下的餅乾放置到棄牌區。"
+        "zh-TW": "從對手的戰鬥區將1個剩餘HP為4點或以下的餅乾放置到棄牌區。",
+        "en": "Place 1 of your opponent's Cookies whose remaining HP is 4 or less into the trash."
       },
       "damage": 0,
       "name": {

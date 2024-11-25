@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "호박당 램프",
-    "zh-TW": "南瓜糖提燈"
+    "zh-TW": "南瓜糖提燈",
+    "en": "Sugar Crystal Lamp"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "자신의 패를 모두 덱으로 되돌리고 섞는다. 그리고 패를 되돌린 장수만큼 덱에서 뽑는다.",
-        "zh-TW": "將自己所有的手牌放回牌庫並洗牌。然後,從牌庫抽等量的牌。"
+        "zh-TW": "將自己所有的手牌放回牌庫並洗牌。然後,從牌庫抽等量的牌。",
+        "en": "Return all cards in your hand to your deck and shuffle it. Then, draw the same number of cards you returned to your deck."
       },
       "damage": 0,
       "name": {

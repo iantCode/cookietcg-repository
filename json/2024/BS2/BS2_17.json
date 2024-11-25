@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "민트초코 쿠키",
-    "zh-TW": "薄荷巧克力餅乾"
+    "zh-TW": "薄荷巧克力餅乾",
+    "en": "Mint Choco Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "1대미지를 준다. 그리고 《<green>로 사용할 수 있다》 상대의 쿠키가 LV.1이라면 3대미지를 준다.",
-        "zh-TW": "造成1點傷害。然後,《你可以再支付<green>》如果對手的餅乾為LV.1,則對它造成3點傷害。"
+        "zh-TW": "造成1點傷害。然後,《你可以再支付<green>》如果對手的餅乾為LV.1,則對它造成3點傷害。",
+        "en": " Deals 1 damage. Then, 《can be used as <green>.》 If one of your opponent's Cookies is LV.1, deals 3 damage."
       },
       "damage": 1,
       "name": {

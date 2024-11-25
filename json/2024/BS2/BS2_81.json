@@ -29,7 +29,8 @@
         },
         "text": {
           "ko": "《이 카드를 트래시에 놓는다》 상대의 쿠키를 1장까지 선택한다. 그 쿠키에 1대미지를 준다.",
-          "zh-TW": "《將這張牌放置到棄牌區》選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "《將這張牌放置到棄牌區》選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "《Place this card in the trash.》 Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -44,7 +45,8 @@
       },
       "text": {
         "ko": "스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到場景區。"
+        "zh-TW": "將這張牌放置到場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

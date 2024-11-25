@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "조각난 얼음 동상",
-    "zh-TW": "毀壞的冰雕"
+    "zh-TW": "毀壞的冰雕",
+    "en": "Fallen Ice Statue"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -2한다. 그리고 덱에서 1장 뽑을 수 있다.",
-        "zh-TW": "選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-2點。然後,你可以從牌庫抽1張牌。"
+        "zh-TW": "選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-2點。然後,你可以從牌庫抽1張牌。",
+        "en": "Select up to 1 of your opponent's Cookies. During this turn, that Cookie deals -2 attack damage. Then, you can draw 1 card from your deck."
       },
       "damage": 0,
       "name": {

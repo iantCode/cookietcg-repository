@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "수국맛 쿠키",
-    "zh-TW": "繡球花餅乾"
+    "zh-TW": "繡球花餅乾",
+    "en": "Hydrangea Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -27,7 +28,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 트래시에 있는 FLIP을 가지지 않은 카드를 3장까지 선택하여 덱으로 되돌리고 섞는다.",
-          "zh-TW": "從自己的棄牌區選擇最多3張沒有FLIP效果的牌,並洗回牌庫。"
+          "zh-TW": "從自己的棄牌區選擇最多3張沒有FLIP效果的牌,並洗回牌庫。",
+          "en": "Select up to 3 cards from your trash that do not have FLIP. Return those cards to your deck and shuffle it."
         },
         "effect": {
           "addDeck": 3
@@ -42,7 +44,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

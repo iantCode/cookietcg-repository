@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "소금결정 트라이던트",
-    "zh-TW": "鹽晶體三叉戟"
+    "zh-TW": "鹽晶體三叉戟",
+    "en": "Salt Crystal Trident"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "이 배틀 중 자신의 <blue> 쿠키가 기절하면 덱에서 3장까지 뽑고 자신의 패를 1장 버린다.",
-        "zh-TW": "在這次的戰鬥中,如果自己的<blue>餅乾曾暈倒過,則從牌庫抽最多3張牌,並棄1張自己的手牌。"
+        "zh-TW": "在這次的戰鬥中,如果自己的<blue>餅乾曾暈倒過,則從牌庫抽最多3張牌,並棄1張自己的手牌。",
+        "en": "During this battle, if 1 of your <blue> Cookies faints, you can draw up to 3 cards from your deck and discard 1 card from your hand."
       },
       "damage": 0,
       "name": {

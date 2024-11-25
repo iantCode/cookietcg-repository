@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "곰젤리 아이스크림",
-    "zh-TW": "熊熊果凍冰淇淋"
+    "zh-TW": "熊熊果凍冰淇淋",
+    "en": "Bear Jelly Ice Cream"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "자신의 남은 HP가 3 이상인 <blue> 쿠키를 1장 패로 되돌린다.",
-        "zh-TW": "從自己的戰鬥區將1個剩餘HP為3點或以上的 <blue> 餅乾移回手牌。"
+        "zh-TW": "從自己的戰鬥區將1個剩餘HP為3點或以上的 <blue> 餅乾移回手牌。",
+        "en": "Return 1 <blue> Cookie whose remaining HP is 3 or more to your hand."
       },
       "damage": 0,
       "name": {

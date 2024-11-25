@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "바람궁수 쿠키",
-    "zh-TW": "風箭手餅乾"
+    "zh-TW": "風箭手餅乾",
+    "en": "Wind Archer Cookie"
   },
   "hp": 5,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "상대의 배틀 에리어에 있는 LV.3 쿠키를 1장까지 트래시에 놓는다",
-          "zh-TW": "從對手的戰鬥區將最多1個LV.3的餅乾放置到棄牌區。"
+          "zh-TW": "從對手的戰鬥區將最多1個LV.3的餅乾放置到棄牌區。",
+          "en": "Place up to 1 of your opponent's LV.3 Cookies from their battle area into the trash."
         },
         "effect": {
           "kill": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "4대미지를 준다. 그리고 자신의 트래시에 있는 카드가 15장 이상이라면 1대미지를 준다.",
-        "zh-TW": "造成4點傷害。然後,如果自己的棄牌區有15張或更多的牌,則造成1點傷害。"
+        "zh-TW": "造成4點傷害。然後,如果自己的棄牌區有15張或更多的牌,則造成1點傷害。",
+        "en": "Deals 4 damage. Then, if there are 15 cards or more in your trash, deals 1 damage."
       },
       "damage": 4,
       "name": {

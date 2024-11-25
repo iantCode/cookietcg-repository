@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "다이빙 고글",
-    "zh-TW": "潛水鏡"
+    "zh-TW": "潛水鏡",
+    "en": "Diving Goggles"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "《패를 3장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키들에게 2대미지를 준다.",
-        "zh-TW": "《棄3張手牌》選擇最多2個對手的餅乾。對它們分別造成2點傷害。"
+        "zh-TW": "《棄3張手牌》選擇最多2個對手的餅乾。對它們分別造成2點傷害。",
+        "en": "《Discard 3 cards.》 Select up to 2 of your opponent's Cookies. Deals 2 damage to each of those Cookies."
       },
       "damage": 2,
       "name": {

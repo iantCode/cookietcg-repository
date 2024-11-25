@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "휘핑 스노우 마을",
-    "zh-TW": "鮮奶油雪村"
+    "zh-TW": "鮮奶油雪村",
+    "en": "Whipped Snowcream Village"
   },
   "hp": 0,
   "hasSkill": true,
@@ -27,7 +28,8 @@
         "cost": {},
         "text": {
           "ko": "《이 카드를 레스트한다》 《패를 1장 버린다》 자신의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다.",
-          "zh-TW": "《將這張牌改為疲勞狀態》《棄1張手牌》選擇最多1個自己的餅乾。在這個回合中,它的攻擊傷害+1"
+          "zh-TW": "《將這張牌改為疲勞狀態》《棄1張手牌》選擇最多1個自己的餅乾。在這個回合中,它的攻擊傷害+1",
+          "en": "《Rest this card.》 《Discard 1 card.》 Select up to 1 of your Cookies. During this turn, that Cookie deals +1 damage."
         },
         "effect": {
           "damageIncrease": 1
@@ -42,7 +44,8 @@
       },
       "text": {
         "ko": "스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到場景區。"
+        "zh-TW": "將這張牌放置到場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "마법사맛 쿠키",
-    "zh-TW": "魔法師餅乾"
+    "zh-TW": "魔法師餅乾",
+    "en": "Wizard Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "상대의 스테이지를 1장까지 트래시에 놓는다.",
-          "zh-TW": "將最多1張對手的場景卡放置到棄牌區。"
+          "zh-TW": "將最多1張對手的場景卡放置到棄牌區。",
+          "en": "Place up to 1 of your opponent's stage cards in the trash."
         },
         "effect": {
           "stageTrash": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

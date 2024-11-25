@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "소라빵게의 새집",
-    "zh-TW": "螺旋麵包寄居蟹的新居"
+    "zh-TW": "螺旋麵包寄居蟹的新居",
+    "en": "Hermit Crab's Shell"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "《패를 1장 버린다》 상대의 남은 HP가 3 이하인 쿠키를 1장까지 선택해서 덱의 아래로 되돌린다.",
-        "zh-TW": "《棄1張手牌》選擇最多1個剩餘HP為3點或以下對手的餅乾,放回牌庫最下方。"
+        "zh-TW": "《棄1張手牌》選擇最多1個剩餘HP為3點或以下對手的餅乾,放回牌庫最下方。",
+        "en": "《Discard 1 card.》 Select up to 1 of your opponent's Cookies whose remaining HP is 3 or less and place them at the bottom of the deck."
       },
       "damage": 0,
       "name": {

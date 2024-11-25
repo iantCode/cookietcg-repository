@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "에일리언 도넛",
-    "zh-TW": "宇宙甜甜圈"
+    "zh-TW": "宇宙甜甜圈",
+    "en": "Space Doughnut"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {
@@ -36,7 +38,8 @@
     "condition": {},
     "text": {
       "ko": "《패를 1장 버린다》 자신의 브레이크 에리어가 LV.3 이상이라면 상대의 배틀 에리어에 있는 LV.2 이하의 쿠키 또는 스테이지를 1장 트래시에 놓는다.",
-      "zh-TW": "《棄1張手牌》如果自己的休息區LV總和達到3或以上,則從對手的戰鬥區選擇1個LV.2或以下的餅乾,或是1張對手的場景卡,將它放置到棄牌區。"
+      "zh-TW": "《棄1張手牌》如果自己的休息區LV總和達到3或以上,則從對手的戰鬥區選擇1個LV.2或以下的餅乾,或是1張對手的場景卡,將它放置到棄牌區。",
+      "en": "《Discard 1 card.》 If your break area is LV.3 or higher, place either 1 of your opponent's Cookies that is LV.2 or lower from their battle area or 1 stage card from their stage area into the trash."
     },
     "effect": {
       "kill": 1

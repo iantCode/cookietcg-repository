@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "행운의 진주",
-    "zh-TW": "幸運珍珠"
+    "zh-TW": "幸運珍珠",
+    "en": "Lucky Pearls"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "덱에서 2장까지 뽑을 수 있다.",
-        "zh-TW": "你可以從牌庫抽最多2張牌。"
+        "zh-TW": "你可以從牌庫抽最多2張牌。",
+        "en": "You can draw up to 2 cards from your deck."
       },
       "damage": 0,
       "name": {

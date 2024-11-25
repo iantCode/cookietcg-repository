@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "요가맛 쿠키",
-    "zh-TW": "瑜伽餅乾"
+    "zh-TW": "瑜伽餅乾",
+    "en": "Yoga Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -30,7 +31,8 @@
         },
         "text": {
           "ko": "《패를 1장 버린다》 상대의 배틀 에리어에 있는 LV.1의 쿠키 또는 스테이지를 1장 트래시에 놓는다.",
-          "zh-TW": "《棄1張手牌》從對手的戰鬥區選擇1個LV.1的餅乾,或是1張對手的場景卡,將它放置到棄牌區。"
+          "zh-TW": "《棄1張手牌》從對手的戰鬥區選擇1個LV.1的餅乾,或是1張對手的場景卡,將它放置到棄牌區。",
+          "en": "《Discard 1 card.》 Place 1 of your opponent's LV.1 Cookies from their battle area or 1 stage card from their stage area into the trash."
         },
         "effect": {
           "kill": 1
@@ -45,7 +47,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

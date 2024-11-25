@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "사워벨트맛 쿠키",
-    "zh-TW": "霓虹軟糖餅乾"
+    "zh-TW": "霓虹軟糖餅乾",
+    "en": "Sour Belt Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -30,7 +31,8 @@
         },
         "text": {
           "ko": "자신의 패가 6장 이하라면 덱에서 1장 뽑을 수 있다.",
-          "zh-TW": "如果自己的手牌為6張或更少, 則你可以從牌庫抽1張牌。"
+          "zh-TW": "如果自己的手牌為6張或更少, 則你可以從牌庫抽1張牌。",
+          "en": "If there are 6 cards or less in your hand, you can draw 1 card from your deck."
         },
         "effect": {
           "draw": 1
@@ -45,7 +47,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

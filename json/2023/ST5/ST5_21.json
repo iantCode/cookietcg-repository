@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "숨겨진 워프 장치",
-    "zh-TW": "隱藏的瞬間移動裝置"
+    "zh-TW": "隱藏的瞬間移動裝置",
+    "en": "Hidden Warpgate"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "상대의 남은 HP가 2 이하인 쿠키를 1장 트래시에 놓는다.",
-        "zh-TW": "從對手的戰鬥區將1個剩餘HP為2點或以下的餅乾放置到棄牌區。"
+        "zh-TW": "從對手的戰鬥區將1個剩餘HP為2點或以下的餅乾放置到棄牌區。",
+        "en": "Place 1 of your opponent's Cookies whose remaining HP is 2 or less into the trash."
       },
       "damage": 0,
       "name": {

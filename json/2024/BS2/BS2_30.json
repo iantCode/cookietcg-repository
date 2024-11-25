@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "버블껌맛 쿠키",
-    "zh-TW": "泡泡糖餅乾"
+    "zh-TW": "泡泡糖餅乾",
+    "en": "Gumball Cookie"
   },
   "hp": 4,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "4대미지를 준다.",
-        "zh-TW": "造成4點傷害。"
+        "zh-TW": "造成4點傷害。",
+        "en": "Deals 4 damage."
       },
       "damage": 4,
       "name": {

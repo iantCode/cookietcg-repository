@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "해적맛 쿠키",
-    "zh-TW": "海盜餅乾"
+    "zh-TW": "海盜餅乾",
+    "en": "Pirate Cookie"
   },
   "hp": 2,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "2대미지를 준다. 그리고 덱에서 1장 뽑을 수 있다.",
-        "zh-TW": "造成2點傷害。然後,你可以從牌庫抽1張牌。"
+        "zh-TW": "造成2點傷害。然後,你可以從牌庫抽1張牌。",
+        "en": "Deals 2 damage. Then, you can draw 1 card from your deck."
       },
       "damage": 2,
       "name": {

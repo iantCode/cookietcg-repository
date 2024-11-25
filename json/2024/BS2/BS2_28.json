@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "물망초 다이노 쿠키",
-    "zh-TW": "勿忘草恐龍餅乾"
+    "zh-TW": "勿忘草恐龍餅乾",
+    "en": "Pond Dino Cookie"
   },
   "hp": 4,
   "hasSkill": true,
@@ -28,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "《패를 1장 버린다》 상대는 이 턴 중 블로커를 발동할 수 없다.",
-          "zh-TW": "《棄1張手牌》在這個回合中,對手的阻擋不能發動。"
+          "zh-TW": "《棄1張手牌》在這個回合中,對手的阻擋不能發動。",
+          "en": "《Discard 1 card.》 During this turn, your opponent cannot activate <blocker>."
         },
         "effect": {
           "heal": 1
@@ -43,7 +45,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {

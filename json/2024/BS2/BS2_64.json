@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "연금술사맛 쿠키",
-    "zh-TW": "鍊金術師餅乾"
+    "zh-TW": "鍊金術師餅乾",
+    "en": "Alchemist Cookie"
   },
   "hp": 1,
   "hasSkill": true,
@@ -27,7 +28,8 @@
         "cost": {},
         "text": {
           "ko": "상대의 배틀 에리어에 있는 남은 HP가 2 이하인 쿠키를 1장까지 트래시에 놓는다.",
-          "zh-TW": "從對手的戰鬥區將最多1個剩餘HP為2點或以下的餅乾放置到棄牌區。"
+          "zh-TW": "從對手的戰鬥區將最多1個剩餘HP為2點或以下的餅乾放置到棄牌區。",
+          "en": "Place up to 1 of your opponent's Cookies whose remaining HP is 2 or less from their battle area into the trash."
         },
         "effect": {
           "kill": 1

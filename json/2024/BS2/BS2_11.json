@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "블랙베리맛 쿠키",
-    "zh-TW": "黑莓餅乾"
+    "zh-TW": "黑莓餅乾",
+    "en": "Blackberry Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "자신의 브레이크 에리어에 있는 <yellow> 쿠키를 LV.의 합이 LV.3이 되도록 선택한다. 그 쿠키들을 패로 되돌리고 이 쿠키를 자신의 브레이크 에리어에 놓는다.",
-          "zh-TW": "從自己的休息區選擇LV總和為3的乾,將它們移回手牌,並將這個餅乾放置到自己的休息區。"
+          "zh-TW": "從自己的休息區選擇LV總和為3的乾,將它們移回手牌,並將這個餅乾放置到自己的休息區。",
+          "en": "Select <yellow> Cookies from your break area until their total LV. sum reaches LV.3. Return those Cookies to your hand and place this Cookie into your break area."
         },
         "effect": {
           "exchangeBreak": 3
@@ -45,7 +47,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

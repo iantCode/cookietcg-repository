@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "핑크초코 쿠키",
-    "zh-TW": "粉紅巧克力餅乾"
+    "zh-TW": "粉紅巧克力餅乾",
+    "en": "Pink Choco Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -25,7 +26,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 상대의 배틀 에리어에 있는 LV.1의 쿠키를 1장까지 트래시에 놓는다.",
-          "zh-TW": "當這個餅乾暈倒時,從對手的戰鬥區將最多1個LV.1的餅乾放置到棄牌區。"
+          "zh-TW": "當這個餅乾暈倒時,從對手的戰鬥區將最多1個LV.1的餅乾放置到棄牌區。",
+          "en": "When this Cookie faints, place up to 1 of your opponent's LV.1 Cookies from their battle area into the trash."
         },
         "effect": {
           "kill": 1
@@ -40,7 +42,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

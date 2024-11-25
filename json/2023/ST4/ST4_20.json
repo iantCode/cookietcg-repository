@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "문어 먹물 스프레이",
-    "zh-TW": "墨魚汁噴罐"
+    "zh-TW": "墨魚汁噴罐",
+    "en": "Octo-Ink Spray"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "《패를 2장 버린다》 상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -3한다.",
-        "zh-TW": "《棄2張手牌》選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-3點。"
+        "zh-TW": "《棄2張手牌》選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-3點。",
+        "en": "《Discard 2 cards.》 Select up to 1 of your opponent's Cookies. During this turn, that Cookie deals -3 attack damage."
       },
       "damage": 0,
       "name": {

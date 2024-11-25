@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "망고맛 쿠키",
-    "zh-TW": "芒果餅乾"
+    "zh-TW": "芒果餅乾",
+    "en": "Mango Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -25,7 +26,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 덱에서 1장 뽑을 수 있다. 뽑았다면 패를 1장 버린다.",
-          "zh-TW": "當這個餅乾暈倒時,你可以從牌庫抽1張牌。如果你這麼做,則棄1張手牌。"
+          "zh-TW": "當這個餅乾暈倒時,你可以從牌庫抽1張牌。如果你這麼做,則棄1張手牌。",
+          "en": "When this Cookie faints, you can draw 1 card from your deck. If you did, discard 1 card from your hand."
         },
         "effect": {
           "draw": 1
@@ -40,7 +42,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

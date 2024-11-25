@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "서리여왕 쿠키",
-    "zh-TW": "冰霜女王餅乾"
+    "zh-TW": "冰霜女王餅乾",
+    "en": "Frost Queen Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {
@@ -36,7 +38,8 @@
     "condition": {},
     "text": {
       "ko": "자신의 브레이크 에리어가 LV.4 이상이라면 덱에서 2장까지 뽑을 수 있다.",
-      "zh-TW": "如果自己的休息區LV總和達到4或以上,則你可以從牌庫抽最多2張牌。"
+      "zh-TW": "如果自己的休息區LV總和達到4或以上,則你可以從牌庫抽最多2張牌。",
+      "en": "If your break area is LV.4 or higher, you can draw up to 2 cards from your deck."
     },
     "effect": {
       "draw": 2

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "젤리해파리 물약",
-    "zh-TW": "果凍水母藥水"
+    "zh-TW": "果凍水母藥水",
+    "en": "Jellied Jellyfish Potion"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "이 턴 중 기절한 상대의 쿠키 1장당 덱에서 1장까지 뽑는다.",
-        "zh-TW": "在這個回合中,每有1個對手的餅乾暈倒,便從牌庫抽最多1張牌。"
+        "zh-TW": "在這個回合中,每有1個對手的餅乾暈倒,便從牌庫抽最多1張牌。",
+        "en": "Draw up to 1 card for each of your opponent's Cookies that fainted during this turn."
       },
       "damage": 0,
       "name": {

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "용의 숨결",
-    "zh-TW": "龍之氣息"
+    "zh-TW": "龍之氣息",
+    "en": "Dragon's Breath"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 트래시에 놓는다.",
-        "zh-TW": "從任一戰鬥區將最多1個LV.2或以下的餅乾放置到棄牌區。"
+        "zh-TW": "從任一戰鬥區將最多1個LV.2或以下的餅乾放置到棄牌區。",
+        "en": "Place 1 Cookie that is LV.2 or lower from your battle area into the trash."
       },
       "damage": 2,
       "name": {

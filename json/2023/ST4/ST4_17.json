@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "긴급 구조 튜브 도넛",
-    "zh-TW": "救生甜甜圈"
+    "zh-TW": "救生甜甜圈",
+    "en": "Emergency Lifebuoy"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "자신의 배틀 에리어에 있는 LV.1의 쿠키를 1장 패로 되돌린다.",
-        "zh-TW": "從自己的戰鬥區將1個LV.1的餅乾移回手牌。"
+        "zh-TW": "從自己的戰鬥區將1個LV.1的餅乾移回手牌。",
+        "en": "Return 1 LV.1 Cookie from your battle area to your hand."
       },
       "damage": 0,
       "name": {

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "스트링젤리맛 쿠키",
-    "zh-TW": "筆管軟糖餅乾"
+    "zh-TW": "筆管軟糖餅乾",
+    "en": "String Gummy Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "상대의 배틀 에리어에 있는 LV.2 이하의 쿠키 또는 스테이지를 1장 트래시에 놓는다.",
-          "zh-TW": "從對手的戰鬥區選擇1個LV.2或以下的餅乾,或是1張對手的場景卡,將它放置到棄牌區。"
+          "zh-TW": "從對手的戰鬥區選擇1個LV.2或以下的餅乾,或是1張對手的場景卡,將它放置到棄牌區。",
+          "en": "Place 1 of your opponent's LV.2 Cookies from their battle area or 1 stage card from their stage area into the trash."
         },
         "effect": {
           "kill": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

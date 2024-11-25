@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "설탕유리 돔",
-    "zh-TW": "糖糖玻璃穹頂"
+    "zh-TW": "糖糖玻璃穹頂",
+    "en": "Sugar Glass Dome"
   },
   "hp": 0,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "《이 카드를 레스트한다》 덱에서 1장 뽑을 수 있다.",
-          "zh-TW": "《將這張牌改為疲勞狀態》你可以從牌庫抽1張牌。"
+          "zh-TW": "《將這張牌改為疲勞狀態》你可以從牌庫抽1張牌。",
+          "en": "《Rest this card.》 You can draw 1 card from your deck."
         },
         "effect": {
           "draw": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到場景區。"
+        "zh-TW": "將這張牌放置到場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

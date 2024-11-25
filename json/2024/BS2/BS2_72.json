@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "페스츄리맛 쿠키",
-    "zh-TW": "千層酥餅乾"
+    "zh-TW": "千層酥餅乾",
+    "en": "Pastry Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {
@@ -35,7 +37,8 @@
   "flip": {
     "condition": {},
     "text": {
-      "ko": "덱에서 1장 뽑을 수 있다."
+      "ko": "덱에서 1장 뽑을 수 있다.",
+      "en": "Draw up to 1 card from your deck."
     },
     "effect": {
       "draw": 1

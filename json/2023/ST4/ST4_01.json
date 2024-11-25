@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "검볼다이버맛 쿠키",
-    "zh-TW": "口香糖球潛水員餅乾"
+    "zh-TW": "口香糖球潛水員餅乾",
+    "en": "Candy Diver Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "블랙레이즌맛 쿠키",
-    "zh-TW": "黑葡萄乾餅乾"
+    "zh-TW": "黑葡萄乾餅乾",
+    "en": "Black Raisin Cookie"
   },
   "hp": 5,
   "hasSkill": true,
@@ -28,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "《패를 3장 버린다》 상대의 쿠키를 2장까지 선택한다. 그 쿠키 중 1장에게 2대미지를 주고 다른 1장에게 1대미지를 준다.",
-          "zh-TW": "《棄3張手牌》選擇最多2個對手的餅乾。對其中一個餅乾造成2點傷害,對另一個餅乾造成1點傷害。"
+          "zh-TW": "《棄3張手牌》選擇最多2個對手的餅乾。對其中一個餅乾造成2點傷害,對另一個餅乾造成1點傷害。",
+          "en": "《Discard 3 cards.》 Select up to 2 of your opponent's Cookies. Deals 2 damage to 1 of the Cookies and 1 damage to the other."
         },
         "effect": {
           "damage": 3
@@ -43,7 +45,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {

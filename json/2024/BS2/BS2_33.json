@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "샤벳상어맛 쿠키",
-    "zh-TW": "雪酪鯊魚餅乾"
+    "zh-TW": "雪酪鯊魚餅乾",
+    "en": "Sorbet Shark Cookie"
   },
   "hp": 3,
   "hasSkill": true,
@@ -28,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "《패를 1장 버린다》 이 쿠키를 액티브로 한다.",
-          "zh-TW": "《棄1張手牌》將這個餅乾改為活躍狀態。"
+          "zh-TW": "《棄1張手牌》將這個餅乾改為活躍狀態。",
+          "en": "《Discard 1 card.》 Set this Cookie as active."
         },
         "effect": {
           "makeActive": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

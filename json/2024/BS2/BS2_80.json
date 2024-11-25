@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "주인 잃은 구름 둥지",
-    "zh-TW": "空蕩的雲朵巢穴"
+    "zh-TW": "空蕩的雲朵巢穴",
+    "en": "Abandoned Cloud Nest"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "자신의 트래시에 있는 카드가 15장 이상이라면 상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -3한다.",
-        "zh-TW": "如果自己的棄牌區有15張或更多的牌,則選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-3點。"
+        "zh-TW": "如果自己的棄牌區有15張或更多的牌,則選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-3點。",
+        "en": "If there are 15 cards or more in your trash, select up to 1 of your opponent's Cookies. During this turn, that Cookie deals -3 attack damage."
       },
       "damage": 0,
       "name": {

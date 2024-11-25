@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "독버섯맛 쿠키",
-    "zh-TW": "毒蘑菇餅乾"
+    "zh-TW": "毒蘑菇餅乾",
+    "en": "Poison Mushroom Cookie"
   },
   "hp": 5,
   "hasSkill": true,
@@ -29,7 +30,8 @@
         },
         "text": {
           "ko": "서로의 배틀 에리어에 있는 LV.2 이하의 쿠키를 모두 트래시에 놓는다.",
-          "zh-TW": "將雙方戰鬥區的所有LV.2或以下的餅乾全部放置到棄牌區。"
+          "zh-TW": "將雙方戰鬥區的所有LV.2或以下的餅乾全部放置到棄牌區。",
+          "en": "Place all LV.2 or lower Cookies from both battle areas into the trash."
         },
         "effect": {
           "kill": 1
@@ -44,7 +46,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {

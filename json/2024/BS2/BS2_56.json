@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "라즈베리 무스맛 쿠키",
-    "zh-TW": "覆盆莓慕斯餅乾"
+    "zh-TW": "覆盆莓慕斯餅乾",
+    "en": "Raspberry Mousse Cookie"
   },
   "hp": 1,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {
@@ -36,7 +38,8 @@
     "condition": {},
     "text": {
       "ko": "《패를 1장 버린다》 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
-      "zh-TW": "《棄1張手牌》以這張牌為HP卡的餅乾獲得HP+1點。"
+      "zh-TW": "《棄1張手牌》以這張牌為HP卡的餅乾獲得HP+1點。",
+      "en": "《Discard 1 card.》 The Cookie with this card attached for HP gains +1 HP."
     },
     "effect": {
       "heal": 1

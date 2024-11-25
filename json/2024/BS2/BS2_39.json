@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "아보카도맛 쿠키",
-    "zh-TW": "酪梨餅乾"
+    "zh-TW": "酪梨餅乾",
+    "en": "Avocado Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -30,7 +31,8 @@
         },
         "text": {
           "ko": "《패를 2장 버린다》 자신의 쿠키를 2장까지 선택한다. 이 턴 중 그 쿠키들의 공격 대미지를 +1한다.",
-          "zh-TW": "《棄2張手牌》選擇最多2個自己的餅乾。在這個回合中,它們的攻擊傷害分別+1點。"
+          "zh-TW": "《棄2張手牌》選擇最多2個自己的餅乾。在這個回合中,它們的攻擊傷害分別+1點。",
+          "en": "《Discard 2 cards.》 Select up to 2 of your Cookies. During this turn, those Cookies deal +1 attack damage."
         },
         "effect": {
           "damageIncrease": 1
@@ -46,7 +48,8 @@
       },
       "text": {
         "ko": "3대미지를 준다.",
-        "zh-TW": "造成3點傷害。"
+        "zh-TW": "造成3點傷害。",
+        "en": "Deals 3 damage."
       },
       "damage": 3,
       "name": {

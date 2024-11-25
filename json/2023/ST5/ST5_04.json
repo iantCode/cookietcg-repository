@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "보더맛 쿠키",
-    "zh-TW": "滑板族餅乾"
+    "zh-TW": "滑板族餅乾",
+    "en": "Skater Cookie"
   },
   "hp": 1,
   "hasSkill": true,
@@ -25,7 +26,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 상대는 자신의 패를 1장 트래시에 놓는다.",
-          "zh-TW": "當這個餅乾暈倒時,對手將1張手牌放置到棄牌區。"
+          "zh-TW": "當這個餅乾暈倒時,對手將1張手牌放置到棄牌區。",
+          "en": "When this Cookie faints, your opponent must place 1 card from their hand into the trash."
         },
         "effect": {
           "handTrash": 1
@@ -40,7 +42,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

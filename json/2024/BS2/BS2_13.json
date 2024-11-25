@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "태엽 장치 회중시계",
-    "zh-TW": "發條懷錶"
+    "zh-TW": "發條懷錶",
+    "en": "Wind-Up Pocket Watch"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +24,8 @@
       },
       "text": {
         "ko": "자신의 배틀 에리어에 있는 쿠키를 1장 브레이크 에리어에 놓고 자신의 브레이크 에리어에 있는 LV.1의 쿠키를 1장까지 등장시킨다.",
-        "zh-TW": "從自己的戰鬥區將1個餅乾放置到休息區,並從自己的休息區將最多1個LV.1的餅乾放置到戰鬥區。"
+        "zh-TW": "從自己的戰鬥區將1個餅乾放置到休息區,並從自己的休息區將最多1個LV.1的餅乾放置到戰鬥區。",
+        "en": "Place 1 Cookie from your battle area into your break area, then play up to 1 LV.1 Cookie from your break area."
       },
       "damage": 0,
       "name": {
