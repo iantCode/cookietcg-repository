@@ -1,7 +1,8 @@
 {
   "serial": "P-035",
   "img": {
-    "ko": "images/ko/2024/Promo/P_035.webp"
+    "ko": "images/ko/2024/Promo/P_035.webp",
+    "zh-TW": "images/zh-TW/2024/Promo/P_035.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,13 +10,15 @@
     "blue"
   ],
   "name": {
-    "ko": "크림소다맛 쿠키"
+    "ko": "크림소다맛 쿠키",
+    "zh-TW": "奶油蘇打餅乾"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "몰아치는 파도"
+      "ko": "몰아치는 파도",
+      "zh-TW": "波浪陣陣"
     },
     "skillList": [
       {
@@ -27,7 +30,8 @@
           "blue": 1
         },
         "text": {
-          "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다."
+          "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대는 이 턴 중 FLIP을 발동할 수 없다.",
+          "zh-TW": "從自己的牌庫頂抽1張牌並展示它。如果抽出的牌為<blue>且為LV.2的餅乾,則在這個回合中,對手的FLIP效果不能發動。"
         },
         "effect": {}
       }
@@ -43,7 +47,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "스파클링 슬래시"
+        "ko": "스파클링 슬래시",
+        "zh-TW": "懲罰的標槍"
       }
     }
   ],

@@ -13,7 +13,7 @@
     "ko": "위치베리맛 쿠키",
     "en": "Witchberry Cookie"
   },
-  "hp": 5,
+  "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {

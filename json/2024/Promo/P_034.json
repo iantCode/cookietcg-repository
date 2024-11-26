@@ -1,7 +1,8 @@
 {
   "serial": "P-034",
   "img": {
-    "ko": "images/ko/2024/Promo/P_034.webp"
+    "ko": "images/ko/2024/Promo/P_034.webp",
+    "zh-TW": "images/zh-TW/2024/Promo/P_034.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "꽈배기맛 쿠키"
+    "ko": "꽈배기맛 쿠키",
+    "zh-TW": "麻花捲餅乾"
   },
   "hp": 1,
   "hasSkill": false,
@@ -24,7 +26,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "기차를 지켜라"
+        "ko": "기차를 지켜라",
+        "zh-TW": "守護車到"
       }
     }
   ],
@@ -32,7 +35,8 @@
   "flip": {
     "condition": {},
     "text": {
-      "ko": "자신의 덱에서 1장까지 뽑는다."
+      "ko": "자신의 덱에서 1장까지 뽑는다.",
+      "zh-TW": "從自己的牌庫抽最多1張牌。"
     },
     "effect": {
       "draw": 1

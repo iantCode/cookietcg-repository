@@ -1,7 +1,8 @@
 {
   "serial": "P-033",
   "img": {
-    "ko": "images/ko/2024/Promo/P_033.webp"
+    "ko": "images/ko/2024/Promo/P_033.webp",
+    "zh-TW": "images/zh-TW/2024/Promo/P_033.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -9,7 +10,8 @@
     "red"
   ],
   "name": {
-    "ko": "용감한 쿠키"
+    "ko": "용감한 쿠키",
+    "zh-TW": "勇敢餅乾"
   },
   "hp": 4,
   "hasSkill": true,
@@ -25,7 +27,8 @@
       },
       "damage": 4,
       "name": {
-        "ko": "캔디케인 어택"
+        "ko": "캔디케인 어택",
+        "zh-TW": "拐杖糖攻擊"
       }
     }
   ],
