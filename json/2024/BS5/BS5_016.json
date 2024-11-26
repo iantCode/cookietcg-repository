@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-016",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_016.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "티라미수맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "선물은 못 줘요!"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "<이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 그 카드가 쿠키 이외의 카드라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "신속정확 배달"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

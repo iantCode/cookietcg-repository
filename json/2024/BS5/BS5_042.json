@@ -1,0 +1,39 @@
+{
+  "serial": "BS5-042",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_042.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "훌쩍 코코야자나무"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "<자신의 쿠키 1장의 HP의 위에서부터 1장 트래시에 놓는다> 자신의 브레이크 에리어가 LV.5 이상이라면 자신의 덱에서 2장까지 뽑는다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

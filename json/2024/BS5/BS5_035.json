@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-035",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_035.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "아티초크맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": "그리고 이 쿠키의 남은 HP가 1이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "드럼 솔로"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

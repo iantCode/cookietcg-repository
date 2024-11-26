@@ -1,0 +1,49 @@
+{
+  "serial": "BS5-004",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_004.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "롤리팝맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "겨울밤은 추워~"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+      "handTrash": 1
+    },
+    "text": {
+      "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+    },
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "C",
+  "from": "전설의 쿠키들",
+  "releaseDate": "2024-10-01",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
