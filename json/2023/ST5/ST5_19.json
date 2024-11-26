@@ -25,7 +25,8 @@
       },
       "text": {
         "ko": "상대의 트래시에 있는 카드가 20장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 덱에서 1장 뽑을 수 있다.",
-        "zh-TW": "如果對手的棄牌區有20張或更多的牌,則選擇最多1個對手的餅乾。對它造成1點傷害。然後,你可以從牌庫抽1張牌。"
+        "zh-TW": "如果對手的棄牌區有20張或更多的牌,則選擇最多1個對手的餅乾。對它造成1點傷害。然後,你可以從牌庫抽1張牌。",
+        "en": "If your opponent has 20 cards or more in their trahs, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage. Then, you can draw 1 card from your deck."
       },
       "damage": 0,
       "name": {
