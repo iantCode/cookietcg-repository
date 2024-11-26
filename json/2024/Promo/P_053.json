@@ -1,0 +1,44 @@
+{
+  "serial": "P-053",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_053.webp",
+    "en": "images/en/2024/Promo/P_053.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "허브맛 쿠키",
+    "en": "Herb Cookie"
+  },
+  "hp": 5,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 4
+      },
+      "text": {
+        "ko": "이 배틀 중 상대의 LV.1 쿠키가 기절했다면, 자신의 덱 위에서부터 1장 서포트 에리어에 레스트로 놓는다.",
+        "en": "During this battle, if your opponent's LV.1 Cookie faints, you can draw up to 1 card from the top of your deck and place it in your support area as rested."
+      },
+      "damage": 4,
+      "name": {
+        "ko": "따스한 정원",
+        "en": "Sunny Garden"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 동남아시아 스타터 덱",
+  "releaseDate": "2024-12-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

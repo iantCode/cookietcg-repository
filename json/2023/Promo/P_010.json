@@ -2,7 +2,8 @@
   "serial": "P-010",
   "img": {
     "ko": "images/ko/2023/Promo/P_010.webp",
-    "zh-TW": "images/zh-TW/2024/Promo/P_010.webp"
+    "zh-TW": "images/zh-TW/2024/Promo/P_010.webp",
+    "en": "images/en/2024/Promo/P_010.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "탐험가맛 쿠키",
-    "zh-TW": "探險家餅乾"
+    "zh-TW": "探險家餅乾",
+    "en": "Adventurer Cookie"
   },
   "hp": 4,
   "hasSkill": true,
@@ -27,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "상대의 LV.1의 쿠키를 1장까지 선택한다. 그 쿠키는 자신의 다음 턴 시작 시까지 공격할 수 없다.",
-          "zh-TW": "選擇最多1個LV.1對手的餅乾。在下個自己的回合開始之前,它無法攻擊。"
+          "zh-TW": "選擇最多1個LV.1對手的餅乾。在下個自己的回合開始之前,它無法攻擊。",
+          "en": "Select up to 1 of your opponent's LV.1 Cookies. That Cookie cannot attack until the start of the next turn."
         },
         "effect": {
           "noAttack": 1
@@ -42,7 +45,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

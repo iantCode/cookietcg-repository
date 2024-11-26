@@ -2,7 +2,8 @@
   "serial": "P-009",
   "img": {
     "ko": "images/ko/2023/Promo/P_009.webp",
-    "zh-TW": "images/zh-TW/2024/Promo/P_009.webp"
+    "zh-TW": "images/zh-TW/2024/Promo/P_009.webp",
+    "en": "images/en/2024/Promo/P_009.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "스타더스트 쿠키",
-    "zh-TW": "星塵餅乾"
+    "zh-TW": "星塵餅乾",
+    "en": "Stardust Cookie"
   },
   "hp": 6,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "2대미지를 준다. 그리고 자신의 브레이크 에리어가 상대의 브레이크 에리어의 LV.보다 높을 경우 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-        "zh-TW": "造成2點傷害。然後,如果自己的休息區LV總和比對手高,則選擇最多1個對手的餅乾。對它造成1點傷害。"
+        "zh-TW": "造成2點傷害。然後,如果自己的休息區LV總和比對手高,則選擇最多1個對手的餅乾。對它造成1點傷害。",
+        "en": "Deals 2 damage. Then, if your break area LV. is higher than your opponent's, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
       },
       "damage": 1,
       "name": {

@@ -1,0 +1,64 @@
+{
+  "serial": "P-051",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_051.webp",
+    "en": "images/en/2024/Promo/P_051.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "딸기크레페맛 쿠키",
+    "en": "Strawberry Crepe Cookie"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "매지컬 엔지니어링",
+      "en": "Magichanical Engineering"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+          "red": 1
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어가 LV.2 이상이라면, 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
+          "en": "If your break area is LV.2 or higher, select up to 1 of your opponent's LV.1 Cookies. That Cookie receives 2 damage."
+        },
+        "effect": {
+          "damage": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 4
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 4,
+      "name": {
+        "ko": "몽땅 부서져버려!",
+        "en": "I'll smash you all!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 동남아시아 스타터 덱",
+  "releaseDate": "2024-12-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

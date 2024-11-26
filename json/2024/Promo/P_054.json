@@ -1,0 +1,64 @@
+{
+  "serial": "P-054",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_054.webp",
+    "en": "images/en/2024/Promo/P_054.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "블루슬러시맛 쿠키",
+    "en": "Blue Slushy Cookie"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "디저트 가디언",
+      "en": "Dessert Guardian"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 패가 5장 이하이고 상대의 배틀 에리어에 LV.1 쿠키가 있다면, 자신의 덱에서 2장까지 뽑을 수 있다.",
+          "en": "If there are 5 cards or less in your hand and there is a LV.1 Cookie in your opponent's battle area, you can draw up to 2 cards from your deck."
+        },
+        "effect": {
+          "draw": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": "",
+        "en": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "블루슬러시 화살",
+        "en": "Blue Slushy Arrows"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 동남아시아 스타터 덱",
+  "releaseDate": "2024-12-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

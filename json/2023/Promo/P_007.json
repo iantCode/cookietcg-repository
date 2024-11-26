@@ -2,7 +2,8 @@
   "serial": "P-007",
   "img": {
     "ko": "images/ko/2023/Promo/P_007.webp",
-    "zh-TW": "images/zh-TW/2024/Promo/P_007.webp"
+    "zh-TW": "images/zh-TW/2024/Promo/P_007.webp",
+    "en": "images/en/2024/Promo/P_007.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "밤톨맛 쿠키",
-    "zh-TW": "栗子餅乾"
+    "zh-TW": "栗子餅乾",
+    "en": "Chestnut Cookie"
   },
   "hp": 1,
   "hasSkill": true,
@@ -27,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -42,7 +45,8 @@
       },
       "text": {
         "ko": "1대미지를 준다.",
-        "zh-TW": "造成1點傷害。"
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
       },
       "damage": 1,
       "name": {

@@ -2,7 +2,8 @@
   "serial": "P-011",
   "img": {
     "ko": "images/ko/2023/Promo/P_011.webp",
-    "zh-TW": "images/zh-TW/2024/Promo/P_011.webp"
+    "zh-TW": "images/zh-TW/2024/Promo/P_011.webp",
+    "en": "images/en/2024/Promo/P_011.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "딸기맛 쿠키",
-    "zh-TW": "草莓餅乾"
+    "zh-TW": "草莓餅乾",
+    "en": "Strawberry Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -25,7 +27,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 자신의 서포트 에리어의 카드를 1장 패로 가져온다. 그리고 자신의 패에서 1장 서포트 에리어에 레스트로 놓는다.",
-          "zh-TW": "當這個餅乾暈倒時,從自己的支援區將1張牌移回手牌。然後,從自己的手牌將1張牌以疲勞狀態放置到支援區。"
+          "zh-TW": "當這個餅乾暈倒時,從自己的支援區將1張牌移回手牌。然後,從自己的手牌將1張牌以疲勞狀態放置到支援區。",
+          "en": "If this Cookie has fainted, take 1 card from your support area to your hand. Then, place 1 card from your hand in your support area as rested."
         },
         "effect": {
           "draw": 1
@@ -40,7 +43,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

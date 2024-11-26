@@ -2,7 +2,8 @@
   "serial": "P-008",
   "img": {
     "ko": "images/ko/2023/Promo/P_008.webp",
-    "zh-TW": "images/zh-TW/2024/Promo/P_008.webp"
+    "zh-TW": "images/zh-TW/2024/Promo/P_008.webp",
+    "en": "images/en/2024/Promo/P_008.webp"
   },
   "type": "item",
   "level": 0,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "마카롱 해머",
-    "zh-TW": "馬卡龍鎚子"
+    "zh-TW": "馬卡龍鎚子",
+    "en": "Macaron Hammer"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "상대의 HP4 이상의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-        "zh-TW": "選擇最多1個HP為4或以上對手的餅乾。對它造成1點傷害。"
+        "zh-TW": "選擇最多1個HP為4或以上對手的餅乾。對它造成1點傷害。",
+        "en": "Select up to 1 of your opponent's Cookies whose remaining HP is 4 or more. That Cookie receives 1 damage."
       },
       "damage": 1,
       "name": {

@@ -2,7 +2,8 @@
   "serial": "P-016",
   "img": {
     "ko": "images/ko/2024/Promo/P_016.webp",
-    "zh-TW": "images/zh-TW/2024/Promo/P_016.webp"
+    "zh-TW": "images/zh-TW/2024/Promo/P_016.webp",
+    "en": "images/en/2024/Promo/P_016.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "버블껌맛 쿠키",
-    "zh-TW": "泡泡糖餅乾"
+    "zh-TW": "泡泡糖餅乾",
+    "en": "Gumball Cookie"
   },
   "hp": 2,
   "hasSkill": true,
@@ -29,7 +31,8 @@
         },
         "text": {
           "ko": "자신의 트래시에 있는 <yellow> LV.2 쿠키를 1장 브레이크 에리어에 놓을 수 있다. 놓았다면 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 2장까지 트래시에 놓는다.",
-          "zh-TW": "你可以從自己的棄牌區將1個<yellow>且為LV.2 的餅乾放置到休息區。如果你這麼做,則從自己的休息區將最多2個<yellow>且為LV.1的餅乾放置到棄牌區。"
+          "zh-TW": "你可以從自己的棄牌區將1個<yellow>且為LV.2 的餅乾放置到休息區。如果你這麼做,則從自己的休息區將最多2個<yellow>且為LV.1的餅乾放置到棄牌區。",
+          "en": "Choose 1 <yellow> LV.2 Cookie from your trash and place them in your break area. Then, select up to 2 <yellow> LV.1 Cookies from your break area and place them in your trash."
         },
         "effect": {
           "exchangeBreak": 2
@@ -44,7 +47,8 @@
       },
       "text": {
         "ko": "2대미지를 준다.",
-        "zh-TW": "造成2點傷害。"
+        "zh-TW": "造成2點傷害。",
+        "en": "Deals 2 damage."
       },
       "damage": 2,
       "name": {

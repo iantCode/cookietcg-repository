@@ -2,7 +2,8 @@
   "serial": "P-012",
   "img": {
     "ko": "images/ko/2023/Promo/P_012.webp",
-    "zh-TW": "images/zh-TW/2024/Promo/P_012.webp"
+    "zh-TW": "images/zh-TW/2024/Promo/P_012.webp",
+    "en": "images/en/2024/Promo/P_012.webp"
   },
   "type": "item",
   "level": 0,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "장난꾸러기 무당벌레",
-    "zh-TW": "調皮瓢蟲"
+    "zh-TW": "調皮瓢蟲",
+    "en": "Mischievous Ladybug"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 카드를 자신의 서포트 에리어에 레스트로 놓는다.",
-        "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。然後,將這張牌以疲勞狀態放置到支援區。"
+        "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。然後,將這張牌以疲勞狀態放置到支援區。",
+        "en": "Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage. Then, place this card in your support area as rested."
       },
       "damage": 1,
       "name": {

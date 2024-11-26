@@ -2,7 +2,8 @@
   "serial": "P-019",
   "img": {
     "ko": "images/ko/2024/Promo/P_019.webp",
-    "zh-TW": "images/zh-TW/2024/Promo/P_019.webp"
+    "zh-TW": "images/zh-TW/2024/Promo/P_019.webp",
+    "en": "images/en/2024/Promo/P_019.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "히어로맛 쿠키",
-    "zh-TW": "英雄餅乾"
+    "zh-TW": "英雄餅乾",
+    "en": "Hero Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "1대미지를 준다. 그리고 자신의 트래시에 있는 FLIP을 가지지 않은 쿠키를 3장까지 선택하고 덱으로 되돌리고 섞는다.",
-        "zh-TW": "造成1點傷害。然後,從自己的棄牌區選擇最多3個沒有FLIP效果的餅乾,將選擇的餅乾洗回牌庫。"
+        "zh-TW": "造成1點傷害。然後,從自己的棄牌區選擇最多3個沒有FLIP效果的餅乾,將選擇的餅乾洗回牌庫。",
+        "en": "Deals 1 damage. Then, select up to 3 Cookies from your trash that do not have FLIP, return them to your deck, and shuffle it."
       },
       "damage": 1,
       "name": {

@@ -1,0 +1,64 @@
+{
+  "serial": "P-055",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_055.webp",
+    "en": "images/en/2024/Promo/P_055.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "위치베리맛 쿠키",
+    "en": "Witchberry Cookie"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "소동을 일으키자냥!",
+      "en": "Feline Ruckus"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "상대의 트래시에 있는 카드가 15장 이상이라면, 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
+          "en": "If your opponent has 15 cards or more in their trash, select up to 1 of your opponent's LV.1 Cookies. That Cookie receives 2 damage."
+        },
+        "effect": {
+          "damage": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": "",
+        "en": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "위치베리 매직",
+        "en": "Witchberry Magic"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 동남아시아 스타터 덱",
+  "releaseDate": "2024-12-01",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
