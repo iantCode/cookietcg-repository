@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-060",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_060.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "크루아상맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": "그리고 자신의 턴 종료 시 자신의 서포트 에리어에 있는 카드를 3장까지 액티브로 한다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "시간 수리"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
