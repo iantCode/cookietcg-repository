@@ -23,7 +23,7 @@
         "green": 4
       },
       "text": {
-        "ko": "이 배틀 중 상대의 LV.1 쿠키가 기절했다면, 자신의 덱 위에서부터 1장 서포트 에리어에 레스트로 놓는다.",
+        "ko": "이 배틀 중 상대의 LV.1 쿠키가 기절했다면, 자신의 덱 위에서부터 1장까지 서포트 에리어에 레스트로 놓는다.",
         "en": "During this battle, if your opponent's LV.1 Cookie faints, you can draw up to 1 card from the top of your deck and place it in your support area as rested."
       },
       "damage": 4,
