@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-079",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_079.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "연근맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "이렇게 잠수하는 거야"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

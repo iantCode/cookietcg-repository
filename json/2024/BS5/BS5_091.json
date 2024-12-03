@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-091",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_091.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "라일락맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "사막의 밤바람"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 트래시에 있는 카드가 15장 이상이라면 상대의 레스트인 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+        },
+        "effect": {
+          "damage": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "차크람 부메랑"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

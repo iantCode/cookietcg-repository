@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-070",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_070.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "박하사탕맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "고래 타기"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "상대의 배틀 에리어에 있는 쿠키를 1장까지 선택한다. 그 쿠키를 패로 되돌린다."
+        },
+        "effect": {
+          "returnHand": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "파도 소리를 들어봐"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

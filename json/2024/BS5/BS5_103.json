@@ -1,0 +1,57 @@
+{
+  "serial": "BS5-103",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_103.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "전갈맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "전갈 독침"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 트래시에 있는 카드 15장당 이 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "곧 편안해질 거야"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

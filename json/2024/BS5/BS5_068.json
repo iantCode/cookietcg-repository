@@ -1,0 +1,57 @@
+{
+  "serial": "BS5-068",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_068.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "명랑한 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "분위기 메이커"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 대미지를 받은 후 아직 배틀 에리어에 남아 있다면 자신의 덱에서 1장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "기분이 명랑해!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

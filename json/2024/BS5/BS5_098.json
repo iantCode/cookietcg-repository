@@ -1,0 +1,57 @@
+{
+  "serial": "BS5-098",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_098.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "센티피드맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "사막의 기다림"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 턴 종료 시 이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다."
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": "그리고 <이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 상대의 쿠키가 LV.1이라면 그 쿠키를 트래시에 놓는다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "센티피드킹 소환"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

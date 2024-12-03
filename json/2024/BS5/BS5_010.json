@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-010",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_010.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "분모자맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "익룡 비행"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "상대의 레스트인 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+        },
+        "effect": {
+          "damage": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 4
+      },
+      "text": {
+        "ko": "그리고 <이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 자신의 덱에서 1장까지 뽑는다."
+      },
+      "damage": 4,
+      "name": {
+        "ko": "다이아몬드 대형으로!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

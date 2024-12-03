@@ -1,0 +1,57 @@
+{
+  "serial": "BS5-069",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_069.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "물망초 다이노 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "호수 헤엄치기"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 패가 3장 이하라면 이 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "우뱌바바!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
