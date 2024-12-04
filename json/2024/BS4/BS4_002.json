@@ -1,7 +1,8 @@
 {
   "serial": "BS4-002",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_002.webp"
+    "ko": "images/ko/2024/BS4/BS4_002.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_002.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "red"
   ],
   "name": {
-    "ko": "리틀페퍼맛 쿠키"
+    "ko": "리틀페퍼맛 쿠키",
+    "zh-TW": "小胡椒餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -24,7 +26,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "얼얼한 스윙"
+        "ko": "얼얼한 스윙",
+        "zh-TW": "火辣一擊"
       }
     }
   ],
