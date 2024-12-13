@@ -14,7 +14,7 @@
     "zh-TW": "勇敢餅乾"
   },
   "hp": 4,
-  "hasSkill": true,
+  "hasSkill": false,
   "skill": {},
   "attack": [
     {
