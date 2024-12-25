@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-027",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_027.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "망고 부족장 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "어서 오세요~"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

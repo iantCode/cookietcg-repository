@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-062",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_062.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "호박맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "이 보석도 내 것이란다"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

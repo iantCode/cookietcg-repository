@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-034",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_034.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "스파클링맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "스파클링 파티"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "<자신의 패에서 <yellow> 쿠키를 1장 브레이크 에리어에 놓는다> 이 턴 중 이 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "건배할까요?"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-031",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_031.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "복숭아맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "돌리고~ 찌르고!"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어의 LV.이 상대의 브레이크 에리어의 LV.보다 높다면 자신의 덱에서 1장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "복숭봉술"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

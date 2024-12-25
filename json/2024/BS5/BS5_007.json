@@ -1,0 +1,57 @@
+{
+  "serial": "BS5-007",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_007.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "마카롱맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "즐거운 행진이었어요~!"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 <자신의 패에서 <red> 아이템 카드를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "마카롱 행진"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

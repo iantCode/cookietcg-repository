@@ -1,0 +1,57 @@
+{
+  "serial": "BS5-061",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_061.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "팬케이크맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "도토리젤리 발견"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 턴 종료 시 자신의 서포트 에리어에 있는 액티브 카드가 3장 이상이라면 <<green>으로 사용할 수 있다> 이 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+          "heal": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "단 거 좋아!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

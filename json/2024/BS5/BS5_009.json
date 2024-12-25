@@ -1,0 +1,48 @@
+{
+  "serial": "BS5-009",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_009.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "버터베어맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "장난감 캡슐"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+    },
+    "text": {
+      "ko": "자신의 덱에서 1장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

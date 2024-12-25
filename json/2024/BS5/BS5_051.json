@@ -1,0 +1,57 @@
+{
+  "serial": "BS5-051",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_051.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "비트맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "위장술의 달인"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 턴 종료 시 자신의 서포트 에리어에 있는 액티브 카드가 2장 이상이라면 <<green>로 사용할 수 있다> 이 쿠키를 자신의 덱 아래에 놓는다."
+        },
+        "effect": {
+          "deckReturn": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "비트 저격"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

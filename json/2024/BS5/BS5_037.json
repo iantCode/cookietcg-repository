@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-037",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_037.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "자두맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "지피지기백전백승!"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어의 LV.이 상대의 브레이크 에리어의 LV.보다 높다면 자신의 배틀 에리어에 있는 다른 <yellow> 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "자두권"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

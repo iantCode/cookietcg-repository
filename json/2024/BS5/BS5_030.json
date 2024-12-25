@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-030",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_030.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "버터크림초코 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": "그리고 <이 쿠키를 브레이크 에리어에 놓는다> 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "버터크림 코인"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

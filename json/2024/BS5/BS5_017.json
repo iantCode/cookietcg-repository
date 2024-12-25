@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-017",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_017.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "페퍼누스맛맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "선물 받아~!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-002",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_002.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "딸기맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "내 친구가 되어줄래?"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

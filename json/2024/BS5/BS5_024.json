@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-024",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_024.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "닥터 와사비 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": "그리고 상대의 남은 HP가 2 이하라면 1대미지를 준다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "와사비 시럽"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

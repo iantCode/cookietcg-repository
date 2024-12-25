@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-025",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_025.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "대파맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": "그리고 이 쿠키의 남은 HP가 1이라면 패로 되돌릴 수 있다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "파 가문의 비기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

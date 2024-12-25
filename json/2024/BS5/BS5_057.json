@@ -1,0 +1,59 @@
+{
+  "serial": "BS5-057",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_057.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "웨어울프맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "침착해야 돼"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "<자신의 서포트 에리어에서 1장 트래시에 놓는다> 이 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+          "heal": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "다가오지 마!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,59 @@
+{
+  "serial": "BS5-019",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_019.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "푸딩맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "황금벨"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+          "red": 1
+        },
+        "text": {
+          "ko": "<자신의 패에서 <red> 쿠키를 1장 버린다> 이 턴 중 이 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "핸드벨 연주주"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

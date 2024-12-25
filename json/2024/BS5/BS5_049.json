@@ -1,0 +1,48 @@
+{
+  "serial": "BS5-049",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_049.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "메론빵맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "퇴근하자!"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+    },
+    "text": {
+      "ko": "자신의 덱에서 1장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

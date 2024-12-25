@@ -1,0 +1,57 @@
+{
+  "serial": "BS5-001",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_001.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "다크초코 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "불굴의 의지"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키의 남은 HP가 1이라면 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "암흑번개 검술"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

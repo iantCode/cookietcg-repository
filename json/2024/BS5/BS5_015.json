@@ -1,0 +1,59 @@
+{
+  "serial": "BS5-015",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_015.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "음유시인맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "마법의 노래"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "<자신의 다른 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "예술을 노래부르자~"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
