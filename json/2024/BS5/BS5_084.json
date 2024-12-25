@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-084",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_084.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "풋사과맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "방울방울"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "<이 카드를 레스트한다> <패를 1장 버린다> 자신의 다른 <blue> 쿠키를 1장까지 선택한다. 그 쿠키를 액티브로 한다."
+        },
+        "effect": {
+          "makeActive": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "같이 놀자~"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

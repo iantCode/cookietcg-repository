@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-092",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_092.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "람부탄맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "부족장의 위엄"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "상대의 쿠키가 공격했을 때 <자신의 트래시에 있는 쿠키 이외의 카드를 3장 덱으로 되돌리고 섞는다> 상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -1한다."
+        },
+        "effect": {
+          "damageDecrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "삼지창 찌르기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

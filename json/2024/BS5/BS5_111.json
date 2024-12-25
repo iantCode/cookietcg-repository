@@ -1,0 +1,38 @@
+{
+  "serial": "BS5-111",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_111.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+  ],
+  "name": {
+    "ko": "각성, 용의 분노"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "mix": 1
+      },
+      "text": {
+        "ko": "이 카드를 자신의 <드래곤>에게 <장착>한다. 그 쿠키의 남은 HP가 3 이하라면 공격 대미지를 +1하고 받는 공격 대미지를 -1한다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

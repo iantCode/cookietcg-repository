@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-097",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_097.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "블랙페퍼맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": "그리고 이 쿠키의 공격으로 상대의 쿠키가 기절하면 자신의 덱에서 2장까지 뽑고 패를 2장 버린다."
+      },
+      "damage": 4,
+      "name": {
+        "ko": "후추 폭탄"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

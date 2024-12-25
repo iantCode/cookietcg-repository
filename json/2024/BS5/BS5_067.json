@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-067",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_067.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "눈설탕맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": "그리고 자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "스노우콘!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

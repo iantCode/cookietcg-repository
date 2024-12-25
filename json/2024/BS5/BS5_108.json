@@ -1,0 +1,39 @@
+{
+  "serial": "BS5-108",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_108.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "람독수리 사냥장감"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": "자신의 덱의 위에서부터 3장을 보고 그중에서 <purple> 쿠키를 1장까지 공개하여 패로 가져온다. 그리고 남은 카드를 트래시에 놓는다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

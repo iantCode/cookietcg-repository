@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-106",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_106.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "플레인요거트맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": "그리고 자신의 덱에서 1장 뽑고 자신의 덱의 위에서부터 3장까지 트래시에 놓는다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "비열한 계책"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

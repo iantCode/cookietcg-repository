@@ -1,0 +1,58 @@
+{
+  "serial": "BS5-081",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_081.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "오징어먹물맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "거대 오징어 다리 강화"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "상대의 쿠키가 공격했을 때 <패를 4장 버린다> 이 배틀 중 이 쿠키의 HP는 0이 되지 않는다."
+        },
+        "effect": {
+          "protect": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "반짝이는 거...좋아..."
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

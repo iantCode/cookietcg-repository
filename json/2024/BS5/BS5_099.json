@@ -1,0 +1,40 @@
+{
+  "serial": "BS5-099",
+  "img": {
+    "ko": "images/ko/2024/BS5/BS5_099.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "아보카도맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": "그리고 서로의 덱의 위에서부터 2장 트래시에 놓는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "용비늘 갑주"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "각성, 용의 분노",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
