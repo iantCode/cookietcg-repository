@@ -1,0 +1,59 @@
+{
+  "serial": "P-056",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_056.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "호밀맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "결투의 순간"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+          "red": 1
+        },
+        "text": {
+          "ko": "<이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 상대의 남은 HP가 1인 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다."
+        },
+        "effect": {
+          "kill": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "비켜라 애송이들!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.5",
+  "releaseDate": "2024-12-30",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
