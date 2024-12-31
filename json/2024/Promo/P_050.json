@@ -1,7 +1,7 @@
 {
   "serial": "P-050",
   "img": {
-    "ko": "images/ko/2024/Promo/P_051.webp"
+    "ko": "images/ko/2024/Promo/P_050.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,13 +9,13 @@
     "red"
   ],
   "name": {
-    "ko": "생크림담비비 쿠키"
+    "ko": "생크림담비 쿠키"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "생크림 마법법"
+      "ko": "생크림 마법"
     },
     "skillList": [
       {
@@ -23,7 +23,6 @@
           "manual", "onceTurn"
         ],
         "cost": {
-          "red": 1
         },
         "text": {
           "ko": "<이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 이 턴 중 이 쿠키의 공격 대미지를 +1한다."
