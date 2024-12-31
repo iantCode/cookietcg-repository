@@ -1,0 +1,59 @@
+{
+  "serial": "P-050",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_051.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "생크림담비비 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "생크림 마법법"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+          "red": 1
+        },
+        "text": {
+          "ko": "<이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 이 턴 중 이 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": "그리고 <<red>로 사용할 수 있다> <패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "포근포근해질 거야~!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 쿠키런: 킹덤 바리스타",
+  "releaseDate": "2024-12-03",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
