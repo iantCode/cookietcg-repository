@@ -1,0 +1,61 @@
+{
+  "serial": "BS4-004-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS4_004_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "마라맛 쿠키",
+    "zh-TW": "麻辣餅乾"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "불타는 마라",
+      "zh-TW": "燃燒的麻辣"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "<이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
+          "zh-TW": "<將這個餅乾最上方的1張HP卡放置到棄牌區>選擇最多1個對手的餅乾。對它造成1點傷害。"
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "불타는 매운 맛을 봐라!!",
+        "zh-TW": "嚐嚐火燒舌頭的滋味!!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 각성, 용의 분노 구입 특전",
+  "releaseDate": "2024-12-24",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

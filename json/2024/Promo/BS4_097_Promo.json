@@ -1,0 +1,40 @@
+{
+  "serial": "BS4-097-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS4_097_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "슈크림맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 2,
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "어둠에 휩싸인 마법"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 각성, 용의 분노 구입 특전",
+  "releaseDate": "2024-12-24",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,48 @@
+{
+  "serial": "P-047",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_047.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "용감한 쿠키키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "용감한 왕왕"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": {
+      "ko": "자신의 덱에서 1장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "P",
+  "from": "프로모 카드 - 흑요석 컬렉터블 카드 세트",
+  "releaseDate": "2024-11-14",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

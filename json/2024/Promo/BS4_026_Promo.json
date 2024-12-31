@@ -1,0 +1,57 @@
+{
+  "serial": "BS4-026-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS4_026_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "뇌신무장 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "뇌신강림"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 2
+        },
+        "text": {
+          "ko": "상대의 브레이크 에리어가 LV.5 이하라면 상대의 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다."
+        },
+        "effect": {}
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": "그리고 <<yellow>로 사용할 수 있다> 자신의 브레이크 에리어가 LV.3 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "신의 천벌"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 각성, 용의 분노 구입 특전",
+  "releaseDate": "2024-12-24",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

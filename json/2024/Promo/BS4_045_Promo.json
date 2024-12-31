@@ -1,0 +1,40 @@
+{
+  "serial": "BS4-045-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS4_045_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "감귤탕후루맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 2,
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "깨끗한 게 좋아!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 쿠키런: 킹덤 바리스타",
+  "releaseDate": "2024-12-03",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

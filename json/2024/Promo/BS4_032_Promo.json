@@ -1,0 +1,47 @@
+{
+  "serial": "BS4-032-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS4_032_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "생크림담비 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "생크림 마법의 힘!"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": {
+      "ko": "자신의 덱에서 1장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "P",
+  "from": "프로모 카드 - 각성, 용의 분노 구입 특전",
+  "releaseDate": "2024-12-24",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

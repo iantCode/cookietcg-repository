@@ -1,0 +1,62 @@
+{
+  "serial": "BS4-005-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS4_005_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "불꽃정령 쿠키",
+    "zh-TW": "火精靈餅乾"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "살아있는 불꽃의 화신!",
+      "zh-TW": "火焰的化身!"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {},
+        "text": {
+          "ko": "<이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 상대의 모든 쿠키에게 1대미지를 준다.",
+          "zh-TW": "<將這個餅乾最上方的1張HP卡放置到棄牌區>對對手的所有餅乾分別造成1點傷害。"
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "불꽃질주",
+        "zh-TW": "火焰衝刺"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 흑요석 컬렉터블 카드 세트",
+  "releaseDate": "2024-11-14",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
