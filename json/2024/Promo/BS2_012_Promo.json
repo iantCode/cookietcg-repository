@@ -1,0 +1,65 @@
+{
+  "serial": "BS2-012-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS2_012_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "양파맛 쿠키",
+    "zh-TW": "洋蔥餅乾",
+    "en": "Onion Cookie"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "상대의 스테이지를 1장까지 트래시에 놓는다.",
+          "zh-TW": "將最多1張對手的場景卡放置到棄牌區。",
+          "en": "Place up to 1 of your opponent's stage cards in the trash."
+        },
+        "effect": {
+          "trashStage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "1대미지를 준다.",
+        "zh-TW": "造成1點傷害。",
+        "en": "Deals 1 damage."
+      },
+      "damage": 1,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 언박싱런",
+  "releaseDate": "2024-03-15",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

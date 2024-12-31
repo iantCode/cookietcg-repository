@@ -1,0 +1,43 @@
+{
+  "serial": "BS3-102-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS3_102_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "독버섯맛 쿠키",
+    "zh-TW": "毒蘑菇餅乾"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 서로의 덱의 위에서부터 2장 트래시에 놓는다.",
+        "zh-TW": "然後,從雙方的牌庫頂分別抽2張牌,並放置到其擁有者的棄牌區。"
+      },
+      "damage": 2,
+      "name": {
+        "ko": "버섯 머겅~",
+        "zh-TW": "吃蘑菇吧~"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 영웅과 왕국의 시대 구입 특전",
+  "releaseDate": "2024-06-14",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

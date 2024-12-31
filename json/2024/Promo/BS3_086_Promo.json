@@ -1,0 +1,42 @@
+{
+  "serial": "BS3-086-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS3_086_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "퀸아망맛 쿠키",
+    "zh-TW": "法式焦糖奶油酥餅乾"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": "그리고 자신의 배틀 에리어에 LV.3 쿠키가 있다면 <패를 1장 버린다> 1대미지를 준다.",
+        "zh-TW": "然後,如果自己的戰鬥區有LV.3的餅乾,則<棄1張手牌>造成1點傷害。"
+      },
+      "damage": 3,
+      "name": {
+        "ko": "정의의 대검",
+        "zh-TW": "正義的巨劍"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 영웅과 왕국의 시대 구입 특전",
+  "releaseDate": "2024-06-14",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

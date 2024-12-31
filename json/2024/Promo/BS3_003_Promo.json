@@ -1,0 +1,63 @@
+{
+  "serial": "BS3-003-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS3_003_Promo.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "로얄마가린맛 쿠키",
+    "zh-TW": "皇家人造奶油餅乾"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "화려한 비행술",
+      "zh-TW": "華麗的馭龍術"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "red": 2
+        },
+        "text": {
+          "ko": "이 쿠키를 패로 되돌린다.",
+          "zh-TW": "將這個餅乾移回手牌。"
+        },
+        "effect": {
+          "return": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "버터크림 브레스",
+        "zh-TW": "奶油氣息"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 영웅과 왕국의 시대 구입 특전",
+  "releaseDate": "2024-06-14",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}

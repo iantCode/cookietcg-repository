@@ -1,0 +1,62 @@
+{
+  "serial": "BS3-095-P",
+  "img": {
+    "ko": "images/ko/2024/Promo/BS3_095_Promo.webp"
+  },
+  "type": "stage",
+  "level": 0,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "영광의 빛, 크렘 공화국",
+    "zh-TW": "榮耀之光·鮮奶油共和國"
+  },
+  "hp": 0,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": ""
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "blue": 1
+        },
+        "text": {
+          "ko": "<이 카드를 레스트한다> 아래에서 하나를 선택한다.<br />• 자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다.<br />• 자신의 덱에서 1장을 뽑고 이 카드를 덱의 아래에 놓는다.",
+          "zh-TW": "<將這張牌改為疲勞狀態>選擇以下其中1個效果。<br />•從自己的牌庫頂查看3張牌,並以任意順序放回牌庫 最上方。<br />•從自己的牌庫抽1張牌,將這張牌放回牌庫最下方。"
+        },
+        "effect": {
+          "damage": 0
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": "자신의 스테이지 에리어에 내려놓는다.",
+        "zh-TW": "將這張牌放置到自己的場景區。"
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 2024 썸머 챔피언 컵",
+  "releaseDate": "2024-07-28",
+  "regulation": "A",
+  "limit": 4,
+  "qna": []
+}
