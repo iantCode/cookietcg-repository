@@ -1,7 +1,7 @@
 {
   "serial": "P-051",
   "img": {
-    "ko": "images/ko/2024/Promo/P_051.webp",
+    "ko": "images/ko/2025/Promo/P_051.webp",
     "en": "images/en/2024/Promo/P_051.webp"
   },
   "type": "cookie",
@@ -17,7 +17,7 @@
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "매지컬 엔지니어링",
+      "ko": "마법기계공학의 정수",
       "en": "Magichanical Engineering"
     },
     "skillList": [
@@ -29,7 +29,7 @@
           "red": 1
         },
         "text": {
-          "ko": "자신의 브레이크 에리어가 LV.2 이상이라면, 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
+          "ko": "자신의 브레이크 에리어가 LV.2 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
           "en": "If your break area is LV.2 or higher, select up to 1 of your opponent's LV.1 Cookies. That Cookie receives 2 damage."
         },
         "effect": {

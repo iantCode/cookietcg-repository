@@ -1,7 +1,7 @@
 {
   "serial": "P-054",
   "img": {
-    "ko": "images/ko/2024/Promo/P_054.webp",
+    "ko": "images/ko/2025/Promo/P_054.webp",
     "en": "images/en/2024/Promo/P_054.webp"
   },
   "type": "cookie",
@@ -17,7 +17,7 @@
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "디저트 가디언",
+      "ko": "디저트 숲의 수호자",
       "en": "Dessert Guardian"
     },
     "skillList": [
@@ -28,7 +28,7 @@
         "cost": {
         },
         "text": {
-          "ko": "자신의 패가 5장 이하이고 상대의 배틀 에리어에 LV.1 쿠키가 있다면, 자신의 덱에서 2장까지 뽑을 수 있다.",
+          "ko": "자신의 패가 5장 이하이고 상대의 배틀 에리어에 LV.1 쿠키가 있다면 자신의 덱에서 2장까지 뽑는다.",
           "en": "If there are 5 cards or less in your hand and there is a LV.1 Cookie in your opponent's battle area, you can draw up to 2 cards from your deck."
         },
         "effect": {

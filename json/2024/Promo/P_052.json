@@ -1,7 +1,7 @@
 {
   "serial": "P-052",
   "img": {
-    "ko": "images/ko/2024/Promo/P_052.webp",
+    "ko": "images/ko/2025/Promo/P_052.webp",
     "en": "images/en/2024/Promo/P_052.webp"
   },
   "type": "cookie",
@@ -17,7 +17,7 @@
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "충전"
+      "ko": "방전"
     },
     "skillList": [
       {
@@ -26,7 +26,7 @@
         "cost": {
         },
         "text": {
-          "ko": "이 쿠키가 기절했을 때, 자신의 브레이크 에리어가 LV.5 이상이라면, 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다.",
+          "ko": "이 쿠키가 기절했을 때 자신의 브레이크 에리어가 LV.5 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다.",
           "en": "When this Cookie faints and your break area is LV.5 or higher, select up to 1 of your opponent's LV.1 Cookies. Make that Cookie faint."
         },
         "effect": {
