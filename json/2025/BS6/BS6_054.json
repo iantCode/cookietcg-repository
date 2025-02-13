@@ -1,0 +1,40 @@
+{
+  "serial": "BS6-054",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_054.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "오렌지맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "밖에서 놀자!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
