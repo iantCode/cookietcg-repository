@@ -1,0 +1,57 @@
+{
+  "serial": "BS6-098",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_098.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "커런트크림맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "쿠키패션계의 이단아"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 트래시에서 등장했을 때 상대의 덱의 위에서부터 5장까지 트래시에 놓는다."
+        },
+        "effect": {
+          "deckTrash": 5
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "펑크 정신"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

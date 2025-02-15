@@ -1,0 +1,58 @@
+{
+  "serial": "BS6-093",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_093.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "시간지기 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "시간의 틈새의 빌런"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 배틀 에리어에 있는 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다."
+        },
+        "effect": {
+          "trash": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": "그리고 <<purple>로 사용할 수 있다> 자신의 트래시에서 HP가 2 이하인 <purple> 쿠키를 1장까지 등장시킨다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "과거를 바꾸고 싶어~?"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

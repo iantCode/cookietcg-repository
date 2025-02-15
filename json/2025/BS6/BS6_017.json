@@ -1,0 +1,58 @@
+{
+  "serial": "BS6-017",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_017.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "핑크초코 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "러브 바이러스"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "red": 1
+        },
+        "text": {
+          "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 HP에 있는 FLIP을 발동할 수 없다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "출동 준비 완료!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
