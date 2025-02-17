@@ -1,0 +1,56 @@
+{
+  "serial": "BS6-008",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_008.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "설탕백조 쿠키"
+  },
+  "hp": 6,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "진실한 사랑의 맹세"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 공격했을 때 이 쿠키의 남은 HP가 4 이하라면 상대는 이 배틀 중 트랩을 발동할 수 없다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "달콤한 첫사랑"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
