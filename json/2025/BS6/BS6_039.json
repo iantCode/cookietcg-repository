@@ -1,0 +1,58 @@
+{
+  "serial": "BS6-039",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_039.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "크루아상맛 쿠키"
+  },
+  "hp": 6,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "최고의 시간기술자"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "상대의 브레이크 에리어가 LV.6 이하라면 상대의 브레이크 에리어에 있는 쿠키를 1장 트래시에 놓는다. 그리고 그 쿠키보다 LV.이 1 높은 상대의 배틀 에리어에 있는 쿠키를 1장까지 선택한다. 그 쿠키를 상대의 브레이크 에리어에 놓는다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "시간여행 출발!!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
