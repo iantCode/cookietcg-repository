@@ -1,0 +1,56 @@
+{
+  "serial": "BS6-010",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_010.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "시간지기 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "사랑의 속박"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 배틀 에리어에 있다면 상대는 효과로 서로의 쿠키를 배틀 에리어에서 이동시킬 수 없다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "달콤한 절망"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

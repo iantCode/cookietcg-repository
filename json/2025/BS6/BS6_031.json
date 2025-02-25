@@ -1,0 +1,59 @@
+{
+  "serial": "BS6-031",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_031.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "시간지기 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "한순간의 재미난 놀이"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 3
+      },
+      "text": {
+        "ko": "그리고 <<yellow>로 사용할 수 있다> 자신의 브레이크 에리어가 LV.4 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "모든 것을 뒤바꾸는 손짓"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

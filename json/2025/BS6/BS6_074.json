@@ -1,0 +1,59 @@
+{
+  "serial": "BS6-074",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_074.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "스트링젤리맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "젤리스틱 총"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "blue": 1
+        },
+        "text": {
+          "ko": "<패를 2장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+        },
+        "effect": {
+          "damage": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": "그리고 자신의 패가 5장 이하라면 자신의 덱에서 2장까지 뽑는다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "방해하지 마라"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

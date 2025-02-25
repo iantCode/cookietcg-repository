@@ -1,0 +1,58 @@
+{
+  "serial": "BS6-092",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_092.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "스트링젤리맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "시간수사과 최고형사"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "myTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 트래시에서 등장했을 때 자신의 배틀 에리어에 LV.3 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+        },
+        "effect": {
+          "damage": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "도망쳐도 소용없다!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

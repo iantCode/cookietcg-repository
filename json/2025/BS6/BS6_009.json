@@ -1,0 +1,49 @@
+{
+  "serial": "BS6-009",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_009.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "솜사탕맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "사랑의 말"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {
+    },
+    "text": {
+      "ko": "자신의 덱에서 1장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "C",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

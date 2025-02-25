@@ -1,37 +1,37 @@
 {
-  "serial": "BS6-007",
+  "serial": "BS6-077",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_007.webp"
+    "ko": "images/ko/2025/BS6/BS6_077.webp"
   },
   "type": "cookie",
   "level": 2,
   "color": [
-    "red"
+    "blue"
   ],
   "name": {
-    "ko": "블루슬러시맛 쿠키"
+    "ko": "치어리더맛 쿠키"
   },
-  "hp": 4,
+  "hp": 2,
   "hasSkill": false,
   "skill": {
   },
   "attack": [
     {
       "cost": {
-        "red": 3
+        "blue": 2
       },
       "text": {
-        "ko": "그리고 이 쿠키의 공격으로 상대의 쿠키가 기절했다면 상대의 서포트 에리어에 있는 카드를 2장까지 레스트로 한다."
+        "ko": "그리고 <<blue>로 사용할 수 있다> 자신의 패가 5장 이하라면 이 쿠키의 HP를 +1한다."
       },
-      "damage": 3,
+      "damage": 2,
       "name": {
-        "ko": "즐기자~!"
+        "ko": "베개싸움 화이팅!"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
-  "rarity": "R",
+  "rarity": "U",
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",

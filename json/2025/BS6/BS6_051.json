@@ -1,0 +1,56 @@
+{
+  "serial": "BS6-051",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_051.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "시간지기 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "덧없는 흐름의 지배자"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 턴 종료 시 자신의 서포트 에리어가 5장이 되도록 선택하고 나머지를 패로 가져온다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": "그리고 <<green>으로 사용할 수 있다> 상대의 서포트 에리어가 3장 이상이라면 자신의 패에서 <green> 카드를 2장까지 선택한다. 그 카드를 서포트 에리어에 액티브로 놓는다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "어차피 불가능해~"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

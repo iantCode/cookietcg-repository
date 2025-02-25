@@ -1,0 +1,39 @@
+{
+  "serial": "BS6-084",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_084.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "시간조종기"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": "<패를 1장 이상 버린다> 자신의 패가 5장 이하라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

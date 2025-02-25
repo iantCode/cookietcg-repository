@@ -1,0 +1,39 @@
+{
+  "serial": "BS6-105",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_105.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "나비태엽 유물"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": "<자신의 배틀 에리어에 있는 <purple> LV.1 쿠키를 1장 트래시에 놓는다> 자신의 덱에서 2장까지 뽑고 자신의 패를 1장 버린다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

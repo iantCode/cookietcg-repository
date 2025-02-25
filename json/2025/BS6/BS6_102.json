@@ -1,15 +1,15 @@
 {
-  "serial": "BS5-017",
+  "serial": "BS6-102",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_017.webp"
+    "ko": "images/ko/2025/BS6/BS6_102.webp"
   },
   "type": "cookie",
-  "level": 1,
+  "level": 2,
   "color": [
-    "red"
+    "purple"
   ],
   "name": {
-    "ko": "페퍼누스맛 쿠키"
+    "ko": "파스텔머랭맛 쿠키"
   },
   "hp": 3,
   "hasSkill": false,
@@ -18,22 +18,22 @@
   "attack": [
     {
       "cost": {
-        "mix": 2
+        "purple": 1
       },
       "text": {
-        "ko": ""
+        "ko": "그리고 서로의 덱의 위에서부터 3장 트래시에 놓는다."
       },
       "damage": 1,
       "name": {
-        "ko": "선물 받아~!"
+        "ko": "귀엽지 않네요"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "C",
-  "from": "각성, 용의 분노",
-  "releaseDate": "2024-12-30",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
   "regulation": "B",
   "limit": 4,
   "qna": []
