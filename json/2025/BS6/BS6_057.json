@@ -1,0 +1,59 @@
+{
+  "serial": "BS6-057",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_057.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "커피캔디맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "기록과 과장"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "green": 1
+        },
+        "text": {
+          "ko": "<이 쿠키를 트래시에 놓는다> <자신의 서포트 에리어에 있는 쿠키를 1장 패로 가져온다> 자신의 덱에서 1장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "이제 졸지 않는답니다!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

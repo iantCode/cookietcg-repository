@@ -1,0 +1,58 @@
+{
+  "serial": "BS6-048",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_048.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "마블식빵맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "시설관리과 과장"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 자신의 서포트 에리어에 있는 카드가 상대의 서포트 에리어에 있는 카드보다 적다면 자신의 덱에서 1장 뽑는다. 그리고 상대는 패를 1장 버린다."
+        },
+        "effect": {
+          "draw": 1,
+          "handTrash": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "귀찮아..."
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,58 @@
+{
+  "serial": "BS6-052",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_052.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "아몬드맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "일사천리 해결"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+          "green": 2
+        },
+        "text": {
+          "ko": "<자신의 서포트 에리어에 있는 카드를 2장 패로 가져온다> 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "커피 한 잔 마실 틈"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

@@ -1,0 +1,40 @@
+{
+  "serial": "BS6-061",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_061.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "호두맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "그리고 <자신의 서포트 에리어에 있는 쿠키를 1장 패로 가져온다> 자신의 남은 HP가 5 이하인 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "제게 맡겨주세요!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

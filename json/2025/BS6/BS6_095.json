@@ -1,0 +1,40 @@
+{
+  "serial": "BS6-095",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_095.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "와일드딸기맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 3
+      },
+      "text": {
+        "ko": "그리고 자신의 트래시에서 HP가 2 이하인 <purple> 쿠키를 1장까지 등장시킨다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "까불지마!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

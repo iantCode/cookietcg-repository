@@ -1,0 +1,40 @@
+{
+  "serial": "BS6-076",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_076.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "요정맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": "그리고 <패를 1장 버린다> 자신의 덱에서 1장까지 뽑는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "이빨은 안 줘도 돼요"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

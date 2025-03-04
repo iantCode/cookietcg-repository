@@ -1,0 +1,40 @@
+{
+  "serial": "BS6-065",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_065.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "마블식빵맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": "그리고 자신의 패가 6장 이상이라면 자신의 패를 1장 버린다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "또 쓰레기가 쌓였다고...?"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

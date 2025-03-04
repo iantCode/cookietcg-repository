@@ -1,0 +1,40 @@
+{
+  "serial": "BS6-013",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_013.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "체스초코 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 2
+      },
+      "text": {
+        "ko": "그리고 자신의 배틀 에리어에 다른 [체스초코 쿠키]가 있다면 1대미지를 준다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "우린 둘만 있으면 돼"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

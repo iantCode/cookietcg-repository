@@ -1,0 +1,40 @@
+{
+  "serial": "BS6-059",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_059.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "풋사과맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "그리고 자신의 서포트 에리어가 5장 이상이라면 이 쿠키를 패로 되돌릴 수 있다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "뭐하고 놀까?"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
