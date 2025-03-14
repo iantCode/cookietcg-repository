@@ -1,0 +1,58 @@
+{
+  "serial": "P-066",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_066.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "버터오징어맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "천재 감독"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어가 LV.5 이상이라면 이 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+          "heal": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "다시, 다시!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.6",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

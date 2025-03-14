@@ -1,0 +1,57 @@
+{
+  "serial": "P-065",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_065.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "피자맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "단골 서비스"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 배틀 에리어에 다른 [피자맛 쿠키]가 있다면 이 쿠키의 공격 대미지를 +1한다."
+        },
+        "effect": {
+          "damageIncrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "배달 왔어요~"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.6",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

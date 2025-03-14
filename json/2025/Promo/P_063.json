@@ -1,0 +1,47 @@
+{
+  "serial": "P-063",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_063.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "쉐도우밀크 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "산산조각 날 시간이다"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": {
+      "ko": "덱에서 1장 뽑을 수 있다."
+    },
+    "effect": {
+      "draw": 1
+    }
+  },
+  "rarity": "P",
+  "from": "프로모 카드 - 거짓의 카니발",
+  "releaseDate": "2025-02-22",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

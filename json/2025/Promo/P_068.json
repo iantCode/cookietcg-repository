@@ -1,0 +1,40 @@
+{
+  "serial": "P-068",
+  "img": {
+    "ko": "images/ko/2024/Promo/P_068.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "스타후르츠맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": "그리고 자신의 패가 5장 이하라면 자신의 덱에서 2장까지 뽑는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "별들이여"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.6",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}
