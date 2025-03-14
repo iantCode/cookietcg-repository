@@ -1,15 +1,15 @@
 {
-  "serial": "BS6-026",
+  "serial": "BS6-053",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_026.webp"
+    "ko": "images/ko/2025/BS6/BS6_053.webp"
   },
   "type": "cookie",
   "level": 1,
   "color": [
-    "yellow"
+    "green"
   ],
   "name": {
-    "ko": "보더맛 쿠키"
+    "ko": "앵두맛 쿠키"
   },
   "hp": 3,
   "hasSkill": false,
@@ -18,14 +18,14 @@
   "attack": [
     {
       "cost": {
-        "mix": 2
+        "green": 2
       },
       "text": {
-        "ko": ""
+        "ko": "그리고 자신의 서포트 에리어가 5장이라면 이 쿠키의 HP를 +1한다."
       },
       "damage": 1,
       "name": {
-        "ko": "달리자~!"
+        "ko": "더 잘할 수 있어!"
       }
     }
   ],

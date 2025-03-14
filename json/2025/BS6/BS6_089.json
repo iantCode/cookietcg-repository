@@ -1,0 +1,57 @@
+{
+  "serial": "BS6-089",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_089.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "머스터드맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "여명의 반항아"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 트래시에서 카드를 1장까지 패로 가져온다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 4
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "구속하려 하지 마!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

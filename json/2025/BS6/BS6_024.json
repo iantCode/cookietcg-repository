@@ -1,31 +1,31 @@
 {
-  "serial": "BS6-026",
+  "serial": "BS6-024",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_026.webp"
+    "ko": "images/ko/2025/BS6/BS6_024.webp"
   },
   "type": "cookie",
-  "level": 1,
+  "level": 3,
   "color": [
     "yellow"
   ],
   "name": {
-    "ko": "보더맛 쿠키"
+    "ko": "롤케이크맛 쿠키"
   },
-  "hp": 3,
+  "hp": 5,
   "hasSkill": false,
   "skill": {
   },
   "attack": [
     {
       "cost": {
-        "mix": 2
+        "yellow": 3
       },
       "text": {
-        "ko": ""
+        "ko": "그리고 상대의 쿠키를 1장까지 선택한다. 자신의 브레이크 에리어에 있는 LV.3 쿠키 1장당 그 쿠키에게 1대미지를 준다."
       },
-      "damage": 1,
+      "damage": 2,
       "name": {
-        "ko": "달리자~!"
+        "ko": "다 밀어버려~"
       }
     }
   ],

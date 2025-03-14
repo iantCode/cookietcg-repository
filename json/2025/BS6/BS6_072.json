@@ -1,0 +1,58 @@
+{
+  "serial": "BS6-072",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_072.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "쇼콜라봉봉맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "영원한 클래식"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 덱에서 3장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 3
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": "그리고 <패를 2장 버린다> 자신의 덱에서 2장까지 뽑는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "완벽한 치수"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

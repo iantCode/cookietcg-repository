@@ -1,7 +1,7 @@
 {
-  "serial": "BS6-026",
+  "serial": "BS6-022",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_026.webp"
+    "ko": "images/ko/2025/BS6/BS6_022.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +9,23 @@
     "yellow"
   ],
   "name": {
-    "ko": "보더맛 쿠키"
+    "ko": "닌자맛 쿠키"
   },
-  "hp": 3,
+  "hp": 2,
   "hasSkill": false,
   "skill": {
   },
   "attack": [
     {
       "cost": {
-        "mix": 2
+        "yellow": 2
       },
       "text": {
-        "ko": ""
+        "ko": "그리고 <<yellow>로 사용할 수 있다> 자신의 브레이크 에리어가 LV.3 이상이라면 이 쿠키를 패로 되돌린다."
       },
       "damage": 1,
       "name": {
-        "ko": "달리자~!"
+        "ko": "분신술 연습"
       }
     }
   ],

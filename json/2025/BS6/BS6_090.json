@@ -1,0 +1,56 @@
+{
+  "serial": "BS6-090",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_090.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "밀랍맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "녹아내리는 밀랍"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 턴 종료 시 자신의 덱의 위에서부터 2장까지 트래시에 놓는다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "내 보물!!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

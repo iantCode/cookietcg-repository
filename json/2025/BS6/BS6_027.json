@@ -1,15 +1,15 @@
 {
-  "serial": "BS6-006",
+  "serial": "BS6-027",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_006.webp"
+    "ko": "images/ko/2025/BS6/BS6_027.webp"
   },
   "type": "cookie",
   "level": 3,
   "color": [
-    "red"
+    "yellow"
   ],
   "name": {
-    "ko": "벚꽃맛 쿠키"
+    "ko": "스모어맛 쿠키"
   },
   "hp": 3,
   "hasSkill": false,
@@ -18,27 +18,26 @@
   "attack": [
     {
       "cost": {
-        "red": 3
+        "yellow": 3
       },
       "text": {
         "ko": ""
       },
       "damage": 3,
       "name": {
-        "ko": "까르르~ 신난다!"
+        "ko": "캠핑에 정답은 없어~"
       }
     }
   ],
   "hasFlip": true,
   "flip": {
     "condition": {
-      "handTrash": 1
     },
     "text": {
-      "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+      "ko": "자신의 덱에서 1장까지 뽑는다."
     },
     "effect": {
-      "heal": 1
+      "draw": 1
     }
   },
   "rarity": "C",

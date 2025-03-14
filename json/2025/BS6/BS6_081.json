@@ -1,0 +1,58 @@
+{
+  "serial": "BS6-081",
+  "img": {
+    "ko": "images/ko/2025/BS6/BS6_081.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "트러플맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "거미저택의 주인"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+          "blue": 1
+        },
+        "text": {
+          "ko": "상대의 배틀 에리어에 있는 LV.1 쿠키 또는 서로의 스테이지를 1장까지 선택한다. 그 카드를 소유자의 덱의 아래에 놓는다. 그리고 자신의 패가 5장 이상이라면 패를 1장 버린다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "여기엔 나 밖에 없단다"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "시간 구출 대작전!",
+  "releaseDate": "2025-03-21",
+  "regulation": "B",
+  "limit": 4,
+  "qna": []
+}

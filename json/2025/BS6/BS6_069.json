@@ -1,15 +1,15 @@
 {
-  "serial": "BS6-006",
+  "serial": "BS6-069",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_006.webp"
+    "ko": "images/ko/2025/BS6/BS6_069.webp"
   },
   "type": "cookie",
   "level": 3,
   "color": [
-    "red"
+    "blue"
   ],
   "name": {
-    "ko": "벚꽃맛 쿠키"
+    "ko": "샌드위치맛 쿠키"
   },
   "hp": 3,
   "hasSkill": false,
@@ -18,14 +18,14 @@
   "attack": [
     {
       "cost": {
-        "red": 3
+        "blue": 3
       },
       "text": {
         "ko": ""
       },
       "damage": 3,
       "name": {
-        "ko": "까르르~ 신난다!"
+        "ko": "밤샘도 거뜬할걸!"
       }
     }
   ],

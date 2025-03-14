@@ -1,17 +1,17 @@
 {
-  "serial": "BS6-026",
+  "serial": "BS6-088",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_026.webp"
+    "ko": "images/ko/2025/BS6/BS6_088.webp"
   },
   "type": "cookie",
   "level": 1,
   "color": [
-    "yellow"
+    "purple"
   ],
   "name": {
-    "ko": "보더맛 쿠키"
+    "ko": "닥터 와사비 쿠키"
   },
-  "hp": 3,
+  "hp": 2,
   "hasSkill": false,
   "skill": {
   },
@@ -23,9 +23,9 @@
       "text": {
         "ko": ""
       },
-      "damage": 1,
+      "damage": 2,
       "name": {
-        "ko": "달리자~!"
+        "ko": "낄낄"
       }
     }
   ],

@@ -1,17 +1,17 @@
 {
-  "serial": "BS6-026",
+  "serial": "BS6-040",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_026.webp"
+    "ko": "images/ko/2025/BS6/BS6_040.webp"
   },
   "type": "cookie",
-  "level": 1,
+  "level": 2,
   "color": [
     "yellow"
   ],
   "name": {
-    "ko": "보더맛 쿠키"
+    "ko": "파일럿맛 쿠키"
   },
-  "hp": 3,
+  "hp": 2,
   "hasSkill": false,
   "skill": {
   },
@@ -23,14 +23,15 @@
       "text": {
         "ko": ""
       },
-      "damage": 1,
+      "damage": 3,
       "name": {
-        "ko": "달리자~!"
+        "ko": "마음이 이끄는대로"
       }
     }
   ],
   "hasFlip": false,
-  "flip": {},
+  "flip": {
+  },
   "rarity": "C",
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
