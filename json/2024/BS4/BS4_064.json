@@ -1,7 +1,8 @@
 {
   "serial": "BS4-064",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_064.webp"
+    "ko": "images/ko/2024/BS4/BS4_064.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_064.webp"
   },
   "type": "trap",
   "level": 0,

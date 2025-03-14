@@ -1,7 +1,8 @@
 {
   "serial": "BS4-045",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_045.webp"
+    "ko": "images/ko/2024/BS4/BS4_045.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_045.webp"
   },
   "type": "cookie",
   "level": 2,
