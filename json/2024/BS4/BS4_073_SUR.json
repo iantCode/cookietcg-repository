@@ -1,7 +1,8 @@
 {
   "serial": "BS4-073-SUR",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_073_SUR.webp"
+    "ko": "images/ko/2024/BS4/BS4_073_SUR.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_073_SUR.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -9,13 +10,15 @@
     "blue"
   ],
   "name": {
-    "ko": "바다요정 쿠키"
+    "ko": "바다요정 쿠키",
+    "zh-TW": "海妖精餅乾"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "솟구치는 마음"
+      "ko": "솟구치는 마음",
+      "zh-TW": "湧動的心"
     },
     "skillList": [
       {

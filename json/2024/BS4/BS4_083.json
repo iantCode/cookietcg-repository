@@ -1,7 +1,8 @@
 {
   "serial": "BS4-083",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_083.webp"
+    "ko": "images/ko/2024/BS4/BS4_083.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_083.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "해적맛 쿠키"
+    "ko": "해적맛 쿠키",
+    "zh-TW": "海盜餅乾"
   },
   "hp": 4,
   "hasSkill": false,
@@ -21,11 +23,13 @@
         "mix": 1
       },
       "text": {
-        "ko": "그리고 자신의 패가 5장 이상이라면 1대미지를 준다."
+        "ko": "그리고 자신의 패가 5장 이상이라면 1대미지를 준다.",
+        "zh-TW": "然後,如果自己的手牌為5張或更多,則造成1點傷"
       },
       "damage": 3,
       "name": {
-        "ko": "유령 폭탄"
+        "ko": "유령 폭탄",
+        "zh-TW": "幽靈炸彈"
       }
     }
   ],

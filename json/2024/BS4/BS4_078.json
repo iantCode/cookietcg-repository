@@ -1,7 +1,8 @@
 {
   "serial": "BS4-078",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_078.webp"
+    "ko": "images/ko/2024/BS4/BS4_078.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_078.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "오징어먹물맛 쿠키"
+    "ko": "오징어먹물맛 쿠키",
+    "zh-TW": "墨魚餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -24,7 +26,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "흑... 흑..."
+        "ko": "흑... 흑...",
+        "zh-TW": "嗚...嗚..."
       }
     }
   ],

@@ -1,7 +1,8 @@
 {
   "serial": "BS4-067",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_067.webp"
+    "ko": "images/ko/2024/BS4/BS4_067.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_067.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -25,7 +26,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "금빛 파도"
+        "ko": "금빛 파도",
+        "zh-TW": "金色浪濤"
       }
     }
   ],

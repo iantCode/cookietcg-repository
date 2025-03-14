@@ -1,7 +1,8 @@
 {
   "serial": "BS4-072",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_072.webp"
+    "ko": "images/ko/2024/BS4/BS4_072.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_072.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "blue"
   ],
   "name": {
-    "ko": "미스틱오팔 쿠키"
+    "ko": "미스틱오팔 쿠키",
+    "zh-TW": "幻彩歐珀餅乾"
   },
   "hp": 1,
   "hasSkill": false,
@@ -24,7 +26,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "바람과 운명의 힘"
+        "ko": "바람과 운명의 힘",
+        "zh-TW": "歲月風化之力"
       }
     }
   ],
@@ -32,7 +35,8 @@
   "flip": {
     "condition": {},
     "text": {
-      "ko": "자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다."
+      "ko": "자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다.",
+      "zh-TW": "從自己的牌庫頂查看3張牌,並以任意顺序放回牌庫最上方。"
     },
     "effect": {
       "deckOrderChange": 3
