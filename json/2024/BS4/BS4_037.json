@@ -1,7 +1,8 @@
 {
   "serial": "BS4-037",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_037.webp"
+    "ko": "images/ko/2024/BS4/BS4_037.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_037.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "의적맛 쿠키"
+    "ko": "의적맛 쿠키",
+    "zh-TW": "義賊餅乾"
   },
   "hp": 4,
   "hasSkill": false,
@@ -24,7 +26,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "동에 번쩍, 서에 번쩍!"
+        "ko": "동에 번쩍, 서에 번쩍!",
+        "zh-TW": "東奔西走,出沒無常!"
       }
     }
   ],

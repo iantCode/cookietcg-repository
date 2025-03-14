@@ -1,7 +1,8 @@
 {
   "serial": "BS4-041",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_041.webp"
+    "ko": "images/ko/2024/BS4/BS4_041.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_041.webp"
   },
   "type": "item",
   "level": 0,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "천년 묵은 나뭇가지"
+    "ko": "천년 묵은 나뭇가지",
+    "zh-TW": "千年樹枝"
   },
   "hp": 0,
   "hasSkill": false,
@@ -20,7 +22,8 @@
         "yellow": 2
       },
       "text": {
-        "ko": "자신의 쿠키를 1장까지 선택한다. 자신의 브레이크 에리어에 있는 <yellow> LV.3 쿠키 1장당 그 쿠키의 HP를 +1한다."
+        "ko": "자신의 쿠키를 1장까지 선택한다. 자신의 브레이크 에리어에 있는 <yellow> LV.3 쿠키 1장당 그 쿠키의 HP를 +1한다.",
+        "zh-TW": "選擇最多1個自己的餅乾。自己的休息區每有1個<yellow>且為LV.3的餅乾,它便獲得HP+1點。"
       },
       "damage": 0,
       "name": {

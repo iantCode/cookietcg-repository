@@ -1,7 +1,8 @@
 {
   "serial": "BS4-039-SSR",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_039_SSR.webp"
+    "ko": "images/ko/2024/BS4/BS4_039_SSR.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_039_SSR.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "츄러스맛 쿠키"
+    "ko": "츄러스맛 쿠키",
+    "zh-TW": "吉拿棒餅乾"
   },
   "hp": 5,
   "hasSkill": false,
@@ -20,11 +22,13 @@
         "yellow": 3
       },
       "text": {
-        "ko": "그리고 이 쿠키의 남은 HP가 2 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+        "ko": "그리고 이 쿠키의 남은 HP가 2 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
+        "zh-TW": "然後,如果這個餅乾剩餘HP為2點或以上,則選擇最多1個LV.1對手的餅乾。對它造成2點傷害。"
       },
       "damage": 2,
       "name": {
-        "ko": "츄러스 소환"
+        "ko": "츄러스 소환",
+        "zh-TW": "召喚吉拿棒"
       }
     }
   ],
