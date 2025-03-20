@@ -1,7 +1,8 @@
 {
   "serial": "BS4-101",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_101.webp"
+    "ko": "images/ko/2024/BS4/BS4_101.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_101.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "에클레어맛 쿠키"
+    "ko": "에클레어맛 쿠키",
+    "zh-Tw": "閃電泡芙餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -24,7 +26,8 @@
       },
       "damage": 2,
       "name": {
-        "ko": "박물관장의 안내"
+        "ko": "박물관장의 안내",
+        "zh-TW": "博物館館長的介紹"
       }
     }
   ],
@@ -32,7 +35,8 @@
   "flip": {
     "condition": {},
     "text": {
-      "ko": "자신의 덱에서 1장까지 뽑는다."
+      "ko": "자신의 덱에서 1장까지 뽑는다.",
+      "zh-TW": "從自己的牌庫抽最多1張牌。"
     },
     "effect": {
       "draw": 1

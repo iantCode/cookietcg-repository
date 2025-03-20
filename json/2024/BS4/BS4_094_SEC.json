@@ -1,7 +1,8 @@
 {
   "serial": "BS4-094-SEC",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_094_SEC.webp"
+    "ko": "images/ko/2024/BS4/BS4_094_SEC.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_094_SEC.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,13 +10,15 @@
     "purple"
   ],
   "name": {
-    "ko": "블루파이맛 쿠키"
+    "ko": "블루파이맛 쿠키",
+    "zh-TW": "藍莓派餅乾"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "저주받은 마도서"
+      "ko": "저주받은 마도서",
+      "zh-TW": "受詛咒的魔法書"
     },
     "skillList": [
       {
@@ -25,7 +28,8 @@
         ],
         "cost": {},
         "text": {
-          "ko": "자신의 배틀 에리어에 있는 <purple> LV.3 쿠키가 있다면 서로의 덱의 위에서부터 3장 트래시에 놓는다."
+          "ko": "자신의 배틀 에리어에 있는 <purple> LV.3 쿠키가 있다면 서로의 덱의 위에서부터 3장 트래시에 놓는다.",
+          "zh-TW": "如果自己的戰鬥區有<purple>且為LV.3的餅乾,則從雙方的牌庫頂分別將3張牌放置到棄牌區。"
         },
         "effect": {}
       }
@@ -41,7 +45,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "힘의 해방"
+        "ko": "힘의 해방",
+        "zh-TW": "力量解放"
       }
     }
   ],

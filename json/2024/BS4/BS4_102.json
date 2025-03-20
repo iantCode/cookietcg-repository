@@ -1,7 +1,8 @@
 {
   "serial": "BS4-102",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_102.webp"
+    "ko": "images/ko/2024/BS4/BS4_102.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_102.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "와일드베리맛 쿠키"
+    "ko": "와일드베리맛 쿠키",
+    "zh-TW": "野莓餅乾"
   },
   "hp": 1,
   "hasSkill": false,
@@ -24,7 +26,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "모조리 날려주마!"
+        "ko": "모조리 날려주마!",
+        "zh-TW": "一個也不放過!"
       }
     }
   ],
@@ -32,7 +35,8 @@
   "flip": {
     "condition": {},
     "text": {
-      "ko": "자신 또는 상대의 덱의 위에서부터 3장까지 트래시에 놓는다."
+      "ko": "자신 또는 상대의 덱의 위에서부터 3장까지 트래시에 놓는다.",
+      "zh-TW": "從自己或對手的牌庫頂將最多3張牌放置到棄牌區。"
     },
     "effect": {
       "deckTrash": 3

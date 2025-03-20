@@ -1,7 +1,8 @@
 {
   "serial": "BS4-104",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_104.webp"
+    "ko": "images/ko/2024/BS4/BS4_104.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_104.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "파르페맛 쿠키"
+    "ko": "파르페맛 쿠키",
+    "zh-TW": "帕菲餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -24,7 +26,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "뿅★"
+        "ko": "뿅★",
+        "zh-TW": "啾咪★"
       }
     }
   ],

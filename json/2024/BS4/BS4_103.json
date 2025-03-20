@@ -1,7 +1,8 @@
 {
   "serial": "BS4-103",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_103.webp"
+    "ko": "images/ko/2024/BS4/BS4_103.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_103.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "크림 유니콘 쿠키"
+    "ko": "크림 유니콘 쿠키",
+    "zh-TW": "奶油獨角獸餅乾"
   },
   "hp": 3,
   "hasSkill": false,
@@ -20,11 +22,13 @@
         "purple": 2
       },
       "text": {
-        "ko": "그리고 자신의 덱의 위에서부터 3장까지 트래시에 놓는다."
+        "ko": "그리고 자신의 덱의 위에서부터 3장까지 트래시에 놓는다.",
+        "zh-TW": "然後,從自己的牌庫頂將最多3張牌放置到棄牌區。"
       },
       "damage": 1,
       "name": {
-        "ko": "꿈의 퍼레이드"
+        "ko": "꿈의 퍼레이드",
+        "zh-TW": "夢幻遊行"
       }
     }
   ],

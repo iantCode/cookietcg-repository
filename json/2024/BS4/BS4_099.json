@@ -1,7 +1,8 @@
 {
   "serial": "BS4-099",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_099.webp"
+    "ko": "images/ko/2024/BS4/BS4_099.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_099.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,13 +10,15 @@
     "purple"
   ],
   "name": {
-    "ko": "앰버슈가맛 쿠키"
+    "ko": "앰버슈가맛 쿠키",
+    "zh-TW": "琥珀糖餅乾"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "꿀호박 방망이"
+      "ko": "꿀호박 방망이",
+      "zh-TW": "蜜琥珀棍"
     },
     "skillList": [
       {
@@ -26,7 +29,8 @@
           "purple": 1
         },
         "text": {
-          "ko": "자신 또는 상대의 덱의 위에서부터 3장까지 트래시에 놓는다."
+          "ko": "자신 또는 상대의 덱의 위에서부터 3장까지 트래시에 놓는다.",
+          "zh-TW": "從自己或對手的牌庫頂將最多3張牌放置到棄牌區。"
         },
         "effect": {
           "deckTrash": 3
@@ -44,7 +48,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "붕붕"
+        "ko": "붕붕",
+        "zh-TW": "嗡嗡"
       }
     }
   ],

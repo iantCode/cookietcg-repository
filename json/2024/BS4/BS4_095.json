@@ -1,7 +1,8 @@
 {
   "serial": "BS4-095",
   "img": {
-    "ko": "images/ko/2024/BS4/BS4_095.webp"
+    "ko": "images/ko/2024/BS4/BS4_095.webp",
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_095.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,13 +10,15 @@
     "purple"
   ],
   "name": {
-    "ko": "샤이닝글리터맛 쿠키"
+    "ko": "샤이닝글리터맛 쿠키",
+    "zh-TW": "閃耀之星餅乾"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "내 무대에 집중해!"
+      "ko": "내 무대에 집중해!",
+      "zh-TW": "好好欣賞我的表演!"
     },
     "skillList": [
       {
@@ -26,7 +29,8 @@
           "purple": 1
         },
         "text": {
-          "ko": "상대의 스테이지를 1장까지 트래시에 놓는다."
+          "ko": "상대의 스테이지를 1장까지 트래시에 놓는다.",
+          "zh-TW": "將最多1張對手的場景卡放置到棄牌區。"
         },
         "effect": {
           "trashStage": 1
@@ -44,7 +48,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "샤이닝 신드롬"
+        "ko": "샤이닝 신드롬",
+        "zh-TW": "閃耀潮流"
       }
     }
   ],
