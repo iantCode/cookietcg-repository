@@ -1,7 +1,8 @@
 {
   "serial": "BS5-017",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_017.webp"
+    "ko": "images/ko/2024/BS5/BS5_017.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_017.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,12 +10,12 @@
     "red"
   ],
   "name": {
-    "ko": "페퍼누스맛 쿠키"
+    "ko": "페퍼누스맛 쿠키",
+    "zh-TW": "胡椒雪球餅乾"
   },
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -25,7 +26,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "선물 받아~!"
+        "ko": "선물 받아~!",
+        "zh-TW": "這是送你的禮物~!"
       }
     }
   ],

@@ -1,7 +1,8 @@
 {
   "serial": "BS5-014",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_014.webp"
+    "ko": "images/ko/2024/BS5/BS5_014.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_014.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,23 +10,25 @@
     "red"
   ],
   "name": {
-    "ko": "용사맛 쿠키"
+    "ko": "용사맛 쿠키",
+    "zh-TW": "勇士餅乾"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "용의 꼬리를 자른 자"
+      "ko": "용의 꼬리를 자른 자",
+      "zh-TW": "砍斷龍尾巴的勇士"
     },
     "skillList": [
       {
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
-          "ko": "상대의 [용과 드래곤 쿠키]를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+          "ko": "상대의 [용과 드래곤 쿠키]를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
+          "zh-TW": "選擇最多1個對手的[火龍果龍族餅乾]。對它造成2點傷害。"
         },
         "effect": {
           "damage": 2
@@ -43,7 +46,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "광속질주"
+        "ko": "광속질주",
+        "zh-TW": "高速衝刺"
       }
     }
   ],

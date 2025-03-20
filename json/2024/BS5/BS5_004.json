@@ -1,7 +1,8 @@
 {
   "serial": "BS5-004",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_004.webp"
+    "ko": "images/ko/2024/BS5/BS5_004.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_004.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "red"
   ],
   "name": {
-    "ko": "롤리팝맛 쿠키"
+    "ko": "롤리팝맛 쿠키",
+    "zh-TW": "棒棒糖餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -24,7 +26,8 @@
       },
       "damage": 2,
       "name": {
-        "ko": "겨울밤은 추워~"
+        "ko": "겨울밤은 추워~",
+        "zh-TW": "冬天晚上很冷~"
       }
     }
   ],
@@ -34,7 +37,8 @@
       "handTrash": 1
     },
     "text": {
-      "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
+      "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
+      "zh-TW": "<棄1張手牌>以這張牌為HP卡的餅乾獲得HP+1點。"
     },
     "effect": {
       "heal": 1

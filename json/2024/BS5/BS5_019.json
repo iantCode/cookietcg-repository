@@ -1,7 +1,8 @@
 {
   "serial": "BS5-019",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_019.webp"
+    "ko": "images/ko/2024/BS5/BS5_019.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_019.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,24 +10,28 @@
     "red"
   ],
   "name": {
-    "ko": "푸딩맛 쿠키"
+    "ko": "푸딩맛 쿠키",
+    "zh-TW": "布丁餅乾"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "황금벨"
+      "ko": "황금벨",
+      "zh-TW": "黃金搖鈴"
     },
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "manual",
+          "onceTurn"
         ],
         "cost": {
           "red": 1
         },
         "text": {
-          "ko": "<자신의 패에서 <red> 쿠키를 1장 버린다> 이 턴 중 이 쿠키의 공격 대미지를 +1한다."
+          "ko": "<자신의 패에서 <red> 쿠키를 1장 버린다> 이 턴 중 이 쿠키의 공격 대미지를 +1한다.",
+          "zh-TW": "<從自己的手牌棄1張<red>餅乾卡>在這個回合中,這個餅乾的攻擊傷害+1點。"
         },
         "effect": {
           "damageIncrease": 1
@@ -44,7 +49,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "핸드벨 연주주"
+        "ko": "핸드벨 연주",
+        "zh-TW": "手搖鈴"
       }
     }
   ],

@@ -1,7 +1,8 @@
 {
   "serial": "BS5-002",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_002.webp"
+    "ko": "images/ko/2024/BS5/BS5_002.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_002.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,12 +10,12 @@
     "red"
   ],
   "name": {
-    "ko": "딸기맛 쿠키"
+    "ko": "딸기맛 쿠키",
+    "zh-TW": "草莓餅乾"
   },
   "hp": 4,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -25,7 +26,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "내 친구가 되어줄래?"
+        "ko": "내 친구가 되어줄래?",
+        "zh-TW": "你願意跟我當朋友嗎?"
       }
     }
   ],
