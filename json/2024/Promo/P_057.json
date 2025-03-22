@@ -1,7 +1,8 @@
 {
   "serial": "P-057",
   "img": {
-    "ko": "images/ko/2024/Promo/P_057.webp"
+    "ko": "images/ko/2024/Promo/P_057.webp",
+    "zh-TW": "images/zh-TW/2025/Promo/P_057.webp"
   },
   "type": "cookie",
   "level": 2,
