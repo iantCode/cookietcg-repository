@@ -1,7 +1,8 @@
 {
   "serial": "BS5-099",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_099.webp"
+    "ko": "images/ko/2024/BS5/BS5_099.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_099.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,23 +10,25 @@
     "purple"
   ],
   "name": {
-    "ko": "아보카도맛 쿠키"
+    "ko": "아보카도맛 쿠키",
+    "zh-TW": "酪梨餅亁"
   },
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "purple": 2
       },
       "text": {
-        "ko": "그리고 서로의 덱의 위에서부터 2장 트래시에 놓는다."
+        "ko": "그리고 서로의 덱의 위에서부터 2장 트래시에 놓는다.",
+        "zh-TW": "然後,從雙方的牌庫頂分別將2張牌放置到棄牌區。"
       },
       "damage": 2,
       "name": {
-        "ko": "용비늘 갑주"
+        "ko": "용비늘 갑주",
+        "zh-TW": "龍鱗盔甲"
       }
     }
   ],

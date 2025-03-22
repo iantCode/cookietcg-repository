@@ -1,7 +1,8 @@
 {
   "serial": "BS5-096",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_096.webp"
+    "ko": "images/ko/2024/BS5/BS5_096.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_096.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,12 +10,12 @@
     "purple"
   ],
   "name": {
-    "ko": "민트초코 쿠키"
+    "ko": "민트초코 쿠키",
+    "zh-TW": "薄荷巧克力餅乾"
   },
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -25,7 +26,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "원하는 곡이 있나요?"
+        "ko": "원하는 곡이 있나요?",
+        "zh-TW": "想聽哪首曲子呢?"
       }
     }
   ],

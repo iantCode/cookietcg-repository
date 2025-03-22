@@ -1,7 +1,8 @@
 {
   "serial": "BS5-072",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_072.webp"
+    "ko": "images/ko/2024/BS5/BS5_072.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_072.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,22 +10,23 @@
     "blue"
   ],
   "name": {
-    "ko": "버블껌맛 쿠키"
+    "ko": "버블껌맛 쿠키",
+    "zh-TW": "泡泡糖餅乾"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "껌이 붙었어!"
+      "ko": "껌이 붙었어!",
+      "zh-TW": "泡泡糖黏住了!"
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
-          "ko": "이 쿠키가 기절했을 때 자신의 브레이크 에리어가 LV.6 이상이라면 자신의 덱에서 2장까지 뽑는다."
+          "ko": "이 쿠키가 기절했을 때 자신의 브레이크 에리어가 LV.6 이상이라면 자신의 덱에서 2장까지 뽑는다.",
+          "zh-TW": "當這個餅乾暈倒時,如果自己的休息區LV總和達到6或以上,則從自己的牌庫抽最多2張牌。"
         },
         "effect": {
           "draw": 2
@@ -42,7 +44,8 @@
       },
       "damage": 2,
       "name": {
-        "ko": "버블껌 발사"
+        "ko": "버블껌 발사",
+        "zh-TW": "發射泡泡糖"
       }
     }
   ],

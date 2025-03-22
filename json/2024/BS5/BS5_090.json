@@ -1,7 +1,8 @@
 {
   "serial": "BS5-090",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_090.webp"
+    "ko": "images/ko/2024/BS5/BS5_090.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_090.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,7 +10,8 @@
     "purple"
   ],
   "name": {
-    "ko": "딸기초코스틱맛 쿠키"
+    "ko": "딸기초코스틱맛 쿠키",
+    "zh-TW": "草莓巧克力棒餅乾"
   },
   "hp": 2,
   "hasSkill": false,
@@ -24,16 +26,17 @@
       },
       "damage": 2,
       "name": {
-        "ko": "신나는 드럼 연주"
+        "ko": "신나는 드럼 연주",
+        "zh-TW": "激昂的鼓樂表演"
       }
     }
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": {
-      "ko": "자신의 덱에서 1장까지 뽑는다."
+      "ko": "자신의 덱에서 1장까지 뽑는다.",
+      "zh-TW": "從自己的牌庫抽最多1張牌。"
     },
     "effect": {
       "draw": 1

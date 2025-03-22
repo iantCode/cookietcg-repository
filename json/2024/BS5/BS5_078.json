@@ -1,7 +1,8 @@
 {
   "serial": "BS5-078",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_078.webp"
+    "ko": "images/ko/2024/BS5/BS5_078.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_078.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,13 +10,15 @@
     "blue"
   ],
   "name": {
-    "ko": "알로에맛 쿠키"
+    "ko": "알로에맛 쿠키",
+    "zh-TW": "蘆薈餅乾"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "젤리 데이터 변환"
+      "ko": "젤리 데이터 변환",
+      "zh-TW": "果凍數據轉換"
     },
     "skillList": [
       {
@@ -26,7 +29,8 @@
           "blue": 1
         },
         "text": {
-          "ko": "자신의 덱에서 1장까지 뽑는다."
+          "ko": "자신의 덱에서 1장까지 뽑는다.",
+          "zh-TW": "從自己的牌庫抽最多1張牌。"
         },
         "effect": {
           "draw": 1
@@ -44,7 +48,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "과학의 승리"
+        "ko": "과학의 승리",
+        "zh-TW": "科學的勝利"
       }
     }
   ],

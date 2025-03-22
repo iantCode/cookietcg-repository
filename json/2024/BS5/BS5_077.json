@@ -1,7 +1,8 @@
 {
   "serial": "BS5-077",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_077.webp"
+    "ko": "images/ko/2024/BS5/BS5_077.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_077.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,12 +10,12 @@
     "blue"
   ],
   "name": {
-    "ko": "아이스캔디맛 쿠키"
+    "ko": "아이스캔디맛 쿠키",
+    "zh-TW": "涼糖餅乾"
   },
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -25,7 +26,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "무지개 드리블"
+        "ko": "무지개 드리블",
+        "zh-TW": "彩虹運球"
       }
     }
   ],

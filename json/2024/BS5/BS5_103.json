@@ -1,7 +1,8 @@
 {
   "serial": "BS5-103",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_103.webp"
+    "ko": "images/ko/2024/BS5/BS5_103.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_103.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -9,22 +10,23 @@
     "purple"
   ],
   "name": {
-    "ko": "전갈맛 쿠키"
+    "ko": "전갈맛 쿠키",
+    "zh-TW": "蠍子餅乾"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "전갈 독침"
+      "ko": "전갈 독침",
+      "zh-TW": "蠍子毒針"
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
-          "ko": "자신의 트래시에 있는 카드 15장당 이 쿠키의 공격 대미지를 +1한다."
+          "ko": "자신의 트래시에 있는 카드 15장당 이 쿠키의 공격 대미지를 +1한다.",
+          "zh-TW": "自己的棄牌區中每有15張牌,這個餅乾的攻擊傷害便+1點。"
         },
         "effect": {
           "damageIncrease": 1
@@ -42,7 +44,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "곧 편안해질 거야"
+        "ko": "곧 편안해질 거야",
+        "zh-TW": "等等就沒事了..."
       }
     }
   ],

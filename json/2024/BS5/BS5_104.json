@@ -1,7 +1,8 @@
 {
   "serial": "BS5-104",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_104.webp"
+    "ko": "images/ko/2024/BS5/BS5_104.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_104.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +10,25 @@
     "purple"
   ],
   "name": {
-    "ko": "칠리맛 쿠키"
+    "ko": "칠리맛 쿠키",
+    "zh-TW": "甜辣醬餅乾"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "비밀금고 침입"
+      "ko": "비밀금고 침입",
+      "zh-TW": "潛入秘密金庫"
     },
     "skillList": [
       {
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
-          "ko": "서로의 덱의 위에서부터 2장 트래시에 놓는다."
+          "ko": "서로의 덱의 위에서부터 2장 트래시에 놓는다.",
+          "zh-TW": "從雙方的牌庫頂分別將2張牌放置到棄牌區。"
         },
         "effect": {
           "trash": 2
@@ -43,7 +46,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "주머니 조심하라구!"
+        "ko": "주머니 조심하라구!",
+        "zh-TW": "小心你們的口袋!"
       }
     }
   ],

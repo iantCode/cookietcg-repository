@@ -1,7 +1,8 @@
 {
   "serial": "BS5-105",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_105.webp"
+    "ko": "images/ko/2024/BS5/BS5_105.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_105.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,12 +10,12 @@
     "purple"
   ],
   "name": {
-    "ko": "코코아맛 쿠키"
+    "ko": "코코아맛 쿠키",
+    "zh-TW": "可可餅乾"
   },
   "hp": 3,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -25,7 +26,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "코코아 한 잔 어때요?"
+        "ko": "코코아 한 잔 어때요?",
+        "zh-TW": "一起來杯熱可可吧?"
       }
     }
   ],

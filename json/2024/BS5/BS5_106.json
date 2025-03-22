@@ -1,7 +1,8 @@
 {
   "serial": "BS5-106",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_106.webp"
+    "ko": "images/ko/2024/BS5/BS5_106.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_106.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +10,25 @@
     "purple"
   ],
   "name": {
-    "ko": "플레인요거트맛 쿠키"
+    "ko": "플레인요거트맛 쿠키",
+    "zh-TW": "原味優格餅乾"
   },
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "purple": 3
       },
       "text": {
-        "ko": "그리고 자신의 덱에서 1장 뽑고 자신의 덱의 위에서부터 3장까지 트래시에 놓는다."
+        "ko": "그리고 자신의 덱에서 1장 뽑고 자신의 덱의 위에서부터 3장까지 트래시에 놓는다.",
+        "zh-TW": "然後,從自己的牌庫抽1張牌,並從自己的牌庫頂將最多3張牌放置到棄牌區。"
       },
       "damage": 1,
       "name": {
-        "ko": "비열한 계책"
+        "ko": "비열한 계책",
+        "zh-TW": "卑鄙的計謀"
       }
     }
   ],

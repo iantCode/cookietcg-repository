@@ -1,7 +1,8 @@
 {
   "serial": "BS5-107",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_107.webp"
+    "ko": "images/ko/2024/BS5/BS5_107.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_107.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,22 +10,23 @@
     "purple"
   ],
   "name": {
-    "ko": "홍고추맛 쿠키"
+    "ko": "홍고추맛 쿠키",
+    "zh-TW": "紅辣椒餅乾"
   },
   "hp": 1,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "불굴의 투지"
+      "ko": "불굴의 투지",
+      "zh-TW": "不屈不撓的鬥志"
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
-          "ko": "이 쿠키가 기절했을 때 서로의 덱의 위에서부터 2장 트래시에 놓는다."
+          "ko": "이 쿠키가 기절했을 때 서로의 덱의 위에서부터 2장 트래시에 놓는다.",
+          "zh-TW": "當這個餅乾暈倒時,從雙方的牌庫頂分別將2張牌放置到棄牌區。"
         },
         "effect": {
           "trash": 2
@@ -42,7 +44,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "불타는 주먹"
+        "ko": "불타는 주먹",
+        "zh-TW": "烈火之拳!"
       }
     }
   ],

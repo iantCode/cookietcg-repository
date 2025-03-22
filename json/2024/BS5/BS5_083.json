@@ -1,7 +1,8 @@
 {
   "serial": "BS5-083",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_083.webp"
+    "ko": "images/ko/2024/BS5/BS5_083.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_083.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,23 +10,25 @@
     "blue"
   ],
   "name": {
-    "ko": "파프리카맛 쿠키"
+    "ko": "파프리카맛 쿠키",
+    "zh-TW": "甜椒餅乾"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "파프리카 로봇 개조"
+      "ko": "파프리카 로봇 개조",
+      "zh-TW": "改造甜椒機器人"
     },
     "skillList": [
       {
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
-          "ko": "<패를 모두 버린다> 이 쿠키의 HP를 +2하고 자신의 덱에서 1장까지 뽑는다."
+          "ko": "<패를 모두 버린다> 이 쿠키의 HP를 +2하고 자신의 덱에서 1장까지 뽑는다.",
+          "zh-TW": "<棄掉所有手牌>這個餅乾獲得HP+2點,並從自己的牌庫抽最多1張牌。"
         },
         "effect": {
           "heal": 2,
@@ -44,7 +47,8 @@
       },
       "damage": 2,
       "name": {
-        "ko": "파프리카 로켓 발사"
+        "ko": "파프리카 로켓 발사",
+        "zh-TW": "發射甜椒火箭"
       }
     }
   ],
