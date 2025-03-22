@@ -1,7 +1,8 @@
 {
   "serial": "BS5-027",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_027.webp"
+    "ko": "images/ko/2024/BS5/BS5_027.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_027.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,12 +10,12 @@
     "yellow"
   ],
   "name": {
-    "ko": "망고 부족장 쿠키"
+    "ko": "망고 부족장 쿠키",
+    "zh-TW": "芒果族長餅乾"
   },
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -25,7 +26,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "어서 오세요~"
+        "ko": "어서 오세요~",
+        "zh-TW": "歡迎光臨~"
       }
     }
   ],

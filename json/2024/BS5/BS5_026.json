@@ -1,7 +1,8 @@
 {
   "serial": "BS5-026",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_026.webp"
+    "ko": "images/ko/2024/BS5/BS5_026.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_026.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,25 +10,25 @@
     "yellow"
   ],
   "name": {
-    "ko": "디제이맛 쿠키"
+    "ko": "디제이맛 쿠키",
+    "zh-TW": "DJ餅乾"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "무지개 디제잉"
+      "ko": "무지개 디제잉",
+      "zh-TW": "彩虹DJ表演"
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
-          "ko": "이 쿠키가 기절했을 때 <자신의 패에서 <yellow> LV.2 이하의 쿠키를 1장 브레이크 에리어에 놓는다> 이 쿠키를 패로 가져온다."
+          "ko": "이 쿠키가 기절했을 때 <자신의 패에서 <yellow> LV.2 이하의 쿠키를 1장 브레이크 에리어에 놓는다> 이 쿠키를 패로 가져온다.",
+          "zh-TW": "當這個餅乾暈倒時,<從自己的手牌將1個<yellow>且為LV.2或以下的餅乾放置到休息區>將這個餅乾移回手牌。"
         },
-        "effect": {
-        }
+        "effect": {}
       }
     ]
   },
@@ -41,7 +42,8 @@
       },
       "damage": 2,
       "name": {
-        "ko": "풋쳐핸섭!!"
+        "ko": "풋쳐핸섭!!",
+        "zh-TW": "舉起你們的手!"
       }
     }
   ],

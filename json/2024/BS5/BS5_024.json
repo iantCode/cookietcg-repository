@@ -1,7 +1,8 @@
 {
   "serial": "BS5-024",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_024.webp"
+    "ko": "images/ko/2024/BS5/BS5_024.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_024.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +10,25 @@
     "yellow"
   ],
   "name": {
-    "ko": "닥터 와사비 쿠키"
+    "ko": "닥터 와사비 쿠키",
+    "zh-TW": "芥末博士餅乾"
   },
   "hp": 1,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "yellow": 2
       },
       "text": {
-        "ko": "그리고 상대의 남은 HP가 2 이하라면 1대미지를 준다."
+        "ko": "그리고 상대의 남은 HP가 2 이하라면 1대미지를 준다.",
+        "zh-TW": "然後,如果對手剩餘HP為2點或以下,則再對它造成1點傷害。"
       },
       "damage": 1,
       "name": {
-        "ko": "와사비 시럽"
+        "ko": "와사비 시럽",
+        "zh-TW": "芥末糖漿"
       }
     }
   ],

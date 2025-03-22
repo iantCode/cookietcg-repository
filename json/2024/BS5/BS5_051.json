@@ -1,7 +1,8 @@
 {
   "serial": "BS5-051",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_051.webp"
+    "ko": "images/ko/2024/BS5/BS5_051.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_051.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,22 +10,23 @@
     "green"
   ],
   "name": {
-    "ko": "비트맛 쿠키"
+    "ko": "비트맛 쿠키",
+    "zh-TW": "甜菜餅乾"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "위장술의 달인"
+      "ko": "위장술의 달인",
+      "zh-TW": "偽裝達人"
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
-          "ko": "자신의 턴 종료 시 자신의 서포트 에리어에 있는 액티브 카드가 2장 이상이라면 <<green>로 사용할 수 있다> 이 쿠키를 자신의 덱 아래에 놓는다."
+          "ko": "자신의 턴 종료 시 자신의 서포트 에리어에 있는 액티브 카드가 2장 이상이라면 <<green>로 사용할 수 있다> 이 쿠키를 자신의 덱 아래에 놓는다.",
+          "zh-TW": "在自己的回合結束時,如果自己的支援區有2張或更多的牌為活躍狀態,則<你可以支付<green>>將這個餅乾放回牌庫最下方。"
         },
         "effect": {
           "deckReturn": 1
@@ -42,7 +44,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "비트 저격"
+        "ko": "비트 저격",
+        "zh-TW": "甜菜射擊"
       }
     }
   ],

@@ -1,7 +1,8 @@
 {
   "serial": "BS5-030",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_030.webp"
+    "ko": "images/ko/2024/BS5/BS5_030.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_030.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +10,25 @@
     "yellow"
   ],
   "name": {
-    "ko": "버터크림초코 쿠키"
+    "ko": "버터크림초코 쿠키",
+    "zh-TW": "奶油巧克力餅乾"
   },
   "hp": 1,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
         "yellow": 2
       },
       "text": {
-        "ko": "그리고 <이 쿠키를 브레이크 에리어에 놓는다> 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다."
+        "ko": "그리고 <이 쿠키를 브레이크 에리어에 놓는다> 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다.",
+        "zh-TW": "然後,《將這個餅乾放置到休息區》從自己的休息區選擇最多1個<yellow>且為LV.1的餅乾。將它放置到戰鬥區。"
       },
       "damage": 1,
       "name": {
-        "ko": "버터크림 코인"
+        "ko": "버터크림 코인",
+        "zh-TW": "奶油霜錢幣"
       }
     }
   ],

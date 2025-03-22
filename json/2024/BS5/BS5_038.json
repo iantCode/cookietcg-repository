@@ -1,7 +1,8 @@
 {
   "serial": "BS5-038",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_038.webp"
+    "ko": "images/ko/2024/BS5/BS5_038.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_038.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,7 +10,8 @@
     "yellow"
   ],
   "name": {
-    "ko": "체리맛 쿠키"
+    "ko": "체리맛 쿠키",
+    "zh-TW": "櫻桃餅乾"
   },
   "hp": 1,
   "hasSkill": false,
@@ -24,16 +26,17 @@
       },
       "damage": 1,
       "name": {
-        "ko": "불꽃놀이 좋아해?"
+        "ko": "불꽃놀이 좋아해?",
+        "zh-TW": "喜歡煙火嗎?"
       }
     }
   ],
   "hasFlip": true,
   "flip": {
-    "condition": {
-    },
+    "condition": {},
     "text": {
-      "ko": "자신의 덱에서 1장까지 뽑는다."
+      "ko": "자신의 덱에서 1장까지 뽑는다.",
+      "zh-TW": "從自己的牌庫抽最多1張牌。"
     },
     "effect": {
       "draw": 1

@@ -1,7 +1,8 @@
 {
   "serial": "BS5-045",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_045.webp"
+    "ko": "images/ko/2024/BS5/BS5_045.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_045.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +10,25 @@
     "green"
   ],
   "name": {
-    "ko": "감자맛 쿠키"
+    "ko": "감자맛 쿠키",
+    "zh-TW": "馬鈴薯餅乾"
   },
   "hp": 1,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "돼지감자 질주"
+      "ko": "돼지감자 질주",
+      "zh-TW": "馬鈴薯豬豬奔跑"
     },
     "skillList": [
       {
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
-          "ko": "<자신의 서포트 에리어에 있는 카드를 1장 패로 가져온다> 자신의 덱에서 1장까지 뽑는다."
+          "ko": "<자신의 서포트 에리어에 있는 카드를 1장 패로 가져온다> 자신의 덱에서 1장까지 뽑는다.",
+          "zh-TW": "<從自己的支援區將1張牌移回手牌>從自己的牌庫抽最多1張牌。"
         },
         "effect": {
           "kill": 1
@@ -43,7 +46,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "감자 좀 줄까?"
+        "ko": "감자 좀 줄까?",
+        "zh-TW": "送你一些馬鈴薯吧!"
       }
     }
   ],

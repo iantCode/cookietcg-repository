@@ -1,7 +1,8 @@
 {
   "serial": "BS5-055",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_055.webp"
+    "ko": "images/ko/2024/BS5/BS5_055.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_055.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +10,25 @@
     "green"
   ],
   "name": {
-    "ko": "시금치맛 쿠키"
+    "ko": "시금치맛 쿠키",
+    "zh-TW": "菠菜餅乾"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "채소를 먹자~"
+      "ko": "채소를 먹자~",
+      "zh-TW": "要吃蔬菜"
     },
     "skillList": [
       {
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
-          "ko": "자신의 서포트 에리어가 5장 이상이라면 이 턴 중 이 쿠키의 공격 대미지를 +1한다."
+          "ko": "자신의 서포트 에리어가 5장 이상이라면 이 턴 중 이 쿠키의 공격 대미지를 +1한다.",
+          "zh-TW": "如果自己的支援區有5張或更多的牌,則在這個回合中,這個餅乾的攻擊傷害+1點。"
         },
         "effect": {
           "damageIncrease": 1
@@ -43,7 +46,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "채소가 좋아"
+        "ko": "채소가 좋아",
+        "zh-TW": "鍾愛蔬菜"
       }
     }
   ],

@@ -1,7 +1,8 @@
 {
   "serial": "BS5-023",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_023.webp"
+    "ko": "images/ko/2024/BS5/BS5_023.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_023.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,23 +10,26 @@
     "yellow"
   ],
   "name": {
-    "ko": "다이노사워 쿠키"
+    "ko": "다이노사워 쿠키",
+    "zh-TW": "恐龍餅乾"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "젤리 공룡 라이드"
+      "ko": "젤리 공룡 라이드",
+      "zh-TW": "騎乘果凍恐龍"
     },
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "manual",
+          "onceTurn"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
-          "ko": "<이 쿠키의 HP의 위에서부터 3장 트래시에 놓는다> 이 턴 중 이 쿠키의 공격 대미지를 +2한다."
+          "ko": "<이 쿠키의 HP의 위에서부터 3장 트래시에 놓는다> 이 턴 중 이 쿠키의 공격 대미지를 +2한다.",
+          "zh-TW": "〈將這個餅乾最上方的3張HP卡放置到棄牌區>在這個回合中,這個餅乾的攻擊傷害+2點。"
         },
         "effect": {
           "damageIncrease": 2
@@ -39,11 +43,13 @@
         "yellow": 3
       },
       "text": {
-        "ko": "그리고 이 쿠키의 남은 HP가 3 이하라면 이 쿠키의 HP를 +1한다."
+        "ko": "그리고 이 쿠키의 남은 HP가 3 이하라면 이 쿠키의 HP를 +1한다.",
+        "zh-TW": "然後,如果這個餅乾剩餘HP為3點或以下,則這個餅乾獲得HP+1點。"
       },
       "damage": 2,
       "name": {
-        "ko": "난 공룡이야!"
+        "ko": "난 공룡이야!",
+        "zh-TW": "我是恐!"
       }
     }
   ],

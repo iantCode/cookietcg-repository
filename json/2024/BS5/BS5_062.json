@@ -1,7 +1,8 @@
 {
   "serial": "BS5-062",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_062.webp"
+    "ko": "images/ko/2024/BS5/BS5_062.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_062.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -9,12 +10,12 @@
     "green"
   ],
   "name": {
-    "ko": "호박맛 쿠키"
+    "ko": "호박맛 쿠키",
+    "zh-TW": "南瓜餅乾"
   },
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -25,7 +26,8 @@
       },
       "damage": 3,
       "name": {
-        "ko": "이 보석도 내 것이란다"
+        "ko": "이 보석도 내 것이란다",
+        "zh-TW": "這顆寶石也是我的"
       }
     }
   ],

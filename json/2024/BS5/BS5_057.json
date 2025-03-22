@@ -1,7 +1,8 @@
 {
   "serial": "BS5-057",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_057.webp"
+    "ko": "images/ko/2024/BS5/BS5_057.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_057.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +10,26 @@
     "green"
   ],
   "name": {
-    "ko": "웨어울프맛 쿠키"
+    "ko": "웨어울프맛 쿠키",
+    "zh-TW": "狼人餅乾"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "침착해야 돼"
+      "ko": "침착해야 돼",
+      "zh-TW": "要沉住氣..."
     },
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "manual",
+          "onceTurn"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
-          "ko": "<자신의 서포트 에리어에서 1장 트래시에 놓는다> 이 쿠키의 HP를 +1한다."
+          "ko": "<자신의 서포트 에리어에서 1장 트래시에 놓는다> 이 쿠키의 HP를 +1한다.",
+          "zh-TW": "<從自己的支援區將1張牌放置到棄牌區>這個餅乾獲得HP+1點。"
         },
         "effect": {
           "heal": 1
@@ -44,7 +48,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "다가오지 마!"
+        "ko": "다가오지 마!",
+        "zh-TW": "別靠近!"
       }
     }
   ],

@@ -1,7 +1,8 @@
 {
   "serial": "BS5-052",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_052.webp"
+    "ko": "images/ko/2024/BS5/BS5_052.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_052.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +10,25 @@
     "green"
   ],
   "name": {
-    "ko": "샌드위치맛 쿠키"
+    "ko": "샌드위치맛 쿠키",
+    "zh-TW": "三明治餅乾"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "신선한 재료"
+      "ko": "신선한 재료",
+      "zh-TW": "新鮮食材"
     },
     "skillList": [
       {
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
-          "ko": "자신의 서포트 에리어가 5장 이상이라면 이 쿠키의 HP를 +1한다."
+          "ko": "자신의 서포트 에리어가 5장 이상이라면 이 쿠키의 HP를 +1한다.",
+          "zh-TW": "如果自己的支援區有5張或更多的牌,則這個餅。乾的HP+1點。"
         },
         "effect": {
           "heal": 1
@@ -43,7 +46,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "샌드위치 나갑니다!"
+        "ko": "샌드위치 나갑니다!",
+        "zh-TW": "三明治來囉!"
       }
     }
   ],

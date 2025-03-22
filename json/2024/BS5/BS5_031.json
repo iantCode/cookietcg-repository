@@ -1,7 +1,8 @@
 {
   "serial": "BS5-031",
   "img": {
-    "ko": "images/ko/2024/BS5/BS5_031.webp"
+    "ko": "images/ko/2024/BS5/BS5_031.webp",
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_031.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -9,23 +10,25 @@
     "yellow"
   ],
   "name": {
-    "ko": "복숭아맛 쿠키"
+    "ko": "복숭아맛 쿠키",
+    "zh-TW": "桃子餅乾"
   },
   "hp": 1,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "돌리고~ 찌르고!"
+      "ko": "돌리고~ 찌르고!",
+      "zh-TW": "旋轉,刺擊!"
     },
     "skillList": [
       {
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
-          "ko": "자신의 브레이크 에리어의 LV.이 상대의 브레이크 에리어의 LV.보다 높다면 자신의 덱에서 1장까지 뽑는다."
+          "ko": "자신의 브레이크 에리어의 LV.이 상대의 브레이크 에리어의 LV.보다 높다면 자신의 덱에서 1장까지 뽑는다.",
+          "zh-TW": "如果自己的休息區LV總和高於對手的休息區LV總和,則從自己的牌庫抽最多1張牌。"
         },
         "effect": {
           "draw": 1
@@ -43,7 +46,8 @@
       },
       "damage": 1,
       "name": {
-        "ko": "복숭봉술"
+        "ko": "복숭봉술",
+        "zh-TW": "桃子棍術"
       }
     }
   ],
