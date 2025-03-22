@@ -11,14 +11,16 @@
   ],
   "name": {
     "ko": "위치베리맛 쿠키",
-    "en": "Witchberry Cookie"
+    "en": "Witchberry Cookie",
+    "zh-TW": "小巫莓餅乾"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "소동을 일으키자냥!",
-      "en": "Feline Ruckus"
+      "en": "Feline Ruckus",
+      "zh-TW": "就愛惹麻煩"
     },
     "skillList": [
       {
@@ -29,7 +31,8 @@
         },
         "text": {
           "ko": "상대의 트래시에 있는 카드가 15장 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
-          "en": "If your opponent has 15 cards or more in their trash, select up to 1 of your opponent's LV.1 Cookies. That Cookie receives 2 damage."
+          "en": "If your opponent has 15 cards or more in their trash, select up to 1 of your opponent's LV.1 Cookies. That Cookie receives 2 damage.",
+          "zh-TW": "如果對手的棄牌區有15張或更多的牌,則選擇最多1個LV.1對手的餅乾。對它造成2點傷害。"
         },
         "effect": {
           "damage": 2
@@ -44,12 +47,14 @@
       },
       "text": {
         "ko": "",
-        "en": ""
+        "en": "",
+        "zh-TW": ""
       },
       "damage": 3,
       "name": {
         "ko": "위치베리 매직",
-        "en": "Witchberry Magic"
+        "en": "Witchberry Magic",
+        "zh-TW": "小巫梅魔法"
       }
     }
   ],

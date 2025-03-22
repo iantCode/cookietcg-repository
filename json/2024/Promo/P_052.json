@@ -11,13 +11,16 @@
   ],
   "name": {
     "ko": "레몬제스트맛 쿠키",
-    "en": "Lemon Zest Cookie"
+    "en": "Lemon Zest Cookie",
+    "zh-TW": "檸檬皮餅乾"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "방전"
+      "ko": "방전",
+      "en": "Discharge",
+      "zh-TW": "放電"
     },
     "skillList": [
       {
@@ -27,7 +30,8 @@
         },
         "text": {
           "ko": "이 쿠키가 기절했을 때 자신의 브레이크 에리어가 LV.5 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다.",
-          "en": "When this Cookie faints and your break area is LV.5 or higher, select up to 1 of your opponent's LV.1 Cookies. Make that Cookie faint."
+          "en": "When this Cookie faints and your break area is LV.5 or higher, select up to 1 of your opponent's LV.1 Cookies. Make that Cookie faint.",
+          "zh-TW": "當這個餅乾暈倒時,如果自己的休息區LV總和達到5或以上,則選擇最多1個LV.1對手的餅乾。使它暈倒。"
         },
         "effect": {
           "kill": 1
@@ -46,7 +50,8 @@
       "damage": 2,
       "name": {
         "ko": "짜릿한 화살",
-        "en": "Zap Arrow"
+        "en": "Zap Arrow",
+        "zh-TW": "酥麻電箭"
       }
     }
   ],

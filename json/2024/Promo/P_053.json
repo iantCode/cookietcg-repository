@@ -11,7 +11,8 @@
   ],
   "name": {
     "ko": "허브맛 쿠키",
-    "en": "Herb Cookie"
+    "en": "Herb Cookie",
+    "zh-TW": "藥草餅乾"
   },
   "hp": 5,
   "hasSkill": false,
@@ -24,12 +25,14 @@
       },
       "text": {
         "ko": "이 배틀 중 상대의 LV.1 쿠키가 기절했다면 자신의 덱의 위에서부터 1장까지 서포트 에리어에 레스트로 놓는다.",
-        "en": "During this battle, if your opponent's LV.1 Cookie faints, you can draw up to 1 card from the top of your deck and place it in your support area as rested."
+        "en": "During this battle, if your opponent's LV.1 Cookie faints, you can draw up to 1 card from the top of your deck and place it in your support area as rested.",
+        "zh-TW": "然後,在這次的戰鬥中,如果對手的LV.1餅乾曾暈倒過,則從自己的牌庫頂將最多1張牌以疲勞狀態放置到支援區。"
       },
       "damage": 4,
       "name": {
         "ko": "따스한 정원",
-        "en": "Sunny Garden"
+        "en": "Sunny Garden",
+        "zh-TW": "暖和的庭園"
       }
     }
   ],

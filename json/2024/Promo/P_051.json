@@ -11,14 +11,16 @@
   ],
   "name": {
     "ko": "딸기크레페맛 쿠키",
-    "en": "Strawberry Crepe Cookie"
+    "en": "Strawberry Crepe Cookie",
+    "zh-TW": "草莓可麗餅餅乾"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "마법기계공학의 정수",
-      "en": "Magichanical Engineering"
+      "en": "Magichanical Engineering",
+      "zh-TW": "魔法機械工程學精髓"
     },
     "skillList": [
       {
@@ -30,7 +32,8 @@
         },
         "text": {
           "ko": "자신의 브레이크 에리어가 LV.2 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
-          "en": "If your break area is LV.2 or higher, select up to 1 of your opponent's LV.1 Cookies. That Cookie receives 2 damage."
+          "en": "If your break area is LV.2 or higher, select up to 1 of your opponent's LV.1 Cookies. That Cookie receives 2 damage.",
+          "zh-TW": "如果自己的休息區總和達到2或以上,則選擇最多1個LV.1對手的餅乾。對它造成2點傷害。"
         },
         "effect": {
           "damage": 2
@@ -49,7 +52,8 @@
       "damage": 4,
       "name": {
         "ko": "몽땅 부서져버려!",
-        "en": "I'll smash you all!"
+        "en": "I'll smash you all!",
+        "zh-TW": "通通粉碎!"
       }
     }
   ],

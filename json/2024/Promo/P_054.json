@@ -11,14 +11,16 @@
   ],
   "name": {
     "ko": "블루슬러시맛 쿠키",
-    "en": "Blue Slushy Cookie"
+    "en": "Blue Slushy Cookie",
+    "zh-TW": "蘇打冰沙餅乾"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "디저트 숲의 수호자",
-      "en": "Dessert Guardian"
+      "en": "Dessert Guardian",
+      "zh-TW": "甜點森林守護者"
     },
     "skillList": [
       {
@@ -29,7 +31,8 @@
         },
         "text": {
           "ko": "자신의 패가 5장 이하이고 상대의 배틀 에리어에 LV.1 쿠키가 있다면 자신의 덱에서 2장까지 뽑는다.",
-          "en": "If there are 5 cards or less in your hand and there is a LV.1 Cookie in your opponent's battle area, you can draw up to 2 cards from your deck."
+          "en": "If there are 5 cards or less in your hand and there is a LV.1 Cookie in your opponent's battle area, you can draw up to 2 cards from your deck.",
+          "zh-TW": "如果自己的手牌為5張或更少,且對手的戰鬥區有LV.1的餅乾,則從牌庫抽最多2張牌。"
         },
         "effect": {
           "draw": 2
@@ -49,7 +52,8 @@
       "damage": 3,
       "name": {
         "ko": "블루슬러시 화살",
-        "en": "Blue Slushy Arrows"
+        "en": "Blue Slushy Arrows",
+        "zh-TW": "蘇打冰沙箭"
       }
     }
   ],
