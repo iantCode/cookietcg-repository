@@ -2,7 +2,8 @@
   "serial": "BS3-003",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_003.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_003.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_003.webp",
+    "en": "images/en/2025/BS3/BS3_003.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "로얄마가린맛 쿠키",
-    "zh-TW": "皇家人造奶油餅乾"
+    "zh-TW": "皇家人造奶油餅乾",
+    "en": "Royal Margarine Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "화려한 비행술",
-      "zh-TW": "華麗的馭龍術"
+      "zh-TW": "華麗的馭龍術",
+      "en": "Spectacular Flying"
     },
     "skillList": [
       {
@@ -30,7 +33,8 @@
         },
         "text": {
           "ko": "이 쿠키를 패로 되돌린다.",
-          "zh-TW": "將這個餅乾移回手牌。"
+          "zh-TW": "將這個餅乾移回手牌。",
+          "en": "Return this Cookie to your hand."
         },
         "effect": {
           "return": 1
@@ -49,7 +53,8 @@
       "damage": 2,
       "name": {
         "ko": "버터크림 브레스",
-        "zh-TW": "奶油氣息"
+        "zh-TW": "奶油氣息",
+        "en": "Buttercream Breath"
       }
     }
   ],

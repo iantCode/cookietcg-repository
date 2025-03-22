@@ -2,7 +2,8 @@
   "serial": "BS3-017-SUR",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_017_SUR.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_017_SUR.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_017_SUR.webp",
+    "en": "images/en/2025/BS3/BS3_017_SUR.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "홀리베리 쿠키",
-    "zh-TW": "聖莓果餅乾"
+    "zh-TW": "聖莓果餅乾",
+    "en": "Hollyberry Cookie"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "베리-홀리 방패",
-      "zh-TW": "聖莓盾牌"
+      "zh-TW": "聖莓盾牌",
+      "en": "Hollyberry Shield"
     },
     "skillList": [
       {
@@ -26,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 받는 3 이상의 대미지는 2가 된다.",
-          "zh-TW": "這個餅乾受到3點或以上的傷害將改為2點。"
+          "zh-TW": "這個餅乾受到3點或以上的傷害將改為2點。",
+          "en": "Any damage of 3 or more received by this Cookie is reduced to 2."
         },
         "effect": {}
       }
@@ -39,12 +43,14 @@
       },
       "text": {
         "ko": "그리고 자신의 다른 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다.",
-        "zh-TW": "然後,選擇最多1個自己的另一個餅乾。在這個回合中,它的攻擊傷害+1點。"
+        "zh-TW": "然後,選擇最多1個自己的另一個餅乾。在這個回合中,它的攻擊傷害+1點。",
+        "en": "Then, select up to 1 of your other Cookies. During this turn, that Cookie gains +1 attack damage."
       },
       "damage": 3,
       "name": {
         "ko": "내가 앞서가겠다!",
-        "zh-TW": "由我打頭陣!"
+        "zh-TW": "由我打頭陣!",
+        "en": "Sound the Charge!"
       }
     }
   ],

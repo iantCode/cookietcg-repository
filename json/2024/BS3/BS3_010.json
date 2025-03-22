@@ -2,7 +2,8 @@
   "serial": "BS3-010",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_010.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_010.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_010.webp",
+    "en": "images/en/2025/BS3/BS3_010.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "용과 드래곤 쿠키",
-    "zh-TW": "火龍果龍族餅乾"
+    "zh-TW": "火龍果龍族餅乾",
+    "en": "Pitaya Dragon Cookie"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "용의 포효",
-      "zh-TW": "龍的咆哮"
+      "zh-TW": "龍的咆哮",
+      "en": "Dragon Roar"
     },
     "skillList": [
       {
@@ -29,7 +32,8 @@
         "cost": {},
         "text": {
           "ko": "상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다.",
-          "zh-TW": "選擇最多1個LV.1對手的餅乾。使它暈倒。"
+          "zh-TW": "選擇最多1個LV.1對手的餅乾。使它暈倒。",
+          "en": "Select up to 1 of your opponent's LV.1 Cookies. Make that Cookie faint."
         },
         "effect": {
           "kill": 1
@@ -44,12 +48,14 @@
       },
       "text": {
         "ko": "그리고 <<red>로 사용할 수 있다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-        "zh-TW": "然後,《你可以支付<red>>選擇最多1個對手的餅乾。對它造成1點傷害。"
+        "zh-TW": "然後,《你可以支付<red>>選擇最多1個對手的餅乾。對它造成1點傷害。",
+        "en": "Then, <can be used as <red>.> Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
       },
       "damage": 3,
       "name": {
         "ko": "엔드 인 단트!",
-        "zh-TW": "ENDT IHN DAOND!"
+        "zh-TW": "ENDT IHN DAOND!",
+        "en": "Endt Ihn Daond!"
       }
     }
   ],

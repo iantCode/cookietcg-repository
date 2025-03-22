@@ -2,7 +2,8 @@
   "serial": "BS3-001",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_001.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_001.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_001.webp",
+    "en": "images/en/2025/BS3/BS3_001.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "공주맛 쿠키",
-    "zh-TW": "公主餅乾"
+    "zh-TW": "公主餅乾",
+    "en": "Princess Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "당찬 공주의 패기",
-      "zh-TW": "小公主的霸氣"
+      "zh-TW": "小公主的霸氣",
+      "en": "Daring Princess Spirit"
     },
     "skillList": [
       {
@@ -28,7 +31,8 @@
         },
         "text": {
           "ko": "이 턴 중 이 카드가 상대의 남은 HP가 4 이상인 쿠키에게 공격할 때 이 쿠키의 공격 대미지를 +1한다.",
-          "zh-TW": "在這個回合中,當這個餅乾對剩餘HP為4點或以上對 手的餅乾發動攻擊時,這個餅乾的攻擊傷害+1點。"
+          "zh-TW": "在這個回合中,當這個餅乾對剩餘HP為4點或以上對 手的餅乾發動攻擊時,這個餅乾的攻擊傷害+1點。",
+          "en": "During this turn, when this Cookie attacks your opponent's Cookie whose remaining HP is 4 or more, this Cookie gains +1 attack damage."
         },
         "effect": {
           "damageIncrease": 1
@@ -47,7 +51,8 @@
       "damage": 1,
       "name": {
         "ko": "호기심 넘치는 한 방!",
-        "zh-TW": "大力一擊!"
+        "zh-TW": "大力一擊!",
+        "en": "Curiosity-Fueled Punch!"
       }
     }
   ],

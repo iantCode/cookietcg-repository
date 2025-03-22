@@ -2,7 +2,8 @@
   "serial": "BS3-008",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_008.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_008.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_008.webp",
+    "en": "images/en/2025/BS3/BS3_008.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "악마맛 쿠키",
-    "zh-TW": "惡魔餅乾"
+    "zh-TW": "惡魔餅乾",
+    "en": "Devil Cookie"
   },
   "hp": 1,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "악마의 계약",
-      "zh-TW": "惡魔之約"
+      "zh-TW": "惡魔之約",
+      "en": "Devilish Pact"
     },
     "skillList": [
       {
@@ -31,7 +34,8 @@
         },
         "text": {
           "ko": "상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다.",
-          "zh-TW": "選擇最多1個LV.1對手的餅乾。使它暈倒。"
+          "zh-TW": "選擇最多1個LV.1對手的餅乾。使它暈倒。",
+          "en": "Select up to 1 of your opponent's LV.1 Cookies. Make that Cookie faint."
         },
         "effect": {
           "kill": 1
@@ -50,7 +54,8 @@
       "damage": 1,
       "name": {
         "ko": "악마의 장난",
-        "zh-TW": "惡魔惡作劇"
+        "zh-TW": "惡魔惡作劇",
+        "en": "Devilish Prank"
       }
     }
   ],
