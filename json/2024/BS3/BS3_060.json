@@ -2,7 +2,8 @@
   "serial": "BS3-060",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_060.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_060.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_060.webp",
+    "en": "images/en/2025/BS3/BS3_060.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "요정왕 쿠키",
-    "zh-TW": "妖精王餅乾"
+    "zh-TW": "妖精王餅乾",
+    "en": "Elder Fairy Cookie"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "수호자의 봉인",
-      "zh-TW": "守護者的封印"
+      "zh-TW": "守護者的封印",
+      "en": "Guardian of the Seal"
     },
     "skillList": [
       {
@@ -28,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "상대의 서포트 에리어에 있는 액티브 카드를 1장까지 선택한다. 그 카드를 레스트로 한다.",
-          "zh-TW": "從對手的支援區選擇最多1張活躍狀態的牌。將它改為疲勞狀態。"
+          "zh-TW": "從對手的支援區選擇最多1張活躍狀態的牌。將它改為疲勞狀態。",
+          "en": "Select up to 1 active card from your opponent's support area. Rest that card."
         },
         "effect": {
           "makeRest": 1
@@ -43,12 +47,14 @@
       },
       "text": {
         "ko": "그리고 이 쿠키의 HP에서 2장 트래시에 놓는다. 이 효과로 이 쿠키의 HP가 0이 되었을 때 자신의 서포트 에리어의 카드를 2장까지 액티브로 한다.",
-        "zh-TW": "然後,將這個餅乾的2張HP卡放置到棄牌區。如果這個餅乾的HP因此變為0點,則將自己的支援區其中贏多2張牌改為活躍狀態。"
+        "zh-TW": "然後,將這個餅乾的2張HP卡放置到棄牌區。如果這個餅乾的HP因此變為0點,則將自己的支援區其中贏多2張牌改為活躍狀態。",
+        "en": "Then, place 2 cards from the top of this Cookie's HP into the trash. When this makes the Cookie's HP reach 0, set up to 2 cards from your support area as active."
       },
       "damage": 5,
       "name": {
         "ko": "수호자의 일격",
-        "zh-TW": "守護者之擊"
+        "zh-TW": "守護者之擊",
+        "en": "Guardian Strike"
       }
     }
   ],

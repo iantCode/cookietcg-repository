@@ -2,7 +2,8 @@
   "serial": "BS4-080-SEC",
   "img": {
     "ko": "images/ko/2024/BS4/BS4_080_SEC.webp",
-    "zh-TW": "images/zh-TW/2024/BS4/BS4_080_SEC.webp"
+    "zh-TW": "images/zh-TW/2024/BS4/BS4_080_SEC.webp",
+    "en": "images/en/2025/BS3/BS4_080_SEC.webp"
   },
   "type": "cookie",
   "level": 2,

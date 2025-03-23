@@ -2,7 +2,8 @@
   "serial": "BS3-057",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_057.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_057.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_057.webp",
+    "en": "images/en/2025/BS3/BS3_057.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "수은기사 쿠키",
-    "zh-TW": "水銀騎士餅乾"
+    "zh-TW": "水銀騎士餅乾",
+    "en": "Mercurial Knight Cookie"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "수은기사의 사명",
-      "zh-TW": "水銀騎士的使命"
+      "zh-TW": "水銀騎士的使命",
+      "en": "Mercurial Knight's Oath"
     },
     "skillList": [
       {
@@ -28,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 서포트 에리어가 5장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "如果自己的支援區有5張或更多的牌,則選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "如果自己的支援區有5張或更多的牌,則選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "If your support area contains 5 cards or more, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -47,7 +51,8 @@
       "damage": 3,
       "name": {
         "ko": "기사단 돌격",
-        "zh-TW": "騎士團突"
+        "zh-TW": "騎士團突",
+        "en": "Knight's Charge"
       }
     }
   ],

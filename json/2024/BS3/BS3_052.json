@@ -2,7 +2,8 @@
   "serial": "BS3-052",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_052.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_052.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_052.webp",
+    "en": "images/en/2025/BS3/BS3_052.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -11,13 +12,16 @@
   ],
   "name": {
     "ko": "민트초코 쿠키",
-    "zh-TW": "薄荷巧克力餅乾"
+    "zh-TW": "薄荷巧克力餅乾",
+    "en": "Mint Choco Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "승리의 협주곡"
+      "ko": "승리의 협주곡",
+      "zh-TW": "勝利協奏曲",
+      "en": "Concerto of Victory"
     },
     "skillList": [
       {
@@ -27,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "<자신의 서포트 에리어에 있는 카드를 1장 트래시에 놓는다> 자신의 남은 HP가 2 이하인 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다.",
-          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區>選擇最多1個剩餘HP為2點或以下自己的另一個餅乾。它獲得HP+1點。"
+          "zh-TW": "《從自己的支援區將1張牌放置到棄牌區>選擇最多1個剩餘HP為2點或以下自己的另一個餅乾。它獲得HP+1點。",
+          "en": "<Place 1 card from your support area into the Trash> Select up to 1 of your other Cookies remaining HP is 2 or less. That Cookie gains +1 HP."
         },
         "effect": {
           "heal": 1
@@ -45,7 +50,9 @@
       },
       "damage": 2,
       "name": {
-        "ko": "혼신의 연주"
+        "ko": "혼신의 연주",
+        "zh-TW": "忘我的演奏",
+        "en": "Enchanting Performance"
       }
     }
   ],

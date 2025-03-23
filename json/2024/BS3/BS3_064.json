@@ -2,7 +2,8 @@
   "serial": "BS3-064",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_064.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_064.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_064.webp",
+    "en": "images/en/2025/BS3/BS3_064.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "클로버맛 쿠키",
-    "zh-TW": "幸運草餅乾"
+    "zh-TW": "幸運草餅乾",
+    "en": "Clover Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "행운의 클로버",
-      "zh-TW": "幸運四葉草"
+      "zh-TW": "幸運四葉草",
+      "en": "Lucky Clover"
     },
     "skillList": [
       {
@@ -26,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 <자신의 서포트 에리어에 있는 카드를 1장 패로 가져온다> 자신의 덱을 1장까지 뽑는다.",
-          "zh-TW": "當這個餅乾暈倒時,<從自己的支援區將1張牌移回手牌>從自己的牌庫抽最多1張牌。"
+          "zh-TW": "當這個餅乾暈倒時,<從自己的支援區將1張牌移回手牌>從自己的牌庫抽最多1張牌。",
+          "en": "When this Cookie faints, <return 1 card from your support area to your hand.> Draw up to 1 card from your deck."
         },
         "effect": {
           "draw": 1
@@ -45,7 +49,8 @@
       "damage": 1,
       "name": {
         "ko": "음유시인의 연주",
-        "zh-TW": "吟遊詩人的演奏"
+        "zh-TW": "吟遊詩人的演奏",
+        "en": "Bard's Song"
       }
     }
   ],

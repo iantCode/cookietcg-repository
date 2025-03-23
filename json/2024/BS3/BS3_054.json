@@ -2,7 +2,8 @@
   "serial": "BS3-054",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_054.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_054.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_054.webp",
+    "en": "images/en/2025/BS3/BS3_054.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "비트맛 쿠키",
-    "zh-TW": "甜菜餅乾"
+    "zh-TW": "甜菜餅乾",
+    "en": "Beet Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "야생의 근성",
-      "zh-TW": "野生本能"
+      "zh-TW": "野生本能",
+      "en": "Tenacity"
     },
     "skillList": [
       {
@@ -26,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 턴 종료 시 자신의 서포트 에리어에 있는 엑티브 카드가 2장 이상이라면 자신의 덱에서 1장까지 뽑는다.",
-          "zh-TW": "在自己的回合結束時,如果自己的支援區有2張或更多的牌為活躍狀態,則從自己的牌庫抽最多1張牌。"
+          "zh-TW": "在自己的回合結束時,如果自己的支援區有2張或更多的牌為活躍狀態,則從自己的牌庫抽最多1張牌。",
+          "en": "When your thrn ends, if your support area contains 2 or more active cards, draw up to 1 card from your deck."
         },
         "effect": {
           "draw": 1
@@ -46,7 +50,8 @@
       "damage": 2,
       "name": {
         "ko": "알싸한 사냥꾼의 화살",
-        "zh-TW": "神準的獵人之箭"
+        "zh-TW": "神準的獵人之箭",
+        "en": "Piquant Hunter's Bolt"
       }
     }
   ],

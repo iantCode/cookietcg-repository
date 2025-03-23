@@ -2,7 +2,8 @@
   "serial": "BS3-066-SSR",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_066_SSR.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_066_SSR.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_066_SSR.webp",
+    "en": "images/en/2025/BS3/BS3_066_SSR.webp"
   },
   "type": "item",
   "level": 0,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "소울 잼: 자유의 빛",
-    "zh-TW": "靈魂果醬:自由之光"
+    "zh-TW": "靈魂果醬:自由之光",
+    "en": "Soul Jam: Light of Freedom"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "자신의 서포트 에리어에 있는 카드를 1장 패로 가져오고 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다. 그리고 이 카드를 자신의 [세인트릴리 쿠키]에게 <장착>할 수 있다. 그 쿠키가 공격할 때 자신의 서포트 에리어에 있는 카드를 1장까지 액티브로 한다.",
-        "zh-TW": "從自己的支援區將1張牌移回手牌,並從自己的牌庫頂將1張牌以活躍狀態放置到支援區。然後, 你可以將這張牌<裝載>在自己的[聖百合餅乾]上。當<裝載>這個道具的餅乾發動攻擊時,將自己的支援區其中最多1張牌改為活躍狀態。"
+        "zh-TW": "從自己的支援區將1張牌移回手牌,並從自己的牌庫頂將1張牌以活躍狀態放置到支援區。然後, 你可以將這張牌<裝載>在自己的[聖百合餅乾]上。當<裝載>這個道具的餅乾發動攻擊時,將自己的支援區其中最多1張牌改為活躍狀態。",
+        "en": "Return 1 card from your support area to your hand, and place 1 card from the top of your deck into your support area as active. Then, you can <Equip> this card to your [White Lily Cookie]. When that Cookie attacks, set up to 1 card from your support area as active."
       },
       "damage": 0,
       "name": {

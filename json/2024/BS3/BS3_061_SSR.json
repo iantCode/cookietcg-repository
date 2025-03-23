@@ -2,7 +2,8 @@
   "serial": "BS3-061-SSR",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_061_SSR.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_061_SSR.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_061_SSR.webp",
+    "en": "images/en/2025/BS3/BS3_061_SSR.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "은방울맛 쿠키",
-    "zh-TW": "風鈴草餅乾"
+    "zh-TW": "風鈴草餅乾",
+    "en": "Silverbell Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "빛나는 화살촉의 의지",
-      "zh-TW": "閃耀之箭的意志"
+      "zh-TW": "閃耀之箭的意志",
+      "en": "Knight's Will"
     },
     "skillList": [
       {
@@ -26,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 <자신의 서포트 에리어에 있는 카드를 1장 트래시에 놓는다> 자신의 서포트 에리어가 5장 이상이라면 상대의 모든 쿠키에게 1대미지를 준다.",
-          "zh-TW": "當這個餅乾暈倒時,<從自己的支援區將1張牌放置到棄牌區>如果自己的支援區有5張或更多的牌,則對對手的所有餅乾分別造成1點傷害。"
+          "zh-TW": "當這個餅乾暈倒時,<從自己的支援區將1張牌放置到棄牌區>如果自己的支援區有5張或更多的牌,則對對手的所有餅乾分別造成1點傷害。",
+          "en": "When this Cookie faints, <place 1 card from your support area into the trash.> If your support area contains 5 cards or more, deal 1 damage to all of your opponent's Cookies."
         },
         "effect": {
           "damage": 1
@@ -45,7 +49,8 @@
       "damage": 2,
       "name": {
         "ko": "영롱한 화살",
-        "zh-TW": "燦爛之箭"
+        "zh-TW": "燦爛之箭",
+        "en": "Shining Arrow"
       }
     }
   ],
