@@ -2,7 +2,8 @@
   "serial": "BS3-026",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_026.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_026.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_026.webp",
+    "en": "images/en/2025/BS3/BS3_026.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "린저 쿠키",
-    "zh-TW": "果醬夾心餅乾"
+    "zh-TW": "果醬夾心餅乾",
+    "en": "Linzer Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "허를 찌르는 트릭",
-      "zh-TW": "出奇不意的手段"
+      "zh-TW": "出奇不意的手段",
+      "en": "Impeccable Deduction"
     },
     "skillList": [
       {
@@ -30,7 +33,8 @@
         },
         "text": {
           "ko": "자신의 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 모두 보고 원하는 순서로 놓는다.",
-          "zh-TW": "選擇最多1個自己的餅乾。查看它所有的HP卡,並以任意順序放回。"
+          "zh-TW": "選擇最多1個自己的餅乾。查看它所有的HP卡,並以任意順序放回。",
+          "en": "Select up to 1 of your Cookies. View all of that Cookie's HP cards and rearrange them in any order."
         },
         "effect": {}
       }
@@ -48,7 +52,8 @@
       "damage": 1,
       "name": {
         "ko": "범인은.. 바로 당신!!",
-        "zh-TW": "犯人...就是你!!"
+        "zh-TW": "犯人...就是你!!",
+        "en": "The Culprit... is YOU!"
       }
     }
   ],

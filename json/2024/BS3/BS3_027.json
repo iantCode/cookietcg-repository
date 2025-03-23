@@ -2,7 +2,8 @@
   "serial": "BS3-027",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_027.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_027.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_027.webp",
+    "en": "images/en/2025/BS3/BS3_027.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "마지팬맛 쿠키",
-    "zh-TW": "扁桃仁膏餅乾"
+    "zh-TW": "扁桃仁膏餅乾",
+    "en": "Marzipan Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -27,7 +29,8 @@
       "damage": 3,
       "name": {
         "ko": "제어 시스템, 가동!",
-        "zh-TW": "控制系統,啟動!"
+        "zh-TW": "控制系統,啟動!",
+        "en": "Containment Protocol"
       }
     }
   ],
@@ -36,7 +39,8 @@
     "condition": {},
     "text": {
       "ko": "자신의 덱에서 1장까지 뽑는다.",
-      "zh-TW": "從自己的牌庫抽最多1張牌。"
+      "zh-TW": "從自己的牌庫抽最多1張牌。",
+      "en": "Draw up to 1 card from your deck."
     },
     "effect": {
       "draw": 1

@@ -2,7 +2,8 @@
   "serial": "BS3-043",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_043.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_043.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_043.webp",
+    "en": "images/en/2025/BS3/BS3_043.webp"
   },
   "type": "item",
   "level": 0,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "소울 잼: 풍요의 빛",
-    "zh-TW": "靈魂果醬:富饒之光"
+    "zh-TW": "靈魂果醬:富饒之光",
+    "en": "Soul Jam: Light of Abundance"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "상대의 모든 쿠키에게 1대미지를 준다. 그리고 이 카드를 자신의 [골드치즈 쿠키]에게 <장착>할 수 있다. 그 쿠키의 HP를 +2한다.",
-        "zh-TW": "對對手的所有餅乾分別造成1點傷害。然後,你可以將這張牌<裝載>在自己的[黃金起司餅乾]上。 <裝載>這個道具的餅乾獲得HP+2點。"
+        "zh-TW": "對對手的所有餅乾分別造成1點傷害。然後,你可以將這張牌<裝載>在自己的[黃金起司餅乾]上。 <裝載>這個道具的餅乾獲得HP+2點。",
+        "en": "Deals 1 damage to all of your opponent's Cookies. Then, you can <Equip> this card to your [Golden Cheese Cookie]. That Cookie gains +2 HP."
       },
       "damage": 1,
       "name": {

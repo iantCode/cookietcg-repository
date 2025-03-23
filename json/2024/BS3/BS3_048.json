@@ -2,7 +2,8 @@
   "serial": "BS3-048",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_048.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_048.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_048.webp",
+    "en": "images/en/2025/BS3/BS3_048.webp"
   },
   "type": "stage",
   "level": 0,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "황금도시의 관제실",
-    "zh-TW": "黃金城市控制室"
+    "zh-TW": "黃金城市控制室",
+    "en": "Golden City Control Chamber"
   },
   "hp": 0,
   "hasSkill": true,
@@ -29,7 +31,8 @@
         },
         "text": {
           "ko": "<이 카드를 레스트한다> 자신의 배틀 에리어에 있는 LV.2 이상의 쿠키를 1장까지 선택한다. 이 턴 중 자신의 브레이크 에리어에 있는 <yellow> LV.3 쿠키 1장당 그 쿠키의 공격 대미지를 +1한다.",
-          "zh-TW": "<將這張牌改為疲勞狀態>從自己的戰鬥區選擇最多1個LV.2或以上的餅乾。在這個回合中,自己的休息區中每有1個<yellow>且為LV.3的餅乾,它的攻擊傷害便+1點。"
+          "zh-TW": "<將這張牌改為疲勞狀態>從自己的戰鬥區選擇最多1個LV.2或以上的餅乾。在這個回合中,自己的休息區中每有1個<yellow>且為LV.3的餅乾,它的攻擊傷害便+1點。",
+          "en": "<Rest this card.> Select up to 1 LV.2 or higher Cookiees in your battle area. During this turn, that Cookie gains +1 attack damage for each <yellow> LV.3 Cookie in your break area."
         },
         "effect": {
           "damage": 0
@@ -44,7 +47,8 @@
       },
       "text": {
         "ko": "자신의 스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到自己的場景區。"
+        "zh-TW": "將這張牌放置到自己的場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

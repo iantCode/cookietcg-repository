@@ -2,7 +2,8 @@
   "serial": "BS3-031",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_031.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_031.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_031.webp",
+    "en": "images/en/2025/BS3/BS3_031.webp"
   },
   "type": "cookie",
   "level": 1,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "팬케이크맛 쿠키",
-    "zh-TW": "鬆餅餅乾"
+    "zh-TW": "鬆餅餅乾",
+    "en": "Pancake Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "도토리젤리~!",
-      "zh-TW": "橡實果凍~!"
+      "zh-TW": "橡實果凍~!",
+      "en": "Acorn Jellies!!!"
     },
     "skillList": [
       {
@@ -28,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 다른 쿠키를 1장까지 선택한다. 그 쿠키의 HP의 위에서부터 1장 이 쿠키의 HP 위에 추가한다.",
-          "zh-TW": "選擇最多1個自己的另一個餅乾。從它的HP卡最上方抽1張牌,放置到這個餅乾的HP卡最上方。"
+          "zh-TW": "選擇最多1個自己的另一個餅乾。從它的HP卡最上方抽1張牌,放置到這個餅乾的HP卡最上方。",
+          "en": "Select up to 1 of your other Cookies. Take 1 card from the top of that Cookie's HP and place it to top of this Cookie's HP."
         },
         "effect": {
           "heal": 1
@@ -47,7 +51,8 @@
       "damage": 1,
       "name": {
         "ko": "날아볼까? 슝~!",
-        "zh-TW": "飛呀~飛呀~"
+        "zh-TW": "飛呀~飛呀~",
+        "en": "I'm Flying! *Whoosh*"
       }
     }
   ],

@@ -2,7 +2,8 @@
   "serial": "BS3-025",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_025.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_025.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_025.webp",
+    "en": "images/en/2025/BS3/BS3_025.webp"
   },
   "type": "cookie",
   "level": 3,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "골드치즈 쿠키",
-    "zh-TW": "黃金起司餅乾"
+    "zh-TW": "黃金起司餅乾",
+    "en": "Golden Cheese Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "절대군주의 부활",
-      "zh-TW": "至尊國君的復活"
+      "zh-TW": "至尊國君的復活",
+      "en": "Golden Monarch's Resurrection"
     },
     "skillList": [
       {
@@ -28,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "이 스킬은 게임 중 1회 밖에 사용할 수 없다. 이 쿠키가 자신의 브레이크 에리어에 있다면 <<yellow>로 사용할 수 있다> 이 쿠키를 자신의 배틀 에리어에 HP1로 등장시킨다.",
-          "zh-TW": "這個技能在本場遊戲中只能使用1次。如果這個餅乾在自己的休息區,則<你可以支付<yellow>>讓這個餅乾以HP為1點的狀態放置到戰鬥區。"
+          "zh-TW": "這個技能在本場遊戲中只能使用1次。如果這個餅乾在自己的休息區,則<你可以支付<yellow>>讓這個餅乾以HP為1點的狀態放置到戰鬥區。",
+          "en": "This skill can only be used once per game. If this Cookie is in your break area, <can be used as <yellow>.> Place this Cookie in your battle area with 1 HP."
         },
         "effect": {}
       }
@@ -45,7 +49,8 @@
       "damage": 4,
       "name": {
         "ko": "절대자의 권능",
-        "zh-TW": "絕對權力"
+        "zh-TW": "絕對權力",
+        "en": "Authority of the Absolute"
       }
     }
   ],

@@ -2,7 +2,8 @@
   "serial": "BS3-032-SEC",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_032_SEC.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_032_SEC.jpg"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_032_SEC.jpg",
+    "en": "images/en/2025/BS3/BS3_032_SEC.jpg"
   },
   "type": "cookie",
   "level": 3,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "스모크치즈맛 쿠키",
-    "zh-TW": "煙燻起司餅乾"
+    "zh-TW": "煙燻起司餅乾",
+    "en": "Smoked Cheese Cookie"
   },
   "hp": 5,
   "hasSkill": false,
@@ -23,12 +25,14 @@
       },
       "text": {
         "ko": "그리고 <<yellow>로 사용할 수 있다> 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다.",
-        "zh-TW": "然後,《你可以支付<yellow>>從自己的休息區選擇最多1個<yellow>且為LV.1的餅乾。將它放置到戰鬥區。"
+        "zh-TW": "然後,《你可以支付<yellow>>從自己的休息區選擇最多1個<yellow>且為LV.1的餅乾。將它放置到戰鬥區。",
+        "en": "Then, <can be used as <yellow>.> Select up to 1 <yellow> LV.1 Cookie from your break area and play them."
       },
       "damage": 4,
       "name": {
         "ko": "끓어오르는 탐욕",
-        "zh-TW": "貪無止境"
+        "zh-TW": "貪無止境",
+        "en": "Festering Greed"
       }
     }
   ],

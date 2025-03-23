@@ -2,7 +2,8 @@
   "serial": "BS3-046",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_046.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_046.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_046.webp",
+    "en": "images/en/2025/BS3/BS3_046.webp"
   },
   "type": "trap",
   "level": 0,
@@ -11,7 +12,8 @@
   ],
   "name": {
     "ko": "황금 낙원의 콜로세움",
-    "zh-TW": "黃金樂園的競技場"
+    "zh-TW": "黃金樂園的競技場",
+    "en": "Golden Cheese Colosseum"
   },
   "hp": 0,
   "hasSkill": false,
@@ -23,7 +25,8 @@
       },
       "text": {
         "ko": "<자신의 패에서 <yellow> 쿠키를 1장 자신의 브레이크 에리어에 놓는다> 이 배틀 중 자신의 <yellow> LV.2 이상의 쿠키가 기절하면 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다.",
-        "zh-TW": "<從自己的手牌將1個<yellow>餅乾放置到自己的休息區>在這次的戰鬥中,如果自己的<yellow>且為LV.2或以上的餅乾曾暈倒過,則從自己的休息區選擇最多1個<yellow>且為LV.1的餅乾。將它放置到戰鬥區。"
+        "zh-TW": "<從自己的手牌將1個<yellow>餅乾放置到自己的休息區>在這次的戰鬥中,如果自己的<yellow>且為LV.2或以上的餅乾曾暈倒過,則從自己的休息區選擇最多1個<yellow>且為LV.1的餅乾。將它放置到戰鬥區。",
+        "en": "<Place 1 <yellow> Cookie from your hand into your break area.> During this battle, if any of your <yellow> LV.2 or higher Cookies faint, select up to 1 <yellow> LV.1 Cookie from your break area and play them."
       },
       "damage": 0,
       "name": {

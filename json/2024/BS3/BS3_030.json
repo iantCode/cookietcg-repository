@@ -2,7 +2,8 @@
   "serial": "BS3-030",
   "img": {
     "ko": "images/ko/2024/BS3/BS3_030.webp",
-    "zh-TW": "images/zh-TW/2024/BS3/BS3_030.webp"
+    "zh-TW": "images/zh-TW/2024/BS3/BS3_030.webp",
+    "en": "images/en/2025/BS3/BS3_030.webp"
   },
   "type": "cookie",
   "level": 2,
@@ -11,14 +12,16 @@
   ],
   "name": {
     "ko": "블랙레이즌맛 쿠키",
-    "zh-TW": "黑葡萄乾餅乾"
+    "zh-TW": "黑葡萄乾餅乾",
+    "en": "Black Raisin Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "사막의 축복",
-      "zh-TW": "沙漠的祝福"
+      "zh-TW": "沙漠的祝福",
+      "en": "Blessing of the Desert"
     },
     "skillList": [
       {
@@ -28,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 패를 1장까지 이 쿠키의 HP 위에 추가한다.",
-          "zh-TW": "從自己的手牌選擇最多1張牌,放置到這個餅乾的HP卡最上方。"
+          "zh-TW": "從自己的手牌選擇最多1張牌,放置到這個餅乾的HP卡最上方。",
+          "en": "Place up to 1 card from your hand to top of this Cookie's HP."
         },
         "effect": {
           "heal": 1
@@ -47,7 +51,8 @@
       "damage": 3,
       "name": {
         "ko": "날카로운 모래폭풍",
-        "zh-TW": "猛烈沙塵暴"
+        "zh-TW": "猛烈沙塵暴",
+        "en": "Piercing Sandstorm"
       }
     }
   ],
