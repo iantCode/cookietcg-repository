@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "우유맛 쿠키",
-    "zh-TW": "牛奶餅乾"
+    "zh-TW": "牛奶餅乾",
+    "en": "Milk Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -29,7 +30,8 @@
       "damage": 2,
       "name": {
         "ko": "힘세고 건강한 돌진",
-        "zh-TW": "健康強力衝刺"
+        "zh-TW": "健康強力衝刺",
+        "en": "Strong and Healthy Charge"
       }
     }
   ],

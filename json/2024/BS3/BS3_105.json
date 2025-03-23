@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "아포가토맛 쿠키",
-    "zh-TW": "阿芙佳朵餅乾"
+    "zh-TW": "阿芙佳朵餅乾",
+    "en": "Affogato Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "달콤한 모략",
-      "zh-TW": "甜蜜陰謀"
+      "zh-TW": "甜蜜陰謀",
+      "en": "Sweet Scheme"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "<이 쿠키를 트래시에 놓는다> 서로의 덱의 위에서부터 2장 트래시에 놓는다.",
-          "zh-TW": "《將這個餅乾放置到棄牌區>從雙方的牌庫頂分別將2張牌放置到棄牌區。"
+          "zh-TW": "《將這個餅乾放置到棄牌區>從雙方的牌庫頂分別將2張牌放置到棄牌區。",
+          "en": "<Place this Cookie in the trash.> Both players place 2 cards from the top of their deck into the trash."
         },
         "effect": {
           "deckTrash": 2
@@ -46,12 +49,14 @@
       },
       "text": {
         "ko": "그리고 상대의 덱의 위에서부터 1장까지 트래시에 놓는다.",
-        "zh-TW": "然後,從對手的牌庫頂將最多1張牌放置到棄牌區。"
+        "zh-TW": "然後,從對手的牌庫頂將最多1張牌放置到棄牌區。",
+        "en": "Then, place up to 1 card from the top of your opponent's deck into the trash."
       },
       "damage": 2,
       "name": {
         "ko": "수상한 탕약",
-        "zh-TW": "詭異的湯藥"
+        "zh-TW": "詭異的湯藥",
+        "en": "Suspicious Herbal Brew"
       }
     }
   ],

@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "예언자맛 쿠키",
-    "zh-TW": "預言家餅乾"
+    "zh-TW": "預言家餅乾",
+    "en": "Prophet Cookie"
   },
   "hp": 1,
   "hasSkill": false,
@@ -28,7 +29,8 @@
       "damage": 1,
       "name": {
         "ko": "포춘쿠키 예언",
-        "zh-TW": "幸運餅乾預言"
+        "zh-TW": "幸運餅乾預言",
+        "en": "Fortune and Prophecies"
       }
     }
   ],
@@ -37,7 +39,8 @@
     "condition": {},
     "text": {
       "ko": "자신의 덱에서 1장까지 뽑는다.",
-      "zh-TW": "從自己的牌庫抽最多1張牌。"
+      "zh-TW": "從自己的牌庫抽最多1張牌。",
+      "en": "Draw up to 1 card from your deck."
     },
     "effect": {
       "draw": 1

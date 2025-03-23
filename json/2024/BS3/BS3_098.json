@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "구미호맛 쿠키",
-    "zh-TW": "妖狐餅亁"
+    "zh-TW": "妖狐餅亁",
+    "en": "Kumiho Cookie"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "숨겨둔 꼬리",
-      "zh-TW": "隱藏的尾巴"
+      "zh-TW": "隱藏的尾巴",
+      "en": "Hidden Tails"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "<자신의 트래시에 있는 FLIP을 가지지 않은 <purple> 카드를 5장 선택하여 덱으로 되돌리고 섞는다.> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "<從自己的棄牌區選擇5張沒有FLIP效果的<purple>牌,並洗回牌庫>選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "<從自己的棄牌區選擇5張沒有FLIP效果的<purple>牌,並洗回牌庫>選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "<Select 5 <purple> cards from your trash that do not have FLIP; return them to your deck and shuffle it.> Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -50,7 +53,8 @@
       "damage": 3,
       "name": {
         "ko": "매혹의 여우불",
-        "zh-TW": "魅惑狐狸火焰"
+        "zh-TW": "魅惑狐狸火焰",
+        "en": "Fox Spirit Flames"
       }
     }
   ],

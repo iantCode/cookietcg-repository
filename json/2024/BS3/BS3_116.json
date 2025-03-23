@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "충직한 전사의 신궁검",
-    "zh-TW": "忠誠戰士的神弓劍"
+    "zh-TW": "忠誠戰士的神弓劍",
+    "en": "First Watcher's Bow"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "아래에서 하나를 선택한다.<br />• 상대의 쿠키를 1장까지 선택한다. 그 쿠키의 HP의 위에서부터 1장 트래시에 놓는다.<br />• 상대의 패를 1장 랜덤으로 트래시에 놓는다.",
-        "zh-TW": "選擇以下其中1個效果。<br />•選擇最多1個對手的餅乾。從它的HP卡最上方抽1張牌,將它放置到棄牌區。<br />•從對手的手牌隨機抽1張牌,將它放置到棄牌區。"
+        "zh-TW": "選擇以下其中1個效果。<br />•選擇最多1個對手的餅乾。從它的HP卡最上方抽1張牌,將它放置到棄牌區。<br />•從對手的手牌隨機抽1張牌,將它放置到棄牌區。",
+        "en": "Select 1 of the following.<br />• Select up to 1 of your opponent's Cookies. Place 1 card from the top of that Cookie's HP in the trash.<br />• Place 1 random card from your opponent's hand into the trash."
       },
       "damage": 0,
       "name": {

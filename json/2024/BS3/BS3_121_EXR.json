@@ -10,7 +10,8 @@
   "color": [],
   "name": {
     "ko": "영웅과 왕국의 시대",
-    "zh-TW": "英雄與王國的時代"
+    "zh-TW": "英雄與王國的時代",
+    "en": "Age of Heroes and Kingdoms"
   },
   "hp": 0,
   "hasSkill": true,
@@ -32,7 +33,8 @@
         },
         "text": {
           "ko": "<이 카드를 레스트한다> 자신의 배틀 에리어와 서포트 에리어에 [에인션트] 카드 5종과 [소울 잼] 카드 5종이 모두 있다면 이 게임에서 승리한다.",
-          "zh-TW": "<將這張牌改為疲勞狀態>如果自己的戰鬥區和支援區有5種顏色的[Ancient]牌與5種顏色的[靈魂果醬]牌,則本場遊戲你獲勝。"
+          "zh-TW": "<將這張牌改為疲勞狀態>如果自己的戰鬥區和支援區有5種顏色的[Ancient]牌與5種顏色的[靈魂果醬]牌,則本場遊戲你獲勝。",
+          "en": "<Rest this card.> If your battle area and support area contain 5 different [Ancient] Cookies and 5 different [Soul Jam] cards, you win the game."
         },
         "effect": {
           "damage": 0
@@ -51,7 +53,8 @@
       },
       "text": {
         "ko": "자신의 스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到自己的場景區。"
+        "zh-TW": "將這張牌放置到自己的場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

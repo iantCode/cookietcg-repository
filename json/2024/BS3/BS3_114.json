@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "달콤쌉싸름한 향로",
-    "zh-TW": "苦甜的香爐"
+    "zh-TW": "苦甜的香爐",
+    "en": "Bittersweet Incense"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "자신의 덱의 위에서부터 5장 보고 <purple> 쿠키를 1장까지 등장시킨다. 그리고 남은 카드를 트래시에 놓는다.",
-        "zh-TW": "從自己的牌庫頂查看5張牌,將最多1個<purple>餅乾放置到戰鬥區。然後將未選擇的牌放置到棄牌區。"
+        "zh-TW": "從自己的牌庫頂查看5張牌,將最多1個<purple>餅乾放置到戰鬥區。然後將未選擇的牌放置到棄牌區。",
+        "en": "View the top 5 cards of your deck and play up to 1 <purple> Cookie. Then, place the remaining cards in the trash."
       },
       "damage": 0,
       "name": {

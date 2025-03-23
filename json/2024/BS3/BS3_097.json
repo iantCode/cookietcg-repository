@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "감초맛 쿠키",
-    "zh-TW": "甘草餅乾"
+    "zh-TW": "甘草餅乾",
+    "en": "Licorice Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "검은 저주의 번개",
-      "zh-TW": "黑暗詛咒之雷"
+      "zh-TW": "黑暗詛咒之雷",
+      "en": "Licorice Lightning"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 상대의 덱의 위에서부터 1장 트래시에 놓는다.",
-          "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。然後,從對手的牌庫頂將1張牌放置到棄牌區。"
+          "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。然後,從對手的牌庫頂將1張牌放置到棄牌區。",
+          "en": "Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage. Then, place 1 card from the top of your opponent's deck into the trash."
         },
         "effect": {
           "damage": 1
@@ -51,7 +54,8 @@
       "damage": 2,
       "name": {
         "ko": "해골군단 소환",
-        "zh-TW": "召喚骷髏軍團"
+        "zh-TW": "召喚骷髏軍團",
+        "en": "Legion of Darkness"
       }
     }
   ],

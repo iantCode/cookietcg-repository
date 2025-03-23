@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "석류맛 쿠키",
-    "zh-TW": "石榴餅乾"
+    "zh-TW": "石榴餅乾",
+    "en": "Pomegranate Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "석류빛 정신 지배",
-      "zh-TW": "赤紅的精神控制"
+      "zh-TW": "赤紅的精神控制",
+      "en": "Pomegranate Mind Control"
     },
     "skillList": [
       {
@@ -32,7 +34,8 @@
         },
         "text": {
           "ko": "상대의 패를 2장까지 랜덤으로 트래시에 놓는다. 그리고 상대는 덱을 2장 뽑는다.",
-          "zh-TW": "從對手的手牌隨機抽最多2張牌,將它們放置到棄牌區。然後,對手從牌庫抽2張牌。"
+          "zh-TW": "從對手的手牌隨機抽最多2張牌,將它們放置到棄牌區。然後,對手從牌庫抽2張牌。",
+          "en": "Place up to 2 random cards from your opponent's hand into the trash. Then, your opponent draws 2 cards from their deck."
         },
         "effect": {
           "handTrash": 2
@@ -51,7 +54,8 @@
       "damage": 1,
       "name": {
         "ko": "새빨간 저주",
-        "zh-TW": "赤紅詛咒"
+        "zh-TW": "赤紅詛咒",
+        "en": "Crimson Curse"
       }
     }
   ],

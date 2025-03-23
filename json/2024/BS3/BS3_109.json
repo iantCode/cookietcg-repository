@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "웨어울프맛 쿠키",
-    "zh-TW": "狼人餅乾"
+    "zh-TW": "狼人餅乾",
+    "en": "Werewolf Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "늑대 변신",
-      "zh-TW": "狼人變身"
+      "zh-TW": "狼人變身",
+      "en": "Werewolf Transformation"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "이 쿠키의 HP를 +1한다.",
-          "zh-TW": "這個餅乾獲得HP+1點。"
+          "zh-TW": "這個餅乾獲得HP+1點。",
+          "en": "This Cookie gains +1 HP."
         },
         "effect": {
           "heal": 1
@@ -46,12 +49,14 @@
       },
       "text": {
         "ko": "그리고 이 쿠키의 HP에서 1장 트래시에 놓는다.",
-        "zh-TW": "然後,將這個餅乾的1張HP卡放置到棄牌區。"
+        "zh-TW": "然後,將這個餅乾的1張HP卡放置到棄牌區。",
+        "en": "Then, place 1 card from the top of this Cookie's HP into the trash."
       },
       "damage": 2,
       "name": {
         "ko": "거친 몸부림",
-        "zh-TW": "粗暴的掙扎"
+        "zh-TW": "粗暴的掙扎",
+        "en": "Snarling Rampage"
       }
     }
   ],

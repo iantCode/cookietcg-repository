@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "위령비 앞에서의 묵념",
-    "zh-TW": "紀念碑前的默哀"
+    "zh-TW": "紀念碑前的默哀",
+    "en": "Chocolate Altar of the Fallen"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -3한다. 그리고 자신의 트래시에 있는 카드가 15장 이상이라면 상대의 남은 HP가 2 이하인 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다.",
-        "zh-TW": "選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-3點。然後,如果自己的棄牌區有15張或更多的牌,則從對手的戰鬥區選擇最多1個剩餘HP為2點或以下的餅乾。將它放置到棄牌區。"
+        "zh-TW": "選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-3點。然後,如果自己的棄牌區有15張或更多的牌,則從對手的戰鬥區選擇最多1個剩餘HP為2點或以下的餅乾。將它放置到棄牌區。",
+        "en": "Select up to 1 of your opponent's Cookies. During this turn, that Cookie deals -3 attack damage. Then, if your trash contains 15 cards or more, select up to 1 of your opponent's Cookies whose remaining HP is 2 or less. Place that Cookie in the trash."
       },
       "damage": 0,
       "name": {

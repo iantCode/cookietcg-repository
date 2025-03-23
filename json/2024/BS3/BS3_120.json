@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "인내와 결의의 다크카카오 왕국",
-    "zh-TW": "堅忍的黑可可王國"
+    "zh-TW": "堅忍的黑可可王國",
+    "en": "Resolute Dark Cacao Kingdom"
   },
   "hp": 0,
   "hasSkill": true,
@@ -30,7 +31,8 @@
         },
         "text": {
           "ko": "<이 카드를 레스트한다> 자신의 쿠키를 1장까지 선택한다. 그리고 아래에서 하나를 선택한다.<br />• 자신의 덱의 위에서부터 2장까지 트래시에 놓는다.<br />• 자신의 덱의 위에서부터 3장을 보고 그중에서 <purple> 카드를 1장까지 공개하여 패로 가져온다. 그리고 남은 카드와 이 카드를 트래시에 놓는다.",
-          "zh-TW": "<將這張牌改為疲勞狀態>選擇以下其中1個效果。<br />•從自己的牌庫頂將最多2張牌放置到棄牌區。<br />•從自己的牌庫頂查看3張牌,從其中選擇最多1張<purple>牌,將它展示後移回手牌。然後,將未選擇的牌和這張牌放置到棄牌區。"
+          "zh-TW": "<將這張牌改為疲勞狀態>選擇以下其中1個效果。<br />•從自己的牌庫頂將最多2張牌放置到棄牌區。<br />•從自己的牌庫頂查看3張牌,從其中選擇最多1張<purple>牌,將它展示後移回手牌。然後,將未選擇的牌和這張牌放置到棄牌區。",
+          "en": "<Rest this card.> Select 1 of the following.<br />• Place up to 2 cards from the top of your deck into the trash.<br />• View the top 3 cards of your deck. Out of the 3 cards, reveal up to 1 <purple> card and add it to your hand. Then, place the remaining cards and this card in the trash."
         },
         "effect": {
           "damage": 0
@@ -45,7 +47,8 @@
       },
       "text": {
         "ko": "자신의 스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到自己的場景區。"
+        "zh-TW": "將這張牌放置到自己的場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

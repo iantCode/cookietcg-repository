@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "소울 잼: 결의의 빛",
-    "zh-TW": "靈魂果醬:決心之光"
+    "zh-TW": "靈魂果醬:決心之光",
+    "en": "Soul Jam: Light of Resolution"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "상대의 LV.2 이하의 쿠키를 2장까지 선택한다. 그 쿠키들의 HP를 위에서부터 1장까지 트래시에 놓는다. 그리고 이 카드를 자신의 [다크카카오 쿠키]에게 <장착>할 수 있다. 그 쿠키는 상대의 효과의 대상으로 선택되지 않고 트래시되지 않는다.",
-        "zh-TW": "選擇最多2個LV.2或以下對手的餅乾。從它們的HP卡最上方分別抽最多1張牌放置到棄牌區。然後,你可以將這張牌<裝載>在自己的[黑可可餅乾]上。<裝載>這個道具的餅乾,對手的效果無法以它為對象,也無法將它放置到棄牌區。"
+        "zh-TW": "選擇最多2個LV.2或以下對手的餅乾。從它們的HP卡最上方分別抽最多1張牌放置到棄牌區。然後,你可以將這張牌<裝載>在自己的[黑可可餅乾]上。<裝載>這個道具的餅乾,對手的效果無法以它為對象,也無法將它放置到棄牌區。",
+        "en": "Select up to 2 of your opponent's LV.2 or lower Cookies. Place up to 1 card from the top of each Cookie's HP into the trash. Then, you can <equip> this card to your [Dark Cacao Cookie]. That Cookie cannot be selected by your opponent's effects and cannot be trashed."
       },
       "damage": 0,
       "name": {

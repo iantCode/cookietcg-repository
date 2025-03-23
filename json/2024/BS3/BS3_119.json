@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "부글거리는 감초바다",
-    "zh-TW": "波濤翻湧的甘草海"
+    "zh-TW": "波濤翻湧的甘草海",
+    "en": "Rolling Licorice Sea"
   },
   "hp": 0,
   "hasSkill": true,
@@ -30,7 +31,8 @@
         },
         "text": {
           "ko": "<이 카드를 레스트한다> 상대의 덱의 위에서부터 3장까지 트래시에 놓는다.",
-          "zh-TW": "<將這張牌改為疲勞狀態>從對手的牌庫頂將最多3張牌放置到棄牌區。"
+          "zh-TW": "<將這張牌改為疲勞狀態>從對手的牌庫頂將最多3張牌放置到棄牌區。",
+          "en": "<Rest this card.> Place up to 3 cards from the top of your opponent's deck into the trash."
         },
         "effect": {
           "damage": 0
@@ -45,7 +47,8 @@
       },
       "text": {
         "ko": "자신의 스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到自己的場景區。"
+        "zh-TW": "將這張牌放置到自己的場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

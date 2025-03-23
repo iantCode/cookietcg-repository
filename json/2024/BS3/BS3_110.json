@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "자색고구마맛 쿠키",
-    "zh-TW": "紫心薯餅乾"
+    "zh-TW": "紫心薯餅乾",
+    "en": "Purple Yam Cookie"
   },
   "hp": 5,
   "hasSkill": false,
@@ -29,7 +30,8 @@
       "damage": 4,
       "name": {
         "ko": "고구마 돌풍!!!",
-        "zh-TW": "紫心薯旋風!!!"
+        "zh-TW": "紫心薯旋風!!!",
+        "en": "PURPLE TORNADO!"
       }
     }
   ],

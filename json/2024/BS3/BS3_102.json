@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "독버섯맛 쿠키",
-    "zh-TW": "毒蘑菇餅乾"
+    "zh-TW": "毒蘑菇餅乾",
+    "en": "Poison Mushroom Cookie"
   },
   "hp": 4,
   "hasSkill": false,
@@ -25,12 +26,14 @@
       },
       "text": {
         "ko": "그리고 서로의 덱의 위에서부터 2장 트래시에 놓는다.",
-        "zh-TW": "然後,從雙方的牌庫頂分別抽2張牌,並放置到其擁有者的棄牌區。"
+        "zh-TW": "然後,從雙方的牌庫頂分別抽2張牌,並放置到其擁有者的棄牌區。",
+        "en": "Then, both players place 2 cards from the top of their decks into the trash."
       },
       "damage": 2,
       "name": {
         "ko": "버섯 머겅~",
-        "zh-TW": "吃蘑菇吧~"
+        "zh-TW": "吃蘑菇吧~",
+        "en": "Have a Shroomie!"
       }
     }
   ],

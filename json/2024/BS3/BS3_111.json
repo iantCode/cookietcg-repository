@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "크런치초코칩 쿠키",
-    "zh-TW": "巧克力脆片餅乾"
+    "zh-TW": "巧克力脆片餅乾",
+    "en": "Crunchy Chip Cookie"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "크림눈늑대의 돌격!",
-      "zh-TW": "奶油雪灰狼突擊!"
+      "zh-TW": "奶油雪灰狼突擊!",
+      "en": "Cream Wolves, Charge!"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "상대의 패를 1장 랜덤으로 트래시에 놓는다.",
-          "zh-TW": "從對手的手牌隨機抽1張牌,將它放置到棄牌區。"
+          "zh-TW": "從對手的手牌隨機抽1張牌,將它放置到棄牌區。",
+          "en": "Place 1 random card from your opponent's hand into the trash."
         },
         "effect": {
           "handTrash": 1
@@ -47,12 +50,14 @@
       },
       "text": {
         "ko": "그리고 자신의 서포트 에리어에 [소울 잼] 카드가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
-        "zh-TW": "然後,如果自己的支援區有[靈魂果醬]牌,則選擇最多1個對手的餅乾。對它造成2點傷害。"
+        "zh-TW": "然後,如果自己的支援區有[靈魂果醬]牌,則選擇最多1個對手的餅乾。對它造成2點傷害。",
+        "en": "Then, if there is a [Soul Jam] card in your support area, select up to 1 of your opponent's Cookies. That Cookie receives 2 damage."
       },
       "damage": 3,
       "name": {
         "ko": "강행 돌파",
-        "zh-TW": "強硬突圍"
+        "zh-TW": "強硬突圍",
+        "en": "Let's Ride!"
       }
     }
   ],

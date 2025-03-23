@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "벨벳케이크맛 쿠키",
-    "zh-TW": "紅絲絨蛋糕餅乾"
+    "zh-TW": "紅絲絨蛋糕餅乾",
+    "en": "Red Velvet Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "끈질긴 손아귀",
-      "zh-TW": "堅毅之手"
+      "zh-TW": "堅毅之手",
+      "en": "Relentless Grip"
     },
     "skillList": [
       {
@@ -27,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 자신의 트래시에 있는 카드가 10장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "當這個餅乾暈倒時,如果自己的棄牌區有10張或更多的牌,則選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "當這個餅乾暈倒時,如果自己的棄牌區有10張或更多的牌,則選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "When this Cookie faints and you have 10 cards or more in your trash, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -46,7 +49,8 @@
       "damage": 1,
       "name": {
         "ko": "케이크 커팅",
-        "zh-TW": "蛋糕快斬"
+        "zh-TW": "蛋糕快斬",
+        "en": "Cake Slash"
       }
     }
   ],

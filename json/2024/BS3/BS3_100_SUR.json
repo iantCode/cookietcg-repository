@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "다크카카오 쿠키",
-    "zh-TW": "黑可可餅乾"
+    "zh-TW": "黑可可餅乾",
+    "en": "Dark Cakao Cookie"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "숨겨둔 꼬리",
-      "zh-TW": "決心之審判"
+      "ko": "결의의 심판",
+      "zh-TW": "決心之審判",
+      "en": "Judgment of Resolution"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "상대의 쿠키를 2장까지 선택한다. 그 쿠키들의 HP의 위에서부터 1장까지 트래시에 놓는다.",
-          "zh-TW": "選擇最多2個對手的餅乾。從它們的HP卡最上方分別抽最多1張牌放置到棄牌區。"
+          "zh-TW": "選擇最多2個對手的餅乾。從它們的HP卡最上方分別抽最多1張牌放置到棄牌區。",
+          "en": "Select up to 2 of your opponent's Cookies. Place up to 1 card from the top of each Cookies' HP into the trash."
         },
         "effect": {
           "damage": 1
@@ -46,12 +49,14 @@
       },
       "text": {
         "ko": "그리고 상대의 쿠키를 1장까지 선택한다. 그 쿠키의 HP의 위에서부터 1장까지 트래시에 놓는다.",
-        "zh-TW": "然後,選擇最多1個對手的餅乾。從它的HP卡最上方抽最多1張牌放置到棄牌區。"
+        "zh-TW": "然後,選擇最多1個對手的餅乾。從它的HP卡最上方抽最多1張牌放置到棄牌區。",
+        "en": "Then, select up to 1 of your opponent's Cookies. Place up to 1 card from the top of that Cookie's HP into the trash."
       },
       "damage": 3,
       "name": {
         "ko": "심판자의 검",
-        "zh-TW": "審判者之劍"
+        "zh-TW": "審判者之劍",
+        "en": "Solemn Judgement"
       }
     }
   ],

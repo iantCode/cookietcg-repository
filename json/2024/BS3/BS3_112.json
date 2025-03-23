@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "푸룬주스맛 쿠키",
-    "zh-TW": "黑棗汁餅乾"
+    "zh-TW": "黑棗汁餅乾",
+    "en": "Prune Juice Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "마법약 제조",
-      "zh-TW": "製作魔藥"
+      "zh-TW": "製作魔藥",
+      "en": "Potion Brewing"
     },
     "skillList": [
       {
@@ -30,8 +32,9 @@
           "purple": 1
         },
         "text": {
-          "ko": "<자신의 트래시에 잇는 쿠키 이외의 카드를 2장 원하는 순서로 덱의 아래에 놓는다> 자신의 트래시에서 <purple> 쿠키를 1장까지 패로 가져온다.",
-          "zh-TW": "<從自己的棄牌區將2張餅乾卡以外的牌以任意順序放回牌庫最下方>從自己的棄牌區將最多1個<purple>餅乾移回手牌。"
+          "ko": "<자신의 트래시에 있는 쿠키 이외의 카드를 2장 원하는 순서로 덱의 아래에 놓는다> 자신의 트래시에서 <purple> 쿠키를 1장까지 패로 가져온다.",
+          "zh-TW": "<從自己的棄牌區將2張餅乾卡以外的牌以任意順序放回牌庫最下方>從自己的棄牌區將最多1個<purple>餅乾移回手牌。",
+          "en": "<Select 2 non-Cookie cards from your trash and place them on the bottom of your deck in any order.> Return up to 1 <purple> Cookie from your trash to your hand."
         },
         "effect": {
           "draw": 1
@@ -50,7 +53,8 @@
       "damage": 1,
       "name": {
         "ko": "특제 푸룬주스 마법약",
-        "zh-TW": "特製黑棗汁魔藥"
+        "zh-TW": "特製黑棗汁魔藥",
+        "en": "Prune Juice Potion"
       }
     }
   ],
