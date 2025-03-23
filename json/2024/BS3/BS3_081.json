@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "오이스터맛 쿠키",
-    "zh-TW": "牡蠣餅乾"
+    "zh-TW": "牡蠣餅乾",
+    "en": "Oyster Cookie"
   },
   "hp": 1,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "진주 군대의 호위",
-      "zh-TW": "珍珠軍隊的保衛"
+      "zh-TW": "珍珠軍隊的保衛",
+      "en": "Pearl Legion"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 자신의 덱의 위에 놓는다.",
-          "zh-TW": "<棄1張手牌>選擇最多1個對手的餅乾。對它造成1點傷害。然後,將這個餅乾放置到自己的牌庫最上方。"
+          "zh-TW": "<棄1張手牌>選擇最多1個對手的餅乾。對它造成1點傷害。然後,將這個餅乾放置到自己的牌庫最上方。",
+          "en": "<Discard 1 card.> Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage. Then, place this Cookie on top of your deck."
         },
         "effect": {
           "damage": 1
@@ -50,7 +53,8 @@
       "damage": 1,
       "name": {
         "ko": "오이스터 가문의 권위",
-        "zh-TW": "牡蠣家族的威望"
+        "zh-TW": "牡蠣家族的威望",
+        "en": "Might of House Oyster"
       }
     }
   ],

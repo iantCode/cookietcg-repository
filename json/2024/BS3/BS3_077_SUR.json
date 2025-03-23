@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "마들렌맛 쿠키",
-    "zh-TW": "瑪德蓮餅乾"
+    "zh-TW": "瑪德蓮餅乾",
+    "en": "Madeleine Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "빛의 가호!",
-      "zh-TW": "光的護佑!"
+      "zh-TW": "光的護佑!",
+      "en": "Light, Guide My Blade!"
     },
     "skillList": [
       {
@@ -32,7 +34,8 @@
         },
         "text": {
           "ko": "<패를 2장 버린다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키를 액티브로 한다.",
-          "zh-TW": "<棄2張手牌>選擇最多1個對手的餅乾。對它造成1點傷害。然後,將這個餅乾改為活躍狀態。"
+          "zh-TW": "<棄2張手牌>選擇最多1個對手的餅乾。對它造成1點傷害。然後,將這個餅乾改為活躍狀態。",
+          "en": "<Discard 2 cards> Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage. Then, set this Cookie as active."
         },
         "effect": {
           "damage": 1
@@ -51,7 +54,8 @@
       "damage": 2,
       "name": {
         "ko": "빛의 대검",
-        "zh-TW": "光之巨劍"
+        "zh-TW": "光之巨劍",
+        "en": "Sword of Radiant Light"
       }
     }
   ],

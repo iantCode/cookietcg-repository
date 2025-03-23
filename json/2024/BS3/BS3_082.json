@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "용감한 쿠키",
-    "zh-TW": "勇敢餅乾"
+    "zh-TW": "勇敢餅乾",
+    "en": "GingerBrave"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "용기 100%",
-      "zh-TW": "勇敢百分百"
+      "zh-TW": "勇敢百分百",
+      "en": "100% Bravery"
     },
     "skillList": [
       {
@@ -27,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 패가 5장 이하라면 이 쿠키는 효과에 의한 대미지를 받지 않는다.",
-          "zh-TW": "如果自己的手牌為5張或更少,則這個餅乾不會受到效果造成的傷害。"
+          "zh-TW": "如果自己的手牌為5張或更少,則這個餅乾不會受到效果造成的傷害。",
+          "en": "If your hand contains 5 cards or less, this Cookie takes no damage from effects."
         },
         "effect": {
           "noDamage": 1
@@ -46,7 +49,8 @@
       "damage": 3,
       "name": {
         "ko": "용감한 돌진",
-        "zh-TW": "勇敢衝撞"
+        "zh-TW": "勇敢衝撞",
+        "en": "Brave Charge"
       }
     }
   ],

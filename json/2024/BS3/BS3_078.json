@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "마법사맛 쿠키",
-    "zh-TW": "魔法師餅乾"
+    "zh-TW": "魔法師餅乾",
+    "en": "Wizard Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "신비한 마법 연구",
-      "zh-TW": "神秘的魔法研究"
+      "zh-TW": "神秘的魔法研究",
+      "en": "Arcane Research"
     },
     "skillList": [
       {
@@ -29,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "<패를 2장 버린다> 자신의 덱에서 2장까지 뽑는다.",
-          "zh-TW": "<棄2張手牌>從自己的牌庫抽最多2張牌。"
+          "zh-TW": "<棄2張手牌>從自己的牌庫抽最多2張牌。",
+          "en": "<Discard 2 card.> Draw up to 2 cards from your deck."
         },
         "effect": {
           "draw": 2
@@ -48,7 +51,8 @@
       "damage": 2,
       "name": {
         "ko": "번개구름 소환",
-        "zh-TW": "閃電召喚"
+        "zh-TW": "閃電召喚",
+        "en": "Magic Storm"
       }
     }
   ],

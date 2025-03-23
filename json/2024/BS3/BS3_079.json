@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "설탕노움",
-    "zh-TW": "糖糖地精"
+    "zh-TW": "糖糖地精",
+    "en": "Sugar Gnome"
   },
   "hp": 5,
   "hasSkill": false,
@@ -29,7 +30,8 @@
       "damage": 3,
       "name": {
         "ko": "숙련된 망치질",
-        "zh-TW": "敏捷做工"
+        "zh-TW": "敏捷做工",
+        "en": "Artisanel Hammering"
       }
     }
   ],

@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "검볼다이버맛 쿠키",
-    "zh-TW": "香糖球潛水員餅乾"
+    "zh-TW": "香糖球潛水員餅乾",
+    "en": "Candy Diver Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "심해 탐사",
-      "zh-TW": "海底探勘"
+      "zh-TW": "海底探勘",
+      "en": "Deep Sea Exploration"
     },
     "skillList": [
       {
@@ -32,7 +34,8 @@
         },
         "text": {
           "ko": "자신의 덱의 아래에서 카드를 1장까지 공개한다. 그 카드가 쿠키 카드라면 덱의 위에 놓고 쿠키 이외의 카드라면 패로 가져온다.",
-          "zh-TW": "從自己的牌庫底抽最多1張牌並展示它。如果這張牌為餅乾卡,則放回牌庫最上方,否則移回手牌。"
+          "zh-TW": "從自己的牌庫底抽最多1張牌並展示它。如果這張牌為餅乾卡,則放回牌庫最上方,否則移回手牌。",
+          "en": "Reveal up to 1 card from the bottom of your deck. If that card is a Cookie, place that card on top of your deck. If it is non-Cookie card, add that card to your hand."
         },
         "effect": {
           "draw": 1
@@ -51,7 +54,8 @@
       "damage": 1,
       "name": {
         "ko": "검은 바다의 심연",
-        "zh-TW": "黑海深淵"
+        "zh-TW": "黑海深淵",
+        "en": "Abyss of the Duskgloom Sea"
       }
     }
   ],

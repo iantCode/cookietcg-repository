@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "퀸아망맛 쿠키",
-    "zh-TW": "法式焦糖奶油酥餅乾"
+    "zh-TW": "法式焦糖奶油酥餅乾",
+    "en": "Kouign-Amann Cookie"
   },
   "hp": 1,
   "hasSkill": false,
@@ -24,12 +25,14 @@
       },
       "text": {
         "ko": "그리고 자신의 배틀 에리어에 LV.3 쿠키가 있다면 <패를 1장 버린다> 1대미지를 준다.",
-        "zh-TW": "然後,如果自己的戰鬥區有LV.3的餅乾,則<棄1張手牌>造成1點傷害。"
+        "zh-TW": "然後,如果自己的戰鬥區有LV.3的餅乾,則<棄1張手牌>造成1點傷害。",
+        "en": "Then, if there is a LV.3 Cookie in your battle area, <discard 1 card.> Deals 1 damage."
       },
       "damage": 3,
       "name": {
         "ko": "정의의 대검",
-        "zh-TW": "正義的巨劍"
+        "zh-TW": "正義的巨劍",
+        "en": "Greatsword of Justice"
       }
     }
   ],

@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "평화와 화합의 바닐라 왕국",
-    "zh-TW": "祥和的香草王國"
+    "zh-TW": "祥和的香草王國",
+    "en": "Peaceful Vanilla Kingdom"
   },
   "hp": 0,
   "hasSkill": true,
@@ -28,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "<이 카드를 레스트한다> 자신의 패가 2장 이하라면 자신의 덱에서 2장 뽑는다.",
-          "zh-TW": "<將這張牌改為疲勞狀態>如果自己的手牌為2張或更少,則從自己的牌庫抽2張牌。"
+          "zh-TW": "<將這張牌改為疲勞狀態>如果自己的手牌為2張或更少,則從自己的牌庫抽2張牌。",
+          "en": "<Rest this card.> If your hand contains 2 cards or less, draw 2 cards from your deck."
         },
         "effect": {
           "damage": 0
@@ -43,7 +45,8 @@
       },
       "text": {
         "ko": "자신의 스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到自己的場景區。"
+        "zh-TW": "將這張牌放置到自己的場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

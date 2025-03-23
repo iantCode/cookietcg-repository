@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "휘낭시에맛 쿠키",
-    "zh-TW": "費南雪餅乾"
+    "zh-TW": "費南雪餅乾",
+    "en": "Financier Cookie"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "신성한 호위",
-      "zh-TW": "神聖的護衛"
+      "zh-TW": "神聖的護衛",
+      "en": "Paladin's Protection"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다. 그리고 이 쿠키의 HP의 위에서부터 1장 자신의 다른 쿠키의 HP 위에 추가한다.",
-          "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。然後,從這個餅乾的HP卡最上方抽1張牌,放置到自己的另一個餅乾的HP卡最上方。"
+          "zh-TW": "選擇最多1個對手的餅乾。對它造成1點傷害。然後,從這個餅乾的HP卡最上方抽1張牌,放置到自己的另一個餅乾的HP卡最上方。",
+          "en": "Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage. Then, take 1 card from the top of this Cookie's HP and add it to the top of your other Cookie's HP."
         },
         "effect": {
           "damage": 1
@@ -50,7 +53,8 @@
       "damage": 2,
       "name": {
         "ko": "빛의 심판",
-        "zh-TW": "光之審判"
+        "zh-TW": "光之審判",
+        "en": "Judgment of Light"
       }
     }
   ],

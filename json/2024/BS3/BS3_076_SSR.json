@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "딸기크레페맛 쿠키",
-    "zh-TW": "草莓可麗餅餅乾"
+    "zh-TW": "草莓可麗餅餅乾",
+    "en": "Strawberry Crepe Cookie"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "성분 분석",
-      "zh-TW": "成分分析"
+      "zh-TW": "成分分析",
+      "en": "Ingredient Analysis"
     },
     "skillList": [
       {
@@ -30,7 +32,8 @@
         "cost": {},
         "text": {
           "ko": "서로의 배틀 에리어에 있는 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 소유자의 덱의 위에 놓는다.",
-          "zh-TW": "從雙方的戰鬥區共選擇最多1個LV.2或以下的餅乾。將它放置到其擁有者的牌庫最上方。"
+          "zh-TW": "從雙方的戰鬥區共選擇最多1個LV.2或以下的餅乾。將它放置到其擁有者的牌庫最上方。",
+          "en": "Select up to 1 Cookie that is LV.2 or lower from either player's battle area. Place that Cookie on top of the owner's deck."
         },
         "effect": {
           "returnDeck": 1
@@ -45,12 +48,14 @@
       },
       "text": {
         "ko": "그리고 <<blue>로 사용할 수 있다.> 자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 2대미지를 준다.",
-        "zh-TW": "然後,<你可以支付>從自己的牌庫頂抽最多1張牌 並展示它。如果抽出的牌為<blue>且為LV.2的餅乾,則造成2點傷害。"
+        "zh-TW": "然後,<你可以支付>從自己的牌庫頂抽最多1張牌 並展示它。如果抽出的牌為<blue>且為LV.2的餅乾,則造成2點傷害。",
+        "en": "Then, <can be used as <blue>.> Reveal 1 card from the top of your deck. If that card is a <blue> LV.2 Cookie, deal 2 damage."
       },
       "damage": 3,
       "name": {
         "ko": "크레페 크래쉬",
-        "zh-TW": "可麗餅之擊"
+        "zh-TW": "可麗餅之擊",
+        "en": "Crepe Thrust"
       }
     }
   ],

@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "소울 잼: 진리의 빛",
-    "zh-TW": "靈魂果醬:真理之光"
+    "zh-TW": "靈魂果醬:真理之光",
+    "en": "Soul Jam: Light of Truth"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "자신의 덱의 위에서부터 3장을 본다. 그중에서 2장까지 패로 가져오고 남은 카드를 원하는 순서로 덱의 위에 놓는다. 그리고 이 카드를 자신의 [퓨어바닐라 쿠키]에게 <장착>할 수 있다. 그 쿠키가 공격할 때 자신의 덱에서 1장 뽑는다.",
-        "zh-TW": "從自己的牌庫頂查看3張牌。將其中最多2張牌移回手牌,將未選擇的牌以任意順序放回牌庫最上方。然後,你可以將這張牌<裝載>在自己的[純香草餅乾]上。當<裝載>這個道具的餅乾發動攻擊時,從牌庫抽1張牌。"
+        "zh-TW": "從自己的牌庫頂查看3張牌。將其中最多2張牌移回手牌,將未選擇的牌以任意順序放回牌庫最上方。然後,你可以將這張牌<裝載>在自己的[純香草餅乾]上。當<裝載>這個道具的餅乾發動攻擊時,從牌庫抽1張牌。",
+        "en": "View the top 3 cards of your deck. Add up to 2 of them to your hand and place the remaining cards on the top of your deck in any order. Then, you can <equip> this card to your [Pure Vanilla Cookie]. When that Cookie attacks, draw 1 card from your deck."
       },
       "damage": 0,
       "name": {

@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "커스터드 3세맛 쿠키",
-    "zh-TW": "卡士達三世餅乾"
+    "zh-TW": "卡士達三世餅乾",
+    "en": "Custard Cookie III"
   },
   "hp": 3,
   "hasSkill": false,
@@ -29,7 +30,8 @@
       "damage": 2,
       "name": {
         "ko": "왕의 지팡이!",
-        "zh-TW": "王的權杖!"
+        "zh-TW": "王的權杖!",
+        "en": "King's Royal Scepter!"
       }
     }
   ],

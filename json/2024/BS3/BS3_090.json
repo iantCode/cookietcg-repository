@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "빛의 가호를 받은 검",
-    "zh-TW": "光之護佑佩劍"
+    "zh-TW": "光之護佑佩劍",
+    "en": "Sword of Radiant Light"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 자신의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +2한다.",
-        "zh-TW": "從自己的牌庫頂抽最多1張牌並展示它。如果抽出的牌為<blue>且為LV.2的餅乾,則選擇最多1個自己的餅乾。在這個回合中,它的攻擊傷害+2點。"
+        "zh-TW": "從自己的牌庫頂抽最多1張牌並展示它。如果抽出的牌為<blue>且為LV.2的餅乾,則選擇最多1個自己的餅乾。在這個回合中,它的攻擊傷害+2點。",
+        "en": "Reveal 1 card from the top of your deck. If that card is a <blue> LV.2 Cookie, select up to 1 of your Cookies. During this turn, that Cookie gains +2 attack damage."
       },
       "damage": 0,
       "name": {

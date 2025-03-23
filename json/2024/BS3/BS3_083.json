@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "캡틴캐비어맛 쿠키",
-    "zh-TW": "艦長魚子醬餅乾"
+    "zh-TW": "艦長魚子醬餅乾",
+    "en": "Captain Caviar Cookie"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "노련한 캡틴의 지휘",
-      "zh-TW": "資深艦長的指揮"
+      "zh-TW": "資深艦長的指揮",
+      "en": "Seasoned Captain"
     },
     "skillList": [
       {
@@ -29,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 덱의 위에서부터 3장을 보고 원하는 순서로 덱의 위에 놓는다.",
-          "zh-TW": "從自己的牌庫頂查看3張牌,並以任意順序放回牌庫最上方。"
+          "zh-TW": "從自己的牌庫頂查看3張牌,並以任意順序放回牌庫最上方。",
+          "en": "View the top 3 cards of your deck; place them on the top of your deck in any order."
         },
         "effect": {
           "reorder": 1
@@ -48,7 +51,8 @@
       "damage": 3,
       "name": {
         "ko": "블랙 샤크 어뢰포",
-        "zh-TW": "黑鯊魚雷砲"
+        "zh-TW": "黑鯊魚雷砲",
+        "en": "Black Shark Torpedo"
       }
     }
   ],

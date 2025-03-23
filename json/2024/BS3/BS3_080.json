@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "에스프레소맛 쿠키",
-    "zh-TW": "濃縮咖啡餅乾"
+    "zh-TW": "濃縮咖啡餅乾",
+    "en": "Espresso Cookie"
   },
   "hp": 2,
   "hasSkill": false,
@@ -24,12 +25,14 @@
       },
       "text": {
         "ko": "그리고 <<blue>로 사용할 수 있다> 자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 덱에서 2장까지 뽑는다.",
-        "zh-TW": "然後,<你可以支付<blue>>從自己的牌庫頂抽最多1張牌並展示它。如果抽出的牌為<blue>且為LV.2的餅乾,則從牌庫抽最多2張牌。"
+        "zh-TW": "然後,<你可以支付<blue>>從自己的牌庫頂抽最多1張牌並展示它。如果抽出的牌為<blue>且為LV.2的餅乾,則從牌庫抽最多2張牌。",
+        "en": "Then, <can be used as <blue>.> Reveal 1 card from the top of your deck. If that card is a <blue> LV.2 Cookie, draw up to 2 cards from your deck."
       },
       "damage": 1,
       "name": {
         "ko": "에스프레소 추출",
-        "zh-TW": "萃取濃縮咖啡"
+        "zh-TW": "萃取濃縮咖啡",
+        "en": "Perfect Extraction"
       }
     }
   ],

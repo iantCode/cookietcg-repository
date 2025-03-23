@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "딸기맛 쿠키",
-    "zh-TW": "草莓餅乾"
+    "zh-TW": "草莓餅乾",
+    "en": "Strawberry Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "쿠키생은 혼자야...",
-      "zh-TW": "餅生都是孤獨的..."
+      "zh-TW": "餅生都是孤獨的...",
+      "en": "Life Can Get Lonely..."
     },
     "skillList": [
       {
@@ -29,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "<패를 1장 버린다> 이 쿠키를 자신의 덱의 위에 놓는다.",
-          "zh-TW": "<棄1張手牌>將這個餅乾放置到自己的牌庫最上方。"
+          "zh-TW": "<棄1張手牌>將這個餅乾放置到自己的牌庫最上方。",
+          "en": "<Discard 1 card> Place this Cookie on top of your deck."
         },
         "effect": {
           "returnDeck": 1
@@ -49,7 +52,8 @@
       "damage": 2,
       "name": {
         "ko": "롤리팝 휘두르기",
-        "zh-TW": "棒棒糖旋轉"
+        "zh-TW": "棒棒糖旋轉",
+        "en": "Lollipop Whirlwind"
       }
     }
   ],

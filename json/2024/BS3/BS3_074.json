@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "그랑마들렌 쿠키",
-    "zh-TW": "大瑪德蓮餅乾"
+    "zh-TW": "大瑪德蓮餅乾",
+    "en": "Grand Madeleine Cookie"
   },
   "hp": 1,
   "hasSkill": false,
@@ -28,7 +29,8 @@
       "damage": 1,
       "name": {
         "ko": "가주의 위엄",
-        "zh-TW": "大家長的威嚴"
+        "zh-TW": "大家長的威嚴",
+        "en": "Matriarch's Command"
       }
     }
   ],
@@ -36,7 +38,9 @@
   "flip": {
     "condition": {},
     "text": {
-      "ko": "자신의 덱에서 1장까지 뽑는다."
+      "ko": "자신의 덱에서 1장까지 뽑는다.",
+      "zh-TW": "從自己的牌庫抽最多1張牌。",
+      "en": "Draw up to 1 card from your deck."
     },
     "effect": {
       "draw": 1

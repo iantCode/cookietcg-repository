@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "앤티크 바닐라꽃 펜던트",
-    "zh-TW": "古典香草花墜飾"
+    "zh-TW": "古典香草花墜飾",
+    "en": "Old Vanilla Orchid Locket"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "배틀 에리어에 있는 LV.2 쿠키 1장당 자신의 덱에서 1장까지 뽑는다.",
-        "zh-TW": "任一戰鬥區中每有1個LV.2的餅乾,便從自己的牌庫抽最多1張牌。"
+        "zh-TW": "任一戰鬥區中每有1個LV.2的餅乾,便從自己的牌庫抽最多1張牌。",
+        "en": "Draw up to 1 card from your deck for each LV.2 Cookie in either battle area."
       },
       "damage": 0,
       "name": {

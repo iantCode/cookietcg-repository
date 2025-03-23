@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "클로티드 크림 쿠키",
-    "zh-TW": "濃縮奶油餅乾"
+    "zh-TW": "濃縮奶油餅乾",
+    "en": "Clotted Cream Cookie"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "집정관의 명령",
-      "zh-TW": "執政官的命令"
+      "zh-TW": "執政官的命令",
+      "en": "Consul's Order"
     },
     "skillList": [
       {
@@ -32,7 +34,8 @@
         },
         "text": {
           "ko": "자신의 덱의 위에서부터 1장 공개한다. 그 카드가 <blue> LV.2 쿠키라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "從自己的牌庫頂抽最多1張牌並展示它。如果抽出的牌為<blue>且為LV.2的餅乾,則選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "從自己的牌庫頂抽最多1張牌並展示它。如果抽出的牌為<blue>且為LV.2的餅乾,則選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "Reveal 1 card from the top of your deck. If that card is a <blue> LV.2 Cookie, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 1
@@ -47,12 +50,14 @@
       },
       "text": {
         "ko": "그리고 자신의 서포트 에리어에 [소울 잼] 카드가 있고 상대의 쿠키가 LV.1이라면 1대미지를 준다.",
-        "zh-TW": "從自己的牌庫抽最多3張牌。然後,從自己的手牌將1張牌放回牌庫最上方。"
+        "zh-TW": "從自己的牌庫抽最多3張牌。然後,從自己的手牌將1張牌放回牌庫最上方。",
+        "en": "Then, if there is a [Soul Jam] card in your support area and if the attacked Cookie is LV.1, that Cookie receives 1 damage."
       },
       "damage": 3,
       "name": {
         "ko": "빛의 사격",
-        "zh-TW": "光之射擊"
+        "zh-TW": "光之射擊",
+        "en": "Cloak of Light"
       }
     }
   ],
