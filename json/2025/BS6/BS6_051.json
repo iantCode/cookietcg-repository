@@ -19,15 +19,12 @@
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
           "ko": "자신의 턴 종료 시 자신의 서포트 에리어가 5장이 되도록 선택하고 나머지를 패로 가져온다."
         },
-        "effect": {
-        }
+        "effect": {}
       }
     ]
   },
@@ -51,6 +48,11 @@
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

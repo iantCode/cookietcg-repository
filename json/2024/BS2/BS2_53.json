@@ -40,6 +40,11 @@
   "from": "넥스트 유니버스",
   "releaseDate": "2024-01-29",
   "regulation": "A",
-  "limit": 1,
-  "qna": []
+  "limit": {
+    "ko": 1,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

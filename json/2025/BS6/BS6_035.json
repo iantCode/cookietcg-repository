@@ -19,10 +19,8 @@
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
           "ko": "자신의 턴 종료 시 자신의 브레이크 에리어에 있는 쿠키가 2장 이상이라면 자신의 서포트 에리어에 있는 카드를 1장까지 액티브로 한다."
         },
@@ -53,6 +51,11 @@
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

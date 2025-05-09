@@ -41,6 +41,11 @@
   "illust": "Steve Jang",
   "releaseDate": "2023-09-01",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

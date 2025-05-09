@@ -52,6 +52,11 @@
   "from": "스타터 덱 [스파키오]",
   "releaseDate": "2023-09-01",
   "regulation": "A",
-  "limit": 0,
-  "qna": []
+  "limit": {
+    "ko": 0,
+    "en": 0,
+    "zh-TW": 0
+  },
+  "qna": [],
+  "keyword": []
 }

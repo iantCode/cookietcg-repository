@@ -22,8 +22,7 @@
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
           "ko": "<자신의 패에서 쿠키를 1장 브레이크 에리어에 놓는다> 상대의 모든 쿠키에게 1대미지를 준다."
         },
@@ -53,6 +52,11 @@
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

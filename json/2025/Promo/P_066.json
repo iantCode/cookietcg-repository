@@ -22,8 +22,7 @@
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
           "ko": "자신의 브레이크 에리어가 LV.5 이상이라면 이 쿠키의 HP를 +1한다."
         },
@@ -53,6 +52,11 @@
   "from": "프로모 카드 - 프로모션 팩 VOL.6",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

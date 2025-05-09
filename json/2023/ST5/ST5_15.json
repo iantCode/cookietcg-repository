@@ -62,6 +62,11 @@
   "from": "스타터 덱 [미르몬도]",
   "releaseDate": "2023-12-08",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

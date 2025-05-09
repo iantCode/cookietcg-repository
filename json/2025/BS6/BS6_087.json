@@ -19,15 +19,12 @@
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
           "ko": "이 쿠키가 트래시에서 등장했을 때 자신의 트래시에서 <purple> 카드를 1장까지 패로 가져온다."
         },
-        "effect": {
-        }
+        "effect": {}
       }
     ]
   },
@@ -51,6 +48,11 @@
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

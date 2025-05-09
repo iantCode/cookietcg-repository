@@ -59,6 +59,11 @@
   "from": "전설의 쿠키들",
   "releaseDate": "2024-10-01",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

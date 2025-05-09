@@ -41,6 +41,11 @@
   "from": "퍼스트 브레이브",
   "releaseDate": "2023-10-13",
   "regulation": "A",
-  "limit": 1,
-  "qna": []
+  "limit": {
+    "ko": 1,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

@@ -46,6 +46,11 @@
   "from": "각성, 용의 분노",
   "releaseDate": "2024-12-30",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

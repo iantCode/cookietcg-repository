@@ -52,6 +52,11 @@
   "from": "프로모 카드 - 흑요석 컬렉터블 카드 세트",
   "releaseDate": "2024-11-14",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

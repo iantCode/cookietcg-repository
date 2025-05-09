@@ -54,6 +54,11 @@
   "from": "프로모 카드 - GS25 핫팩 프로모션",
   "releaseDate": "2023-10-05",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

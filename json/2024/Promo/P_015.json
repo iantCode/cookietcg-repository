@@ -40,6 +40,11 @@
   "from": "프로모 카드 - 프로모션 팩 VOL.2",
   "releaseDate": "2024-02-10",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

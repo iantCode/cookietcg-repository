@@ -19,10 +19,8 @@
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
           "ko": "이 쿠키가 트래시에서 등장했을 때 <<purple>로 사용할 수 있다> 자신의 브레이크 에리어에 있는 [슈니발렌맛 쿠키] 이외의 <purple> LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 트래시에 놓는다."
         },
@@ -52,6 +50,11 @@
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

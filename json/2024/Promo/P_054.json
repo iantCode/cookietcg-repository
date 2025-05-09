@@ -28,8 +28,7 @@
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
           "ko": "자신의 패가 5장 이하이고 상대의 배틀 에리어에 LV.1 쿠키가 있다면 자신의 덱에서 2장까지 뽑는다.",
           "en": "If there are 5 cards or less in your hand and there is a LV.1 Cookie in your opponent's battle area, you can draw up to 2 cards from your deck.",
@@ -64,6 +63,11 @@
   "from": "프로모 카드 - 동남아시아 스타터 덱",
   "releaseDate": "2024-12-01",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

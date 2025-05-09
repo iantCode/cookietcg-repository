@@ -20,7 +20,8 @@
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "manual",
+          "onceTurn"
         ],
         "cost": {
           "green": 2
@@ -28,8 +29,7 @@
         "text": {
           "ko": "<자신의 서포트 에리어에 있는 카드를 2장 패로 가져온다> 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다."
         },
-        "effect": {
-        }
+        "effect": {}
       }
     ]
   },
@@ -53,6 +53,11 @@
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

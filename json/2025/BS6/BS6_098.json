@@ -19,10 +19,8 @@
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
           "ko": "이 쿠키가 트래시에서 등장했을 때 상대의 덱의 위에서부터 5장까지 트래시에 놓는다."
         },
@@ -52,6 +50,11 @@
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

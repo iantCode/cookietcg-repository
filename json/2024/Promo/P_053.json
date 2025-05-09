@@ -17,8 +17,7 @@
   },
   "hp": 5,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -43,6 +42,11 @@
   "from": "프로모 카드 - 동남아시아 스타터 덱",
   "releaseDate": "2024-12-01",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

@@ -15,8 +15,7 @@
   },
   "hp": 2,
   "hasSkill": false,
-  "skill": {
-  },
+  "skill": {},
   "attack": [
     {
       "cost": {
@@ -39,6 +38,11 @@
   "from": "프로모 카드 - 프로모션 팩 VOL.5",
   "releaseDate": "2024-12-30",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

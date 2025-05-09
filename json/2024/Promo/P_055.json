@@ -28,8 +28,7 @@
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
           "ko": "상대의 트래시에 있는 카드가 15장 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
           "en": "If your opponent has 15 cards or more in their trash, select up to 1 of your opponent's LV.1 Cookies. That Cookie receives 2 damage.",
@@ -65,6 +64,11 @@
   "from": "프로모 카드 - 동남아시아 스타터 덱",
   "releaseDate": "2024-12-01",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

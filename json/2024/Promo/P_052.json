@@ -25,10 +25,8 @@
     },
     "skillList": [
       {
-        "condition": [
-        ],
-        "cost": {
-        },
+        "condition": [],
+        "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 자신의 브레이크 에리어가 LV.5 이상이라면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 기절시킨다.",
           "en": "When this Cookie faints and your break area is LV.5 or higher, select up to 1 of your opponent's LV.1 Cookies. Make that Cookie faint.",
@@ -62,6 +60,11 @@
   "from": "프로모 카드 - 동남아시아 스타터 덱",
   "releaseDate": "2024-12-01",
   "regulation": "A",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

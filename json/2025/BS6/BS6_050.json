@@ -20,15 +20,14 @@
     "skillList": [
       {
         "condition": [
-          "manual", "onceTurn"
+          "manual",
+          "onceTurn"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
           "ko": "자신의 서포트 에리어에 있는 <green> 카드를 원하는 장수만큼 선택한다. 그 카드들을 패로 가져온다."
         },
-        "effect": {
-        }
+        "effect": {}
       }
     ]
   },
@@ -52,6 +51,11 @@
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

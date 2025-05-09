@@ -22,13 +22,11 @@
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
           "ko": "자신의 트래시에서 카드를 1장까지 패로 가져온다."
         },
-        "effect": {
-        }
+        "effect": {}
       }
     ]
   },
@@ -52,6 +50,11 @@
   "from": "시간 구출 대작전!",
   "releaseDate": "2025-03-21",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }

@@ -25,8 +25,7 @@
         "condition": [
           "appear"
         ],
-        "cost": {
-        },
+        "cost": {},
         "text": {
           "ko": "자신의 브레이크 에리어에 LV.3 쿠키가 2장 이상 있다면 이 쿠키의 HP를 +2한다.",
           "zh-TW": "如果自己的休息區有2個或以上的LV.3餅乾,則這個餅乾獲得HP+2點。"
@@ -58,6 +57,11 @@
   "from": "프로모 카드 - 프로모션 팩 VOL.5",
   "releaseDate": "2024-12-30",
   "regulation": "B",
-  "limit": 4,
-  "qna": []
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
 }
