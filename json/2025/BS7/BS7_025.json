@@ -1,0 +1,53 @@
+{
+  "serial": "BS7-025",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_025.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "금계화맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "향기 속에 빠져보세요!"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": {
+      "ko": "자신의 배틀 에리어에 <yellow> {arena} 쿠키가 있다면 이 카드를 HP로 사용했던 LV.2 이상의 쿠키에게 HP를 +1한다."
+    },
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

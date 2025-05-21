@@ -1,0 +1,65 @@
+{
+  "serial": "BS7-057",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_057.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "아라모드맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "삭제 모드 온!"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "green": 2
+        },
+        "text": {
+          "ko": "<자신의 서포트 에리어에 있는 LV.2 이상의 {arena} 쿠키를 1장 선택한다> 이 카드를 자신의 서포트 에리어에 레스트로 놓는다. 그리고 그 쿠키를 등장시킨다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "찌릿짜릿~ 팡!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "UR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

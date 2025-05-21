@@ -1,0 +1,65 @@
+{
+  "serial": "BS7-093",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_093.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "슈크림맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "슈크림 충전"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "purple": 1
+        },
+        "text": {
+          "ko": "<이 쿠키를 트래시에 놓는다> 덱에서 2장까지 뽑고 패를 2장 버린다."
+        },
+        "effect": {
+          "draw": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "슈크림 젤리"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "SR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

@@ -1,0 +1,53 @@
+{
+  "serial": "BS7-072",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_072.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "아이스민트맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "완벽한 기술"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": {
+      "ko": "자신의 패가 5장 이하이고 자신의 배틀 에리어에 <blue> {arena} 쿠키가 있다면 덱에서 2장까지 뽑는다."
+    },
+    "effect": {
+      "draw": 2
+    }
+  },
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

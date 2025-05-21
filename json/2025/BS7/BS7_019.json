@@ -1,0 +1,45 @@
+{
+  "serial": "BS7-019",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_019.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "호밀맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": {
+        "ko": "그리고 <<red>로 사용할 수 있다> 자신의 배틀 에리어에 다른 {arena} 쿠키가 있다면 1대미지를 준다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "한번에 처리해 주지!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

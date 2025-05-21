@@ -1,0 +1,44 @@
+{
+  "serial": "BS7-020",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_020.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "스코빌리스키의 비급"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "red": 1
+      },
+      "text": {
+        "ko": "자신의 브레이크 에리어의 LV.이 상대의 브레이크 에리어의 LV.보다 2 이상 높다면 상대의 LV.1 쿠키를 1장까지 선택한다. 그 쿠키에게 3대미지를 준다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

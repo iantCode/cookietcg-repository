@@ -1,0 +1,78 @@
+{
+  "serial": "BS7-035",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_035.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "퀸아망맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "빛의 일격"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 배틀 에리어에 [캡사이신맛 쿠키] 또는 [푸룬주스맛 쿠키]가 있다면 이 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+          "heal": 1
+        }
+      },
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+          "mix": 1
+        },
+        "text": {
+          "ko": "<이 카드를 레스트한다> 자신의 배틀 에리어에 다른 {arena} 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "이게 바로 제 기사도에요!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "UR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}
