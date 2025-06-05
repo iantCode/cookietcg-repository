@@ -1,0 +1,46 @@
+{
+  "serial": "BS7-038",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_038.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "클로티드 크림 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 <자신의 패에서 쿠키를 1장 브레이크 에리어에 놓는다> 그 쿠키 이외의 자신의 브레이크 에리어에 있는 LV.1 {arena} 쿠키를 1장까지 선택한다. 그 쿠키를 패로 가져온다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "빛의 감옥"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "R",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

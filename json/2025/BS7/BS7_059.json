@@ -1,0 +1,63 @@
+{
+  "serial": "BS7-059",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_059.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "초코드리즐 쿠키"
+  },
+  "hp": 6,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "초코 그림자"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 서포트 에리어에서 등장했을 때 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+        },
+        "effect": {
+          "damage": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": "그리고 <자신의 서포트 에리어에서 카드를 1장 트래시에 놓는다> 자신의 배틀 에리어에 있는 <green> LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키를 서포트 에리어에 액티브로 놓는다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "진득한 초코 시럽"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "UR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

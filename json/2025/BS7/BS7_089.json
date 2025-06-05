@@ -1,0 +1,47 @@
+{
+  "serial": "BS7-089",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_089.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "라떼맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 상대의 패가 6장 이상이라면 상대의 패를 2장 랜덤으로 트래시에 놓는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "선생님이 하는 거 잘 봐~!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "SR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

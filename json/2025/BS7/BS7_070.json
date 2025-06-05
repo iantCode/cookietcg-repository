@@ -1,0 +1,47 @@
+{
+  "serial": "BS7-070",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_070.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "라즈베리 무스맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 <자신의 배틀 에리어에 있는 [라즈베리 무스맛 쿠키] 이외의 <blue> LV.2 이하인 {arena} 쿠키를 1장 덱의 아래에 놓는다> 덱에서 1장까지 뽑는다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "가문의 명예"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "R",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

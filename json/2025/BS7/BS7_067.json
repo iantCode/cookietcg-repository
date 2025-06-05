@@ -1,0 +1,65 @@
+{
+  "serial": "BS7-067",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_067.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "다크초코 쿠키"
+  },
+  "hp": 6,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "어둠의 검격"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+          "blue": 1
+        },
+        "text": {
+          "ko": "자신의 패가 5장 이하라면 이 쿠키를 액티브로 한다."
+        },
+        "effect": {
+          "makeActive": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": "그리고 <패에서 {arena} 카드를 1장 버린다> 상대의 LV.2 이상의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "암흑 검술"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "SR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

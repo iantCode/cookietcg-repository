@@ -1,0 +1,47 @@
+{
+  "serial": "BS7-097",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_097.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "에클레어맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 자신의 트래시에 있는 {arena} 카드가 7장 이상이라면 상대의 턴 종료 시까지 이 쿠키가 받는 공격 대미지를 -1한다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "연구자의 책"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

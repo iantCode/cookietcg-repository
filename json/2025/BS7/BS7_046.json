@@ -1,0 +1,64 @@
+{
+  "serial": "BS7-046",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_046.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "그린티무스맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "저랑 승부할래요?"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 서포트 에리어에서 등장했을 때 <패를 1장 버린다> 자신의 덱의 위에서부터 1장까지 서포트 에리어에 액티브로 놓는다."
+        },
+        "effect": {
+          "addSupport": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 자신의 서포트 에리어에 있는 {arena} 쿠키를 1장까지 등장시킨다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "적당히 손봐줄게요~"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "SR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

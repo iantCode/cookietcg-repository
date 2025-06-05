@@ -1,0 +1,77 @@
+{
+  "serial": "BS7-104",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_104.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "푸룬주스맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "특제 마법약 나갑니다!"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 브레이크 에리어가 LV.3 이상 또는 자신의 배틀 에리어에 [캡사이신맛 쿠키] 또는 [퀸아망맛 쿠키]가 있다면 이 쿠키의 공격에 필요한 코스트는 모두 <mix>가 된다."
+        },
+        "effect": {
+        }
+      },
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+          "mix": 1
+        },
+        "text": {
+          "ko": "자신의 트래시에 있는 {arena} 카드가 7장 이상이라면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+        },
+        "effect": {
+          "damage": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "최고의 마법약"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "UR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

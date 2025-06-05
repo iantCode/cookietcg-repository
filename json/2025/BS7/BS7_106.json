@@ -1,0 +1,44 @@
+{
+  "serial": "BS7-106",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_106.webp"
+  },
+  "type": "trap",
+  "level": 0,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "첫 승리의 쟁취"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -1한다. 그리고 <패를 1장 버린다> 자신의 트래시에서 {arena} 쿠키를 1장까지 패로 가져온다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}
