@@ -1,0 +1,46 @@
+{
+  "serial": "BS7-026",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_026.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "꽈배기맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "그리고 <이 쿠키를 브레이크 에리어에 놓는다> 자신의 {arena} 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "기차 수리"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

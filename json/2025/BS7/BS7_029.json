@@ -1,0 +1,66 @@
+{
+  "serial": "BS7-029",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_029.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "마들렌맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "기사단장의 후광"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {
+          "yellow": 1
+        },
+        "text": {
+          "ko": "이 턴 중 자신의 브레이크 에리어에 {arena} 쿠키가 놓였다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다."
+        },
+        "effect": {
+          "damage": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1,
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "빛이 함께한다!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "SR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

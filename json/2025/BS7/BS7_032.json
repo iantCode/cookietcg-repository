@@ -1,0 +1,65 @@
+{
+  "serial": "BS7-032",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_032.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "블랙크림맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "여긴 위험해, 날 따라와"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 턴 중 자신의 브레이크 에리어에 {arena} 쿠키가 놓였다면 이 쿠키를 액티브로 한다."
+        },
+        "effect": {
+          "makeActive": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "최후의 일격"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}
