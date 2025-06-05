@@ -1,7 +1,8 @@
 {
   "serial": "BS6-105",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_105.webp"
+    "ko": "images/ko/2025/BS6/BS6_105.webp",
+    "zh-TW": "images/zh-TW/2025/BS6/BS6_105.webp"
   },
   "type": "item",
   "level": 0,

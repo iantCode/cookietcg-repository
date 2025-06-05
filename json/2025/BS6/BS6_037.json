@@ -1,7 +1,8 @@
 {
   "serial": "BS6-037",
   "img": {
-    "ko": "images/ko/2025/BS6/BS6_037.webp"
+    "ko": "images/ko/2025/BS6/BS6_037.webp",
+    "zh-TW": "images/zh-TW/2025/BS6/BS6_037.webp"
   },
   "type": "cookie",
   "level": 2,
