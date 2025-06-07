@@ -1,0 +1,68 @@
+{
+  "serial": "BS7-049",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_049.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "딸기크레페맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "호기심 발동!"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual",
+          "onceTurn"
+        ],
+        "cost": {
+          "green": 1
+        },
+        "text": {
+          "ko": "<자신의 서포트 에리어에서 {arena} 카드를 1장 트래시에 놓는다> 자신의 패가 6장 이하라면 덱에서 1장 뽑고 덱의 위에서부터 1장 서포트 에리어에 레스트로 놓는다."
+        },
+        "effect": {
+          "draw": 1,
+          "addSupport": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "으음~ 시시해!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "U",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

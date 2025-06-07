@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "마들렌맛 쿠키",
-    "zh-TW": "瑪德蓮餅乾"
+    "zh-TW": "瑪德蓮餅乾",
+    "en": "Madeleine Cookie"
   },
   "hp": 4,
   "hasSkill": false,
@@ -25,12 +26,14 @@
       },
       "text": {
         "ko": "그리고 자신의 배틀 에리어에 다른 <red> 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-        "zh-TW": "然後,如果自己的戰鬥區有另一個<red>餅乾,則選擇最多1個對手的餅乾。對它造成1點傷害。"
+        "zh-TW": "然後,如果自己的戰鬥區有另一個<red>餅乾,則選擇最多1個對手的餅乾。對它造成1點傷害。",
+        "en": "Then, if there is another <red> Cookie in your battle area, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
       },
       "damage": 2,
       "name": {
         "ko": "붉은 빛의 가호",
-        "zh-TW": "紅光的護佑"
+        "zh-TW": "紅光的護佑",
+        "en": "Crimson Knight"
       }
     }
   ],

@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "블랙레이즌맛 쿠키",
-    "zh-TW": "黑葡萄乾餅乾"
+    "zh-TW": "黑葡萄乾餅乾",
+    "en": "Black Raisin Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "불타는 결의",
-      "zh-TW": "火熱意志"
+      "zh-TW": "火熱意志",
+      "en": "Burning Shadow"
     },
     "skillList": [
       {
@@ -32,7 +34,8 @@
         },
         "text": {
           "ko": "<이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 자신의 다른 <red> 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다.",
-          "zh-TW": "<將這個餅乾最上方的1張HP卡放置到棄牌區>選擇最多1個自己的另一個<red>餅乾。在這個回合中,它的攻擊傷害+1點。"
+          "zh-TW": "<將這個餅乾最上方的1張HP卡放置到棄牌區>選擇最多1個自己的另一個<red>餅乾。在這個回合中,它的攻擊傷害+1點。",
+          "en": "<Place 1 card from the top of this Cookie's HP into the trash.> Select up to 1 of your other <red> Cookies. During this turn, that Cookie gains +1 attack damage."
         },
         "effect": {
           "damageIncrease": 1
@@ -52,7 +55,8 @@
       "damage": 1,
       "name": {
         "ko": "붉은 파수꾼",
-        "zh-TW": "紅色守衛"
+        "zh-TW": "紅色守衛",
+        "en": "Fiery Watcher"
       }
     }
   ],

@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "화끈한 스코빌리아 학생",
-    "zh-TW": "火辣的史高維爾利亞學生"
+    "zh-TW": "火辣的史高維爾利亞學生",
+    "en": "Hot Scovillia Student"
   },
   "hp": 5,
   "hasSkill": false,
@@ -29,7 +30,8 @@
       "damage": 4,
       "name": {
         "ko": "한번 해보자구!",
-        "zh-TW": "試試看吧!"
+        "zh-TW": "試試看吧!",
+        "en": "Bring It On!"
       }
     }
   ],

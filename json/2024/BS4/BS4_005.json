@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "불꽃정령 쿠키",
-    "zh-TW": "火精靈餅乾"
+    "zh-TW": "火精靈餅乾",
+    "en": "Fire Spirit Cookie"
   },
   "hp": 5,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "살아있는 불꽃의 화신!",
-      "zh-TW": "火焰的化身!"
+      "zh-TW": "火焰的化身!",
+      "en": "Living Embodiment of Flame!"
     },
     "skillList": [
       {
@@ -30,7 +32,8 @@
         "cost": {},
         "text": {
           "ko": "<이 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 상대의 모든 쿠키에게 1대미지를 준다.",
-          "zh-TW": "<將這個餅乾最上方的1張HP卡放置到棄牌區>對對手的所有餅乾分別造成1點傷害。"
+          "zh-TW": "<將這個餅乾最上方的1張HP卡放置到棄牌區>對對手的所有餅乾分別造成1點傷害。",
+          "en": "<Place 1 card from the top of this Cookie's HP into the trash.> Deal 1 damage to all of your opponent's Cookies."
         },
         "effect": {
           "damage": 1
@@ -49,7 +52,8 @@
       "damage": 3,
       "name": {
         "ko": "불꽃질주",
-        "zh-TW": "火焰衝刺"
+        "zh-TW": "火焰衝刺",
+        "en": "Flame Dash"
       }
     }
   ],

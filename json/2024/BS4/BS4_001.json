@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "라일락맛 쿠키",
-    "zh-TW": "紫丁香餅乾"
+    "zh-TW": "紫丁香餅乾",
+    "en": "Lilac Cookie"
   },
   "hp": 1,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "사막의 밤바람...",
-      "zh-TW": "沙漠裡的夜風..."
+      "zh-TW": "沙漠裡的夜風...",
+      "en": "Crimson Sunset"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "<이 쿠키를 기절시킨다> 자신의 다른 <red> 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 +1한다.",
-          "zh-TW": "<使這個餅乾暈倒>選擇最多1個自己的另一個<red>餅乾。在這個回合中,它的攻擊傷害+1點。"
+          "zh-TW": "<使這個餅乾暈倒>選擇最多1個自己的另一個<red>餅乾。在這個回合中,它的攻擊傷害+1點。",
+          "en": "<Make this Cookie faint.> Select up to 1 of your other <red> Cookies. During this turn, that Cookie gains +1 attack damage."
         },
         "effect": {
           "damageIncrease": 1
@@ -50,7 +53,8 @@
       "damage": 1,
       "name": {
         "ko": "보랏빛 검무",
-        "zh-TW": "紫色劍舞"
+        "zh-TW": "紫色劍舞",
+        "en": "Chakram Throw"
       }
     }
   ],

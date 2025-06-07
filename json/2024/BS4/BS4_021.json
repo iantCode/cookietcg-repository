@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "낭떠러지의 결투",
-    "zh-TW": "懸崖決鬥"
+    "zh-TW": "懸崖決鬥",
+    "en": "Battle on the Edge"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "이 배틀 중 자신의 <red> LV.3 쿠키가 기절한다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 2대미지를 준다.",
-        "zh-TW": "在這次的戰鬥中,如果自己的<red>且為LV.3的餅乾曾暈倒過,則選擇最多1個對手的餅乾。對它造成2點傷害。"
+        "zh-TW": "在這次的戰鬥中,如果自己的<red>且為LV.3的餅乾曾暈倒過,則選擇最多1個對手的餅乾。對它造成2點傷害。",
+        "en": "If one of your <red> LV.3 Cookies faints during this battle, select up to 1 of your opponent's Cookies. That Cookie receives 2 damage."
       },
       "damage": 0,
       "name": {

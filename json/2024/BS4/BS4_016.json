@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "호밀맛 쿠키",
-    "zh-TW": "黑麥餅乾"
+    "zh-TW": "黑麥餅乾",
+    "en": "Rye Cookie"
   },
   "hp": 1,
   "hasSkill": false,
@@ -24,12 +25,14 @@
       },
       "text": {
         "ko": "그리고 상대의 남은 HP가 1인 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-        "zh-TW": "然後,選擇最多1個剩餘HP為1點對手的餅乾。對它造成1點傷害。"
+        "zh-TW": "然後,選擇最多1個剩餘HP為1點對手的餅乾。對它造成1點傷害。",
+        "en": "Then, select up to 1 of your opponent's Cookies whose remaining HP is 1. That Cookie receives 1 damage."
       },
       "damage": 2,
       "name": {
         "ko": "쌍권총 난사",
-        "zh-TW": "快槍掃射"
+        "zh-TW": "快槍掃射",
+        "en": "Dual Barrage"
       }
     }
   ],

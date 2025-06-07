@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "마그마 펜듈럼",
-    "zh-TW": "岩漿靈擺"
+    "zh-TW": "岩漿靈擺",
+    "en": "Magma Pendulum"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "자신의 배틀 에리어에 <red> LV.2 이상의 쿠키가 2장 있다면 자신의 쿠키를 2장까지 선택한다. 이 턴 중 그 쿠키들의 공격 대미지를 +1한다.",
-        "zh-TW": "如果自己的戰鬥區有2個<red>且為LV.2或以上的餅乾,則選擇最多2個自己的餅乾。在這個回合中,它們的攻擊傷害分別+1點。"
+        "zh-TW": "如果自己的戰鬥區有2個<red>且為LV.2或以上的餅乾,則選擇最多2個自己的餅乾。在這個回合中,它們的攻擊傷害分別+1點。",
+        "en": "If your battle area contains 2 <red> LV.2 or higher Cookies, select up to 2 of your Cookies. During this turn, those Cookies gain +1 attack damage each."
       },
       "damage": 0,
       "name": {

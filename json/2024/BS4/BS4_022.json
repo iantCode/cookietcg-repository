@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "스코빌리아 훈련소",
-    "zh-TW": "史高維爾利亞訓練所"
+    "zh-TW": "史高維爾利亞訓練所",
+    "en": "Scovillia Training Grounds"
   },
   "hp": 0,
   "hasSkill": true,
@@ -30,7 +31,8 @@
         },
         "text": {
           "ko": "<이 카드를 레스트한다> <자신의 <red> LV.2 이상의 쿠키의 HP의 위에서부터 1장 트래시에 놓는다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-          "zh-TW": "<將這張牌改為疲勞狀態><從自己的戰鬥區選擇1個<red>且為LV.2或以上的餅乾,將這個餅乾最上方的1張HP卡放置到棄牌區>選擇最多1個對手的餅乾。對它造成1點傷害。"
+          "zh-TW": "<將這張牌改為疲勞狀態><從自己的戰鬥區選擇1個<red>且為LV.2或以上的餅乾,將這個餅乾最上方的1張HP卡放置到棄牌區>選擇最多1個對手的餅乾。對它造成1點傷害。",
+          "en": "<Rest this card.> <Place 1 card from the top of your <red> LV.2 or higher Cookie's HP into the trash.> Select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
         },
         "effect": {
           "damage": 0
@@ -45,7 +47,8 @@
       },
       "text": {
         "ko": "자신의 스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到自己的場景區。"
+        "zh-TW": "將這張牌放置到自己的場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

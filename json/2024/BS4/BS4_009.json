@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "에스프레소맛 쿠키",
-    "zh-TW": "濃縮咖啡餅乾"
+    "zh-TW": "濃縮咖啡餅乾",
+    "en": "Espresso Cookie"
   },
   "hp": 4,
   "hasSkill": false,
@@ -25,12 +26,14 @@
       },
       "text": {
         "ko": "그리고 상대의 쿠키가 LV.2 이하라면 1대미지를 준다.",
-        "zh-TW": "然後,如果對手的餅乾為LV.2或以下,則再對它造成1點傷害。"
+        "zh-TW": "然後,如果對手的餅乾為LV.2或以下,則再對它造成1點傷害。",
+        "en": "Then, if the attacked Cookie is LV.2 or lower, that Cookie receives 1 damage."
       },
       "damage": 3,
       "name": {
         "ko": "200℃ 로스팅",
-        "zh-TW": "200度烘焙"
+        "zh-TW": "200度烘焙",
+        "en": "Roasted to the Char"
       }
     }
   ],

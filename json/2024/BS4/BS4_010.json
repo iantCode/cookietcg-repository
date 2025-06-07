@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "존경백배 스코빌리아 학생",
-    "zh-TW": "恭敬無比的史高維爾利亞學生"
+    "zh-TW": "恭敬無比的史高維爾利亞學生",
+    "en": "Scovillia Student Fan"
   },
   "hp": 3,
   "hasSkill": false,
@@ -28,7 +29,8 @@
       "damage": 3,
       "name": {
         "ko": "빨리빨리!",
-        "zh-TW": "快點快點!"
+        "zh-TW": "快點快點!",
+        "en": "What's Takin' So Long?"
       }
     }
   ],
@@ -39,7 +41,8 @@
     },
     "text": {
       "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
-      "zh-TW": "<棄1張手牌>以這張牌為HP卡的餅乾獲得HP+1點。"
+      "zh-TW": "<棄1張手牌>以這張牌為HP卡的餅乾獲得HP+1點。",
+      "en": "<Discard 1 card.> The Cookie with this card attached for HP gains +1 HP."
     },
     "effect": {
       "heal": 1

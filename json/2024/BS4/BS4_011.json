@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "칠리맛 쿠키",
-    "zh-TW": "甜辣醬餅乾"
+    "zh-TW": "甜辣醬餅乾",
+    "en": "Chili Pepper Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "발빠른 습격",
-      "zh-TW": "火速突擊"
+      "zh-TW": "火速突擊",
+      "en": "Cheap Shot"
     },
     "skillList": [
       {
@@ -27,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키의 공격으로 상대의 쿠키가 기절하면 자신의 덱에서 1장 뽑고 자신의 패를 1장 버린다.",
-          "zh-TW": "如果對手的餅乾被這個餅乾攻擊而暈倒,則從自己的牌庫抽1張牌,然後,棄1張牌。"
+          "zh-TW": "如果對手的餅乾被這個餅乾攻擊而暈倒,則從自己的牌庫抽1張牌,然後,棄1張牌。",
+          "en": "If your opponent's Cookie faints from this Cookie's attack, draw 1 card from your deck and discard 1 card."
         },
         "effect": {
           "draw": 1
@@ -46,7 +49,8 @@
       "damage": 2,
       "name": {
         "ko": "이번 건 좀 매울걸?!",
-        "zh-TW": "我可是小辣椒?!"
+        "zh-TW": "我可是小辣椒?!",
+        "en": "Who Ordered Spicy?!"
       }
     }
   ],

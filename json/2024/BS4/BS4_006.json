@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "불타는 마라닭",
-    "zh-TW": "燃燒的麻辣雞"
+    "zh-TW": "燃燒的麻辣雞",
+    "en": "Flaming Hot Wing"
   },
   "hp": 1,
   "hasSkill": false,
@@ -28,7 +29,8 @@
       "damage": 1,
       "name": {
         "ko": "화다닭!",
-        "zh-TW": "麻辣雞攻擊!"
+        "zh-TW": "麻辣雞攻擊!",
+        "en": "Cluck cluck BAGAAAWK!"
       }
     }
   ],
@@ -37,7 +39,8 @@
     "condition": {},
     "text": {
       "ko": "자신의 덱에서 1장까지 뽑는다.",
-      "zh-TW": "從自己的牌庫抽最多1張牌。"
+      "zh-TW": "從自己的牌庫抽最多1張牌。",
+      "en": "Draw up to 1 card from your deck."
     },
     "effect": {
       "draw": 1
