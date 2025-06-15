@@ -1,0 +1,47 @@
+{
+  "serial": "BS7-098",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_098.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "우유맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 자신의 트래시에 있는 {arena} 카드가 7장 이상이라면 이 쿠키의 HP를 +1한다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "칼슘튼튼 우유"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

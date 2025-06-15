@@ -1,0 +1,53 @@
+{
+  "serial": "BS7-096",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_096.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "에스프레소맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "라이트 로스팅"
+      }
+    }
+  ],
+  "hasFlip": true,
+  "flip": {
+    "condition": {},
+    "text": {
+      "ko": "자신의 배틀 에리어에 <purple> {arena} 쿠키가 있다면 이 카드를 HP로 사용했던 LV.2 이상의 쿠키에게 HP를 +1한다."
+    },
+    "effect": {
+      "heal": 1
+    }
+  },
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

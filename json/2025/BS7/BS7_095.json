@@ -1,0 +1,47 @@
+{
+  "serial": "BS7-095",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_095.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "아몬드맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": "그리고 자신의 트래시에 있는 {arena} 카드가 7장 이상이라면 덱에서 1장까지 뽑는다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "베테랑 형사"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "U",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

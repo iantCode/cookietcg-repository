@@ -1,0 +1,64 @@
+{
+  "serial": "BS7-090",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_090.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "블랙사파이어맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "깜짝 쇼!"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 <패를 2장 버린다> 자신의 덱의 위에서부터 5장을 보고 그중에서 {arena} 카드를 2장까지 공개하여 패로 가져온다. 그리고 남은 카드를 트래시에 놓는다."
+        },
+        "effect": {
+          "draw": 2
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "블랙 사파이어 보석"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "R",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}
