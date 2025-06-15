@@ -1,0 +1,64 @@
+{
+  "serial": "P-074",
+  "img": {
+    "ko": "images/ko/2025/Promo/P_074.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "슈가글로브맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "행복은 멀지 않은 곳에 있어"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "activate",
+          "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "<패에서 {arena} 카드를 2장 버린다> 덱에서 2장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "오로라 턴"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.7",
+  "releaseDate": "2025-06-12",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}
