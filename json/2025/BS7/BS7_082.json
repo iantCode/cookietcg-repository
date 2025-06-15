@@ -1,0 +1,46 @@
+{
+  "serial": "BS7-082",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_082.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "홍고추맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 1
+      },
+      "text": {
+        "ko": "그리고 <패를 1장 이상 버린다> 자신의 패가 1장 이하라면 상대의 모든 쿠키에게 1대미지를 준다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "불굴의 의지"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

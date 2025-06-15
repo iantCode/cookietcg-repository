@@ -1,0 +1,65 @@
+{
+  "serial": "BS7-079",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_079.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "크림소다맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "소다방울"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "상대의 쿠키가 공격했을 때 <패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -1한다."
+        },
+        "effect": {
+          "damageDecrease": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "청량한 검술"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "UR",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}
