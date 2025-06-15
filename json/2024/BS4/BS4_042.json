@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "진정한 천년옥사슴",
-    "zh-TW": "真正的翠玉千年鹿"
+    "zh-TW": "真正的翠玉千年鹿",
+    "en": "Millennial Jade Deer"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -1한다. 그리고 자신의 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다.",
-        "zh-TW": "選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-1點。然後,選擇最多1個自己的餅乾。它獲得HP+1點。"
+        "zh-TW": "選擇最多1個對手的餅乾。在這個回合中,它的攻擊傷害-1點。然後,選擇最多1個自己的餅乾。它獲得HP+1點。",
+        "en": "Select up to 1 of your opponent's Cookies. During this turn, that Cookie deals -1 attack damage. Then, select up to 1 of your Cookies. That Cookie gains +1 HP."
       },
       "damage": 0,
       "name": {

@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "구미호맛 쿠키",
-    "zh-TW": "妖狐餅亁"
+    "zh-TW": "妖狐餅亁",
+    "en": "Kumiho Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "내 매력에 빠져볼래?",
-      "zh-TW": "拜倒在我的魅力之下吧!"
+      "zh-TW": "拜倒在我的魅力之下吧!",
+      "en": "Ready to Fall for Me?"
     },
     "skillList": [
       {
@@ -27,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 배틀 에리어에 <yellow> LV.3 쿠키가 있다면 상대의 쿠키는 이 쿠키만 공격할 수 있다.",
-          "zh-TW": "如果自己的戰鬥區有<yellow>且為LV.3的餅乾,則對手的餅乾只能攻擊這個餅乾。"
+          "zh-TW": "如果自己的戰鬥區有<yellow>且為LV.3的餅乾,則對手的餅乾只能攻擊這個餅乾。",
+          "en": "If there is a <yellow> LV.3 Cookie in your battle area, your opponent's Cookies can only attack this Cookie."
         },
         "effect": {}
       }
@@ -44,7 +47,8 @@
       "damage": 2,
       "name": {
         "ko": "꼬리 흔들기",
-        "zh-TW": "搖尾巴"
+        "zh-TW": "搖尾巴",
+        "en": "Tail Whip"
       }
     }
   ],

@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "천년 묵은 나뭇가지",
-    "zh-TW": "千年樹枝"
+    "zh-TW": "千年樹枝",
+    "en": "Millennial Twig"
   },
   "hp": 0,
   "hasSkill": false,
@@ -24,7 +25,8 @@
       },
       "text": {
         "ko": "자신의 쿠키를 1장까지 선택한다. 자신의 브레이크 에리어에 있는 <yellow> LV.3 쿠키 1장당 그 쿠키의 HP를 +1한다.",
-        "zh-TW": "選擇最多1個自己的餅乾。自己的休息區每有1個<yellow>且為LV.3的餅乾,它便獲得HP+1點。"
+        "zh-TW": "選擇最多1個自己的餅乾。自己的休息區每有1個<yellow>且為LV.3的餅乾,它便獲得HP+1點。",
+        "en": "Select up to 1 of your Cookies. That Cookie gains +1 HP for each <yellow> LV.3 Cookie in your break area."
       },
       "damage": 0,
       "name": {

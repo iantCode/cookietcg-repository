@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "옥춘맛 쿠키",
-    "zh-TW": "玉春糖餅乾"
+    "zh-TW": "玉春糖餅乾",
+    "en": "Okchun Cookie"
   },
   "hp": 3,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "옥춘 사탕 파티",
-      "zh-TW": "玉春糖派對"
+      "zh-TW": "玉春糖派對",
+      "en": "Okchun Candy Party"
     },
     "skillList": [
       {
@@ -27,7 +29,8 @@
         "cost": {},
         "text": {
           "ko": "이 쿠키가 기절했을 때 <<yellow>로 사용할 수 있다> 자신의 브레이크 에리어에 있는 <yellow> LV.1 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다.",
-          "zh-TW": "當這個餅乾暈倒時,<你可以支付<yellow>>從自己的休息區 選擇最多1個<yellow>且為LV.1的餅乾。將它放置到戰鬥區。"
+          "zh-TW": "當這個餅乾暈倒時,<你可以支付<yellow>>從自己的休息區 選擇最多1個<yellow>且為LV.1的餅乾。將它放置到戰鬥區。",
+          "en": "When this Cookie faints, <can be used as <yellow>> Select up to 1 <yellow> LV.1 Cookie from your break area and play them."
         },
         "effect": {}
       }
@@ -44,7 +47,8 @@
       "damage": 1,
       "name": {
         "ko": "단단한 옥춘 사탕",
-        "zh-TW": "堅硬的玉春糖"
+        "zh-TW": "堅硬的玉春糖",
+        "en": "Resilent Okchun Candy"
       }
     }
   ],

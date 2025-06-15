@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "김맛 쿠키",
-    "zh-TW": "海苔餅乾"
+    "zh-TW": "海苔餅乾",
+    "en": "Gim Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "대왕 김 부적 소환",
-      "zh-TW": "召喚巨大海苔符"
+      "zh-TW": "召喚巨大海苔符",
+      "en": "Burning Tailsman"
     },
     "skillList": [
       {
@@ -29,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "<자신의 패에서 <yellow> LV.2 이상의 쿠키를 1장 자신의 브레이크 에리어에 놓는다> 자신의 브레이크 에리어에 있는 <yellow> LV.2 쿠키를 1장까지 선택한다. 그 쿠키를 등장시킨다.",
-          "zh-TW": "<從自己的手牌將1個<yellow>且為LV.2或以上的餅乾放置到自己的休息區>從自己的休息區選擇最多1個<yellow>且為LV.2的餅乾。將它放置到戰鬥區。"
+          "zh-TW": "<從自己的手牌將1個<yellow>且為LV.2或以上的餅乾放置到自己的休息區>從自己的休息區選擇最多1個<yellow>且為LV.2的餅乾。將它放置到戰鬥區。",
+          "en": "<Place 1 <yellow> LV.2 or higher Cookie from your hand into your break area> Select up to 1 <yellow> LV.2 Cookie from your break area and play them."
         },
         "effect": {}
       }
@@ -46,7 +49,8 @@
       "damage": 2,
       "name": {
         "ko": "도깨비 퇴치",
-        "zh-TW": "驅逐鬼怪"
+        "zh-TW": "驅逐鬼怪",
+        "en": "Goblin Exorcism"
       }
     }
   ],

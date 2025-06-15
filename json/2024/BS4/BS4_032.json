@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "생크림담비 쿠키",
-    "zh-TW": "鮮奶油貂餅乾"
+    "zh-TW": "鮮奶油貂餅乾",
+    "en": "Cream Ferret Cookie"
   },
   "hp": 2,
   "hasSkill": false,
@@ -28,7 +29,8 @@
       "damage": 2,
       "name": {
         "ko": "생크림 마법의 힘!",
-        "zh-TW": "鮮奶油魔法的力量!"
+        "zh-TW": "鮮奶油魔法的力量!",
+        "en": "Creamcraft Magic!"
       }
     }
   ],
@@ -37,7 +39,8 @@
     "condition": {},
     "text": {
       "ko": "자신의 덱에서 1장까지 뽑는다.",
-      "zh-TW": "從自己的牌庫抽最多1張牌。"
+      "zh-TW": "從自己的牌庫抽最多1張牌。",
+      "en": "Draw up to 1 card from your deck."
     },
     "effect": {
       "draw": 1

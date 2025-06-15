@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "천년나무 사원",
-    "zh-TW": "千年古樹寺院"
+    "zh-TW": "千年古樹寺院",
+    "en": "Millennial Temple"
   },
   "hp": 0,
   "hasSkill": true,
@@ -30,7 +31,8 @@
         },
         "text": {
           "ko": "<이 카드를 레스트한다> <패를 1장 버린다> 자신의 쿠키를 1장까지 선택한다. 자신의 패에서 1장까지 그 쿠키의 HP 위에 추가한다.",
-          "zh-TW": "《將這張牌改為疲勞狀態》《棄1張手牌》選擇最多1個自己的餅乾。將最多1張自己的手牌放置到它的HP卡最上方。"
+          "zh-TW": "《將這張牌改為疲勞狀態》《棄1張手牌》選擇最多1個自己的餅乾。將最多1張自己的手牌放置到它的HP卡最上方。",
+          "en": "<Rest this card.> <Discard 1 card.> Select up to 1 of your Cookies. Place up to 1 card from your hand to top of that Cookie's HP."
         },
         "effect": {
           "damage": 0
@@ -45,7 +47,8 @@
       },
       "text": {
         "ko": "자신의 스테이지 에리어에 내려놓는다.",
-        "zh-TW": "將這張牌放置到自己的場景區。"
+        "zh-TW": "將這張牌放置到自己的場景區。",
+        "en": "Place in your stage area."
       },
       "damage": 0,
       "name": {

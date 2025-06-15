@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "용감한 쿠키",
-    "zh-TW": "勇敢餅乾"
+    "zh-TW": "勇敢餅乾",
+    "en": "GingerBrave"
   },
   "hp": 3,
   "hasSkill": false,
@@ -28,7 +29,8 @@
       "damage": 3,
       "name": {
         "ko": "용감하게 가보자!",
-        "zh-TW": "勇敢前行!"
+        "zh-TW": "勇敢前行!",
+        "en": "Brave Steps Forward!"
       }
     }
   ],
@@ -39,7 +41,8 @@
     },
     "text": {
       "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다.",
-      "zh-TW": "<棄1張手牌>以這張牌為HP卡的餅乾獲得HP+1點。"
+      "zh-TW": "<棄1張手牌>以這張牌為HP卡的餅乾獲得HP+1點。",
+      "en": "<Discard 1 card.> The Cookie with this card attached for HP gains +1 HP."
     },
     "effect": {
       "heal": 1

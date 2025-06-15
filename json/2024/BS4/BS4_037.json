@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "의적맛 쿠키",
-    "zh-TW": "義賊餅乾"
+    "zh-TW": "義賊餅乾",
+    "en": "Rebel Cookie"
   },
   "hp": 4,
   "hasSkill": false,
@@ -28,7 +29,8 @@
       "damage": 3,
       "name": {
         "ko": "동에 번쩍, 서에 번쩍!",
-        "zh-TW": "東奔西走,出沒無常!"
+        "zh-TW": "東奔西走,出沒無常!",
+        "en": "Here, There, Everywhere!"
       }
     }
   ],

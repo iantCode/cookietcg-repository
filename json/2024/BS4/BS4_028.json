@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "매작과맛 쿠키",
-    "zh-TW": "梅雀果餅乾"
+    "zh-TW": "梅雀果餅乾",
+    "en": "Vagabond Cookie"
   },
   "hp": 2,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "얼씨구나~좋다!",
-      "zh-TW": "嘿,一起載歌載舞吧~!"
+      "zh-TW": "嘿,一起載歌載舞吧~!",
+      "en": "Alright, Woo-Hoo!"
     },
     "skillList": [
       {
@@ -29,7 +31,8 @@
         "cost": {},
         "text": {
           "ko": "자신의 브레이크 에리어가 LV.5 이상이라면 자신의 덱에서 1장까지 뽑는다. 그리고 자신의 패를 1장 버린다.",
-          "zh-TW": "如果自己的休息區LV總和達到5或以上,則從自己的牌庫抽最多1張牌。然後,棄1張牌。"
+          "zh-TW": "如果自己的休息區LV總和達到5或以上,則從自己的牌庫抽最多1張牌。然後,棄1張牌。",
+          "en": "If your break area is LV.5 or higher, draw up to 1 card from your deck. Then, discard 1 card."
         },
         "effect": {}
       }
@@ -46,7 +49,8 @@
       "damage": 2,
       "name": {
         "ko": "장단 맞추기",
-        "zh-TW": "合韻"
+        "zh-TW": "合韻",
+        "en": "Dance to the Beat!"
       }
     }
   ],

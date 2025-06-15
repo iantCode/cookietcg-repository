@@ -12,14 +12,16 @@
   ],
   "name": {
     "ko": "생토노레맛 쿠키",
-    "zh-TW": "聖多諾黑餅乾"
+    "zh-TW": "聖多諾黑餅乾",
+    "en": "Caramel Choux Cookie"
   },
   "hp": 4,
   "hasSkill": true,
   "skill": {
     "name": {
       "ko": "맛있는 디저트",
-      "zh-TW": "美味甜點"
+      "zh-TW": "美味甜點",
+      "en": "I've Got Choux"
     },
     "skillList": [
       {
@@ -31,7 +33,8 @@
         },
         "text": {
           "ko": "자신의 브레이크 에리어가 LV.5 이상이라면 자신의 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다.",
-          "zh-TW": "如果自己的休息區LV總和達到5或以上,則選擇最多1個自己的餅乾。它獲得HP+1點。"
+          "zh-TW": "如果自己的休息區LV總和達到5或以上,則選擇最多1個自己的餅乾。它獲得HP+1點。",
+          "en": "If your break area is LV.5 or higher, select up to 1 of your Cookies. That Cookie gains +1 HP."
         },
         "effect": {
           "heal": 1
@@ -50,7 +53,8 @@
       "damage": 2,
       "name": {
         "ko": "야무진 민원 처리",
-        "zh-TW": "熟練地處理投訴"
+        "zh-TW": "熟練地處理投訴",
+        "en": "Handling Complaints"
       }
     }
   ],

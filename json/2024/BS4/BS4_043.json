@@ -24,7 +24,8 @@
       },
       "text": {
         "ko": "<패를 1장 버린다> 상대의 쿠키를 1장까지 선택한다. 자신의 브레이크 에리어의 LV.이 상대의 브레이크 에리어의 LV.보다 높다면 LV.의 차이만큼 그 쿠키에게 대미지를 준다.",
-        "zh-TW": "《棄1張手牌》選擇最多1個對手的餅乾。如果自己的休息區LV總和高於對手的休息區LV總和,則對它造成LV差異值的傷害。"
+        "zh-TW": "《棄1張手牌》選擇最多1個對手的餅乾。如果自己的休息區LV總和高於對手的休息區LV總和,則對它造成LV差異值的傷害。",
+        "en": "<Discard 1 card.> Select up to 1 of your opponent's Cookies. If your break area's LV. is higher than your opponent's break area LV., that Cookie receives damage equal to the difference in LV."
       },
       "damage": 0,
       "name": {

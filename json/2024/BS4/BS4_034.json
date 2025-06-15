@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "성게맛 쿠키",
-    "zh-TW": "海膽餅乾"
+    "zh-TW": "海膽餅乾",
+    "en": "Street Urchin Cookie"
   },
   "hp": 5,
   "hasSkill": false,
@@ -29,7 +30,8 @@
       "damage": 4,
       "name": {
         "ko": "화려한 폭발",
-        "zh-TW": "華麗爆炸"
+        "zh-TW": "華麗爆炸",
+        "en": "Ride or Crumble"
       }
     }
   ],

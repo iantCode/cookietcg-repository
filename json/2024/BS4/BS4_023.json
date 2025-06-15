@@ -12,7 +12,8 @@
   ],
   "name": {
     "ko": "구름신령 쿠키",
-    "zh-TW": "雲神餅乾"
+    "zh-TW": "雲神餅乾",
+    "en": "Cloud Deity Cookie"
   },
   "hp": 3,
   "hasSkill": false,
@@ -24,12 +25,14 @@
       },
       "text": {
         "ko": "그리고 자신의 브레이크 에리어에 <yellow> LV.3 쿠키가 있다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다.",
-        "zh-TW": "然後,如果自己的休息區有<yellow>且為LV.3的餅乾,則選擇最多1個對手的餅乾。對它造成1點傷害。"
+        "zh-TW": "然後,如果自己的休息區有<yellow>且為LV.3的餅乾,則選擇最多1個對手的餅乾。對它造成1點傷害。",
+        "en": "Them if there is a <yellow> LV.3 Cookie in your break area, select up to 1 of your opponent's Cookies. That Cookie receives 1 damage."
       },
       "damage": 2,
       "name": {
         "ko": "구름분신!",
-        "zh-TW": "雲朵分身!"
+        "zh-TW": "雲朵分身!",
+        "en": "Cloud Cloning Technique!"
       }
     }
   ],
