@@ -1,0 +1,64 @@
+{
+  "serial": "BS7-060",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_060.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "커스터드 3세맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "왕의 축복"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 서포트 에리어에서 등장했을 때 덱에서 1장까지 뽑는다."
+        },
+        "effect": {
+          "draw": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "나 좀 위엄있지!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "U",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

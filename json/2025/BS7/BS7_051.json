@@ -1,0 +1,64 @@
+{
+  "serial": "BS7-051",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_051.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "민트초코맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "꾸준한 연습"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "<자신의 서포트 에리어에서 {arena} 카드를 1장 트래시에 놓는다> 자신의 덱의 위에서부터 3장을 보고 그중에서 1장까지 서포트 에리어에 레스트로 놓는다. 그리고 남은 카드를 트래시에 놓는다."
+        },
+        "effect": {
+          "addSupport": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "첫 곡은 가볍게"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}

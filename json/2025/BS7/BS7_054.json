@@ -1,0 +1,64 @@
+{
+  "serial": "BS7-054",
+  "img": {
+    "ko": "images/ko/2025/BS7/BS7_054.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "블랙레모네이드맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "공연 시작할게"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "<자신의 서포트 에리어에 있는 카드를 1장 패로 가져온다> 자신의 패에서 1장까지 서포트 에리어에 레스트로 놓는다."
+        },
+        "effect": {
+          "makeActive": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "강렬한 곡"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "영광의 아레나",
+  "releaseDate": "2025-06-19",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["arena"]
+}
