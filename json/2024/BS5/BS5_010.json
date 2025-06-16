@@ -2,7 +2,8 @@
   "serial": "BS5-010",
   "img": {
     "ko": "images/ko/2024/BS5/BS5_010.webp",
-    "zh-TW": "images/zh-TW/2025/BS5/BS5_010.webp"
+    "zh-TW": "images/zh-TW/2025/BS5/BS5_010.webp",
+    "en": "images/en/2025/BS5/BS5_010.webp"
   },
   "type": "cookie",
   "level": 3,
