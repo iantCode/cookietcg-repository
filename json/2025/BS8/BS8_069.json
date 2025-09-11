@@ -1,0 +1,75 @@
+{
+  "serial": "BS8-069",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_069.webp"
+  },
+  "type": "extra",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "허무에 잠식된 산"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "빨간 눈"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 서포트 에리어에 있는 카드가 상대보다 2장 이상 적다면 등장할 수 있다."
+        },
+        "effect": {
+        }
+      },
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 트래시에서 <green> 카드를 1장까지 서포트 에리어에 액티브로 놓는다."
+        },
+        "effect": {
+          "addSupport": 1
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "허무에 잠식된 바위손"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}
