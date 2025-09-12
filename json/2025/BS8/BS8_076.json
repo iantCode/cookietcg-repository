@@ -1,0 +1,46 @@
+{
+  "serial": "BS8-076",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_076.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "고드름예티 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": "그리고 <이 쿠키를 덱의 아래에 놓는다> 덱에서 1장 뽑고 상대의 쿠키를 1장까지 선택한다. 상대는 다음 액티브 페이즈에서 패를 2장 버리지 않으면 그 쿠키는 액티브가 되지 않는다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "꽁꽁 고드름"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "SR",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

@@ -1,0 +1,46 @@
+{
+  "serial": "BS8-067",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_067.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "오이스터맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "그리고 자신의 서포트 에리어에 있는 카드가 상대보다 적다면 덱의 위에서부터 1장까지 서포트 에리어에 액티브로 놓는다."
+      },
+      "damage": 2,
+      "name": {
+        "ko": "오이스터 병사 소환"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "R",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

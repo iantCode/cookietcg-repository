@@ -1,0 +1,64 @@
+{
+  "serial": "BS8-059",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_059.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "미스틱플라워 쿠키"
+  },
+  "hp": 6,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "백색역병"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+          "green": 1
+        },
+        "text": {
+          "ko": "<자신의 서포트 에리어에서 <green> 카드를 2장 패로 가져온다> 자신의 배틀 에리어의 다른 [미스틱플라워 쿠키]가 없다면 상대의 모든 쿠키의 HP의 위에서부터 각각 2장까지 트래시에 놓는다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "허무의 속삭임"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "UR",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": ["beast"]
+}

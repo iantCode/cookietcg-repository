@@ -1,0 +1,63 @@
+{
+  "serial": "BS8-083",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_083.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "서리여왕 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "혹한의 기운"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "상대의 쿠키를 1장까지 선택한다. 그 쿠키는 상대의 다음 액티브 페이즈에서 액티브가 되지 않는다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": "그리고 자신의 패가 3장이 되도록 덱에서 뽑을 수 있다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "숨결까지 얼려주마!"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "UR",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

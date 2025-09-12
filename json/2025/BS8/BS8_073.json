@@ -1,0 +1,44 @@
+{
+  "serial": "BS8-073",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_073.webp"
+  },
+  "type": "trap",
+  "level": 0,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "소면 고치"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": "상대의 쿠키를 1장까지 선택한다. 이 턴 중 그 쿠키의 공격 대미지를 -1한다. 그리고 <<green>로 사용할 수 있다> 자신의 서포트 에리어에 있는 카드가 상대보다 적다면 상대는 자신의 서포트 에리어에 있는 액티브 카드 1장을 레스트로 한다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

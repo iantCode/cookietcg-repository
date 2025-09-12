@@ -1,0 +1,74 @@
+{
+  "serial": "BS8-090",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_090.webp"
+  },
+  "type": "extra",
+  "level": 3,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "자연의 의지"
+  },
+  "hp": 5,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "생명의 고리"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 패가 2장 이하라면 등장할 수 있다."
+        },
+        "effect": {
+        }
+      },
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 배틀 에리어에서 <blue> LV.2 이하의 쿠키를 1장까지 패로 되돌린다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 3
+      },
+      "text": {
+        "ko": "그리고 덱에서 2장까지 뽑는다."
+      },
+      "damage": 3,
+      "name": {
+        "ko": "자연의 메아리"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "UR",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}
