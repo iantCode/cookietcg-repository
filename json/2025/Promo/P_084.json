@@ -1,0 +1,44 @@
+{
+  "serial": "P_084",
+  "img": {
+    "ko": "images/ko/2025/Promo/P_084.webp"
+  },
+  "type": "item",
+  "level": 0,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "알록달록 마법의 데코펜"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "green": 1
+      },
+      "text": {
+        "ko": "이 턴 중 자신의 쿠키가 기절했다면 이 카드의 발동에 필요한 코스트는 <mix>가 된다.<br /><자신의 배틀 에리어에 있는 쿠키를 1장 레스트한다> 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.8",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

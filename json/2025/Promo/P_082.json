@@ -1,0 +1,45 @@
+{
+  "serial": "P_082",
+  "img": {
+    "ko": "images/ko/2025/Promo/P_082.webp"
+  },
+  "type": "trap",
+  "level": 0,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "설탕노움의 케이크 가게"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": "또는 <트래시에서 FLIP을 가지지 않은 HP가 1인 쿠키를 1장 자신의 브레이크 에리어에 놓는다> 서로의 쿠키를 1장씩 선택한다. 그 쿠키들의 HP를 +2한다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "P",
+  "from": "프로모 카드 - 프로모션 팩 VOL.8",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

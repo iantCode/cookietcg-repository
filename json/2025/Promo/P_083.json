@@ -1,35 +1,33 @@
 {
-  "serial": "P-074",
+  "serial": "P-083",
   "img": {
-    "ko": "images/ko/2025/Promo/P_074.webp"
+    "ko": "images/ko/2025/Promo/P_083.webp"
   },
   "type": "cookie",
-  "level": 2,
+  "level": 1,
   "color": [
-    "blue"
+    "green"
   ],
   "name": {
-    "ko": "슈가글로브맛 쿠키"
+    "ko": "찐만두 들개"
   },
-  "hp": 2,
+  "hp": 1,
   "hasSkill": true,
   "skill": {
     "name": {
-      "ko": "행복은 멀지 않은 곳에 있어"
+      "ko": "알찬만두"
     },
     "skillList": [
       {
         "condition": [
-          "manual",
           "onceTurn"
         ],
         "cost": {
         },
         "text": {
-          "ko": "<패에서 {arena} 카드를 2장 버린다> 덱에서 2장까지 뽑는다."
+          "ko": "이 쿠키가 기절했을 때 <이 쿠키를 브레이크 에리어에서 트래시에 놓는다> 상대의 서포트 에리어에 있는 카드가 7장 이상이라면 상대의 서포트 에리어에 있는 카드를 1장까지 레스트한다."
         },
         "effect": {
-          "draw": 1
         }
       }
     ]
@@ -37,22 +35,23 @@
   "attack": [
     {
       "cost": {
-        "blue": 2
+        "green": 1,
+        "mix": 1
       },
       "text": {
         "ko": ""
       },
-      "damage": 2,
+      "damage": 1,
       "name": {
-        "ko": "오로라 턴"
+        "ko": "컹컹!"
       }
     }
   ],
   "hasFlip": false,
   "flip": {},
   "rarity": "P",
-  "from": "프로모 카드 - 프로모션 팩 VOL.7",
-  "releaseDate": "2025-06-12",
+  "from": "프로모 카드 - 프로모션 팩 VOL.8",
+  "releaseDate": "2025-09-24",
   "regulation": "B",
   "limit": {
     "ko": 4,
