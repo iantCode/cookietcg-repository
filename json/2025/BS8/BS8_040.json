@@ -1,0 +1,46 @@
+{
+  "serial": "BS8-040",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_040.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "치즈케이크맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "그리고 자신의 브레이크 에리어가 LV.3 이상이라면 덱에서 1장 뽑고 패를 1장 버린다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "승자를 위한 파티를 열어줄게"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "U",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

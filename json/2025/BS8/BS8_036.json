@@ -1,31 +1,31 @@
 {
-  "serial": "BS8-015",
+  "serial": "BS8-036",
   "img": {
-    "ko": "images/ko/2025/BS8/BS8_015.webp"
+    "ko": "images/ko/2025/BS8/BS8_036.webp"
   },
   "type": "cookie",
-  "level": 3,
+  "level": 1,
   "color": [
-    "red"
+    "yellow"
   ],
   "name": {
-    "ko": "찰스"
+    "ko": "어린 쿨피숭이"
   },
-  "hp": 3,
+  "hp": 1,
   "hasSkill": false,
   "skill": {
   },
   "attack": [
     {
       "cost": {
-        "red": 3
+        "yellow": 1
       },
       "text": {
         "ko": ""
       },
-      "damage": 3,
+      "damage": 1,
       "name": {
-        "ko": "당당한 한방"
+        "ko": "쿨피 점프"
       }
     }
   ],

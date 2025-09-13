@@ -1,47 +1,38 @@
 {
-  "serial": "BS8-015",
+  "serial": "BS8-026",
   "img": {
-    "ko": "images/ko/2025/BS8/BS8_015.webp"
+    "ko": "images/ko/2025/BS8/BS8_026.webp"
   },
   "type": "cookie",
   "level": 3,
   "color": [
-    "red"
+    "yellow"
   ],
   "name": {
-    "ko": "찰스"
+    "ko": "골드치즈 쿠키"
   },
-  "hp": 3,
+  "hp": 5,
   "hasSkill": false,
   "skill": {
   },
   "attack": [
     {
       "cost": {
-        "red": 3
+        "yellow": 3
       },
       "text": {
-        "ko": ""
+        "ko": "그리고 이 쿠키의 남은 HP가 4 이하라면 이 쿠키의 HP를 +1한다."
       },
       "damage": 3,
       "name": {
-        "ko": "당당한 한방"
+        "ko": "빛나는 보호막"
       }
     }
   ],
-  "hasFlip": true,
+  "hasFlip": false,
   "flip": {
-    "condition": {
-      "handTrash": 1
-    },
-    "text": {
-      "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
-    },
-    "effect": {
-      "heal": 1
-    }
   },
-  "rarity": "C",
+  "rarity": "R",
   "from": "불과 파괴의 땅 & 허무의 선계",
   "releaseDate": "2025-09-24",
   "regulation": "B",
@@ -51,5 +42,5 @@
     "zh-TW": 4
   },
   "qna": [],
-  "keyword": []
+  "keyword": ["antient"]
 }

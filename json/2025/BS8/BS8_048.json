@@ -1,0 +1,44 @@
+{
+  "serial": "BS8-048",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_048.webp"
+  },
+  "type": "trap",
+  "level": 0,
+  "color": [
+    "yellow"
+  ],
+  "name": {
+    "ko": "쿨피숭이의 전설"
+  },
+  "hp": 0,
+  "hasSkill": false,
+  "skill": {},
+  "attack": [
+    {
+      "cost": {
+        "yellow": 1
+      },
+      "text": {
+        "ko": "자신의 브레이크 에리어가 LV.3 이상이라면 자신의 트래시에서 [소울 잼: 파괴의 빛] 또는 [소울 잼: 풍요의 빛]을 1장까지 패로 가져온다."
+      },
+      "damage": 0,
+      "name": {
+        "ko": ""
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {},
+  "rarity": "U",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

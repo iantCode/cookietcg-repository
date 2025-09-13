@@ -1,45 +1,36 @@
 {
-  "serial": "BS8-015",
+  "serial": "BS8-033",
   "img": {
-    "ko": "images/ko/2025/BS8/BS8_015.webp"
+    "ko": "images/ko/2025/BS8/BS8_033.webp"
   },
   "type": "cookie",
-  "level": 3,
+  "level": 2,
   "color": [
-    "red"
+    "yellow"
   ],
   "name": {
-    "ko": "찰스"
+    "ko": "센티피드맛 쿠키"
   },
-  "hp": 3,
+  "hp": 4,
   "hasSkill": false,
   "skill": {
   },
   "attack": [
     {
       "cost": {
-        "red": 3
+        "mix": 3
       },
       "text": {
         "ko": ""
       },
       "damage": 3,
       "name": {
-        "ko": "당당한 한방"
+        "ko": "날카로운 웃음소리"
       }
     }
   ],
-  "hasFlip": true,
+  "hasFlip": false,
   "flip": {
-    "condition": {
-      "handTrash": 1
-    },
-    "text": {
-      "ko": "<패를 1장 버린다> 이 카드를 HP로 사용했던 쿠키에게 HP를 +1한다."
-    },
-    "effect": {
-      "heal": 1
-    }
   },
   "rarity": "C",
   "from": "불과 파괴의 땅 & 허무의 선계",
