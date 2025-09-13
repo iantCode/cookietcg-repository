@@ -1,0 +1,46 @@
+{
+  "serial": "BS8-108",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_108.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "블랙베리맛 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": "그리고 상대의 LV.2 이하의 쿠키를 1장까지 선택한다. 그 쿠키의 HP의 위에서부터 1장까지 트래시에 놓는다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "당신 뒤의 유령"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

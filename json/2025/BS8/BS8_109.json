@@ -1,0 +1,46 @@
+{
+  "serial": "BS8-109",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_109.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "purple"
+  ],
+  "name": {
+    "ko": "아포가토맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "purple": 2
+      },
+      "text": {
+        "ko": "그리고 상대의 LV.3 쿠키를 1장까지 선택한다. 그 쿠키의 HP의 위에서부터 1장까지 트래시에 놓는다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "은밀한 함정"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}
