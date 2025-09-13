@@ -1,0 +1,46 @@
+{
+  "serial": "BS8-054",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_054.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "대파맛 쿠키"
+  },
+  "hp": 1,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 1
+      },
+      "text": {
+        "ko": "그리고 자신의 서포트 에리어에 있는 카드가 상대보다 적다면 상대의 쿠키를 1장까지 선택한다. 그 쿠키에게 1대미지를 준다."
+      },
+      "damage": 1,
+      "name": {
+        "ko": "대 파검술"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

@@ -1,0 +1,63 @@
+{
+  "serial": "BS8-064",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_064.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "스네이크후르츠맛 쿠키"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "푸른 뱀의 현자"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 서포트 에리어에 있는 카드를 2장까지 액티브로 한다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "뱀군사 소환"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

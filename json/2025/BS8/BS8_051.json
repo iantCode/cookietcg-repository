@@ -1,0 +1,62 @@
+{
+  "serial": "BS8-051",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_051.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "고기만두 사천왕"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "만두 도사 소환"
+    },
+    "skillList": [
+      {
+        "condition": [
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 자신의 서포트 에리어에서 쿠키를 1장까지 등장시킨다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "주먹질"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

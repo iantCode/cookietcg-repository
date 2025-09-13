@@ -1,0 +1,63 @@
+{
+  "serial": "BS8-056",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_056.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "매운만두 사천왕"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "극열의 구슬"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "blocker"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "(상대의 쿠키가 공격했을 때 그 공격의 대상을 이 쿠키로 할 수 있다.)"
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "휘두르기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "U",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

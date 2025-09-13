@@ -1,0 +1,63 @@
+{
+  "serial": "BS8-057",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_057.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "매작과맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "흥겨운 춤"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 서포트 에리어에 있는 카드가 상대보다 적다면 덱에서 1장까지 뽑는다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "최고의 곡조"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

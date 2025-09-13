@@ -1,0 +1,63 @@
+{
+  "serial": "BS8-062",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_062.webp"
+  },
+  "type": "cookie",
+  "level": 2,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "새우만두 사천왕"
+  },
+  "hp": 4,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "거대한 검기"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual", "onceTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 서포트 에리어에 있는 카드가 상대보다 적다면 패에서 1장까지 서포트 에리어에 레스트로 놓는다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 3
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 3,
+      "name": {
+        "ko": "검 휘두르기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "U",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

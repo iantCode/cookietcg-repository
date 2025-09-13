@@ -1,0 +1,47 @@
+{
+  "serial": "BS8-058",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_058.webp"
+  },
+  "type": "cookie",
+  "level": 3,
+  "color": [
+    "green"
+  ],
+  "name": {
+    "ko": "무맛의 쿠키"
+  },
+  "hp": 5,
+  "hasSkill": false,
+  "skill": {
+  },
+  "attack": [
+    {
+      "cost": {
+        "green": 2,
+        "mix": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 4,
+      "name": {
+        "ko": "부서진 주먹"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}
