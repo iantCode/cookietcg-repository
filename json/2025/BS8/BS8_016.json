@@ -1,0 +1,64 @@
+{
+  "serial": "BS8-016",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_016.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "초코 케이크 들개"
+  },
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "달달한 초코 크림"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "myTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 <이 쿠키를 브레이크 에리어에서 트래시에 놓는다> 자신의 남은 HP가 5 이하인 쿠키를 1장까지 선택한다. 그 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "구르기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

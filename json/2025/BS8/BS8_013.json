@@ -1,0 +1,64 @@
+{
+  "serial": "BS8-013",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_013.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "red"
+  ],
+  "name": {
+    "ko": "석류 케이크 주술사"
+  },
+  "hp": 1,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "붉은 소환의 의식"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "myTurn"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "이 쿠키가 기절했을 때 <이 쿠키를 브레이크 에리어에서 트래시에 놓는다> 자신의 트래시에서 [석류 케이크 주술사] 이외의 <red> LV.1 쿠키를 1장까지 등장시킨다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "red": 1,
+        "mix": 1
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "도발하기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}
