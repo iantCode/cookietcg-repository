@@ -1,0 +1,63 @@
+{
+  "serial": "BS8-078",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_078.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "눈설탕맛 쿠키"
+  },
+  "hp": 2,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "스노우킹 소환!"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "manual"
+        ],
+        "cost": {
+        },
+        "text": {
+          "ko": "자신의 패가 3장 이하라면 <이 쿠키를 덱의 아래에 놓는다> 패에서 <blue> LV.2 이상의 쿠키를 1장까지 등장시킨다. 그리고 그 쿠키의 HP를 +1한다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 2,
+      "name": {
+        "ko": "눈덩이 굴리기"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "R",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}

@@ -1,38 +1,38 @@
 {
-  "serial": "BS8-026",
+  "serial": "BS8-091",
   "img": {
-    "ko": "images/ko/2025/BS8/BS8_026.webp"
+    "ko": "images/ko/2025/BS8/BS8_091.webp"
   },
   "type": "cookie",
-  "level": 3,
+  "level": 1,
   "color": [
-    "yellow"
+    "blue"
   ],
   "name": {
-    "ko": "골드치즈 쿠키"
+    "ko": "정글전사 쿠키"
   },
-  "hp": 5,
+  "hp": 2,
   "hasSkill": false,
   "skill": {
   },
   "attack": [
     {
       "cost": {
-        "yellow": 3
+        "mix": 2
       },
       "text": {
-        "ko": "그리고 이 쿠키의 남은 HP가 4 이하라면 이 쿠키의 HP를 +1한다."
+        "ko": ""
       },
-      "damage": 3,
+      "damage": 2,
       "name": {
-        "ko": "빛나는 보호막"
+        "ko": "얼음창"
       }
     }
   ],
   "hasFlip": false,
   "flip": {
   },
-  "rarity": "R",
+  "rarity": "C",
   "from": "불과 파괴의 땅 & 허무의 선계",
   "releaseDate": "2025-09-24",
   "regulation": "B",
@@ -42,5 +42,5 @@
     "zh-TW": 4
   },
   "qna": [],
-  "keyword": ["ancient"]
+  "keyword": []
 }

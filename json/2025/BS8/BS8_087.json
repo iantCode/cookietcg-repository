@@ -1,0 +1,64 @@
+{
+  "serial": "BS8-087",
+  "img": {
+    "ko": "images/ko/2025/BS8/BS8_087.webp"
+  },
+  "type": "cookie",
+  "level": 1,
+  "color": [
+    "blue"
+  ],
+  "name": {
+    "ko": "스타후르츠맛 쿠키"
+  },
+  "hp": 3,
+  "hasSkill": true,
+  "skill": {
+    "name": {
+      "ko": "설산 위의 얼음별"
+    },
+    "skillList": [
+      {
+        "condition": [
+          "appear"
+        ],
+        "cost": {
+          "blue": 1
+        },
+        "text": {
+          "ko": "<자신의 배틀 에리어에서 다른 <blue> LV.1 쿠키를 1장 패로 되돌린다> 상대의 배틀 에리어에서 LV.1 쿠키를 1장까지 덱의 아래에 놓는다."
+        },
+        "effect": {
+        }
+      }
+    ]
+  },
+  "attack": [
+    {
+      "cost": {
+        "blue": 2
+      },
+      "text": {
+        "ko": ""
+      },
+      "damage": 1,
+      "name": {
+        "ko": "얼음 별똥별"
+      }
+    }
+  ],
+  "hasFlip": false,
+  "flip": {
+  },
+  "rarity": "C",
+  "from": "불과 파괴의 땅 & 허무의 선계",
+  "releaseDate": "2025-09-24",
+  "regulation": "B",
+  "limit": {
+    "ko": 4,
+    "en": 4,
+    "zh-TW": 4
+  },
+  "qna": [],
+  "keyword": []
+}
